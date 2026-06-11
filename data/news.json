@@ -1,58 +1,53 @@
 {
-  "generated_at": "2026-06-11T14:29:29+00:00",
+  "generated_at": "2026-06-11T14:35:02+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Hotter than expected CPI data and ongoing Bitcoin ETF outflows are weighing on risk assets including crypto. Traders should watch for more volatility around today's PPI release and any follow through selling.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin showed some recovery today, pushing back above 63,000 dollars amid ongoing market stabilization after recent corrections. Broader crypto sentiment remains cautious with institutional flows mixed and no major new macro or geopolitical catalysts in the last day. Traders are watching for sustained momentum or further ETF activity.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "House Democrats Push Back on GOP Crypto Tax Bill",
-          "summary": "During a House Ways and Means Committee hearing, Democrats raised concerns over proposed tax treatments for staking and mining rewards, signaling delays in bipartisan progress on crypto tax clarity. This keeps regulatory uncertainty high for the sector. Traders should note that slower legislative progress removes a potential near term catalyst for institutional adoption.",
-          "sentiment": "Neutral",
-          "impact": "Delays potential positive regulatory catalyst",
+          "title": "Bitcoin Climbs Back Above $63,000",
+          "summary": "Bitcoin moved higher and reclaimed the 63,000 dollar level in recent trading. The move comes after a period of consolidation and pullbacks tied to ETF flows and broader risk sentiment. Traders will want to see if this holds as a sign of stabilizing demand.",
+          "sentiment": "Bullish",
+          "impact": "Supports short-term risk-on sentiment in crypto",
           "sources": [
-            "https://investingnews.com/cryptocurrency-market-recap/",
-            "https://finance.yahoo.com/markets/crypto/articles/crypto-tax-bills-face-pushback-214438698.html"
+            "https://x.com/BitcoinNews/status/2065035649539862823"
           ]
         },
         {
-          "title": "Bitcoin ETFs See Continued Heavy Outflows in June",
-          "summary": "Spot Bitcoin ETFs have shed over $2.1 billion so far in June amid the broader market selloff, following a record multi billion dollar outflow streak that only briefly paused. BlackRock's IBIT has been among the hardest hit. Persistent selling pressure from these products signals weakening institutional demand and adds downside risk for Bitcoin prices.",
-          "sentiment": "Bearish",
-          "impact": "Sustained selling pressure on Bitcoin",
+          "title": "Kraken Named Official Crypto Exchange for FIFA World Cup 2026",
+          "summary": "Kraken was selected as the official crypto exchange supporter for the 2026 FIFA World Cup. This partnership aims to bring crypto experiences to a massive global audience. Adoption stories like this can help drive long-term institutional and retail interest in the space.",
+          "sentiment": "Bullish",
+          "impact": "Positive for crypto adoption narrative",
           "sources": [
-            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-shed-2-1b-123617417.html",
-            "https://bitcoinfoundation.org/news/crypto-etfs-news/etf-outflows-june-2/"
+            "https://x.com/Cryptic_Web3/status/2065037177906458937"
+          ]
+        },
+        {
+          "title": "Ethereum Treasury Accumulation Continues with Large Buys",
+          "summary": "BitMine reportedly added another 25,000 ETH recently, bringing its recent total to 125,000 ETH worth over 200 million dollars. Corporate treasury demand for Ethereum appears steady despite price weakness. This could provide a floor for ETH amid broader market pressure.",
+          "sentiment": "Bullish",
+          "impact": "Supports ETH price and institutional narrative",
+          "sources": [
+            "https://x.com/CryptosR_Us/status/2065044884776484943"
+          ]
+        },
+        {
+          "title": "Senator Tim Scott Highlights Stablecoin and Digital Asset Future",
+          "summary": "Senator Tim Scott noted that even JP Morgan is engaging with stablecoins, calling digital assets part of the future of finance. He emphasized consumer protection and making business easier around the clock. Regulatory-friendly comments from lawmakers can reduce uncertainty for crypto markets.",
+          "sentiment": "Bullish",
+          "impact": "Reduces regulatory overhang risk",
+          "sources": [
+            "https://x.com/BitcoinNews/status/2065063915290009652"
           ]
         }
       ]
     },
     {
       "name": "Macro / Economic",
-      "items": [
-        {
-          "title": "May CPI Comes in Hotter, Boosts Rate Hike Odds",
-          "summary": "The May CPI print showed inflation at a three year high with headline figures above expectations, increasing the odds of Federal Reserve rate hikes. This pressures risk assets broadly including Bitcoin and equities. Crypto traders should expect tighter liquidity conditions to weigh on prices in the near term.",
-          "sentiment": "Bearish",
-          "impact": "Reduces odds of near term monetary easing",
-          "sources": [
-            "https://finance.yahoo.com/markets/crypto/",
-            "https://blog.kraken.com/economic-brief/june-10-2026"
-          ]
-        },
-        {
-          "title": "PPI Data Release Today Adds to Inflation Focus",
-          "summary": "Markets are watching the May PPI print due out this morning for further clues on producer level price pressures ahead of next week's FOMC meeting. Hotter readings would reinforce the hawkish tilt from yesterday's CPI. This keeps macro uncertainty elevated for crypto positioning.",
-          "sentiment": "Neutral",
-          "impact": "Heightens volatility around inflation data",
-          "sources": [
-            "https://blog.kraken.com/economic-brief/june-10-2026",
-            "https://www.marketwatch.com/economy-politics/calendar"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "name": "Geopolitics / Major News",
