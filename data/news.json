@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-11T14:00:00+00:00",
+  "model": "grok-4.3",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "This is sample placeholder data so the page renders before your first real scan. Once GitHub Actions runs fetch_news.py, this file is overwritten with live news.",
+  "categories": [
+    {
+      "name": "Crypto / Bitcoin",
+      "items": [
+        {
+          "title": "Sample: Bitcoin holds key support as ETF inflows continue",
+          "summary": "This is example content. After your first scan, real stories from X and the web will appear here, each written to be read aloud on your show.",
+          "sentiment": "Bullish",
+          "impact": "Supports risk-on flows",
+          "sources": ["https://x.ai"]
+        }
+      ]
+    },
+    {
+      "name": "Macro / Economic",
+      "items": [
+        {
+          "title": "Sample: Markets await upcoming inflation print",
+          "summary": "Placeholder macro story. Real Fed, rates, CPI and jobs headlines will populate this section after the daily scan runs.",
+          "sentiment": "Neutral",
+          "impact": "Cautious positioning into data",
+          "sources": ["https://x.ai"]
+        }
+      ]
+    },
+    {
+      "name": "Geopolitics / Major News",
+      "items": []
+    }
+  ]
+}
