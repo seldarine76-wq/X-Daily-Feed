@@ -1,57 +1,73 @@
 {
-  "generated_at": "2026-06-11T14:35:02+00:00",
+  "generated_at": "2026-06-11T21:37:31+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin showed some recovery today, pushing back above 63,000 dollars amid ongoing market stabilization after recent corrections. Broader crypto sentiment remains cautious with institutional flows mixed and no major new macro or geopolitical catalysts in the last day. Traders are watching for sustained momentum or further ETF activity.",
+  "overall_summary": "Bitcoin is holding above 63 thousand after some recovery, with corporate treasury activity and BlackRock's new income ETF filing providing support. Geopolitical headlines around Iran are adding volatility but risk-on flows seem to be returning. Overall tone is cautious optimism for traders watching macro data and ETF developments.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Climbs Back Above $63,000",
-          "summary": "Bitcoin moved higher and reclaimed the 63,000 dollar level in recent trading. The move comes after a period of consolidation and pullbacks tied to ETF flows and broader risk sentiment. Traders will want to see if this holds as a sign of stabilizing demand.",
+          "title": "BlackRock Bitcoin Income ETF Nears Launch with Low Fee",
+          "summary": "BlackRock filed another amendment for its iShares Bitcoin Premium Income ETF, setting a 0.65 percent sponsor fee and using covered calls on IBIT to generate yield. The product aims to offer income on top of Bitcoin exposure and is racing competitors to market. Traders should watch this as it could attract more institutional capital seeking yield in crypto.",
           "sentiment": "Bullish",
-          "impact": "Supports short-term risk-on sentiment in crypto",
+          "impact": "Supports institutional inflows and Bitcoin demand",
           "sources": [
-            "https://x.com/BitcoinNews/status/2065035649539862823"
+            "https://news.bitcoin.com/blackrock-targets-bitcoin-yield-with-0-65-fee-covered-call-etf/",
+            "https://www.coindesk.com/"
           ]
         },
         {
-          "title": "Kraken Named Official Crypto Exchange for FIFA World Cup 2026",
-          "summary": "Kraken was selected as the official crypto exchange supporter for the 2026 FIFA World Cup. This partnership aims to bring crypto experiences to a massive global audience. Adoption stories like this can help drive long-term institutional and retail interest in the space.",
-          "sentiment": "Bullish",
-          "impact": "Positive for crypto adoption narrative",
+          "title": "Nakamoto and Fold Sell Bitcoin to Cut Debt",
+          "summary": "Nasdaq-listed firms Nakamoto and Fold sold around 45 million dollars in Bitcoin to clear debt and free up capital for other uses. This deleveraging comes as some treasuries continue accumulating while others rebalance. Traders should note it shows maturing corporate strategies but can create short-term selling pressure.",
+          "sentiment": "Neutral",
+          "impact": "Mixed signals from corporate Bitcoin holders",
           "sources": [
-            "https://x.com/Cryptic_Web3/status/2065037177906458937"
+            "https://finance.yahoo.com/markets/crypto/",
+            "https://news.bitcoin.com/"
           ]
         },
         {
-          "title": "Ethereum Treasury Accumulation Continues with Large Buys",
-          "summary": "BitMine reportedly added another 25,000 ETH recently, bringing its recent total to 125,000 ETH worth over 200 million dollars. Corporate treasury demand for Ethereum appears steady despite price weakness. This could provide a floor for ETH amid broader market pressure.",
+          "title": "Bitcoin Reclaims 63 Thousand Amid ETF and Macro News",
+          "summary": "Bitcoin climbed back above 63 thousand dollars as traders digest ETF developments and recent data releases. It is holding key technical levels better than some altcoins like Ethereum and Solana. This price action suggests resilience that could encourage dip buyers if momentum holds.",
           "sentiment": "Bullish",
-          "impact": "Supports ETH price and institutional narrative",
+          "impact": "Supports risk-on flows into Bitcoin",
           "sources": [
-            "https://x.com/CryptosR_Us/status/2065044884776484943"
-          ]
-        },
-        {
-          "title": "Senator Tim Scott Highlights Stablecoin and Digital Asset Future",
-          "summary": "Senator Tim Scott noted that even JP Morgan is engaging with stablecoins, calling digital assets part of the future of finance. He emphasized consumer protection and making business easier around the clock. Regulatory-friendly comments from lawmakers can reduce uncertainty for crypto markets.",
-          "sentiment": "Bullish",
-          "impact": "Reduces regulatory overhang risk",
-          "sources": [
-            "https://x.com/BitcoinNews/status/2065063915290009652"
+            "https://www.coindesk.com/",
+            "https://crypto.news/"
           ]
         }
       ]
     },
     {
       "name": "Macro / Economic",
-      "items": []
+      "items": [
+        {
+          "title": "May Jobs Report and CPI Data Weigh on Rate Cut Hopes",
+          "summary": "Recent jobs and inflation figures are reducing expectations for near-term Fed rate cuts, with CPI hitting multi-year highs in some reports. Bitcoin and gold saw correlated selling pressure on the data. Traders should monitor this for impacts on risk asset appetite and dollar strength.",
+          "sentiment": "Bearish",
+          "impact": "Pressures risk assets including Bitcoin",
+          "sources": [
+            "https://cryptonews.com/",
+            "https://www.coindesk.com/"
+          ]
+        }
+      ]
     },
     {
       "name": "Geopolitics / Major News",
-      "items": []
+      "items": [
+        {
+          "title": "Trump Comments on Iran Deal Ease Some Tensions",
+          "summary": "President Trump teased progress on a peace deal with Iran, which helped push oil prices lower and supported a Bitcoin rebound toward 63 thousand. Markets are reacting to the geopolitical headlines with volatility in risk assets. Traders should stay alert as developments here can quickly shift sentiment and flows.",
+          "sentiment": "Bullish",
+          "impact": "Supports risk-on flows and Bitcoin recovery",
+          "sources": [
+            "https://www.coindesk.com/",
+            "https://crypto.news/"
+          ]
+        }
+      ]
     }
   ]
 }
