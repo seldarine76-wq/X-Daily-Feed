@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-06-11T21:37:31+00:00",
+  "generated_at": "2026-06-12T10:24:31+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is holding above 63 thousand after some recovery, with corporate treasury activity and BlackRock's new income ETF filing providing support. Geopolitical headlines around Iran are adding volatility but risk-on flows seem to be returning. Overall tone is cautious optimism for traders watching macro data and ETF developments.",
+  "overall_sentiment": "Bullish",
+  "overall_summary": "Crypto markets are leaning bullish today as BlackRock filed its final amendment for a yield Bitcoin ETF and Hungary moved to decriminalize crypto trading. Bitcoin bounced back above 63,000 dollars, outweighing a small net outflow from spot ETFs. Easing geopolitical tensions are adding to the positive tone.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "BlackRock Bitcoin Income ETF Nears Launch with Low Fee",
-          "summary": "BlackRock filed another amendment for its iShares Bitcoin Premium Income ETF, setting a 0.65 percent sponsor fee and using covered calls on IBIT to generate yield. The product aims to offer income on top of Bitcoin exposure and is racing competitors to market. Traders should watch this as it could attract more institutional capital seeking yield in crypto.",
+          "title": "BlackRock Files Final Amendment for Yield Bitcoin ETF",
+          "summary": "BlackRock submitted what analysts call a likely final S-1 amendment for its iShares Bitcoin Premium Income ETF, or BITA. The covered-call product tied to IBIT carries a 0.65 percent fee and aims to generate yield by selling options on Bitcoin exposure. Traders should watch because this marks a major step toward income-focused Bitcoin products from the largest asset manager, which could draw new institutional capital and support prices.",
           "sentiment": "Bullish",
-          "impact": "Supports institutional inflows and Bitcoin demand",
+          "impact": "Potential for increased demand and positive sentiment around Bitcoin ETFs.",
           "sources": [
-            "https://news.bitcoin.com/blackrock-targets-bitcoin-yield-with-0-65-fee-covered-call-etf/",
-            "https://www.coindesk.com/"
+            "https://unchainedcrypto.com/blackrock-files-likely-final-amendment-for-yield-generating-bitcoin-etf-with-65bps-fee-launch-expected-soon/",
+            "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week"
           ]
         },
         {
-          "title": "Nakamoto and Fold Sell Bitcoin to Cut Debt",
-          "summary": "Nasdaq-listed firms Nakamoto and Fold sold around 45 million dollars in Bitcoin to clear debt and free up capital for other uses. This deleveraging comes as some treasuries continue accumulating while others rebalance. Traders should note it shows maturing corporate strategies but can create short-term selling pressure.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signals from corporate Bitcoin holders",
+          "title": "Hungary to Decriminalize Crypto Trading",
+          "summary": "Hungary announced plans to reverse last year's restrictions and decriminalize crypto trading, removing potential jail terms for unlicensed conversions. The move follows EU pushback and comes after platforms had suspended services due to the prior rules. Traders should care as this easing in a European market signals improving regulatory sentiment that could encourage broader adoption and reduce overhang on sentiment.",
+          "sentiment": "Bullish",
+          "impact": "Positive regulatory signal that may support European crypto activity and overall market confidence.",
           "sources": [
-            "https://finance.yahoo.com/markets/crypto/",
-            "https://news.bitcoin.com/"
+            "https://www.bloomberg.com/news/articles/2026-06-11/hungary-to-decriminalize-crypto-trading-in-reversal-from-orban",
+            "https://bitcoinmagazine.com/news/hungary-backs-away-from-bitcoin-laws"
           ]
         },
         {
-          "title": "Bitcoin Reclaims 63 Thousand Amid ETF and Macro News",
-          "summary": "Bitcoin climbed back above 63 thousand dollars as traders digest ETF developments and recent data releases. It is holding key technical levels better than some altcoins like Ethereum and Solana. This price action suggests resilience that could encourage dip buyers if momentum holds.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk-on flows into Bitcoin",
+          "title": "Bitcoin Spot ETFs See Small Net Outflow on June 11",
+          "summary": "U.S. spot Bitcoin ETFs recorded a net outflow of about $22.5 million on June 11 according to CoinGlass data, with mixed flows across funds including gains for IBIT offset by losses elsewhere. This follows earlier heavy outflow streaks that ended in early June. Traders should note it because continued outflows can pressure Bitcoin prices even as the market stabilizes above $63,000.",
+          "sentiment": "Bearish",
+          "impact": "Modest selling pressure that could limit upside if the trend persists.",
           "sources": [
-            "https://www.coindesk.com/",
-            "https://crypto.news/"
+            "https://www.coinglass.com/etf/bitcoin",
+            "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak"
+          ]
+        },
+        {
+          "title": "Bitcoin Bounces Above $63,000 Amid Market Moves",
+          "summary": "Bitcoin traded back above $63,000 on June 11 after opening lower, with prices lifting from recent lows near $61,000 amid broader equity gains and geopolitical headlines. The move came ahead of the anticipated SpaceX IPO. Traders should pay attention because a sustained hold above this level could signal building momentum and attract short-covering or new buying.",
+          "sentiment": "Bullish",
+          "impact": "Technical recovery that may encourage follow-through buying if volume supports it.",
+          "sources": [
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-11-2026-prices-lifting-off-low-opening-figures-114705725.html",
+            "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week"
           ]
         }
       ]
@@ -43,13 +53,24 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "May Jobs Report and CPI Data Weigh on Rate Cut Hopes",
-          "summary": "Recent jobs and inflation figures are reducing expectations for near-term Fed rate cuts, with CPI hitting multi-year highs in some reports. Bitcoin and gold saw correlated selling pressure on the data. Traders should monitor this for impacts on risk asset appetite and dollar strength.",
+          "title": "Michigan Consumer Sentiment Prelim Hits Low Levels in June",
+          "summary": "The University of Michigan released its preliminary June consumer sentiment reading today, coming in soft around the 45-46 area after May's record low final print of 44.8. Consumers continue to cite high costs of living and inflation concerns as major drags. Traders should care because weak sentiment signals potential slowdown in consumer spending, which drives much of the US economy and can pressure risk assets like Bitcoin if it hints at broader weakness ahead of next week's FOMC meeting.",
           "sentiment": "Bearish",
-          "impact": "Pressures risk assets including Bitcoin",
+          "impact": "Could weigh on equities and crypto by highlighting economic fragility",
           "sources": [
-            "https://cryptonews.com/",
-            "https://www.coindesk.com/"
+            "https://www.sca.isr.umich.edu/",
+            "https://tradingeconomics.com/united-states/consumer-confidence",
+            "https://www.marketwatch.com/economy-politics/calendar"
+          ]
+        },
+        {
+          "title": "US Releases Employer Costs for Employee Compensation Data",
+          "summary": "The Bureau of Labor Statistics published the Employer Costs for Employee Compensation report for March 2026 at 10am ET today. This quarterly gauge tracks wage and benefit pressures that feed into inflation and labor market dynamics. Traders watch it for clues on whether wage growth remains sticky, which could influence Fed rate path expectations and overall market risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Provides incremental labor cost insight with limited immediate market reaction expected",
+          "sources": [
+            "https://www.bls.gov/schedule/2026/06_sched_list.htm",
+            "https://tradingeconomics.com/united-states/calendar"
           ]
         }
       ]
@@ -58,13 +79,34 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump Comments on Iran Deal Ease Some Tensions",
-          "summary": "President Trump teased progress on a peace deal with Iran, which helped push oil prices lower and supported a Bitcoin rebound toward 63 thousand. Markets are reacting to the geopolitical headlines with volatility in risk assets. Traders should stay alert as developments here can quickly shift sentiment and flows.",
+          "title": "Trump Claims Breakthrough Iran Deal, Cancels Strikes",
+          "summary": "President Trump said he called off planned US strikes on Iran after significant progress in talks, claiming a strong memorandum of understanding has been approved at the highest levels in Tehran. He expects a signing soon, possibly this weekend in Europe, which would reopen the Strait of Hormuz to shipping. Traders should watch because any real de-escalation removes a major oil supply risk that has been pressuring energy prices and global markets.",
           "sentiment": "Bullish",
-          "impact": "Supports risk-on flows and Bitcoin recovery",
+          "impact": "Reduces geopolitical oil premium and supports risk assets like equities and crypto.",
           "sources": [
-            "https://www.coindesk.com/",
-            "https://crypto.news/"
+            "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
+            "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+            "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/"
+          ]
+        },
+        {
+          "title": "Iran Disputes Full Deal as Talks Continue",
+          "summary": "Iranian officials said no final decision has been reached on any agreement and called some reports mere speculation, noting the US side was still pushing additional demands. Lines of communication remain open but progress is described as limited so far. Traders care because mixed signals keep uncertainty alive around the Hormuz blockade and potential further strikes.",
+          "sentiment": "Neutral",
+          "impact": "Maintains volatility in oil and risk assets until clearer confirmation emerges.",
+          "sources": [
+            "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+            "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel"
+          ]
+        },
+        {
+          "title": "Hormuz Tensions Ease on Deal Hopes, Oil Prices Drop",
+          "summary": "News of possible US-Iran settlement and Hormuz reopening triggered immediate selling in oil markets after days of tanker strikes and blockade threats. Global energy supplies and shipping costs are the direct focus. Crypto traders should note that lower oil reduces inflation fears and supports broader risk appetite.",
+          "sentiment": "Bullish",
+          "impact": "Eases energy-driven inflation pressure and lifts sentiment for equities and digital assets.",
+          "sources": [
+            "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
+            "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes"
           ]
         }
       ]
