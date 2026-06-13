@@ -1,38 +1,40 @@
 {
-  "generated_at": "2026-06-12T20:58:07+00:00",
+  "generated_at": "2026-06-13T17:55:43+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Bitcoin bounced back above 63,000 dollars after ETFs posted their first inflows in five days, lifting market mood. Hotter inflation data added some caution, yet improving consumer sentiment and signs of de-escalation in the Middle East helped support risk appetite. Overall, crypto traders saw a constructive tone despite the mixed headlines.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin holds near 64,000 with modest ETF inflows as volatility persists. Rising Treasury yields and the upcoming FOMC meeting are tempering risk appetite, while mixed signals from US-Iran developments add to the cautious tone for crypto traders today.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Post First Inflow in Five Days on June 11",
-          "summary": "U.S. spot Bitcoin ETFs recorded a net inflow of about 30 million dollars on June 11, the first positive day after four straight sessions of outflows totaling over 400 million. All of the inflow went to BlackRock's IBIT fund. Traders should watch whether this signals returning institutional demand after recent selling pressure.",
-          "sentiment": "Bullish",
-          "impact": "Modest positive signal for near-term price stability and sentiment.",
-          "sources": [
-            "https://cryptorank.io/news/feed/cb199-bitcoin-etf-inflows-june-11"
-          ]
-        },
-        {
-          "title": "Bitcoin Spot ETFs Near 2 Trillion Dollars in Cumulative Volume",
-          "summary": "As of June 11, U.S. spot Bitcoin ETFs have seen nearly 2 trillion dollars in total trading volume since launch, according to The Block data. Net inflows stand at about 54 billion dollars cumulatively despite recent outflows. This highlights sustained trading interest even amid price volatility.",
+          "title": "Bitcoin ETFs Post Modest Inflows on June 12",
+          "summary": "US spot Bitcoin ETFs recorded a net inflow of about 86 million dollars and 1,350 BTC on June 12 according to CoinGlass data. This follows several days and weeks of heavier outflows that pressured prices lower earlier in the month. Traders should watch these flows closely as they signal institutional demand or lack thereof and often move the spot price directly.",
           "sentiment": "Neutral",
-          "impact": "Reinforces long-term institutional engagement without immediate price catalyst.",
+          "impact": "Small positive flow may provide minor support but unlikely to reverse recent pressure alone.",
           "sources": [
-            "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume"
+            "https://www.coinglass.com/etf/bitcoin",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Bitcoin Price Rebounds Above 63,000 Dollars on June 12",
-          "summary": "Bitcoin climbed back above 63,000 dollars early on June 12, up roughly 2.5 to 3.4 percent over the prior 24 hours to around 63,500-63,700. The move came alongside broader market gains and comments from President Trump on geopolitical developments. Traders should note the recovery from recent lows near 60,000.",
-          "sentiment": "Bullish",
-          "impact": "Short-term relief rally that could attract momentum buyers if sustained.",
+          "title": "SpaceX IPO Debut Draws Market Focus with BTC Holdings",
+          "summary": "SpaceX began trading on Nasdaq after raising 75 billion dollars in what is billed as one of the largest IPOs ever. The company disclosed holdings of roughly 18,700 Bitcoin worth over a billion dollars at current prices. Crypto traders are monitoring whether IPO-related liquidity shifts or profit rotation could influence Bitcoin and broader risk assets in coming sessions.",
+          "sentiment": "Neutral",
+          "impact": "IPO debut and associated liquidity moves could add short-term volatility to Bitcoin.",
           "sources": [
-            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html",
-            "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week"
+            "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
+            "https://finance.yahoo.com/markets/crypto/articles/elon-musks-spacex-ipo-bull-122500462.html"
+          ]
+        },
+        {
+          "title": "Bitcoin Trades Near 64,000 Amid Market Volatility",
+          "summary": "Bitcoin hovered around 63,500 to 64,100 dollars on June 12 showing modest gains in some sessions after earlier weakness. Broader equities and the SpaceX listing appeared to influence sentiment. Traders care because sustained moves above or below key levels like 60,000 or 65,000 often trigger further positioning and liquidations.",
+          "sentiment": "Neutral",
+          "impact": "Range-bound action keeps near-term direction uncertain pending clearer catalysts.",
+          "sources": [
+            "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html"
           ]
         }
       ]
@@ -41,24 +43,44 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Michigan Consumer Sentiment Surges to 48.9 in June Prelim",
-          "summary": "The University of Michigan's preliminary consumer sentiment index for June jumped to 48.9, well above the expected 46 and last month's record low of 44.8. The improvement was broad-based and tied to early relief from lower gasoline prices, with gains in both current conditions and expectations. Traders should care because stronger consumer confidence can signal better spending and reduced recession risks, supporting risk assets like stocks and Bitcoin.",
-          "sentiment": "Bullish",
-          "impact": "Positive for equities, risk appetite, and crypto as it eases growth concerns.",
+          "title": "US Jobless Claims Rise to 229K, Labor Market Resilient",
+          "summary": "Initial unemployment claims increased by 4,000 to 229,000 for the week ending June 6, slightly above some forecasts but pointing to a still solid labor market. The four-week average held near recent lows. Traders watch this as an early signal on employment strength ahead of next week's Fed meeting, which could influence rate path expectations and risk assets like Bitcoin.",
+          "sentiment": "Neutral",
+          "impact": "Mild support for USD and yields, limited direct crypto impact.",
           "sources": [
-            "https://tradingeconomics.com/united-states/consumer-confidence",
-            "https://www.sca.isr.umich.edu/",
-            "https://www.marketwatch.com/economy-politics/calendar"
+            "https://www.reuters.com/business/us-weekly-jobless-claims-increase-marginally-amid-labor-market-resilience-2026-06-11/",
+            "https://tradingeconomics.com/united-states/jobless-claims",
+            "https://www.dol.gov/newsroom/releases/eta"
           ]
         },
         {
-          "title": "PPI Data from Yesterday Shows Hotter Inflation",
-          "summary": "May producer price index came in hotter than expected yesterday, with year-over-year readings beating forecasts and signaling persistent wholesale inflation pressures. This follows similar sticky CPI prints and keeps the focus on inflation not cooling fast enough. Traders watch this closely as it reinforces expectations for the Fed to stay patient on rate cuts, influencing bond yields and the dollar.",
+          "title": "US 10-Year Treasury Yield Climbs to 4.49 Percent",
+          "summary": "The benchmark 10-year yield rose 2 basis points to 4.49 percent on June 12 amid ongoing inflation concerns and steady growth data. Higher yields typically pressure risk assets and support the dollar. Crypto traders monitor this as a gauge of tighter financial conditions that can weigh on speculative flows.",
           "sentiment": "Bearish",
-          "impact": "Supports higher yields and a stronger dollar, pressuring risk assets including Bitcoin.",
+          "impact": "Pressure on Bitcoin and equities from higher borrowing costs.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://www.bls.gov/schedule/2026/06_sched_list.htm"
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://www.advisorperspectives.com/dshort/updates/2026/06/12/treasury-yields-snapshot-june-12-2026"
+          ]
+        },
+        {
+          "title": "DXY Holds Near 99.75 as Markets Await FOMC",
+          "summary": "The US dollar index traded around 99.75-99.78 with minor moves on June 12-13. Focus shifts to the June 16-17 FOMC meeting, the first under new Chair Kevin Warsh, where no rate change is expected but tone on inflation and projections matters. A stronger dollar often correlates with crypto weakness.",
+          "sentiment": "Neutral",
+          "impact": "Potential volatility in BTC if dollar strengthens post-meeting.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/currency",
+            "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-06122026-11996464"
+          ]
+        },
+        {
+          "title": "Markets Brace for Kevin Warsh's First FOMC Meeting",
+          "summary": "The Federal Reserve's June 16-17 policy decision is Kevin Warsh's debut as chair, with rates seen staying at 3.75 percent. Analysts expect possible shifts in forward guidance or dot plot amid sticky inflation. This sets up key signals for rate trajectory into year-end, directly affecting crypto sentiment via liquidity expectations.",
+          "sentiment": "Neutral",
+          "impact": "High volatility likely around announcement for risk assets.",
+          "sources": [
+            "https://www.investopedia.com/what-to-expect-from-june-fed-decision-flat-interest-rates-and-new-direction-11996530",
+            "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
           ]
         }
       ]
@@ -67,33 +89,44 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump Cancels Iran Strikes Amid Peace Talks Breakthrough",
-          "summary": "President Trump called off planned US military strikes on Iran after saying significant progress had been made in negotiations to end the war. He indicated key points had reached the highest levels of Iranian leadership and were approved. Earlier threats targeted Iran's oil infrastructure including Kharg Island. Traders should watch this closely because easing tensions in the Middle East can quickly reduce oil price volatility and risk premiums that weigh on Bitcoin and broader risk assets.",
+          "title": "Trump Claims US-Iran Deal Near to End War",
+          "summary": "President Trump announced that a deal has been reached or is very close to end the conflict with Iran, potentially including a 60-day ceasefire extension, reopening the Strait of Hormuz, and releasing frozen Iranian assets. Iranian officials say no agreement is finalized yet and caution against speculation, with possible signing in Europe soon. Traders should watch this closely as it directly impacts global oil flows and risk sentiment.",
           "sentiment": "Bullish",
-          "impact": "Easing geopolitical risk supports risk-on assets like Bitcoin.",
+          "impact": "Potential de-escalation could ease oil prices and support risk assets including Bitcoin.",
           "sources": [
-            "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
-            "https://www.cfr.org/"
+            "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+            "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal",
+            "https://www.youtube.com/watch?v=J1vWncVnryE"
           ]
         },
         {
-          "title": "US Conducts Fresh Strikes on Iran as Talks Continue",
-          "summary": "US forces carried out a second day of strikes against Iranian targets even as diplomatic efforts intensified. Trump had earlier vowed strong action if talks stalled, accusing Iran of dragging out negotiations. The back-and-forth highlights ongoing volatility in the Gulf region tied to the broader 2026 conflict. Crypto traders care because any escalation here directly pressures oil markets and global risk sentiment.",
+          "title": "Explosions Reported Near Strait of Hormuz",
+          "summary": "Multiple explosion-like sounds were reported near Qeshm and Sirik in southern Iran on June 13, with speculation of maritime activity or drone incidents in the vital oil shipping lane. This comes amid ongoing US-Iran talks. Traders should care because any disruption here threatens 20 percent of global oil supply and spikes energy prices.",
           "sentiment": "Bearish",
-          "impact": "Sustained conflict keeps oil prices elevated and markets cautious.",
+          "impact": "Heightened risk of oil supply shocks and volatility in energy markets.",
           "sources": [
-            "https://www.youtube.com/watch?v=LhhpenLaMJE",
-            "https://www.britannica.com/event/2026-Iran-war"
+            "https://wanaen.com/explosion-like-sounds-reported-near-qeshm-and-sirik-southern-iran/",
+            "https://www.youtube.com/watch?v=BFTpsy2l6GM",
+            "https://www.youtube.com/watch?v=O3U8H2MCIUo"
           ]
         },
         {
-          "title": "Trump Threatens Seizure of Iran's Key Oil Hub Kharg Island",
-          "summary": "In a social media post, Trump warned the US could take control of Kharg Island and Iran's oil and gas sectors, which handle the vast majority of its exports. The threat came hours before the decision to pause strikes. This directly ties into energy security concerns amid the ongoing war. Markets react sharply to any hints of supply disruption in the Strait of Hormuz area.",
-          "sentiment": "Bearish",
-          "impact": "Oil supply fears add upward pressure on prices and downside risk to equities and crypto.",
+          "title": "Iran State Media Details Potential US Deal Terms",
+          "summary": "Iranian reports outline a possible interim deal that would lift sanctions, restore frozen assets worth billions, keep Hormuz shipping open, and involve US troop repositioning. Tehran stresses conditions like ending Lebanon fighting and warns its 'sword will always hang over' the strait. This keeps markets on edge over energy security and sanctions relief.",
+          "sentiment": "Neutral",
+          "impact": "Mixed signals could drive short-term volatility in oil and crypto as clarity emerges.",
           "sources": [
-            "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
-            "https://heathercoxrichardson.substack.com/p/june-11-2026"
+            "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
+            "https://www.youtube.com/watch?v=pyiF2xZtwoM"
+          ]
+        },
+        {
+          "title": "Iranians Divided on US-Iran Peace Prospects",
+          "summary": "Public reaction in Iran is mixed as officials signal closeness to an interim ceasefire agreement with the US to halt months of conflict. Some see relief from sanctions and war, others remain skeptical amid ongoing tensions. This development matters for traders because resolution in the Middle East often triggers broader risk-on moves across assets.",
+          "sentiment": "Bullish",
+          "impact": "Positive resolution could boost global risk appetite and lower safe-haven demand.",
+          "sources": [
+            "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near"
           ]
         }
       ]
