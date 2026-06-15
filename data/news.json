@@ -1,67 +1,39 @@
 {
-  "generated_at": "2026-06-15T13:09:48+00:00",
+  "generated_at": "2026-06-15T22:06:50+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bullish",
-  "overall_summary": "Crypto markets are rallying as hopes for a US-Iran peace deal lift Bitcoin above 66 thousand dollars with strong ETF inflows and 150 million in shorts liquidated. Institutional buying remains robust and Zcash surged 17 percent on its emergency fork. Broader risk sentiment stays positive despite some mixed US economic data.",
+  "overall_summary": "A US-Iran deal easing Middle East tensions is lifting Bitcoin above 65K to a two-week high today. Softer Treasury yields and a weaker dollar are adding extra support for risk assets like crypto. Overall, the tone feels constructive with geopolitical relief driving the rebound.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "US-Iran Peace Deal Hopes Lift Bitcoin Above $66K",
-          "summary": "Bitcoin surged past $66,000 on news of a US-Iran framework deal that could ease geopolitical tensions and reopen the Strait of Hormuz. Oil prices dropped sharply in response, boosting risk appetite across markets. Traders should watch because the move triggered a short squeeze that wiped out over $150 million in bearish positions and could signal further upside if the deal holds.",
+          "title": "US-Iran Deal Reopens Hormuz, Lifts Bitcoin to 2-Week High",
+          "summary": "The US and Iran reached an interim agreement to end hostilities and reopen the Strait of Hormuz, with the deal expected to be signed soon. Bitcoin climbed as much as 5 percent to around $67,000 on the risk-on news as oil prices fell and traders bought risk assets. Traders should watch this closely because reduced geopolitical tensions can quickly boost crypto liquidity and sentiment after recent volatility.",
           "sentiment": "Bullish",
-          "impact": "Short-term price rally and reduced selling pressure on BTC.",
+          "impact": "Supports short-term price recovery and higher risk appetite.",
           "sources": [
-            "https://news.bitcoin.com/",
-            "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes"
+            "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
+            "https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal"
           ]
         },
         {
-          "title": "Strategy Buys 1,587 Bitcoin for $100 Million",
-          "summary": "Strategy, formerly MicroStrategy, added another 1,587 BTC at an average price near $63,000, bringing its total holdings to 846,842 BTC. This ongoing corporate accumulation continues to signal strong institutional conviction in Bitcoin as a treasury asset. Traders care because large-scale buys like this can absorb supply and support price floors during volatile periods.",
+          "title": "Bitcoin Rebounds Above $65K on Middle East Breakthrough",
+          "summary": "Bitcoin traded up over 1.8 percent in the last day, reaching levels near $66,500 after the US-Iran developments eased market fears. The move follows a period of consolidation near $64,000 and comes as broader crypto markets also gained ground. Traders care because sustained moves above recent highs could attract fresh buying and reduce selling pressure from earlier outflows.",
           "sentiment": "Bullish",
-          "impact": "Increased demand and potential positive sentiment spillover.",
+          "impact": "Potential for continued upward momentum if deal holds.",
           "sources": [
-            "https://news.bitcoin.com/"
+            "https://finance.yahoo.com/markets/crypto/",
+            "https://www.rttnews.com/3660256/u-s-iran-peace-deal-lifts-bitcoin-above-66k.aspx"
           ]
         },
         {
-          "title": "Bitcoin ETFs Snap Outflow Streak with Fresh Inflows",
-          "summary": "US spot Bitcoin ETFs recorded net inflows of around $86 million on recent trading days, led by BlackRock's IBIT, after weeks of heavy redemptions totaling billions. This reversal suggests institutional demand may be stabilizing amid improving macro headlines. Traders should monitor flows closely as they remain a key driver of spot price action and sentiment.",
-          "sentiment": "Bullish",
-          "impact": "Potential support for BTC price and reduced selling from ETF vehicles.",
+          "title": "Philippines Tightens Crypto Service Provider Rules",
+          "summary": "New Philippine SEC guidelines for crypto asset service providers are drawing attention for requiring local incorporation, higher capital reserves, and stricter oversight. The measures aim to combat illicit flows and protect investors but could raise compliance costs for platforms. Traders should note any impact on regional liquidity or adoption in Asia.",
+          "sentiment": "Neutral",
+          "impact": "May slow some activity in the Philippines without immediate global price effects.",
           "sources": [
-            "https://news.bitcoin.com/bitcoin-etf-inflows-ethereum-outflows-june-2026/",
-            "https://www.coinglass.com/etf/bitcoin"
-          ]
-        },
-        {
-          "title": "$150 Million in Crypto Shorts Liquidated as BTC Climbs",
-          "summary": "Bitcoin's quick move toward $66,000 triggered widespread liquidations of short positions, with over $150 million cleared in a short period. The squeeze highlights how leveraged bearish bets can amplify upside moves when positive news hits. Traders need to stay alert because liquidation cascades often fuel momentum in either direction.",
-          "sentiment": "Bullish",
-          "impact": "Accelerated price momentum and forced covering by bears.",
-          "sources": [
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "Zcash Surges 17% After Emergency Fork and Short Squeeze",
-          "summary": "Zcash jumped sharply following an emergency protocol fork that fixed a critical flaw, which also sparked a $13 million short squeeze. The event shows how technical upgrades in altcoins can drive outsized moves when combined with leveraged positioning. Major crypto traders watch these because similar dynamics can spill over into broader market sentiment.",
-          "sentiment": "Bullish",
-          "impact": "Positive momentum for select altcoins and reminder of upgrade-driven volatility.",
-          "sources": [
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "Bitcoin Closes Above Key Weekly Moving Average",
-          "summary": "Bitcoin posted a weekly close above its 200-week moving average along with bullish divergences and support retests on lower timeframes. This technical shift comes amid the geopolitical relief rally and corporate buying. Traders should care as reclaiming long-term averages often marks turning points in sentiment and trend direction.",
-          "sentiment": "Bullish",
-          "impact": "Improved technical outlook that could attract more buyers.",
-          "sources": [
-            "https://x.com/Micro2Macr0/status/2066308825678754092",
-            "https://finance.yahoo.com/quote/BTC-USD/history/"
+            "https://coinpedia.org/cryptocurrency-regulation/cryptocurrency-regulations-in-philippines/"
           ]
         }
       ]
@@ -70,33 +42,63 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Empire State Manufacturing Index Falls to 5.7 in June",
-          "summary": "The New York Fed's Empire State Manufacturing Index dropped sharply to 5.7 for June from 19.6 the prior month, missing expectations around 13-14. This regional gauge shows a significant slowdown in manufacturing activity in New York state. Traders should watch because it offers an early signal on US factory health ahead of broader data and the Fed meeting, potentially pressuring risk assets if it hints at weaker growth.",
-          "sentiment": "Bearish",
-          "impact": "Weaker growth signals could weigh on equities and risk appetite including Bitcoin.",
+          "title": "US-Iran Ceasefire Deal Reached, Easing Tensions",
+          "summary": "President Trump announced a preliminary US-Iran agreement including a 60-day ceasefire extension, reopening the Strait of Hormuz, and further talks on nuclear issues and sanctions. Oil prices tumbled sharply while risk assets rallied on reduced geopolitical risk. Traders should watch because lower energy costs ease inflation pressures and support broader market sentiment in the near term.",
+          "sentiment": "Bullish",
+          "impact": "Supports risk assets and Bitcoin via lower oil and dovish tilt.",
           "sources": [
-            "https://tradingeconomics.com/united-states/ny-empire-state-manufacturing-index",
+            "https://www.democracynow.org/2026/6/15/headlines",
+            "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations",
+            "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f"
+          ]
+        },
+        {
+          "title": "Empire State Manufacturing Survey Released for June",
+          "summary": "The New York Fed's Empire State Manufacturing Survey for June came out this morning, providing a timely read on regional factory conditions. The report is one of the first data points each month and can influence expectations for broader industrial trends. Traders care because surprises here often move Treasury yields and equity futures ahead of national data.",
+          "sentiment": "Neutral",
+          "impact": "Modest moves in yields and equities depending on surprise.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://fred.stlouisfed.org/releases/calendar"
+          ]
+        },
+        {
+          "title": "US Industrial Production and Capacity Utilization for May",
+          "summary": "Federal Reserve data on May industrial production and capacity utilization were released at 9:15 a.m. ET, offering a gauge of manufacturing and mining output. The figures help assess the health of the goods-producing sector amid ongoing policy shifts. Traders monitor this closely as it feeds into GDP estimates and Fed rate-path thinking.",
+          "sentiment": "Neutral",
+          "impact": "Potential small shifts in bond yields and dollar.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://fred.stlouisfed.org/releases/calendar"
+          ]
+        },
+        {
+          "title": "NAHB Homebuilder Confidence Index for June",
+          "summary": "The National Association of Home Builders released its June housing market index at 10 a.m. ET, tracking builder sentiment on sales, traffic, and conditions. Housing data remain key for gauging consumer spending and interest-rate sensitivity. Traders watch for any signs of resilience or weakness that could sway rate expectations.",
+          "sentiment": "Neutral",
+          "impact": "Minor influence on yields and mortgage-related assets.",
+          "sources": [
             "https://www.marketwatch.com/economy-politics/calendar"
           ]
         },
         {
-          "title": "US Industrial Production and Capacity Data Released for May",
-          "summary": "Federal Reserve data on industrial production, capacity utilization, and related metrics for May hit the wires today around 9:15 AM ET. Markets had anticipated modest gains of about 0.3 percent month-over-month. These figures provide a snapshot of overall US output and factory utilization right before the FOMC meeting, helping set the tone for growth expectations.",
-          "sentiment": "Neutral",
-          "impact": "Mixed or in-line data likely has limited immediate market impact but informs rate outlook.",
+          "title": "10-Year Treasury Yield Edges Lower to ~4.47%",
+          "summary": "The benchmark 10-year Treasury yield slipped modestly today amid the Iran deal news and softer safe-haven demand. Lower yields reduce borrowing costs and can support growth-sensitive assets. Crypto traders should note the move because it often correlates with risk appetite and dollar strength.",
+          "sentiment": "Bullish",
+          "impact": "Supports equities, gold, and Bitcoin via easier financial conditions.",
           "sources": [
-            "https://tradingeconomics.com/united-states/industrial-production-mom",
-            "https://www.federalreserve.gov/releases/g17/current/default.htm"
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://www.barrons.com/livecoverage/stock-market-news-today-061526/card/dollar-treasury-yields-fall-after-u-s-iran-deal-AgWSIvfn2b3qt893QyhY"
           ]
         },
         {
-          "title": "Markets Prep for New Fed Chair Warsh's First FOMC Meeting",
-          "summary": "Traders are positioning ahead of the June 16-17 FOMC meeting, Kevin Warsh's debut as Fed Chair. Markets expect rates to hold steady but will scrutinize the dot plot and tone for any hawkish shift amid sticky inflation. This is the biggest macro event this week, directly influencing the dollar, yields, and crypto sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Any surprise hawkish signals could strengthen the dollar and pressure Bitcoin.",
+          "title": "US Dollar Index (DXY) Declines Modestly",
+          "summary": "The DXY fell around 0.2-0.3% today as the Iran deal reduced safe-haven flows and Treasury yields eased. A softer dollar typically benefits commodities and non-US assets. Traders care because dollar moves directly affect Bitcoin pricing in USD terms and global liquidity perceptions.",
+          "sentiment": "Bullish",
+          "impact": "Positive for Bitcoin and risk assets priced in dollars.",
           "sources": [
-            "https://www.investopedia.com/what-to-expect-from-june-fed-decision-flat-interest-rates-and-new-direction-11996530",
-            "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-06-15/"
+            "https://www.barrons.com/livecoverage/stock-market-news-today-061526/card/dollar-treasury-yields-fall-after-u-s-iran-deal-AgWSIvfn2b3qt893QyhY",
+            "https://www.icmarkets.com/blog/ic-markets-global-asia-fundamental-forecast-15-june-2026/"
           ]
         }
       ]
@@ -105,34 +107,63 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US, Iran Reach Deal to End War, Reopen Hormuz Strait",
-          "summary": "President Trump announced Sunday that the US and Iran have finalized a framework agreement to end their conflict, including immediately lifting the US naval blockade and reopening the Strait of Hormuz to shipping. The formal signing is expected Friday in Switzerland, with Pakistan playing a key mediation role. Oil prices dropped sharply on the news as traders bet on reduced energy supply risks. Traders should watch this closely because lower oil volatility and Middle East de-escalation typically support risk assets like Bitcoin and equities.",
+          "title": "US-Iran Reach MOU to End War, Reopen Hormuz",
+          "summary": "President Trump announced a memorandum of understanding with Iran that would lift the US naval blockade, reopen the Strait of Hormuz to shipping without tolls, and extend the ceasefire for 60 days while talks continue on nuclear issues. Iran confirmed the text is finalized with signing expected around June 19. Traders should care because this de-escalates a major energy choke point that has kept oil prices elevated for months, likely pressuring energy costs lower and supporting risk assets.",
           "sentiment": "Bullish",
-          "impact": "Oil prices fall, boosting risk appetite across markets",
+          "impact": "Lower oil prices and reduced geopolitical risk premium boost equities and crypto.",
           "sources": [
-            "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-            "https://www.bbc.com/news/world",
-            "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal"
+            "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far",
+            "https://www.axios.com/2026/06/12/iran-deal-mou-strait-open-sanctions-relief",
+            "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"
           ]
         },
         {
-          "title": "G7 Leaders Gather in France Amid Iran Deal",
-          "summary": "The 2026 G7 Summit opens Monday in Evian-les-Bains, France, with leaders set to discuss the new US-Iran framework, Ukraine, and global trade. President Trump is attending after the weekend breakthrough announcement. The gathering provides a forum for coordinating responses to energy markets and ongoing conflicts. Traders care because coordinated G7 signals on sanctions or energy policy can shift capital flows quickly.",
+          "title": "Trump Says Oil Ships Moving Through Hormuz",
+          "summary": "Following the deal announcement, Trump stated that ships loaded with oil are already starting to move safely out of the Strait of Hormuz along secure routes. This comes after months of blockade tied to the Iran conflict. Traders should care as any sustained reopening signals the end of a key supply disruption, directly impacting global energy markets and inflation expectations.",
+          "sentiment": "Bullish",
+          "impact": "Eases energy supply concerns and supports broader market sentiment.",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz",
+            "https://www.cgtn.com/special/Live-updates-US-Iran-confirm-peace-deal-official-signing-on-June-19.html"
+          ]
+        },
+        {
+          "title": "Oil Prices Fall on Iran Deal Prospects",
+          "summary": "Oil prices dropped toward three-month lows as details of the US-Iran agreement emerged and the prospect of Hormuz reopening improved. Markets are pricing in lower energy costs even if full normalization takes time. Traders should care because falling oil reduces input costs across economies and eases pressure on central banks, often correlating with stronger performance in risk assets like Bitcoin.",
+          "sentiment": "Bullish",
+          "impact": "Declining crude supports consumer spending and equity rallies.",
+          "sources": [
+            "https://www.theguardian.com/world/strait-of-hormuz",
+            "https://www.nbcnews.com/"
+          ]
+        },
+        {
+          "title": "Trump Announces Strike Killing Venezuelan Gang Leader",
+          "summary": "President Trump revealed a US strike inside Venezuela killed the top leader of the Tren de Aragua gang in coordination with Venezuelan interim authorities. The action targets transnational crime tied to drug trafficking. Traders should care as it highlights ongoing US interventionism in Latin America, potentially adding volatility to regional energy and migration-related markets without immediate global oil impact.",
           "sentiment": "Neutral",
-          "impact": "Potential policy clarity on energy and security could calm or roil markets",
+          "impact": "Limited direct effect on global risk assets but flags rising US foreign policy assertiveness.",
           "sources": [
-            "https://www.elysee.fr/en/G7evian",
-            "https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/"
+            "https://www.democracynow.org/2026/6/15/headlines",
+            "https://worldview.stratfor.com/"
           ]
         },
         {
-          "title": "Russian Strikes Hit Historic Kyiv Monastery",
-          "summary": "Russian forces launched a major attack on Kyiv that set fire to the historic Pechersk Lavra Orthodox monastery complex, a key cultural and religious site. Ukrainian officials reported damage to the structure but said many artifacts were saved. The strike comes amid continued long-range exchanges in the Ukraine war. Traders should note persistent Eastern Europe conflict keeps geopolitical risk premiums elevated even as Middle East tensions ease.",
-          "sentiment": "Bearish",
-          "impact": "Sustained Ukraine war headlines may cap broader risk rallies",
+          "title": "Trump Discusses Ukraine Peace With Zelensky and Putin",
+          "summary": "Trump held separate calls with Ukrainian President Zelensky and Russian President Putin on June 14, focusing on ending the Ukraine war amid battlefield developments. Russia continues drone and missile strikes while Ukraine reports advances in some areas. Traders should care because any progress or escalation in this conflict affects European energy security and broader geopolitical stability that influences global risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Ongoing uncertainty keeps some safe-haven flows in place but no immediate shock.",
           "sources": [
-            "https://www.nytimes.com/section/world",
-            "https://www.cnn.com/world"
+            "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-14-2026"
+          ]
+        },
+        {
+          "title": "G7 Summit Begins Amid Iran Deal Focus",
+          "summary": "Leaders gather for the G7 summit in France starting June 15, with the new US-Iran understanding likely dominating talks on energy and security. Macron and others aim to keep Trump engaged on multilateral issues. Traders should care as G7 outcomes often shape coordinated policy responses to geopolitical risks, influencing currency, trade, and commodity markets.",
+          "sentiment": "Neutral",
+          "impact": "Provides platform for de-escalation messaging that could further calm markets.",
+          "sources": [
+            "https://www.ft.com/geopolitics",
+            "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
           ]
         }
       ]
