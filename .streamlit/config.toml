@@ -1,0 +1,8 @@
+# Forces the app to dark mode for ALL visitors, regardless of their
+# browser or operating-system light/dark setting.
+[theme]
+base = "dark"
+primaryColor = "#3ddc84"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#16161a"
+textColor = "#e6e6e6"

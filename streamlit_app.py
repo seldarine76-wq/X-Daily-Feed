@@ -30,6 +30,15 @@ st.set_page_config(page_title="Crypto Daily Feed", page_icon="📈", layout="wid
 st.markdown(
     """
     <style>
+      /* Force dark styling regardless of the viewer's browser/OS theme */
+      .stApp, [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+        background-color: #0e1117 !important;
+      }
+      .stApp, .stApp p, .stApp li, .stApp span, [data-testid="stMarkdownContainer"] {
+        color: #e6e6e6;
+      }
+      h1, h2, h3, h4, .cat-head { color: #ffffff !important; }
+      [data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] * { color: #9a9aa2 !important; }
       .block-container { padding-top: 2rem; max-width: 1000px; }
       .badge {
         display: inline-block; padding: 2px 10px; border-radius: 999px;
