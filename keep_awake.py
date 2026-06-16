@@ -27,7 +27,7 @@ WAKE_TEXT = "get this app back up"
 
 
 def main() -> None:
-    if not URL or URL == "https://x-daily-feed-9ugaabtyjzevvcwajenuxk.streamlit.app/":
+    if not URL or "PASTE_YOUR_STREAMLIT_URL_HERE" in URL:
         sys.exit(
             "ERROR: No app URL set. Edit APP_URL in keep_awake.py or set the "
             "STREAMLIT_APP_URL repository variable."
