@@ -1,0 +1,31 @@
+name: Keep Streamlit app awake
+
+# Visits the app every 8 hours so it never sits idle for 12h (the Streamlit
+# Community Cloud sleep threshold), and auto-clicks the wake button if needed.
+on:
+  schedule:
+    - cron: "0 */8 * * *"   # 00:00, 08:00, 16:00 UTC — gaps stay well under 12h
+  workflow_dispatch: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Visit app (and wake it if asleep)
+        env:
+          # Optional: set this repo VARIABLE instead of editing keep_awake.py.
+          STREAMLIT_APP_URL: ${{ vars.STREAMLIT_APP_URL }}
+        run: python keep_awake.py
