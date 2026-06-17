@@ -8,12 +8,28 @@ Deploy on Streamlit Community Cloud, main file: streamlit_app.py
 """
 
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import requests
 import streamlit as st
+import streamlit.components.v1 as components
+
+# --------------------------------------------------------------------------- #
+# Data source
+# --------------------------------------------------------------------------- #
+# To show fresh news within minutes WITHOUT waiting for a Streamlit reboot, the
+# app reads news.json straight from GitHub. Set this to your repo "owner/name".
+# Leave it as "" to fall back to the local file (updates only on app reboot).
+GITHUB_REPO = "seldarine76-wq/X-Daily-Feed"           # 👈 e.g. "jamie/X-Daily-Feed"
+GITHUB_BRANCH = "main"
 
 DATA_PATH = Path(__file__).parent / "data" / "news.json"
+
+# How often the open page reloads itself (seconds) and how long fetched data is
+# cached. 300s = 5 minutes.
+REFRESH_SECONDS = 300
 
 SENTIMENT_STYLES = {
     "Bullish": {"bg": "#10331f", "fg": "#3ddc84", "border": "#1f7a45", "icon": "▲"},
@@ -69,7 +85,29 @@ def badge(sentiment: str) -> str:
     )
 
 
+def _raw_url() -> str | None:
+    """GitHub raw URL for news.json, with a per-minute cache-buster to dodge the CDN."""
+    if GITHUB_REPO:
+        bust = int(time.time() // 60)
+        return (
+            f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_BRANCH}"
+            f"/data/news.json?t={bust}"
+        )
+    return None
+
+
+@st.cache_data(ttl=REFRESH_SECONDS)
 def load_data() -> dict | None:
+    # 1) Prefer the live copy on GitHub so the page updates without a reboot.
+    url = _raw_url()
+    if url:
+        try:
+            r = requests.get(url, timeout=10)
+            if r.status_code == 200:
+                return r.json()
+        except Exception:
+            pass  # fall back to the local file below
+    # 2) Fall back to the file bundled with the app.
     if not DATA_PATH.exists():
         return None
     try:
@@ -93,6 +131,16 @@ def human_time(iso: str) -> str:
 # --------------------------------------------------------------------------- #
 st.title("📈 Crypto Daily Feed")
 st.caption("Crypto · Macro · Geopolitics — scanned daily from X & the web by Grok (xAI)")
+
+# Reload the whole page every REFRESH_SECONDS so an open tab keeps catching new data.
+components.html(
+    f"<script>setTimeout(() => window.parent.location.reload(), {REFRESH_SECONDS * 1000});</script>",
+    height=0,
+)
+
+if st.button("🔄 Refresh now"):
+    st.cache_data.clear()
+    st.rerun()
 
 data = load_data()
 
