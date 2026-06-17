@@ -3,7 +3,9 @@ name: Daily crypto news scan
 # Runs once per day at 14:00 UTC, and can also be triggered manually.
 on:
   schedule:
-    - cron: "0 12 * * *"   # 12:00 UTC daily (= 13:00 BST / UK summer time)
+    # Odd minutes avoid the top-of-hour congestion that makes GitHub drop runs.
+    - cron: "9 12 * * *"    # primary ~12:09 UTC (= 13:09 BST)
+    - cron: "49 12 * * *"   # backup ~12:49 UTC — only does work if the primary was dropped
   workflow_dispatch: {}     # lets you run it on demand from the Actions tab
 
 # Allow the job to push the updated data/news.json back to the repo.
@@ -28,6 +30,8 @@ jobs:
       - name: Run news scan
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          # Manual runs always force a fresh scan; scheduled runs skip if today is done.
+          FORCE: ${{ github.event_name == 'workflow_dispatch' }}
         run: python fetch_news.py
 
       - name: Commit updated news

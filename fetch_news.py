@@ -250,7 +250,23 @@ def build() -> dict:
     }
 
 
+def already_updated_today() -> bool:
+    """True if news.json already holds a brief generated today (UTC)."""
+    if not OUTPUT_PATH.exists():
+        return False
+    try:
+        existing = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+        stamp = (existing.get("generated_at") or "")[:10]
+        return stamp == datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    except (json.JSONDecodeError, OSError):
+        return False
+
+
 def main() -> None:
+    force = os.getenv("FORCE", "").lower() in ("1", "true", "yes")
+    if not force and already_updated_today():
+        print("news.json already updated today — skipping (set FORCE=1 to override).")
+        return
     data = build()
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
