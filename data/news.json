@@ -1,57 +1,48 @@
 {
-  "generated_at": "2026-06-17T12:41:09+00:00",
+  "generated_at": "2026-06-18T13:03:39+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Bitcoin faces mild pressure from ETF outflows but is overshadowed by stronger bullish catalysts today. Positive Fed signals, BlackRock's new income ETF launch, and easing geopolitical tensions from the US-Iran deal are lifting risk sentiment. Overall, the tone for crypto feels constructive with improving macro and institutional backdrops.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Bitcoin took a hit today as the Fed's hawkish stance triggered a price drop and ETF outflows. While on-chain data shows holders accumulating, the market is consolidating amid mixed geopolitics and steady labor numbers. Overall tone remains cautious for crypto traders.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Post $64M Net Outflow Monday Led by GBTC",
-          "summary": "US spot Bitcoin ETFs saw a net $64 million outflow on Monday, almost entirely from Grayscale's GBTC which lost $124 million. Other crypto ETFs for ether, XRP, Solana and more saw inflows. Traders should watch these flows closely as they directly influence spot Bitcoin buying or selling pressure from institutions.",
+          "title": "Hawkish Fed Decision Triggers Bitcoin Drop",
+          "summary": "The Federal Reserve's first meeting under new Chair Kevin Warsh held rates steady but took a hawkish tone, surprising markets. Bitcoin fell about 4 percent from highs near 66,300 dollars to test below 64,000 dollars in early trading. Traders are watching support at 62,000 to 60,000 dollars next as macro volatility weighs on risk assets.",
           "sentiment": "Bearish",
-          "impact": "Continued mild selling pressure on Bitcoin price.",
+          "impact": "Short-term selling pressure and range-bound trading likely.",
           "sources": [
-            "https://news.bitcoin.com/",
-            "https://www.coindesk.com/"
+            "https://crypto.news/bitcoin-price-loses-64k-support-after-fed-shock-can-bulls-avoid-a-drop-to-60k/",
+            "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june"
           ]
         },
         {
-          "title": "Bitcoin June Downturn Leaves $8.6 Billion Options Out of the Money",
-          "summary": "With Bitcoin down about 12 percent this month, only 20 percent of options expiring June 26 are currently in the money. This leaves a large chunk of bullish positions underwater. Traders should note this could lead to reduced leverage or forced adjustments heading into expiry.",
+          "title": "Bitcoin ETFs See Modest Outflows on Fed Day",
+          "summary": "US spot Bitcoin ETFs recorded 54.9 million dollars in net outflows on June 17, led by ARKB and GBTC. This follows mixed weekly flows and signals softening institutional demand amid macro uncertainty. Traders should watch whether inflows resume or outflows accelerate as a key price driver.",
+          "sentiment": "Bearish",
+          "impact": "Potential for continued pressure on spot price from reduced buying.",
+          "sources": [
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+          ]
+        },
+        {
+          "title": "On-Chain Data Shows Strong Holder Accumulation",
+          "summary": "Accumulator wallets absorbed around 125,000 BTC in the first half of June, flashing a potential bottom signal as long-term holders buy dips. This absorption near recent lows suggests conviction among patient investors despite price weakness. It provides a counterbalance to short-term selling but needs confirmation with price action.",
+          "sentiment": "Bullish",
+          "impact": "Supports a floor around current levels if selling exhausts.",
+          "sources": [
+            "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june"
+          ]
+        },
+        {
+          "title": "Bitcoin Consolidates in Mid-60,000s After Volatility",
+          "summary": "Bitcoin traded in a volatile range over the past day, swinging from 66,300 dollars down toward 64,000 dollars before stabilizing around the mid-60,000s. Macro uncertainty from the Fed and mixed ETF flows are keeping the market in consolidation rather than a clear breakout. Traders should focus on whether it holds above early June lows for direction.",
           "sentiment": "Neutral",
-          "impact": "Potential for volatility around options expiry but limited immediate price impact.",
+          "impact": "Range-bound trading with risk of breakout either way on next catalyst.",
           "sources": [
-            "https://www.coindesk.com/"
-          ]
-        },
-        {
-          "title": "Fed Meeting Offers Three Signals That Could Boost Bitcoin",
-          "summary": "Markets are focusing on the Federal Reserve's interest rate decision and Chair Kevin Warsh's comments today. Analysts highlight potential dovish signals around policy that could support risk assets including Bitcoin. Traders should listen for any hints on rate cuts or liquidity that might reverse recent weakness.",
-          "sentiment": "Bullish",
-          "impact": "Possible positive catalyst for Bitcoin if signals are favorable.",
-          "sources": [
-            "https://www.coindesk.com/"
-          ]
-        },
-        {
-          "title": "BlackRock Launches Bitcoin Income ETF Targeting High Yields",
-          "summary": "BlackRock introduced a new Bitcoin ETF using a covered call strategy aimed at generating yields in the high teens. This adds an income-focused product to the Bitcoin ETF lineup. Traders may see this as expanding institutional access and appeal for Bitcoin exposure.",
-          "sentiment": "Bullish",
-          "impact": "Could attract new capital into Bitcoin-related products over time.",
-          "sources": [
-            "https://www.coindesk.com/",
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "Congress Reaches Deal on Housing Bill Banning CBDC Through 2030",
-          "summary": "The Senate and House agreed on legislation that would ban central bank digital currencies in the US through 2030. This removes a potential competitor to decentralized assets like Bitcoin. Traders should view this as a regulatory win that supports Bitcoin's narrative as sound money.",
-          "sentiment": "Bullish",
-          "impact": "Positive long-term sentiment boost for Bitcoin.",
-          "sources": [
-            "https://www.theblock.co/"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://crypto.news/bitcoin-price-loses-64k-support-after-fed-shock-can-bulls-avoid-a-drop-to-60k/"
           ]
         }
       ]
@@ -60,33 +51,33 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US Retail Sales Beat Forecasts with 0.9% MoM Gain in May",
-          "summary": "Retail sales jumped 0.9 percent month-over-month in May, well above the 0.5 percent consensus, with a strong 6.9 percent year-over-year rise. Consumer spending remains resilient despite higher energy costs and mixed sentiment readings. Traders should note this supports a soft-landing narrative but could keep the Fed cautious on inflation.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk assets and growth outlook short-term.",
+          "title": "Fed Holds Rates Steady at 3.5-3.75%, Turns Hawkish on Projections",
+          "summary": "The Federal Reserve left interest rates unchanged in a unanimous 12-0 vote at its June meeting, the first under new Chair Kevin Warsh. Updated dot plot projections showed a higher median path for rates this year and next, with nine participants now seeing at least one hike in 2026 amid sticky inflation. Markets are now pricing in a greater chance of tightening ahead. Traders should watch this closely because a more restrictive policy stance could pressure risk assets like Bitcoin while supporting the dollar.",
+          "sentiment": "Bearish",
+          "impact": "Higher rate expectations likely strengthen USD and weigh on crypto and equities.",
           "sources": [
-            "https://www.census.gov/retail/sales.html",
-            "https://tradingeconomics.com/united-states/retail-sales"
+            "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm",
+            "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026"
           ]
         },
         {
-          "title": "Fed Set to Hold Rates Steady at First Warsh-Led FOMC Meeting",
-          "summary": "Markets price in near-certainty of no change to the federal funds rate target range at today's 2pm ET decision, expected to stay at 3.50-3.75 percent. New Chair Kevin Warsh's first meeting focuses on communications and data dependence amid sticky inflation. Any hawkish tilt in the statement or projections could pressure risk assets.",
+          "title": "Philly Fed Manufacturing Index Surges to 10.3 in June",
+          "summary": "The Philadelphia Fed's manufacturing survey jumped sharply to 10.3 in June from a contraction of minus 0.4 the prior month, beating expectations. The reading signals a clear rebound in regional factory activity after weakness. This positive surprise adds to evidence of economic resilience. Crypto traders should note it because stronger manufacturing data supports a soft-landing narrative but could also keep the Fed on hold or hawkish longer.",
           "sentiment": "Neutral",
-          "impact": "Hold likely limits immediate volatility but sets tone for future policy.",
+          "impact": "Reinforces resilient growth outlook, mixed implications for rate path.",
           "sources": [
-            "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-            "https://www.marketwatch.com/economy-politics/calendar"
+            "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey",
+            "https://tradingeconomics.com/united-states/philadelphia-fed-manufacturing-index"
           ]
         },
         {
-          "title": "Pending Home Sales and Business Inventories Also Due Today",
-          "summary": "May pending home sales and April business inventories releases are scheduled alongside retail sales. These will provide additional color on housing and supply chain health. Weak housing data could offset strong retail numbers for a mixed macro picture.",
+          "title": "Initial Jobless Claims Fall to 226K, Labor Market Steady",
+          "summary": "Weekly initial unemployment claims dipped to 226,000 for the week ending June 13, slightly above the 225,000 consensus but down from 230,000 prior. Continuing claims rose modestly to 1.81 million. The data point to a still-resilient labor market with no major deterioration. For traders this matters because low claims reduce pressure on the Fed to cut rates aggressively, supporting a higher-for-longer stance.",
           "sentiment": "Neutral",
-          "impact": "Adds to data-heavy session but secondary to retail and Fed.",
+          "impact": "Stable labor market keeps Fed cautious on easing.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://fred.stlouisfed.org/releases/calendar"
+            "https://www.dol.gov/ui/data.pdf",
+            "https://tradingeconomics.com/united-states/jobless-claims"
           ]
         }
       ]
@@ -95,31 +86,63 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US and Iran reach framework deal to end war",
-          "summary": "The United States and Iran have agreed on a preliminary deal that includes reopening the Strait of Hormuz, lifting the US naval blockade on Iranian ports, and halting fighting. The memorandum of understanding is expected to be signed in Geneva on Friday. Traders should watch this closely because reduced geopolitical risk in the Middle East typically supports risk assets like Bitcoin by easing energy market tensions and lowering safe-haven demand.",
+          "title": "US and Iran Sign Interim Ceasefire Deal",
+          "summary": "President Trump and Iranian leaders digitally signed a 14-point agreement to extend a ceasefire for 60 days, including plans to reopen the Strait of Hormuz and ease some sanctions. The deal comes amid skepticism it will hold long term, with Trump warning of resumed strikes if violated. Traders should watch because reduced Middle East risk and lower oil prices support risk assets like Bitcoin.",
           "sentiment": "Bullish",
-          "impact": "Eases oil supply concerns and supports broader risk appetite.",
+          "impact": "Eases energy supply fears and boosts risk sentiment.",
           "sources": [
-            "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz",
-            "https://www.csis.org/analysis/united-states-and-iran-announce-deal-end-war-state-play"
+            "https://www.nbcnews.com/world/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513",
+            "https://www.reuters.com/world/middle-east/g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17/"
           ]
         },
         {
-          "title": "Oil prices slide on Iran deal and Hormuz reopening hopes",
-          "summary": "Brent crude has dropped to its lowest level since early March as hopes grow for a quick signing of the US-Iran framework agreement. The deal is expected to allow Iran to resume oil exports and fully reopen the critical Strait of Hormuz chokepoint. Crypto traders care because lower oil prices reduce inflation pressures and often correlate with stronger flows into risk assets.",
-          "sentiment": "Bullish",
-          "impact": "Lower energy costs support equities and crypto sentiment.",
+          "title": "Ukraine Launches Major Drone Attack on Moscow",
+          "summary": "Nearly 200 Ukrainian drones struck southeast of Moscow, hitting a refinery and other sites in the largest attack on the Russian capital since the full-scale war began. Airports were shut down temporarily. This escalation could prolong the Russia-Ukraine conflict and keep pressure on global energy markets.",
+          "sentiment": "Bearish",
+          "impact": "Heightens geopolitical tensions and supports oil prices.",
           "sources": [
-            "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz"
+            "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
+            "https://www.cnn.com/"
           ]
         },
         {
-          "title": "G7 leaders back Trump's Iran deal at summit",
-          "summary": "Group of Seven leaders praised the emerging US-Iran agreement as a breakthrough during their meeting in France. President Trump highlighted progress while noting the deal is not entirely final and could see adjustments. Markets are reacting positively to the diplomatic momentum, which reduces the chance of further military escalation in a key energy region.",
-          "sentiment": "Bullish",
-          "impact": "Signals coordinated international support for de-escalation.",
+          "title": "Israel Strikes Lebanon Despite US-Iran Deal",
+          "summary": "Israeli forces killed at least four people in southern Lebanon with drone strikes, continuing operations even after the US-Iran ceasefire understanding. G7 leaders called for a robust ceasefire and Hezbollah disarmament. Persistent fighting risks reigniting broader regional conflict.",
+          "sentiment": "Bearish",
+          "impact": "Sustains Middle East uncertainty and volatility.",
           "sources": [
-            "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france"
+            "https://havanatimes.org/news/international-news-briefs-for-wednesday-june-17-2026/",
+            "https://www.aa.com.tr/en/world/morning-briefing-june-17-2026/3969225"
+          ]
+        },
+        {
+          "title": "G7 Leaders Welcome Iran Deal at Summit",
+          "summary": "At the G7 summit in France, leaders expressed optimism over the US-Iran framework while urging energy supply diversification away from the Strait of Hormuz. Discussions also touched on tougher Russia sanctions. The gathering signals coordinated Western response to ongoing conflicts.",
+          "sentiment": "Neutral",
+          "impact": "Provides policy clarity but limited immediate market move.",
+          "sources": [
+            "https://www.pbs.org/newshour/video",
+            "https://www.reuters.com/world/middle-east/g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17/"
+          ]
+        },
+        {
+          "title": "Oil Prices Fall on Iran Deal Hopes",
+          "summary": "Crude prices dropped as traders priced in de-escalation from the US-Iran interim agreement and potential Hormuz reopening. Brent saw notable declines amid optimism for restored supply flows. Lower energy costs generally support broader risk appetite in crypto and equities.",
+          "sentiment": "Bullish",
+          "impact": "Reduces input costs and inflation pressures.",
+          "sources": [
+            "https://www.rttnews.com/",
+            "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
+          ]
+        },
+        {
+          "title": "Trump Warns of Resumed Strikes if Iran Deal Fails",
+          "summary": "President Trump stated the US could resume military action against Iran if the new agreement is not upheld, even as details of the 14-point plan emerge. The warning highlights fragility in the ceasefire. Markets are monitoring for any signs of renewed escalation.",
+          "sentiment": "Bearish",
+          "impact": "Keeps some risk premium in place despite deal progress.",
+          "sources": [
+            "https://www.cbsnews.com/world/",
+            "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-iran-deal-russia-ukraine-war-iran-israel-rcna350404"
           ]
         }
       ]
