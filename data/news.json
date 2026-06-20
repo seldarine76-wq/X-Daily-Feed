@@ -1,94 +1,44 @@
 {
-  "generated_at": "2026-06-19T10:53:13+00:00",
+  "generated_at": "2026-06-20T17:10:21+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin slipped below 63,000 dollars on hawkish Fed signals, sparking more than 500 million dollars in liquidations across crypto markets. ETF inflows stayed muted as institutions turned cautious, though El Salvador added to its national stack and Strategy's holdings now top BlackRock's.",
+  "overall_sentiment": "Bullish",
+  "overall_summary": "Geopolitical relief is lifting market sentiment today after Israel and Hezbollah renewed their ceasefire, allowing more oil to flow through the Strait of Hormuz. With the Fed on hold and steady U.S. data, risk assets like crypto are finding a constructive backdrop. Overall the tone feels cautiously optimistic for digital assets.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
-      "items": [
-        {
-          "title": "Bitcoin Falls Below $63K on Hawkish Fed Signals",
-          "summary": "Bitcoin dropped below 63,000 dollars as the Federal Reserve held rates but the new chair delivered hawkish signals pointing to possible rate hikes later this year. The move wiped out gains from the recent US-Iran peace deal and triggered risk-off selling across crypto and other assets. Traders should watch because macro policy shifts can drive sharp moves in Bitcoin regardless of on-chain fundamentals.",
-          "sentiment": "Bearish",
-          "impact": "Increases downside pressure and volatility in the short term.",
-          "sources": [
-            "https://www.coindesk.com/",
-            "https://finance.yahoo.com/quote/BTC-USD/",
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "Over 500 Million Dollars Liquidated in Crypto Markets",
-          "summary": "More than 546 million dollars in positions were liquidated in the past 24 hours amid the Bitcoin slide, hitting over 124,000 traders. The cascade followed the Fed decision and fading risk appetite. Traders should care because large liquidations can accelerate price moves and create short-term buying or selling opportunities.",
-          "sentiment": "Bearish",
-          "impact": "Amplifies volatility and can lead to forced selling.",
-          "sources": [
-            "https://news.bitcoin.com/",
-            "https://x.com/timoassi"
-          ]
-        },
-        {
-          "title": "Bitcoin ETF Flows Show Continued Institutional Caution",
-          "summary": "Spot Bitcoin ETFs recorded net outflows in recent sessions, including a reported daily outflow around 90 million dollars, adding to weeks of redemptions. Some funds saw inflows but overall pressure persists. Traders should pay attention as ETF flows are a key barometer of institutional demand and can directly influence spot price.",
-          "sentiment": "Bearish",
-          "impact": "Sustains selling pressure from institutional channels.",
-          "sources": [
-            "https://www.coinglass.com/etf/bitcoin",
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "El Salvador Adds More Bitcoin to National Reserve",
-          "summary": "El Salvador continued its daily Bitcoin purchases, pushing its holdings past 7,680 BTC. The country keeps accumulating regardless of short-term price action. Traders should note this as ongoing sovereign buying that supports the narrative of Bitcoin as a reserve asset.",
-          "sentiment": "Bullish",
-          "impact": "Provides steady accumulation demand and positive sentiment.",
-          "sources": [
-            "https://www.coingecko.com/en/coins/bitcoin"
-          ]
-        },
-        {
-          "title": "New US Stablecoin Rules Proposed Under GENIUS Act",
-          "summary": "The Federal Reserve outlined a bank-like identification program for stablecoin issuers as part of early GENIUS Act implementation. This adds regulatory clarity but also compliance costs. Traders should watch because stablecoins underpin much of crypto liquidity and any shifts can affect trading volumes and flows.",
-          "sentiment": "Neutral",
-          "impact": "Longer-term clarity but potential near-term uncertainty for issuers.",
-          "sources": [
-            "https://x.com/timoassi",
-            "https://www.sandmark_news"
-          ]
-        },
-        {
-          "title": "Strategy's Bitcoin Holdings Surpass BlackRock's",
-          "summary": "Michael Saylor's Strategy now holds more Bitcoin than BlackRock's ETF, with over 846,000 BTC versus roughly 811,000. The company continues its accumulation strategy. Traders should care as it highlights corporate treasury adoption and can influence sentiment around institutional ownership.",
-          "sentiment": "Bullish",
-          "impact": "Reinforces corporate buying narrative and supports price floor.",
-          "sources": [
-            "https://x.com/timoassi"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Holds Rates Steady at 3.5-3.75% in Hawkish Shift",
-          "summary": "The Federal Reserve kept its benchmark rate unchanged at the June 17 meeting under new Chair Kevin Warsh. Officials removed language signaling future cuts and highlighted persistent inflation risks from Middle East tensions, with some dots pointing to possible hikes. Traders should care because this higher-for-longer stance raises borrowing costs and weighs on risk assets like Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Increases pressure on equities, crypto, and growth-sensitive assets.",
+          "title": "Fed Holds Rates Steady at 3.5-3.75% Range",
+          "summary": "The Federal Reserve kept interest rates unchanged in its latest decision, citing solid economic activity amid Middle East uncertainty. Markets had fully expected the hold, with the committee noting steady job gains and strong productivity. Traders should watch for any shifts in dot plot projections or guidance on future cuts, as this keeps policy restrictive and supports a stronger dollar environment.",
+          "sentiment": "Neutral",
+          "impact": "Limits near-term rate cut bets, supporting USD and pressuring risk assets like Bitcoin.",
           "sources": [
             "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-            "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
+            "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
           ]
         },
         {
-          "title": "Treasury Yields Ease After Initial Post-Fed Spike",
-          "summary": "The 10-year Treasury yield dipped to around 4.46% on June 18 after climbing on the Fed's hawkish tone the prior day. Markets had priced in limited near-term rate moves but noted a slight shift toward potential hikes later in 2026. Crypto traders watch this as higher yields strengthen the dollar and compete with Bitcoin as an asset.",
+          "title": "US Initial Jobless Claims Ease to 226K",
+          "summary": "Weekly jobless claims fell slightly to 226,000 for the week ending June 13, coming in just above the 225,000 forecast. The labor market remains stable overall despite some seasonal volatility. Traders care because persistent low claims signal resilience in employment, reducing recession fears but also keeping inflation concerns alive for the Fed.",
           "sentiment": "Neutral",
-          "impact": "Mild support for the dollar with limited immediate crypto spillover.",
+          "impact": "Reinforces soft landing narrative, mixed for Bitcoin as it supports equities but delays easing hopes.",
           "sources": [
-            "https://tradingeconomics.com/united-states/government-bond-yield",
-            "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026"
+            "https://tradingeconomics.com/united-states/jobless-claims",
+            "https://www.dol.gov/ui/data.pdf"
+          ]
+        },
+        {
+          "title": "S&P Global US Composite PMI Flash at 51.5",
+          "summary": "The flash composite PMI for June came in at 51.5, indicating modest private sector expansion with manufacturing holding up better than services. Input costs rose sharply due to energy and supply issues. Traders should note this as a gauge of growth momentum heading into summer, with any further softening potentially weighing on risk sentiment.",
+          "sentiment": "Neutral",
+          "impact": "Signals steady but not accelerating growth, neutral to slightly cautious for markets amid sticky inflation signals.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/composite-pmi",
+            "https://www.pmi.spglobal.com/"
           ]
         }
       ]
@@ -97,54 +47,33 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US and Iran Sign Deal to End War, Reopen Hormuz",
-          "summary": "The US and Iran signed an initial memorandum of understanding to end their conflict, lift the US blockade, and allow Iranian oil exports through the Strait of Hormuz. Follow-up talks planned for Switzerland were postponed amid ongoing doubts and Middle East tensions. Traders should watch this closely because any sustained de-escalation could lower oil prices and support risk assets like Bitcoin.",
+          "title": "Israel, Hezbollah Agree to Renewed Ceasefire in Lebanon",
+          "summary": "Israel and Hezbollah have agreed to a ceasefire starting Friday afternoon, mediated by the US, Qatar, and Iran, after overnight clashes killed dozens. The deal comes amid efforts to stabilize the region following the broader US-Iran conflict. Traders should watch this as reduced escalation risk in the Middle East supports risk assets and helps ease oil supply concerns.",
           "sentiment": "Bullish",
-          "impact": "Eases energy volatility and supports risk-on sentiment",
+          "impact": "Eases immediate war fears, supports risk-on sentiment and lower oil volatility.",
           "sources": [
-            "https://www.cnn.com/2026/06/18/us/5-things-to-know-for-june-18-presidential-legacy-agreement-signed-knicks-parade-flood-threat-gas-prices",
-            "https://www.reuters.com/world/",
-            "https://abcnews.com/"
+            "https://www.reuters.com/world/middle-east/israeli-hezbollah-agree-ceasefire-starting-friday-us-official-2026-06-19/",
+            "https://www.bbc.com/news/live/cy9r022nqz9t"
           ]
         },
         {
-          "title": "Ukraine Hits Moscow Oil Refinery in Major Drone Attack",
-          "summary": "Ukrainian drones struck near Moscow, hitting a major oil refinery and causing black rain and flight disruptions in the Russian capital. This is one of the largest attacks on the area in years and adds pressure to Russian energy infrastructure. Traders care because escalation in the Ukraine war can drive safe-haven flows and weigh on risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Heightens geopolitical tensions and supports oil prices",
-          "sources": [
-            "https://www.bbc.com/news/world",
-            "https://www.nbcnews.com/world"
-          ]
-        },
-        {
-          "title": "Israel Strikes Lebanon as Clashes Intensify",
-          "summary": "Israeli forces carried out strikes in southern Lebanon killing 18, while Hezbollah attacks killed four Israeli soldiers in ongoing fighting. This comes amid the fragile US-Iran deal and broader Middle East instability. Any further escalation risks disrupting energy markets and pressuring risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Adds to Middle East risk premium on oil and assets",
-          "sources": [
-            "https://www.bbc.com/news/world",
-            "https://news.google.com/"
-          ]
-        },
-        {
-          "title": "EU Leaders Meet Amid Ukraine and Middle East Tensions",
-          "summary": "EU heads of state gather for a summit focused on continued Ukraine support, Middle East developments including the Iran situation, defense, and the next long-term budget. Discussions reflect ongoing geopolitical pressures across Europe. Markets will monitor for any new sanctions or policy shifts affecting energy and trade.",
+          "title": "US-Iran Talks Postponed Amid Lebanon Fighting",
+          "summary": "Planned technical talks between the US and Iran in Switzerland were postponed after fresh Israel-Hezbollah clashes threatened the fragile interim deal signed earlier this week. US envoy Steve Witkoff is still traveling, but initial meetings are delayed as parties work to get negotiations back on track within the 60-day window. Traders care because ongoing uncertainty around the Iran deal keeps oil market and geopolitical risk premiums elevated.",
           "sentiment": "Neutral",
-          "impact": "Limited immediate price impact but signals policy direction",
+          "impact": "Prolongs uncertainty, limits immediate bullish relief for markets.",
           "sources": [
-            "https://www.europarl.europa.eu/news/en/press-room/20260618IPR45726/european-parliament-press-kit-for-the-european-council-of-18-19-june-2026",
-            "https://www.e3g.org/news/eu-leaders-face-mounting-geopolitical-pressures-at-june-european-council/"
+            "https://www.cnn.com/2026/06/19/world/live-news/iran-war-trump-israel-lebanon",
+            "https://www.reuters.com/world/asia-pacific/us-iran-peace-talks-geneva-called-off-clouding-prospects-lasting-truce-2026-06-19/"
           ]
         },
         {
-          "title": "Oil Prices React to Iran Deal Uncertainty",
-          "summary": "Oil prices edged higher on doubts about the durability of the US-Iran ceasefire and warnings of future supply gluts from the IEA. The deal aims to reopen Hormuz but implementation faces hurdles. Crypto traders track energy prices closely as they influence broader risk appetite and inflation expectations.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signals keep volatility elevated in energy markets",
+          "title": "Oil Shipments Rise Through Strait of Hormuz Post-Deal",
+          "summary": "Commercial traffic through the Strait of Hormuz is picking up after the recent US-Iran memorandum reopened the waterway, though questions linger over Iranian transit terms and fees. Brent crude is set for an 8% weekly drop as markets price in better supply flow. Traders should note this as a key de-escalation signal that could further pressure oil prices lower and support broader risk assets.",
+          "sentiment": "Bullish",
+          "impact": "Reduces energy shock risk, bullish for equities and crypto via lower inflation pressure.",
           "sources": [
-            "https://www.reuters.com/business/energy/oil-prices-stabilise-investors-weigh-iran-war-end-hormuz-reopening-uncertainty-2026-06-17/",
-            "https://www.bbc.com/news/world"
+            "https://www.reuters.com/business/energy/",
+            "https://oilprice.com/"
           ]
         }
       ]
