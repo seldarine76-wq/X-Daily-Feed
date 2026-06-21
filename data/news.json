@@ -1,44 +1,90 @@
 {
-  "generated_at": "2026-06-20T17:10:21+00:00",
+  "generated_at": "2026-06-21T17:13:31+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Geopolitical relief is lifting market sentiment today after Israel and Hezbollah renewed their ceasefire, allowing more oil to flow through the Strait of Hormuz. With the Fed on hold and steady U.S. data, risk assets like crypto are finding a constructive backdrop. Overall the tone feels cautiously optimistic for digital assets.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin shows mixed signals today with continued ETF outflows and negative funding rates weighing on sentiment. At the same time, fresh institutional interest from Franklin Templeton and hints of more buys from Michael Saylor provide some support. Geopolitical headlines add extra volatility for traders to watch.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
-      "items": []
+      "items": [
+        {
+          "title": "Franklin Templeton Files Bitcoin DRIP ETFs",
+          "summary": "Franklin Templeton filed with the SEC for two new ETFs that allocate 95 percent to US equities and automatically reinvest dividends into Bitcoin exposure. The products aim to create steady, recurring demand for BTC through corporate dividend flows rather than one-time purchases. Traders should watch this as another sign of major institutions building sophisticated ways to add Bitcoin to traditional portfolios, which could support long-term demand even if short-term flows remain mixed.",
+          "sentiment": "Bullish",
+          "impact": "Positive for institutional adoption narrative and potential future inflows.",
+          "sources": [
+            "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
+            "https://coinlive.me/p/bitcoin-etfs-six-week-losing-streak-franklin-templeton-filings.webm"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs Extend Multi-Week Outflow Streak",
+          "summary": "US spot Bitcoin ETFs posted further net outflows over recent sessions, with reports citing around 189 million dollars leaving over seven days and ongoing pressure extending a six-week losing streak. Some days showed selective inflows into funds like Fidelity's FBTC while others saw broader redemptions. Traders care because sustained ETF selling adds direct downward pressure on spot Bitcoin through authorized participants and can weigh on sentiment even as price holds key levels.",
+          "sentiment": "Bearish",
+          "impact": "Continued selling pressure and weaker short-term bid from institutions.",
+          "sources": [
+            "https://bitbo.io/treasuries/etf-flows/",
+            "https://www.coinglass.com/etf/bitcoin"
+          ]
+        },
+        {
+          "title": "Bitcoin Funding Rates Turn Negative",
+          "summary": "Bitcoin perpetual funding rates have flipped negative, indicating traders are increasingly positioning for short positions or reduced long leverage in the derivatives market. This shift often signals crowded bullish bets being unwound or new bearish flows entering. Traders should monitor this as it can precede or amplify spot price weakness if liquidations accelerate on any downside move.",
+          "sentiment": "Bearish",
+          "impact": "Higher risk of leveraged selling and volatility in the near term.",
+          "sources": [
+            "https://www.coingecko.com/en/coins/bitcoin"
+          ]
+        },
+        {
+          "title": "Michael Saylor Hints at Further Bitcoin Buys",
+          "summary": "MicroStrategy executive Michael Saylor signaled potential additional Bitcoin acquisitions amid the current market environment. The company has historically been one of the largest corporate accumulators, and any fresh buying provides a visible institutional bid. Traders watch these comments closely because Saylor's moves often influence broader sentiment and can act as a floor for price during dips.",
+          "sentiment": "Bullish",
+          "impact": "Potential supportive buying from a major corporate treasury.",
+          "sources": [
+            "https://www.coingecko.com/en/coins/bitcoin"
+          ]
+        }
+      ]
     },
     {
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Holds Rates Steady at 3.5-3.75% Range",
-          "summary": "The Federal Reserve kept interest rates unchanged in its latest decision, citing solid economic activity amid Middle East uncertainty. Markets had fully expected the hold, with the committee noting steady job gains and strong productivity. Traders should watch for any shifts in dot plot projections or guidance on future cuts, as this keeps policy restrictive and supports a stronger dollar environment.",
+          "title": "US Initial Jobless Claims Rise Slightly to 226K",
+          "summary": "US initial jobless claims for the week ending June 20 came in at 226,000, a touch above the expected 225,000 and prior reading. The four-week average edged lower to 223,250. Traders watch this as a timely labor market signal that can influence Fed rate expectations and risk appetite. Slight uptick keeps the door open for a softer jobs picture without flashing recession alarms.",
           "sentiment": "Neutral",
-          "impact": "Limits near-term rate cut bets, supporting USD and pressuring risk assets like Bitcoin.",
+          "impact": "Mildly negative for risk assets if trend continues.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/calendar"
+          ]
+        },
+        {
+          "title": "S&P Global Flash PMI Shows Modest Expansion",
+          "summary": "June flash composite PMI printed at 51.5, beating the prior 50.8 and signaling continued but soft growth in services and manufacturing. New orders and employment components remain key details for markets. This data arrives ahead of next week's full reports and helps set the tone for growth versus inflation debates.",
+          "sentiment": "Neutral",
+          "impact": "Supports soft-landing narrative with limited immediate market reaction.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/calendar"
+          ]
+        },
+        {
+          "title": "Fed's New Chair Warsh Signals Steady Policy Path",
+          "summary": "Following the June 17 FOMC decision to hold rates at 3.5 to 3.75 percent, new Chairman Kevin Warsh's press conference emphasized data dependence amid Middle East uncertainty. Markets are parsing his tone on AI-driven investment and potential future hikes. Weekend commentary continues to focus on how the new leadership may shift communication style.",
+          "sentiment": "Neutral",
+          "impact": "Keeps rate-cut hopes in check for now.",
           "sources": [
             "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-            "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+            "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html"
           ]
         },
         {
-          "title": "US Initial Jobless Claims Ease to 226K",
-          "summary": "Weekly jobless claims fell slightly to 226,000 for the week ending June 13, coming in just above the 225,000 forecast. The labor market remains stable overall despite some seasonal volatility. Traders care because persistent low claims signal resilience in employment, reducing recession fears but also keeping inflation concerns alive for the Fed.",
-          "sentiment": "Neutral",
-          "impact": "Reinforces soft landing narrative, mixed for Bitcoin as it supports equities but delays easing hopes.",
+          "title": "Oil Prices Plunge on Reported Iran Deal Progress",
+          "summary": "Spot oil prices have dropped sharply following signs of a US-Iran agreement that eases Middle East tensions. Analysts note this could deliver a disinflationary boost by lowering energy costs across the economy. Traders are watching whether the relief proves lasting or if geopolitical risks re-emerge quickly.",
+          "sentiment": "Bullish",
+          "impact": "Positive for risk assets via lower inflation and input costs.",
           "sources": [
-            "https://tradingeconomics.com/united-states/jobless-claims",
-            "https://www.dol.gov/ui/data.pdf"
-          ]
-        },
-        {
-          "title": "S&P Global US Composite PMI Flash at 51.5",
-          "summary": "The flash composite PMI for June came in at 51.5, indicating modest private sector expansion with manufacturing holding up better than services. Input costs rose sharply due to energy and supply issues. Traders should note this as a gauge of growth momentum heading into summer, with any further softening potentially weighing on risk sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Signals steady but not accelerating growth, neutral to slightly cautious for markets amid sticky inflation signals.",
-          "sources": [
-            "https://tradingeconomics.com/united-states/composite-pmi",
-            "https://www.pmi.spglobal.com/"
+            "https://www.youtube.com/watch?v=fI3fVnAqi80"
           ]
         }
       ]
@@ -47,33 +93,34 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Israel, Hezbollah Agree to Renewed Ceasefire in Lebanon",
-          "summary": "Israel and Hezbollah have agreed to a ceasefire starting Friday afternoon, mediated by the US, Qatar, and Iran, after overnight clashes killed dozens. The deal comes amid efforts to stabilize the region following the broader US-Iran conflict. Traders should watch this as reduced escalation risk in the Middle East supports risk assets and helps ease oil supply concerns.",
-          "sentiment": "Bullish",
-          "impact": "Eases immediate war fears, supports risk-on sentiment and lower oil volatility.",
+          "title": "Iran Claims Strait of Hormuz Closure Amid US-Iran Talks",
+          "summary": "Iran announced it has closed the vital oil shipping route citing ongoing fighting in Lebanon and ceasefire violations, though the US says traffic continues. Vice President JD Vance is leading talks in Switzerland with Iranian officials as Trump issues threats over the waterway. Traders should watch closely because any real disruption here spikes global oil prices and hits risk assets hard.",
+          "sentiment": "Bearish",
+          "impact": "Heightened oil price volatility and risk-off moves in crypto and equities.",
           "sources": [
-            "https://www.reuters.com/world/middle-east/israeli-hezbollah-agree-ceasefire-starting-friday-us-official-2026-06-19/",
-            "https://www.bbc.com/news/live/cy9r022nqz9t"
+            "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html",
+            "https://www.youtube.com/watch?v=qLY-Hx4woaA",
+            "https://www.nbcnews.com/now/video/iran-closes-strait-of-hormuz-over-ceasefire-violations-state-media-reports-265420869526"
           ]
         },
         {
-          "title": "US-Iran Talks Postponed Amid Lebanon Fighting",
-          "summary": "Planned technical talks between the US and Iran in Switzerland were postponed after fresh Israel-Hezbollah clashes threatened the fragile interim deal signed earlier this week. US envoy Steve Witkoff is still traveling, but initial meetings are delayed as parties work to get negotiations back on track within the 60-day window. Traders care because ongoing uncertainty around the Iran deal keeps oil market and geopolitical risk premiums elevated.",
+          "title": "Zelenskyy Issues Ultimatum to Belarus Over Drone Equipment",
+          "summary": "Ukraine's president gave Belarus one week to remove relay gear on the border used to guide Russian drones or face direct Ukrainian action. The move escalates tensions with Minsk and could widen the conflict. Traders should care as any spillover risks further energy market strain and geopolitical uncertainty.",
+          "sentiment": "Bearish",
+          "impact": "Potential for broader Eastern Europe instability affecting risk sentiment.",
+          "sources": [
+            "https://www.euronews.com/2026/06/20/zelenskyy-issues-one-week-ultimatum-to-lukashenka-over-drone-guidance-equipment",
+            "https://kyivindependent.com/a-week-will-be-enough-zelensky-issues-ultimatum-to-lukashenko-over-drone-guidance-equipment/"
+          ]
+        },
+        {
+          "title": "US-Iran Negotiations Complicated by Lebanon Conflict",
+          "summary": "Talks in Switzerland are underway but stalled over ending the Israel-Hezbollah war in Lebanon. Conflicting claims on Hormuz access add to the uncertainty. This keeps Middle East tensions front and center for markets sensitive to energy shocks.",
           "sentiment": "Neutral",
-          "impact": "Prolongs uncertainty, limits immediate bullish relief for markets.",
+          "impact": "Ongoing uncertainty may cap any relief rally in risk assets.",
           "sources": [
-            "https://www.cnn.com/2026/06/19/world/live-news/iran-war-trump-israel-lebanon",
-            "https://www.reuters.com/world/asia-pacific/us-iran-peace-talks-geneva-called-off-clouding-prospects-lasting-truce-2026-06-19/"
-          ]
-        },
-        {
-          "title": "Oil Shipments Rise Through Strait of Hormuz Post-Deal",
-          "summary": "Commercial traffic through the Strait of Hormuz is picking up after the recent US-Iran memorandum reopened the waterway, though questions linger over Iranian transit terms and fees. Brent crude is set for an 8% weekly drop as markets price in better supply flow. Traders should note this as a key de-escalation signal that could further pressure oil prices lower and support broader risk assets.",
-          "sentiment": "Bullish",
-          "impact": "Reduces energy shock risk, bullish for equities and crypto via lower inflation pressure.",
-          "sources": [
-            "https://www.reuters.com/business/energy/",
-            "https://oilprice.com/"
+            "https://www.nytimes.com/section/world",
+            "https://www.cbsnews.com/"
           ]
         }
       ]
