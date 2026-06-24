@@ -1,69 +1,39 @@
 {
-  "generated_at": "2026-06-23T12:07:35+00:00",
+  "generated_at": "2026-06-24T12:09:15+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is under heavy pressure today as ETF outflows hit record levels and the price slides toward 62,000 with hundreds of millions in liquidations. Mixed macro data and geopolitical headlines have failed to spark any meaningful recovery. Overall sentiment stays negative with outflows continuing to dominate.",
+  "overall_summary": "Bitcoin slipped below 63,000 dollars today amid heavy tech selling and 114 million dollars in ETF outflows. Roughly 700 million dollars in liquidations added to the downside pressure, leaving crypto markets firmly in the red despite some broader geopolitical relief.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Record Sixth Straight Week of Outflows",
-          "summary": "US spot Bitcoin ETFs saw another roughly 227 million dollars in net outflows last week, marking the sixth consecutive week of redemptions and bringing recent monthly totals near record levels. Daily data shows continued selling pressure into the weekend. Traders should watch these flows closely because they directly reflect institutional sentiment and can amplify price moves in either direction.",
+          "title": "Bitcoin slips below $63,000 amid tech selloff",
+          "summary": "Bitcoin fell under 63,000 dollars as risk assets retreated with tech and chip stocks, tracking a sharp drop in Asian markets like South Korea's Kospi. The move extended a weekly decline of over 3 percent and pulled ether and other majors lower too. Traders should watch how this broad risk-off environment affects crypto correlation with equities and potential further downside tests.",
           "sentiment": "Bearish",
-          "impact": "Sustained selling pressure on BTC price",
+          "impact": "Increases selling pressure and volatility for Bitcoin near key support levels.",
           "sources": [
-            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-withdrawals-continue-sixth-091355732.html",
+            "https://www.coindesk.com/markets/2026/06/23/bitcoin-slips-toward-usd63-000-as-a-tech-selloff-drags-risk-assets-lower",
+            "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs post $114 million net outflow on June 23",
+          "summary": "US spot Bitcoin ETFs recorded a combined net outflow of about 114 million dollars on June 23 according to flow trackers. This continues a pattern of institutional redemptions seen in recent weeks after earlier inflows. Traders care because sustained ETF outflows can signal reduced institutional demand and add to downward price pressure.",
+          "sentiment": "Bearish",
+          "impact": "Adds to selling pressure and reinforces negative sentiment around institutional flows.",
+          "sources": [
+            "https://farside.co.uk/btc/",
             "https://www.coinglass.com/etf/bitcoin"
           ]
         },
         {
-          "title": "Bitcoin Drops Toward 62,000 on Tech Sell-Off",
-          "summary": "Bitcoin fell under 63,000 dollars and touched an 11-day low near 62,000 as risk assets sold off broadly, led by sharp declines in Asian tech stocks and Korea's Kospi index. Macro concerns including rate-hike bets added to the pressure. Traders care because the move highlights BTC's sensitivity to traditional risk sentiment and potential for further downside if outflows persist.",
+          "title": "Bitcoin drop triggers roughly 700 million dollars in liquidations",
+          "summary": "The slide in Bitcoin to the 62,000 dollar area triggered around 700 million dollars worth of leveraged position liquidations over the past day. This has brought the price back to its 200-week moving average and hit related stocks like MicroStrategy to new lows. Traders should monitor liquidation cascades as they can accelerate moves in either direction.",
           "sentiment": "Bearish",
-          "impact": "Increased volatility and downside risk for BTC",
+          "impact": "Amplifies downside momentum through forced selling of leveraged positions.",
           "sources": [
-            "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-            "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-63k-as-rate-fears-weigh-etf-outflows-persist-4754664"
-          ]
-        },
-        {
-          "title": "30-Day Bitcoin ETF Outflows Hit Record 6.4 Billion Dollars",
-          "summary": "Galaxy Research data highlighted a record 6.4 billion dollar net outflow from Bitcoin ETFs over the past 30 days, the largest such period since the products launched. This comes as BTC trades well below recent highs. The scale matters to traders because it shows the heaviest institutional distribution window yet and could cap any near-term recovery.",
-          "sentiment": "Bearish",
-          "impact": "Signals weak institutional demand, limits upside",
-          "sources": [
-            "https://beincrypto.com/bitcoin-etf-record-30-day-outflow/",
-            "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens"
-          ]
-        },
-        {
-          "title": "Bitcoin ETF Outflow Pace Slows Slightly but Remains Negative",
-          "summary": "While weekly outflows eased to around 227 million dollars from prior heavier weeks, the streak of redemptions continues and daily figures still show net selling. Some funds saw modest inflows but overall pressure lingers. Traders should note the deceleration as a potential early sign that the worst selling may be passing, though conviction remains fragile.",
-          "sentiment": "Neutral",
-          "impact": "Mild relief but trend still negative for price",
-          "sources": [
-            "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
-            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-withdrawals-continue-sixth-091355732.html"
-          ]
-        },
-        {
-          "title": "Liquidations Top Hundreds of Millions as BTC Slides",
-          "summary": "Bitcoin's drop triggered over 500 million dollars in liquidations in recent sessions according to market reports. Forced selling adds to downward momentum. Traders need to monitor these levels because they can create cascading moves and signal where short-term support may be tested.",
-          "sentiment": "Bearish",
-          "impact": "Amplifies short-term price volatility downward",
-          "sources": [
-            "https://www.newsnow.com/us/Business/Cryptocurrencies/Bitcoin"
-          ]
-        },
-        {
-          "title": "Mixed Macro Signals Cap Bitcoin Recovery Attempts",
-          "summary": "Easing US-Iran tensions provided some risk-on support but rate-hike forecasts and broader equity weakness kept gains limited. Bitcoin held above 64,000 at times before renewed selling. Traders should track these macro crosscurrents as they continue to drive daily price action more than crypto-specific catalysts right now.",
-          "sentiment": "Neutral",
-          "impact": "Keeps BTC range-bound near current levels",
-          "sources": [
-            "https://www.investing.com/news/cryptocurrency-news/bitcoin-ticks-up-on-positive-u-s-iran-talks-but-gains-capped-by-rate-hike-bets-4751794",
-            "https://www.fool.com/coverage/stock-market-today/2026/06/22/crypto-market-today-june-22-bitcoin-holds-above-usd64-000-on-easing-geopolitical-tensions/"
+            "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off"
           ]
         }
       ]
@@ -72,32 +42,43 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US June Flash PMIs Signal Steady Expansion",
-          "summary": "S&P Global released its June flash PMIs today showing the composite at 51.5, manufacturing at a strong 55.1, and services at 50.7. Manufacturing posted its best reading since 2022 with solid output and orders growth, while services eased slightly but stayed in expansion. Traders should watch these early signals on business activity and pricing pressures for clues on growth resilience and inflation trends heading into the Fed's next decisions.",
+          "title": "US New Home Sales Data Due Today",
+          "summary": "The Census Bureau is set to release May new home sales figures at 10 a.m. ET. This housing market gauge offers clues on consumer demand and economic momentum amid higher mortgage rates. Traders will watch for signs of strength or weakness that could influence rate expectations and broader risk sentiment.",
           "sentiment": "Neutral",
-          "impact": "Mixed but generally supportive for risk assets if growth holds without overheating prices.",
+          "impact": "Mild moves in housing-related assets and USD if data surprises.",
           "sources": [
-            "https://tradingeconomics.com/united-states/calendar",
-            "https://www.marketwatch.com/economy-politics/calendar"
-          ]
-        },
-        {
-          "title": "Minor US Data Releases Include ADP Jobs and Redbook",
-          "summary": "Today's lighter calendar featured ADP's weekly employment change at 25.5K and Redbook retail sales YoY at 9.4 percent for mid-June. These provide incremental reads on labor and consumer spending but lack the weight of major monthly reports. Traders care as they can nudge short-term sentiment on the jobs picture and retail momentum ahead of bigger data like PCE later in the week.",
-          "sentiment": "Neutral",
-          "impact": "Limited immediate market move expected from these routine figures.",
-          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
             "https://tradingeconomics.com/united-states/calendar"
           ]
         },
         {
-          "title": "State Employment Data and Central Bank Speeches Today",
-          "summary": "The BLS released May state employment and unemployment figures at 10 AM ET, while ECB's Elderson and Bank of Canada Governor Macklem are scheduled for remarks. These add regional labor color and policy tone but are unlikely to shift broad markets. Crypto traders monitor for any hints on global liquidity or dollar strength from the speeches.",
+          "title": "Fed Bank Stress Test Results Expected",
+          "summary": "The Federal Reserve will publish its annual bank stress test outcomes today. These results assess major banks' resilience under adverse scenarios and can shape views on financial sector stability. Markets often react to any signals about capital requirements or regulatory tone.",
           "sentiment": "Neutral",
-          "impact": "Low direct impact unless speeches surprise on rate paths.",
+          "impact": "Potential volatility in bank stocks and broader equity sentiment.",
           "sources": [
-            "https://www.bls.gov/schedule/2026/06_sched_list.htm",
-            "https://tradingeconomics.com/calendar"
+            "https://tradingeconomics.com/calendar",
+            "https://www.newyorkfed.org/research/calendars/nationalecon_cal"
+          ]
+        },
+        {
+          "title": "DXY Firms as Yields Ease Slightly",
+          "summary": "The dollar index edged higher to around 101.63 while 10-year Treasury yields dipped to about 4.48 percent. Moves come against the backdrop of Fed hawkish signals from last week's meeting and expectations for possible rate hikes later this year. Lower oil prices provided some support to bonds.",
+          "sentiment": "Neutral",
+          "impact": "Supports USD strength which can pressure risk assets like Bitcoin.",
+          "sources": [
+            "https://www.barrons.com/livecoverage/stock-market-news-today-062426/card/u-s-treasury-yields-fall-dollar-firms-P557InoOedrsZxXNKBTz",
+            "https://tradingeconomics.com/united-states/government-bond-yield"
+          ]
+        },
+        {
+          "title": "Fed Speakers and Balance Sheet Update",
+          "summary": "Multiple Fed officials including Goolsbee and Williams are scheduled to speak today alongside the weekly balance sheet release. These comments keep policy expectations in focus after the June FOMC hold and new Chair Warsh's hawkish tilt. Any fresh guidance on rates or QT could move markets.",
+          "sentiment": "Neutral",
+          "impact": "Could reinforce or shift near-term rate hike odds affecting yields and DXY.",
+          "sources": [
+            "https://tradingeconomics.com/calendar",
+            "https://www.federalreserve.gov/newsevents.htm"
           ]
         }
       ]
@@ -106,62 +87,63 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US-Iran Talks Show Encouraging Progress in Switzerland",
-          "summary": "Mediators from Pakistan and Qatar report that US and Iranian delegations made solid headway during 18 hours of direct negotiations, agreeing on a roadmap to a final peace deal within 60 days. Vice President JD Vance led the US side after both countries signed an earlier memorandum to end their conflict. Traders should watch this closely because any real de-escalation in the Middle East tends to ease geopolitical risk premiums and support risk assets like Bitcoin.",
+          "title": "US-Iran talks yield roadmap for final peace deal",
+          "summary": "High-level US-Iran talks in Switzerland wrapped up with a roadmap toward a comprehensive deal within 60 days, including sanctions relief and a de-confliction mechanism for Lebanon. Mediators from Pakistan and Qatar called the round successful, though details on nuclear inspections remain disputed. Traders should watch for reduced Middle East risk and lower energy prices supporting risk assets.",
           "sentiment": "Bullish",
-          "impact": "Lower risk premium supports equities and crypto.",
+          "impact": "Eases geopolitical premium, supports risk-on flows and lower oil.",
           "sources": [
-            "https://www.democracynow.org/2026/6/22/headlines",
-            "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks"
+            "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+            "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks"
           ]
         },
         {
-          "title": "US Partially Lifts Iran Oil Sanctions, Prices Drop Sharply",
-          "summary": "The US Treasury issued a 60-day waiver allowing Iranian oil sales, following the positive talks. Brent crude fell over 3 percent to around $78 a barrel on the news. Lower energy costs reduce inflation fears and act as a tailwind for global growth and risk-on markets including Bitcoin.",
+          "title": "Dozens of ships transit Strait of Hormuz after US-Iran deal",
+          "summary": "At least 172 vessels have crossed the Strait of Hormuz since the June 17 memorandum, with sharp increases noted over the weekend. Iran and the US dispute ongoing control and potential tolls, but traffic is rising from conflict lows. Lower oil supply concerns are easing, which is positive for global growth and crypto risk appetite.",
           "sentiment": "Bullish",
-          "impact": "Cheaper oil boosts risk appetite and crypto.",
+          "impact": "Reduces energy shock risk, bullish for equities and Bitcoin.",
           "sources": [
-            "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks",
-            "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html"
+            "https://www.bbc.com/news/articles/cx23rnzdgl8o",
+            "https://apnews.com/article/strait-hormuz-ships-crossing-iran-us-e6039e5f3962ba001ed6b7abb74219b0"
           ]
         },
         {
-          "title": "Israel Kills 83 in Lebanon Despite Ceasefire Claims",
-          "summary": "Reports indicate Israel struck targets in Lebanon killing 83 people even as a new ceasefire was announced. Iran responded by again threatening to close the Strait of Hormuz. Persistent violence keeps oil supply risks alive and can trigger short-term volatility in risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Ongoing tensions support higher oil volatility.",
+          "title": "Oil prices fall as Hormuz traffic rises and Iran talks advance",
+          "summary": "Crude has dropped toward $72 per barrel on improved tanker flows through Hormuz and diplomatic progress between Washington and Tehran. Markets are pricing in reduced supply disruption risk after months of elevated prices. Lower energy costs ease inflation pressures and support broader financial markets.",
+          "sentiment": "Bullish",
+          "impact": "Cuts input costs and inflation fears, positive for risk assets.",
           "sources": [
-            "https://www.democracynow.org/2026/6/22/headlines",
-            "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+            "https://tradingeconomics.com/commodity/crude-oil",
+            "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/"
           ]
         },
         {
-          "title": "Keir Starmer Resigns as UK Prime Minister",
-          "summary": "British PM Keir Starmer stepped down amid internal Labour Party pressure, marking another leadership change in a turbulent period. UK political instability adds uncertainty to European markets and pound sterling. For crypto traders this is mostly a sideshow but can contribute to broader risk-off flows if it spreads.",
+          "title": "Conflicting accounts cloud US-Iran nuclear and sanctions talks",
+          "summary": "US and Iranian officials gave differing reports on nuclear inspection commitments and the release of frozen assets in the ongoing talks. Iran described elements of the deal as a US defeat while the US highlighted progress. Persistent uncertainty could keep volatility elevated in energy and risk markets.",
           "sentiment": "Neutral",
-          "impact": "Minor uncertainty for European assets.",
+          "impact": "Maintains some geopolitical premium and price swings.",
           "sources": [
-            "https://www.nbcnews.com/world/united-kingdom/keir-starmer-resigns-prime-minister-andy-burnham-labour-party-britain-rcna257534",
-            "https://www.democracynow.org/2026/6/22/headlines"
+            "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+            "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel"
           ]
         },
         {
-          "title": "Iran Signals Moves to Control Strait of Hormuz Traffic",
-          "summary": "Tehran is reportedly looking to charge fees or assert tighter control over the vital oil shipping lane after recent ceasefire violations. Shipping disruptions here directly affect global energy supply and can quickly move oil prices higher. Traders should monitor for any fresh closures that would pressure markets.",
-          "sentiment": "Bearish",
-          "impact": "Potential oil supply shock if enforced.",
-          "sources": [
-            "https://www.nytimes.com/section/world",
-            "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
-          ]
-        },
-        {
-          "title": "Continued Israeli Strikes in Gaza Despite Ceasefire",
-          "summary": "Israel carried out further attacks in Gaza, killing an Al Jazeera cameraman among others, even as ceasefires are discussed elsewhere. The persistent conflict in the region sustains underlying geopolitical tension. While not an immediate market mover today, any major escalation could quickly hit risk sentiment.",
+          "title": "UK Prime Minister Keir Starmer announces resignation",
+          "summary": "Keir Starmer stepped down as Labour leader and prime minister amid internal party pressure, triggering a leadership contest likely won by Andy Burnham. He will stay on until a successor is chosen, likely by September. The political transition in a major economy adds a layer of European uncertainty but is not an immediate market driver.",
           "sentiment": "Neutral",
-          "impact": "Low immediate impact but watch for escalation.",
+          "impact": "Minor near-term volatility expected in UK assets.",
           "sources": [
-            "https://www.democracynow.org/2026/6/22/headlines"
+            "https://apnews.com/live/keir-starmer-resignation-uk-prime-minister-updates-06-22-2026",
+            "https://www.bbc.com/news/articles/cdxd00lg599o"
+          ]
+        },
+        {
+          "title": "Iran moves to assert control over Strait of Hormuz amid talks",
+          "summary": "Iran has signaled it will manage the Strait under its rules and formed a joint committee with Oman, while the US disputes any re-closure. Shipping data shows mixed results with some stalls over the weekend. Any renewed tensions here could quickly reverse recent oil and risk-asset gains.",
+          "sentiment": "Bearish",
+          "impact": "Risk of renewed supply disruption and higher volatility.",
+          "sources": [
+            "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
+            "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
           ]
         }
       ]
