@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-26T11:51:38+00:00",
+  "generated_at": "2026-06-27T15:57:07+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin ETFs posted their fifth straight day of heavy outflows, with nearly 700 million dollars leaving the market yesterday. Ongoing geopolitical tensions in the Middle East are adding to risk-off sentiment, outweighing a minor positive from new US-Iran deconfliction talks. Crypto traders should stay cautious as selling pressure dominates.",
+  "overall_summary": "Crypto markets took a heavy hit today as Bitcoin ETFs saw massive outflows and over a billion dollars in liquidations swept through the space. Bitcoin is hovering near 59,000 in a clear risk-off environment, with hawkish Fed comments adding to the pressure. Overall sentiment remains firmly negative for traders.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs See $692M Net Outflow on June 25",
-          "summary": "US spot Bitcoin ETFs recorded a large daily net outflow of about 692 million dollars or over 11 thousand BTC on the latest reported day. BlackRock's IBIT led with hundreds of millions leaving, continuing a streak of redemptions. Traders watch these flows closely because sustained outflows remove a key source of buying pressure and can weigh on Bitcoin price.",
+          "title": "Bitcoin ETFs See $691M Outflows in Single Day",
+          "summary": "US spot Bitcoin ETFs recorded their largest daily redemptions of June so far, with roughly 691 million dollars flowing out on Thursday. Funds like Fidelity's FBTC and BlackRock's IBIT led the exits, extending a multi-day streak of withdrawals. Traders should watch this closely because sustained institutional selling can amplify downside moves in BTC price action.",
           "sentiment": "Bearish",
-          "impact": "Adds selling pressure and signals weakening institutional demand",
+          "impact": "Adds selling pressure and weighs on near-term sentiment",
           "sources": [
-            "https://www.coinglass.com/etf/bitcoin",
-            "https://farside.co.uk/btc/"
+            "https://www.fool.com/coverage/stock-market-today/2026/06/26/crypto-market-today-june-26-risk-off-sentiment-weighs-on-bitcoin-with-usd1-3-billion-in-etf-outflows-this-week/",
+            "https://tokenmetrics.com/btc/news/bitcoin-etf-696m-outflows-june-2026/"
           ]
         },
         {
-          "title": "BlackRock Moves 4,577 BTC and 42K ETH to Coinbase Prime",
-          "summary": "BlackRock transferred roughly 4,577 Bitcoin worth 272 million dollars plus 42 thousand Ethereum to Coinbase Prime in a single move. Similar large transfers totaling over 600 million dollars occurred in the prior 48 hours. The market views these as potential signs of ETF redemptions or preparation for selling, which can increase near-term supply.",
+          "title": "Over $1 Billion in Crypto Liquidations Hit Markets",
+          "summary": "Leveraged positions were wiped out across Bitcoin and Ethereum, with more than 1 billion dollars in liquidations reported in the last 24 hours. BTC accounted for the bulk of the forced closures amid falling prices and high funding rates. This flush can reset leverage but often signals capitulation that keeps volatility elevated for traders.",
           "sentiment": "Bearish",
-          "impact": "Raises risk of further ETF-related selling and downward price pressure",
+          "impact": "Forces deleveraging and can accelerate short-term declines",
           "sources": [
-            "https://farside.co.uk/btc/",
-            "https://www.coinglass.com/etf/bitcoin"
+            "https://beincrypto.com/bitcoin-etf-outflows-record-streak-june-2026/",
+            "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april"
           ]
         },
         {
-          "title": "Bitcoin Spot ETFs Post Fifth Straight Day of Heavy Outflows",
-          "summary": "The Bitcoin ETF complex has now seen five or six consecutive trading days of net outflows totaling around 720 million dollars recently. BlackRock funds have driven much of the selling with no offsetting inflows from other providers. This persistent withdrawal trend points to institutions reducing exposure amid macro uncertainty.",
+          "title": "Bitcoin Trades Near $59,000 Amid Risk-Off Mood",
+          "summary": "Bitcoin opened Friday around 59,700 dollars and slipped further, closing the session near or below 59,000 amid broader market caution. June has seen roughly 18 percent declines so far as capital rotates elsewhere. Traders care because breaking key psychological levels often triggers stop runs and forces reassessment of positions.",
           "sentiment": "Bearish",
-          "impact": "Reinforces negative sentiment and potential for lower support tests",
+          "impact": "Maintains downward bias and tests support zones",
           "sources": [
-            "https://farside.co.uk/btc/",
-            "https://bitcoinfoundation.org/news/crypto-etfs-news/crypto-etf-may/"
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html",
+            "https://fortune.com/article/price-of-bitcoin-06-26-2026/"
           ]
         }
       ]
@@ -43,42 +43,51 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Goolsbee: Inflation trending the wrong way",
-          "summary": "Chicago Fed President Austan Goolsbee said inflation remains too high and is moving in the wrong direction, though some bright spots exist. He highlighted the need to assess if recent pressures from tariffs and Middle East tensions will prove temporary. Traders should watch for any hints on how this affects the Fed's rate path and dollar strength.",
+          "title": "Kashkari Shifts to Expect One Fed Rate Hike in 2026",
+          "summary": "Minneapolis Fed President Neel Kashkari told an Aspen panel on Friday he has updated his outlook and now sees one interest rate increase by year-end, citing persistent inflation pressures from tariffs and other factors. He previously expected a cut. Traders should watch this hawkish pivot from a key voter for clues on the Fed's next moves and potential dollar strength.",
           "sentiment": "Bearish",
-          "impact": "Could keep rate cut expectations in check and support the dollar.",
+          "impact": "Could support higher yields and pressure risk assets like Bitcoin.",
           "sources": [
-            "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
+            "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026/card/citing-inflation-kashkari-says-the-fed-might-have-to-raise-rates-this-year-aqOKdeWgZOSA4QKmr9cD"
           ]
         },
         {
-          "title": "Advance US goods trade balance and inventories due",
-          "summary": "The Census Bureau releases advance May figures for the goods trade balance, retail inventories excluding autos, and wholesale inventories at 8:30 AM ET. These provide early reads on trade flows and business stockpiling ahead of fuller data. Minor impact expected but any surprises could nudge dollar or equity sentiment.",
+          "title": "US Goods Trade Deficit Widens Sharply in May",
+          "summary": "The advanced US goods trade balance came in at a worse-than-expected minus $105.8 billion for May, compared to consensus around minus $85 billion. Retail and wholesale inventory data also released showed modest gains. These figures highlight ongoing trade imbalances that could influence dollar flows and Fed policy thinking.",
           "sentiment": "Neutral",
-          "impact": "Limited direct effect on Bitcoin or broad markets unless numbers deviate sharply from forecasts around -84 billion for the deficit.",
+          "impact": "Mixed signals on growth and inflation, limited immediate market reaction on weekend.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://tradingeconomics.com/united-states/calendar"
-          ]
-        },
-        {
-          "title": "Michigan consumer sentiment final June reading out",
-          "summary": "The final University of Michigan consumer sentiment index for June is scheduled for 10 AM ET, following a preliminary reading of 48.9 that showed modest improvement from May's lows thanks to lower gas prices. Inflation expectations also eased slightly in the prelim. Markets may react mildly to confirmation of consumer mood.",
-          "sentiment": "Neutral",
-          "impact": "Reinforces soft consumer backdrop without major new information.",
-          "sources": [
-            "https://www.sca.isr.umich.edu/",
+            "https://tradingeconomics.com/united-states/calendar",
             "https://www.marketwatch.com/economy-politics/calendar"
           ]
         },
         {
-          "title": "Kashkari speaks at Aspen Ideas Festival",
-          "summary": "Minneapolis Fed President Neel Kashkari participates in a panel on affordability at 11:30 AM ET. Any comments on monetary policy, inflation, or the economy could move short-term rate expectations. Traders monitor for dovish or hawkish signals from the Fed official.",
+          "title": "Reuters Poll: Economists See Fed Holding Rates Steady in 2026",
+          "summary": "A fresh Reuters survey of economists finds over three-quarters expect the Federal Reserve to keep rates unchanged through the end of the year, up from prior polls, even as markets price in possible hikes. This comes days after the June FOMC held steady at 3.5-3.75 percent. Traders should note the gap between economist and market views on policy path.",
           "sentiment": "Neutral",
-          "impact": "Potential for short-term volatility in yields and dollar depending on tone.",
+          "impact": "Suggests limited near-term rate volatility but highlights policy uncertainty.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://www.cmegroup.com/education/events/econoday/696347"
+            "https://www.reuters.com/business/fed-hold-rates-this-year-economists-say-defying-market-bets-hikes-2026-06-26/"
+          ]
+        },
+        {
+          "title": "US Consumer Sentiment Final Reading Improves in June",
+          "summary": "The final University of Michigan consumer sentiment index for June printed at 49.5, above expectations and prior readings. The data points to slightly better household confidence amid mixed economic signals. Crypto traders monitor sentiment as a proxy for risk appetite and spending trends.",
+          "sentiment": "Bullish",
+          "impact": "Mild positive for consumer-driven growth outlook.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar"
+          ]
+        },
+        {
+          "title": "Fed Speakers and Data Releases Light on Weekend",
+          "summary": "With US markets closed for the weekend, focus remains on Friday's inventory builds, trade figures, and Kashkari comments rather than new releases. No major central bank decisions or high-impact data like CPI or jobs are scheduled for Saturday or Sunday. Bond yields and DXY showed little movement into the weekend.",
+          "sentiment": "Neutral",
+          "impact": "Quiet period likely keeps markets range-bound until Monday.",
+          "sources": [
+            "https://tradingeconomics.com/calendar",
+            "https://www.federalreserve.gov/releases/h15/"
           ]
         }
       ]
@@ -87,58 +96,36 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Iran Attacks Vessel, Threatens Shipping in Strait of Hormuz",
-          "summary": "Iran's IRGC Navy struck a vessel near Oman and warned ships to follow its routes or face danger, pushing to control the vital waterway. This comes amid ongoing US-Iran talks and a recent ceasefire framework. Traders should watch closely as any disruption risks spiking oil prices and triggering broader risk-off moves in markets including Bitcoin.",
+          "title": "US Strikes Iranian Missile Sites After Hormuz Ship Attack",
+          "summary": "The US military launched strikes on Iranian missile and drone facilities along the Strait of Hormuz and Qeshm Island on Friday in retaliation for an Iranian drone hit on a commercial cargo ship the day before. President Trump called the Iranian action a foolish violation of the fragile ceasefire. The limited strikes target storage and radar sites in a bid to deter further escalation while talks on a broader deal continue. Traders should watch for any fresh disruption to oil flows through the critical waterway.",
           "sentiment": "Bearish",
-          "impact": "Heightened oil and shipping volatility could pressure risk assets.",
+          "impact": "Heightens Middle East tensions and risks renewed oil price volatility.",
           "sources": [
-            "https://understandingwar.org/research/middle-east/iran-update-special-report-june-25-2026/"
+            "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz",
+            "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire",
+            "https://www.reuters.com/world/middle-east/israel-drops-leaflets-over-south-lebanon-town-ordering-residents-leave-2026-06-26/"
           ]
         },
         {
-          "title": "US and Iran Set Up Direct Deconfliction Channel in Doha",
-          "summary": "Vice President JD Vance announced a new direct line between US Central Command and Iran's IRGC in Qatar to quickly resolve incidents and lower conflict risks. It follows recent threats in the Strait of Hormuz and nuclear negotiations. Markets may see this as a positive step toward de-escalation in the Middle East.",
+          "title": "Venezuela Quake Death Toll Tops 920 as Rescue Efforts Stall",
+          "summary": "Twin powerful earthquakes that struck Venezuela on Wednesday have now killed at least 920 people with thousands injured or missing. Rescue teams face aftershocks and a lack of heavy equipment three days later while international aid arrives. The disaster hits a key oil-producing country and could complicate regional energy supply dynamics. Traders should monitor any impact on Venezuelan crude output.",
+          "sentiment": "Neutral",
+          "impact": "Potential minor disruption to oil supply from an already strained producer.",
+          "sources": [
+            "https://www.cnn.com/2026/06/27/world/live-news/venezuela-earthquake-hnk",
+            "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+            "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
+          ]
+        },
+        {
+          "title": "Israel and Lebanon Sign US-Mediated Framework Agreement",
+          "summary": "Israel and Lebanon signed a framework deal in Washington on Friday after days of US-brokered talks. The agreement outlines steps toward Hezbollah disarmament, Lebanese sovereignty restoration, and phased Israeli withdrawals from parts of southern Lebanon. US officials called it the first step toward a broader peace. Markets may see this as a modest de-escalation signal in the Middle East.",
           "sentiment": "Bullish",
-          "impact": "Reduced near-term escalation fears could support risk sentiment.",
+          "impact": "Supports lower geopolitical risk premium in energy markets.",
           "sources": [
-            "https://understandingwar.org/research/middle-east/iran-update-special-report-june-25-2026/"
-          ]
-        },
-        {
-          "title": "Israel-Lebanon Talks Stall Over Southern Lebanon Pilot Zones",
-          "summary": "Israeli and Lebanese officials rejected multiple proposals for Lebanese forces to replace IDF positions in southern Lebanon, with disagreements on locations and timelines. Hezbollah threats persist as Israel insists on full demilitarization first. Ongoing border tensions add to regional uncertainty for traders.",
-          "sentiment": "Bearish",
-          "impact": "Prolonged Middle East friction keeps geopolitical risk premium elevated.",
-          "sources": [
-            "https://understandingwar.org/research/middle-east/iran-update-special-report-june-25-2026/",
-            "https://www.jewishdallas.org/news/israel-update-june-25-2026/"
-          ]
-        },
-        {
-          "title": "Nuclear Inspections Emerge as Flashpoint in US-Iran Talks",
-          "summary": "Disputes over international inspector access to Iranian nuclear sites have become central in ongoing negotiations, with President Trump stating there would be no deal without it. This follows the recent US-Israel strikes and ceasefire. Any breakdown could quickly re-escalate tensions.",
-          "sentiment": "Bearish",
-          "impact": "Sticking points in talks raise chances of renewed volatility.",
-          "sources": [
-            "https://www.jewishdallas.org/news/israel-update-june-25-2026/"
-          ]
-        },
-        {
-          "title": "Minnesota Court Blocks Trump Executive Order on Elections",
-          "summary": "A federal judge sided with Minnesota's attorney general and 23 states, striking down a Trump order that sought to create federal voter lists and restrict mail voting. This marks the second court loss for the administration on election-related EOs in recent days. Domestic political friction adds another layer of uncertainty.",
-          "sentiment": "Neutral",
-          "impact": "US political noise may have limited direct market impact.",
-          "sources": [
-            "https://www.ag.state.mn.us/Office/Communications/2026/06/25_Elections.asp"
-          ]
-        },
-        {
-          "title": "Report Highlights Defense and Oil Profits From Iran Conflict",
-          "summary": "An analysis shows arms makers and certain energy players benefited significantly from the recent US-Israel strikes on Iran and resulting price spikes. With talks now underway, attention turns to whether the 60-day ceasefire holds. Traders note how prolonged regional instability tends to favor volatility plays.",
-          "sentiment": "Neutral",
-          "impact": "Sector-specific gains amid broader uncertainty.",
-          "sources": [
-            "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran"
+            "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon",
+            "https://www.reuters.com/world/middle-east/israel-drops-leaflets-over-south-lebanon-town-ordering-residents-leave-2026-06-26/",
+            "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-of-the-united-states-of-america-republic-of-lebanon-and-state-of-israel-on-the-latest-high-level-trilateral-meeting"
           ]
         }
       ]
