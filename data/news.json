@@ -1,131 +1,87 @@
 {
-  "generated_at": "2026-06-27T15:57:07+00:00",
+  "generated_at": "2026-06-28T16:43:30+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto markets took a heavy hit today as Bitcoin ETFs saw massive outflows and over a billion dollars in liquidations swept through the space. Bitcoin is hovering near 59,000 in a clear risk-off environment, with hawkish Fed comments adding to the pressure. Overall sentiment remains firmly negative for traders.",
+  "overall_summary": "Bitcoin has dropped below sixty thousand dollars with record ETF outflows topping one point three billion dollars this week. Escalating geopolitical conflicts in the Middle East are adding further downside pressure to risk assets. Overall the tone for crypto remains clearly negative today.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs See $691M Outflows in Single Day",
-          "summary": "US spot Bitcoin ETFs recorded their largest daily redemptions of June so far, with roughly 691 million dollars flowing out on Thursday. Funds like Fidelity's FBTC and BlackRock's IBIT led the exits, extending a multi-day streak of withdrawals. Traders should watch this closely because sustained institutional selling can amplify downside moves in BTC price action.",
+          "title": "Bitcoin Falls Below $60,000 Amid Heavy ETF Outflows",
+          "summary": "Bitcoin traded under 60,000 dollars over the weekend, down about 0.6 percent in the last day and nearly 7 percent on the week. Spot Bitcoin ETFs posted another round of large net outflows, with single-day figures around 444 to 696 million dollars recently and weekly totals exceeding 1.3 billion dollars. BlackRock's IBIT has been the biggest contributor to the redemptions. Traders should watch this because sustained institutional selling through ETFs removes a key source of demand and increases downside risk in the short term.",
           "sentiment": "Bearish",
-          "impact": "Adds selling pressure and weighs on near-term sentiment",
+          "impact": "Pressures Bitcoin price lower and signals weakening institutional demand.",
           "sources": [
-            "https://www.fool.com/coverage/stock-market-today/2026/06/26/crypto-market-today-june-26-risk-off-sentiment-weighs-on-bitcoin-with-usd1-3-billion-in-etf-outflows-this-week/",
-            "https://tokenmetrics.com/btc/news/bitcoin-etf-696m-outflows-june-2026/"
+            "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+            "https://www.bloomberg.com/news/articles/2026-06-26/crypto-s-etf-boom-gets-4-5-billion-reality-check-in-brutal-week"
           ]
         },
         {
-          "title": "Over $1 Billion in Crypto Liquidations Hit Markets",
-          "summary": "Leveraged positions were wiped out across Bitcoin and Ethereum, with more than 1 billion dollars in liquidations reported in the last 24 hours. BTC accounted for the bulk of the forced closures amid falling prices and high funding rates. This flush can reset leverage but often signals capitulation that keeps volatility elevated for traders.",
+          "title": "Bitcoin ETFs See Record Weekly Outflows of Over $1.3 Billion",
+          "summary": "U.S. spot Bitcoin ETFs recorded more than 1.3 billion dollars in net withdrawals for the week ending around June 27, extending a multi-week streak of outflows. Year-to-date flows have now flipped negative at roughly 4.6 billion dollars. BlackRock's IBIT alone accounted for a large share, around 860 million dollars this week. Traders care because these products have been the main institutional on-ramp, and persistent outflows reduce buying support and can amplify price moves.",
           "sentiment": "Bearish",
-          "impact": "Forces deleveraging and can accelerate short-term declines",
+          "impact": "Removes structural buying and heightens volatility to the downside.",
           "sources": [
-            "https://beincrypto.com/bitcoin-etf-outflows-record-streak-june-2026/",
-            "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://www.bloomberg.com/news/articles/2026-06-26/crypto-s-etf-boom-gets-4-5-billion-reality-check-in-brutal-week"
           ]
         },
         {
-          "title": "Bitcoin Trades Near $59,000 Amid Risk-Off Mood",
-          "summary": "Bitcoin opened Friday around 59,700 dollars and slipped further, closing the session near or below 59,000 amid broader market caution. June has seen roughly 18 percent declines so far as capital rotates elsewhere. Traders care because breaking key psychological levels often triggers stop runs and forces reassessment of positions.",
-          "sentiment": "Bearish",
-          "impact": "Maintains downward bias and tests support zones",
+          "title": "BlackRock Bitcoin ETF Holdings Top 700,000 BTC Despite Outflows",
+          "summary": "BlackRock's iShares Bitcoin Trust now holds more than 700,000 Bitcoin, representing over 3 percent of total supply. This comes even as the fund and the broader ETF complex have seen hundreds of millions in daily redemptions recently. The growth from zero holdings a year ago highlights institutional accumulation over time, but recent selling shows flows can reverse quickly. Traders should note this as a gauge of long-term institutional positioning versus short-term sentiment.",
+          "sentiment": "Neutral",
+          "impact": "Shows scale of institutional custody but does not offset current outflow pressure.",
           "sources": [
-            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html",
-            "https://fortune.com/article/price-of-bitcoin-06-26-2026/"
+            "https://x.com/MartiniGuyYT/status/2071237350248866028"
           ]
         }
       ]
     },
     {
       "name": "Macro / Economic",
-      "items": [
-        {
-          "title": "Kashkari Shifts to Expect One Fed Rate Hike in 2026",
-          "summary": "Minneapolis Fed President Neel Kashkari told an Aspen panel on Friday he has updated his outlook and now sees one interest rate increase by year-end, citing persistent inflation pressures from tariffs and other factors. He previously expected a cut. Traders should watch this hawkish pivot from a key voter for clues on the Fed's next moves and potential dollar strength.",
-          "sentiment": "Bearish",
-          "impact": "Could support higher yields and pressure risk assets like Bitcoin.",
-          "sources": [
-            "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026/card/citing-inflation-kashkari-says-the-fed-might-have-to-raise-rates-this-year-aqOKdeWgZOSA4QKmr9cD"
-          ]
-        },
-        {
-          "title": "US Goods Trade Deficit Widens Sharply in May",
-          "summary": "The advanced US goods trade balance came in at a worse-than-expected minus $105.8 billion for May, compared to consensus around minus $85 billion. Retail and wholesale inventory data also released showed modest gains. These figures highlight ongoing trade imbalances that could influence dollar flows and Fed policy thinking.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signals on growth and inflation, limited immediate market reaction on weekend.",
-          "sources": [
-            "https://tradingeconomics.com/united-states/calendar",
-            "https://www.marketwatch.com/economy-politics/calendar"
-          ]
-        },
-        {
-          "title": "Reuters Poll: Economists See Fed Holding Rates Steady in 2026",
-          "summary": "A fresh Reuters survey of economists finds over three-quarters expect the Federal Reserve to keep rates unchanged through the end of the year, up from prior polls, even as markets price in possible hikes. This comes days after the June FOMC held steady at 3.5-3.75 percent. Traders should note the gap between economist and market views on policy path.",
-          "sentiment": "Neutral",
-          "impact": "Suggests limited near-term rate volatility but highlights policy uncertainty.",
-          "sources": [
-            "https://www.reuters.com/business/fed-hold-rates-this-year-economists-say-defying-market-bets-hikes-2026-06-26/"
-          ]
-        },
-        {
-          "title": "US Consumer Sentiment Final Reading Improves in June",
-          "summary": "The final University of Michigan consumer sentiment index for June printed at 49.5, above expectations and prior readings. The data points to slightly better household confidence amid mixed economic signals. Crypto traders monitor sentiment as a proxy for risk appetite and spending trends.",
-          "sentiment": "Bullish",
-          "impact": "Mild positive for consumer-driven growth outlook.",
-          "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar"
-          ]
-        },
-        {
-          "title": "Fed Speakers and Data Releases Light on Weekend",
-          "summary": "With US markets closed for the weekend, focus remains on Friday's inventory builds, trade figures, and Kashkari comments rather than new releases. No major central bank decisions or high-impact data like CPI or jobs are scheduled for Saturday or Sunday. Bond yields and DXY showed little movement into the weekend.",
-          "sentiment": "Neutral",
-          "impact": "Quiet period likely keeps markets range-bound until Monday.",
-          "sources": [
-            "https://tradingeconomics.com/calendar",
-            "https://www.federalreserve.gov/releases/h15/"
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Strikes Iranian Missile Sites After Hormuz Ship Attack",
-          "summary": "The US military launched strikes on Iranian missile and drone facilities along the Strait of Hormuz and Qeshm Island on Friday in retaliation for an Iranian drone hit on a commercial cargo ship the day before. President Trump called the Iranian action a foolish violation of the fragile ceasefire. The limited strikes target storage and radar sites in a bid to deter further escalation while talks on a broader deal continue. Traders should watch for any fresh disruption to oil flows through the critical waterway.",
+          "title": "US Strikes Iran as Ceasefire Crumbles",
+          "summary": "The United States launched fresh airstrikes on Iranian military targets near the Strait of Hormuz after Iran attacked shipping and threatened talks. Iran responded by striking US sites in Bahrain and Kuwait, with both sides issuing strong threats and no clear path to de-escalation. Traders should watch this closely because renewed Middle East conflict risks spiking oil prices and triggering broader risk-off moves across markets including Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Heightens Middle East tensions and risks renewed oil price volatility.",
+          "impact": "Heightened volatility and potential oil price surge from Hormuz disruptions.",
           "sources": [
-            "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz",
-            "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire",
-            "https://www.reuters.com/world/middle-east/israel-drops-leaflets-over-south-lebanon-town-ordering-residents-leave-2026-06-26/"
+            "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+            "https://www.cnn.com/2026/06/28/world/live-news/iran-war-strikes-trump"
           ]
         },
         {
-          "title": "Venezuela Quake Death Toll Tops 920 as Rescue Efforts Stall",
-          "summary": "Twin powerful earthquakes that struck Venezuela on Wednesday have now killed at least 920 people with thousands injured or missing. Rescue teams face aftershocks and a lack of heavy equipment three days later while international aid arrives. The disaster hits a key oil-producing country and could complicate regional energy supply dynamics. Traders should monitor any impact on Venezuelan crude output.",
+          "title": "Iran Targets US Bases in Gulf States",
+          "summary": "Iran’s Revolutionary Guards claimed strikes on US naval and air bases in Bahrain and Kuwait in direct retaliation for American attacks. Regional governments reported intercepts with no major damage or casualties so far, but the exchange has further eroded the fragile US-Iran truce agreed earlier this month. This keeps energy chokepoints and safe-haven flows in focus for traders.",
+          "sentiment": "Bearish",
+          "impact": "Sustained geopolitical premium on oil and risk assets.",
+          "sources": [
+            "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+            "https://www.cnn.com/2026/06/28/world/live-news/iran-war-strikes-trump"
+          ]
+        },
+        {
+          "title": "Hezbollah Rejects Lebanon Deal Amid Ongoing Clashes",
+          "summary": "Hezbollah has rejected the latest US-brokered Israel-Lebanon framework, while Israeli forces continue operations in southern Lebanon including strikes and a soldier killed in fighting. The deal was meant to support the broader Iran ceasefire but is now under strain. Any widening of this front adds another layer of regional instability that markets price in through higher risk premiums.",
+          "sentiment": "Bearish",
+          "impact": "Additional uncertainty in Middle East peace efforts.",
+          "sources": [
+            "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+            "https://www.cnn.com/2026/06/28/world/live-news/iran-war-strikes-trump"
+          ]
+        },
+        {
+          "title": "Venezuela Quake Death Toll Tops 1,400",
+          "summary": "Rescue efforts in Venezuela continue after twin magnitude 7.2 and 7.5 earthquakes struck earlier in the week, with the official death toll now exceeding 1,400 and thousands still missing or injured. Aftershocks and chaotic aid access are complicating operations. While primarily a humanitarian story, sustained energy market concerns from any regional instability keep it on traders’ radar.",
           "sentiment": "Neutral",
-          "impact": "Potential minor disruption to oil supply from an already strained producer.",
+          "impact": "Limited direct market move but adds to global risk sentiment.",
           "sources": [
-            "https://www.cnn.com/2026/06/27/world/live-news/venezuela-earthquake-hnk",
-            "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-            "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
-          ]
-        },
-        {
-          "title": "Israel and Lebanon Sign US-Mediated Framework Agreement",
-          "summary": "Israel and Lebanon signed a framework deal in Washington on Friday after days of US-brokered talks. The agreement outlines steps toward Hezbollah disarmament, Lebanese sovereignty restoration, and phased Israeli withdrawals from parts of southern Lebanon. US officials called it the first step toward a broader peace. Markets may see this as a modest de-escalation signal in the Middle East.",
-          "sentiment": "Bullish",
-          "impact": "Supports lower geopolitical risk premium in energy markets.",
-          "sources": [
-            "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon",
-            "https://www.reuters.com/world/middle-east/israel-drops-leaflets-over-south-lebanon-town-ordering-residents-leave-2026-06-26/",
-            "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-of-the-united-states-of-america-republic-of-lebanon-and-state-of-israel-on-the-latest-high-level-trilateral-meeting"
+            "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake"
           ]
         }
       ]
