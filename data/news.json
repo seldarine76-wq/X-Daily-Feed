@@ -1,129 +1,148 @@
 {
-  "generated_at": "2026-06-29T12:33:57+00:00",
+  "generated_at": "2026-06-30T11:51:59+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is under pressure today from 550,000 BTC flooding exchange deposit addresses and continued heavy outflows from spot ETFs. While MicroStrategy's new buyback plan and easing US-Iran tensions provide a modest counterbalance, the dominant flows point to near-term weakness.",
+  "overall_summary": "Bitcoin and Ethereum are extending their declines today as spot ETFs recorded 231 million dollars in outflows. A strategy authorizing up to 1.25 billion dollars in Bitcoin monetization is adding further bearish pressure. Broader markets are steady ahead of key economic data releases.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "550K BTC Floods Binance, OKX Deposit Addresses",
-          "summary": "On-chain data shows roughly 550,000 Bitcoin, worth about 33 billion dollars, moved into deposit addresses at Binance and OKX over recent periods. This is the largest such inflow since the 2023 bear market and far exceeds normal levels. Large exchange deposits often precede selling, adding downside risk for Bitcoin as it hovers near 60,000 dollars. Traders should watch for potential increased supply hitting the market.",
+          "title": "Bitcoin Spot ETFs See $231M Outflow on June 29",
+          "summary": "US spot Bitcoin ETFs recorded a net outflow of 231 million dollars yesterday according to CoinGlass data, extending a streak of redemptions. This comes as Bitcoin trades near 59 to 60 thousand dollars amid broader market caution. Traders should watch because sustained ETF selling can amplify downside pressure and signal weakening institutional demand. Sources include CoinGlass ETF tracker and Farside Investors flow data.",
           "sentiment": "Bearish",
-          "impact": "Heightens selling pressure and downside risk for BTC price.",
+          "impact": "Adds selling pressure and reinforces near-term caution on Bitcoin price.",
           "sources": [
-            "https://cryptorank.io/news/feed/32d02-bitcoin-exchange-inflow-binance-okx-550k-btc",
-            "https://cryptoquant.com/insights/quicktake/6a416ddf3eb04801bdf16896"
+            "https://www.coinglass.com/etf/bitcoin",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Bitcoin ETFs See Continued Heavy Outflows",
-          "summary": "Spot Bitcoin ETFs recorded another day of significant net outflows, with figures around 444 million dollars reported in recent sessions as part of an ongoing streak. Weekly outflows have reached nearly 2 billion dollars in some periods, reversing prior institutional inflows. This persistent redemption pressure is weighing on sentiment and keeping Bitcoin below the 60,000 dollar level. Traders should note how ETF flows directly influence spot demand and price stability.",
+          "title": "Strategy Authorizes Up to $1.25B Bitcoin Monetization",
+          "summary": "MicroStrategy rebranded as Strategy announced a new BTC monetization program on June 29 allowing sales of up to 1.25 billion dollars in Bitcoin. Proceeds target building a USD reserve, funding dividends and interest, or supporting buybacks. The move gives the company flexibility to treat its large Bitcoin holdings more dynamically. Traders should care because any actual sales could add supply to the market and weigh on price. Sources include Strategy press release and CoinDesk coverage.",
           "sentiment": "Bearish",
-          "impact": "Sustains downward pressure on Bitcoin and crypto markets.",
+          "impact": "Potential future supply from corporate treasury could cap upside or trigger volatility.",
           "sources": [
-            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
-            "https://www.coinglass.com/etf/bitcoin"
+            "https://www.strategy.com/press/strategy-announces-digital-credit-capital-framework_06-29-2026",
+            "https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means"
           ]
         },
         {
-          "title": "MicroStrategy Launches BTC Buyback and Monetization Plan",
-          "summary": "Michael Saylor's Strategy announced buybacks along with a bitcoin monetization program and raised its dividend on related stock. This comes as the firm responds to recent price weakness and its own stock declines tied to Bitcoin holdings. The moves signal continued institutional conviction despite market pressure. Traders watch Saylor-related activity as a barometer for high-conviction Bitcoin exposure.",
-          "sentiment": "Bullish",
-          "impact": "Provides support through visible institutional buying and commitment.",
+          "title": "Bitcoin and Ethereum Extend Declines Amid ETF Outflows",
+          "summary": "Bitcoin fell toward 59 thousand dollars and Ethereum traded near 1,570 dollars on June 29 as ETF outflows and shifting investor flows to AI-related assets persisted. Macro concerns around rates also weighed on risk assets. Traders should monitor because continued weakness in spot demand and flows keeps the path of least resistance lower in the short term. Sources include CoinDesk daybook and market recap reports.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces downside momentum and tests key support levels for major cryptos.",
           "sources": [
-            "https://www.coindesk.com/",
-            "https://finance.yahoo.com/markets/crypto/"
+            "https://www.coindesk.com/daybook-us/2026/06/29/dollar-u-s-treasury-yield-market-positions-may-carry-glimmer-of-hope-for-bitcoin",
+            "https://investingnews.com/cryptocurrency-market-recap/"
           ]
         },
         {
-          "title": "US-Iran Tensions Ease With Talks Resuming",
-          "summary": "The US and Iran agreed to halt strikes and meet in Doha, easing geopolitical risks that had pressured risk assets including Bitcoin. Oil prices reacted positively but crypto has shown limited immediate upside. Broader macro relief could reduce one source of volatility. Traders should monitor if de-escalation translates into risk-on flows for Bitcoin.",
+          "title": "Trump Signs Executive Orders on Quantum and Crypto Security",
+          "summary": "President Trump signed executive orders on June 29 focused on advancing quantum computing and migrating to post-quantum cryptography for national security. The moves aim to protect data against future quantum threats but do not directly address digital assets or Bitcoin policy. Traders should note the limited immediate crypto market implications beyond broader tech sector sentiment. Sources include White House announcements.",
           "sentiment": "Neutral",
-          "impact": "Removes a near-term headwind but no strong positive catalyst yet.",
+          "impact": "Minimal direct price impact but signals ongoing government focus on emerging tech security.",
           "sources": [
-            "https://news.bitcoin.com/",
-            "https://www.coindesk.com/"
-          ]
-        },
-        {
-          "title": "CLARITY Act Faces Fresh Opposition in Senate",
-          "summary": "Catholic leaders sent a letter opposing the CLARITY Act to the US Senate, adding uncertainty to the bill's path. The legislation aims to clarify crypto regulation between SEC and CFTC oversight. Progress remains slow ahead of summer recess deadlines. Traders view regulatory clarity as a longer-term positive but near-term delays limit immediate impact.",
-          "sentiment": "Neutral",
-          "impact": "Adds regulatory uncertainty without immediate price effect.",
-          "sources": [
-            "https://www.lw.com/en/us-crypto-policy-tracker/legislative-developments",
-            "https://finance.yahoo.com/markets/crypto/articles/happens-bitcoin-crypto-clarity-act-144215048.html"
+            "https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-jun-29-2026",
+            "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/"
           ]
         }
       ]
     },
     {
       "name": "Macro / Economic",
-      "items": []
+      "items": [
+        {
+          "title": "JOLTS Job Openings for May Due Today at 10 AM ET",
+          "summary": "The Bureau of Labor Statistics releases its May JOLTS report showing job openings, hires, and separations. Traders watch this closely as a gauge of labor market strength ahead of Friday's full employment report. Stronger than expected openings could signal resilience that keeps the Fed cautious on rate cuts, while weakness might ease those concerns and support risk assets including Bitcoin.",
+          "sentiment": "Neutral",
+          "impact": "Mixed impact on yields and equities depending on beat or miss.",
+          "sources": [
+            "https://www.bls.gov/schedule/news_release/jolts.htm",
+            "https://tradingeconomics.com/united-states/job-offers"
+          ]
+        },
+        {
+          "title": "Conference Board Consumer Confidence for June Released",
+          "summary": "The Conference Board releases its June consumer confidence index at 10 AM ET, alongside job openings data. This measures household sentiment on the economy and jobs, which can influence spending and growth outlooks. A surprise move higher or lower could shift views on consumer resilience and Fed policy path.",
+          "sentiment": "Neutral",
+          "impact": "Potential short-term moves in equities and yields on the print.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://www.conference-board.org/topics/consumer-confidence/"
+          ]
+        },
+        {
+          "title": "S&P Case-Shiller Home Price Index for April Out Today",
+          "summary": "S&P releases its Case-Shiller 20-city home price index for April at 9 AM ET, along with FHFA house price data. Housing prices remain a key inflation component that the Fed monitors. Updates here can reinforce or ease views on persistent shelter inflation and rate cut timing.",
+          "sentiment": "Neutral",
+          "impact": "Minor influence on inflation expectations and bond yields.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://tradingeconomics.com/united-states/calendar"
+          ]
+        },
+        {
+          "title": "Chicago PMI and Redbook Retail Data Scheduled",
+          "summary": "Chicago Business Barometer PMI for June and Redbook retail sales YoY are due today. These provide early reads on manufacturing and consumer spending trends. Deviations from forecasts could add to the day's data flow and nudge short-term market sentiment.",
+          "sentiment": "Neutral",
+          "impact": "Limited but additive to daily macro volatility.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar"
+          ]
+        },
+        {
+          "title": "US Treasury Yields Little Changed Ahead of Data",
+          "summary": "The 10-year Treasury yield hovers near 4.38 percent with minimal movement in the last session as markets await today's releases and Friday's jobs report. Yields remain elevated post-recent labor data and geopolitical factors. Stable yields keep the dollar supported and limit downside pressure on Bitcoin for now.",
+          "sentiment": "Neutral",
+          "impact": "Supports range-bound trading in risk assets.",
+          "sources": [
+            "https://www.cnbc.com/2026/06/29/us-treasury-yields-investors-key-jobs-data.html",
+            "https://tradingeconomics.com/united-states/30-year-bond-yield"
+          ]
+        },
+        {
+          "title": "DXY Holds Steady Near 101.6 Level",
+          "summary": "The US dollar index remains around 101.6 amid quiet trading ahead of key US data releases. Broader strength from resilient labor markets and higher-for-longer rate expectations continues to underpin it. A firm dollar can weigh on Bitcoin and other risk assets by increasing opportunity costs for non-yielding holdings.",
+          "sentiment": "Neutral",
+          "impact": "Mild headwind for crypto and commodities if dollar strengthens further.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/currency"
+          ]
+        }
+      ]
     },
     {
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US, Iran Agree to Stand Down After Strikes, Resume Talks",
-          "summary": "The US and Iran have agreed to halt recent attacks following a flare-up of strikes near the Strait of Hormuz, with both sides set to resume technical talks on their interim peace deal. Oil prices pared gains as the de-escalation eases immediate escalation fears in a key energy chokepoint. Traders should watch this closely as it reduces short-term geopolitical risk to global energy supplies and risk assets.",
-          "sentiment": "Bullish",
-          "impact": "Eases oil and risk-asset volatility from Middle East tensions.",
-          "sources": [
-            "https://www.cnn.com/2026/06/29/world/live-news/iran-war-strikes-trump",
-            "https://www.reuters.com/world/asia-pacific/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating-2026-06-27/",
-            "https://www.washingtonpost.com/world/2026/06/28/iran-insists-it-has-sole-control-hormuz-ignoring-trumps-threats/"
-          ]
-        },
-        {
-          "title": "Venezuela Earthquake Death Toll Tops 1,450 Amid Rescue Efforts",
-          "summary": "Back-to-back powerful earthquakes struck northern Venezuela last week, killing at least 1,450 people with thousands more injured or missing, as rescue teams race against time in collapsed buildings. The disaster compounds Venezuela's existing political and economic strains. Markets may see indirect effects through regional energy or humanitarian fallout.",
+          "title": "US, Iran Agree to Halt Attacks, Plan Doha Talks",
+          "summary": "The US and Iran have agreed to stop recent strikes after weekend exchanges tested a fragile ceasefire, with delegations heading to Doha on Tuesday for talks on the Strait of Hormuz and broader issues. Oil prices rose initially on the flare-up but are now reacting to the pause. Traders should watch energy flows and any sanctions relief signals, as renewed tensions could spike crude and hit risk assets.",
           "sentiment": "Neutral",
-          "impact": "Humanitarian crisis with limited immediate market moves but potential energy supply ripple.",
+          "impact": "Eases immediate oil supply fears but keeps markets on edge",
           "sources": [
-            "https://www.cnn.com/2026/06/28/world/live-news/venezuela-earthquake-hnk",
-            "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes",
-            "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake"
+            "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
+            "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html"
           ]
         },
         {
-          "title": "Russia Advances on Ukraine's Fortress Belt in Ongoing Offensive",
-          "summary": "Russian forces continue heavy assaults on key Ukrainian defensive positions, pressing their campaign in the east amid stalled peace efforts. The escalation sustains pressure on European energy and defense sectors. Traders should monitor for any escalation that could widen sanctions or energy shocks.",
-          "sentiment": "Bearish",
-          "impact": "Prolongs Ukraine war risks to European markets and energy prices.",
-          "sources": [
-            "https://www.reuters.com/world/europe/russia-pounds-gates-ukraines-fortress-belt-2026-06-29/"
-          ]
-        },
-        {
-          "title": "Europe Heatwave Triggers Deaths, Wildfires Across Region",
-          "summary": "Extreme temperatures have killed over 1,300 in Europe with record highs and spreading wildfires, straining infrastructure and emergency services. The event highlights climate-driven risks to agriculture and energy demand. Limited direct crypto impact but adds to broader macro uncertainty.",
+          "title": "Venezuela Quake Death Toll Tops 1,700",
+          "summary": "Back-to-back powerful earthquakes on June 24 have killed more than 1,700 people in Venezuela, with the toll still rising amid ongoing rescues and aftershocks. International aid is arriving but challenges persist in the crisis-hit country. This humanitarian disaster could add volatility to regional markets and commodities.",
           "sentiment": "Neutral",
-          "impact": "Increases energy demand volatility and regional economic strain.",
+          "impact": "Limited direct market move but signals broader instability risks",
           "sources": [
-            "https://www.reuters.com/business/environment/southeastern-europe-feels-effects-heatwave-wildfires-break-out-2026-06-29/",
-            "https://www.bbc.com/news/world"
+            "https://www.cnn.com/2026/06/29/world/live-news/venezuela-earthquake-hnk",
+            "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
           ]
         },
         {
-          "title": "Israel Renews Strikes on Hezbollah in Southern Lebanon",
-          "summary": "Israel conducted new strikes in southern Lebanon citing ceasefire violations, even as broader trilateral talks with the US aim to stabilize the area. The moves test fragile regional truces tied to Iran-related diplomacy. Watch for spillover effects on Middle East risk premiums.",
+          "title": "Pakistan Strikes Afghanistan, Dozens Reported Dead",
+          "summary": "Pakistan launched airstrikes and a ground operation in eastern Afghanistan, claiming to kill dozens of militants in response to recent attacks inside Pakistan. Afghan officials say at least 36 civilians died and over 160 were wounded. The escalation risks wider regional instability and could pressure energy routes and risk sentiment.",
           "sentiment": "Bearish",
-          "impact": "Adds to Middle East tension and potential energy market swings.",
+          "impact": "Heightens cross-border tensions and potential supply disruptions",
           "sources": [
-            "https://www.cnn.com/2026/06/29/world/live-news/iran-war-strikes-trump",
-            "https://abcnews.go.com/International/live-updates/iran-live-updates/"
-          ]
-        },
-        {
-          "title": "Mediators Establish De-Escalation Channels for US-Iran Talks",
-          "summary": "Third-party mediators have set up communication lines to prevent incidents from derailing upcoming US-Iran technical talks under their June memorandum of understanding. This supports efforts to stabilize the Strait of Hormuz and broader ceasefire. Positive signal for sustained de-risking in energy markets.",
-          "sentiment": "Bullish",
-          "impact": "Supports ongoing de-escalation and lower geopolitical premium.",
-          "sources": [
-            "https://www.usnews.com/news/world/articles/2026-06-29/mediators-set-up-de-escalation-channels-ahead-of-us-iran-talks-source-says"
+            "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+            "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border"
           ]
         }
       ]
