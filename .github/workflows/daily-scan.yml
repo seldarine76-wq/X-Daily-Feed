@@ -12,6 +12,11 @@ on:
 permissions:
   contents: write
 
+# Never let two scans run at once — they race to commit and one gets rejected.
+concurrency:
+  group: daily-scan
+  cancel-in-progress: false
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -41,7 +46,20 @@ jobs:
           git add data/news.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Daily news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "Daily news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # If the remote moved while we were running, sync and retry the push.
+          # -X theirs keeps our freshly generated news.json on any conflict.
+          n=0
+          until git push origin HEAD:main; do
+            n=$((n + 1))
+            if [ "$n" -gt 5 ]; then
+              echo "Failed to push after $n attempts."
+              exit 1
+            fi
+            echo "Push rejected — remote moved; syncing and retrying (attempt $n)..."
+            git pull --rebase -X theirs origin main
+            sleep 3
+          done
+          echo "Pushed successfully."
