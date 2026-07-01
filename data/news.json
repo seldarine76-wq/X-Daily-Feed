@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-06-30T11:51:59+00:00",
+  "generated_at": "2026-07-01T11:45:38+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin and Ethereum are extending their declines today as spot ETFs recorded 231 million dollars in outflows. A strategy authorizing up to 1.25 billion dollars in Bitcoin monetization is adding further bearish pressure. Broader markets are steady ahead of key economic data releases.",
+  "overall_summary": "Bitcoin is under pressure after record ETF outflows of 4.5 billion dollars in June and another 222 million on the last day of the month. Price is holding near 58,500 dollars following the sharp selloff, with little bullish catalyst in sight. Broader economic data today is unlikely to shift the cautious tone for crypto traders.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Spot ETFs See $231M Outflow on June 29",
-          "summary": "US spot Bitcoin ETFs recorded a net outflow of 231 million dollars yesterday according to CoinGlass data, extending a streak of redemptions. This comes as Bitcoin trades near 59 to 60 thousand dollars amid broader market caution. Traders should watch because sustained ETF selling can amplify downside pressure and signal weakening institutional demand. Sources include CoinGlass ETF tracker and Farside Investors flow data.",
+          "title": "Bitcoin ETFs Post Record $4.5B June Outflows",
+          "summary": "U.S. spot Bitcoin ETFs saw their worst month on record with 4.5 billion dollars in net outflows during June, including nine straight days of redemptions. This beat the prior record by nearly 30 percent and contributed to Bitcoin's roughly 20 percent monthly price drop to around 58,500 dollars. Traders should watch these sustained institutional redemptions as they remove a key demand pillar that has supported prices since the ETFs launched.",
           "sentiment": "Bearish",
-          "impact": "Adds selling pressure and reinforces near-term caution on Bitcoin price.",
+          "impact": "Adds selling pressure and weakens near-term support for Bitcoin prices.",
           "sources": [
-            "https://www.coinglass.com/etf/bitcoin",
+            "https://www.coindesk.com/",
+            "https://bitcoinfoundation.org/news/crypto-etfs-news/crypto-etfs-june/",
             "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Strategy Authorizes Up to $1.25B Bitcoin Monetization",
-          "summary": "MicroStrategy rebranded as Strategy announced a new BTC monetization program on June 29 allowing sales of up to 1.25 billion dollars in Bitcoin. Proceeds target building a USD reserve, funding dividends and interest, or supporting buybacks. The move gives the company flexibility to treat its large Bitcoin holdings more dynamically. Traders should care because any actual sales could add supply to the market and weigh on price. Sources include Strategy press release and CoinDesk coverage.",
-          "sentiment": "Bearish",
-          "impact": "Potential future supply from corporate treasury could cap upside or trigger volatility.",
-          "sources": [
-            "https://www.strategy.com/press/strategy-announces-digital-credit-capital-framework_06-29-2026",
-            "https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means"
-          ]
-        },
-        {
-          "title": "Bitcoin and Ethereum Extend Declines Amid ETF Outflows",
-          "summary": "Bitcoin fell toward 59 thousand dollars and Ethereum traded near 1,570 dollars on June 29 as ETF outflows and shifting investor flows to AI-related assets persisted. Macro concerns around rates also weighed on risk assets. Traders should monitor because continued weakness in spot demand and flows keeps the path of least resistance lower in the short term. Sources include CoinDesk daybook and market recap reports.",
-          "sentiment": "Bearish",
-          "impact": "Reinforces downside momentum and tests key support levels for major cryptos.",
-          "sources": [
-            "https://www.coindesk.com/daybook-us/2026/06/29/dollar-u-s-treasury-yield-market-positions-may-carry-glimmer-of-hope-for-bitcoin",
-            "https://investingnews.com/cryptocurrency-market-recap/"
-          ]
-        },
-        {
-          "title": "Trump Signs Executive Orders on Quantum and Crypto Security",
-          "summary": "President Trump signed executive orders on June 29 focused on advancing quantum computing and migrating to post-quantum cryptography for national security. The moves aim to protect data against future quantum threats but do not directly address digital assets or Bitcoin policy. Traders should note the limited immediate crypto market implications beyond broader tech sector sentiment. Sources include White House announcements.",
+          "title": "SEC Opens Comment Period on Novel ETF Rules",
+          "summary": "The SEC issued a request for public comment on exchange-traded funds that invest in innovative assets or use novel strategies, explicitly including crypto and prediction-market products. The move aims to balance innovation with investor protection and could lead to updated registration and oversight frameworks. Traders should note this as a signal of evolving but potentially more structured regulation for crypto ETFs going forward.",
           "sentiment": "Neutral",
-          "impact": "Minimal direct price impact but signals ongoing government focus on emerging tech security.",
+          "impact": "Could bring long-term clarity but introduces short-term regulatory uncertainty for new products.",
           "sources": [
-            "https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-jun-29-2026",
-            "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/"
+            "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
+            "https://www.reuters.com/legal/government/wall-street-regulator-calls-public-comment-novel-exchange-traded-funds-2026-06-30/"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs Bleed Another 222 Million Dollars on June 30",
+          "summary": "Spot Bitcoin ETFs recorded net outflows of approximately 222 million dollars on the final trading day of June according to Farside data. This continues the streak of heavy redemptions and keeps pressure on Bitcoin's price action near current lows. Traders care because daily flow data often moves sentiment and can trigger algorithmic or leveraged positioning.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces negative flow momentum and weighs on Bitcoin price stability.",
+          "sources": [
+            "https://farside.co.uk/btc/",
+            "https://www.coindesk.com/"
+          ]
+        },
+        {
+          "title": "Bitcoin Holds Near 58,500 Dollars After Sharp June Selloff",
+          "summary": "Bitcoin traded around 58,500 to 58,900 dollars as markets digested the record ETF outflows and broader risk-off tone. The asset fell about 20 percent over June, testing key support levels that previously held with ETF buying. Traders should monitor whether this zone attracts fresh bids or gives way to deeper liquidation-driven moves.",
+          "sentiment": "Bearish",
+          "impact": "Keeps Bitcoin vulnerable to further downside if support fails.",
+          "sources": [
+            "https://fortune.com/article/price-of-bitcoin-06-30-2026/",
+            "https://www.theblock.co/"
           ]
         }
       ]
@@ -53,61 +54,61 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "JOLTS Job Openings for May Due Today at 10 AM ET",
-          "summary": "The Bureau of Labor Statistics releases its May JOLTS report showing job openings, hires, and separations. Traders watch this closely as a gauge of labor market strength ahead of Friday's full employment report. Stronger than expected openings could signal resilience that keeps the Fed cautious on rate cuts, while weakness might ease those concerns and support risk assets including Bitcoin.",
+          "title": "Fed Chair Warsh Speaks at ECB Forum in Sintra",
+          "summary": "Federal Reserve Chairman Kevin Warsh is delivering remarks at the European Central Bank annual forum today, his first major public appearance since the recent FOMC meeting. Markets are watching closely for any hints on inflation views or policy path amid ongoing global uncertainties. Traders should pay attention because any hawkish tone could strengthen the dollar and pressure risk assets like Bitcoin, while a balanced message might ease yields.",
           "sentiment": "Neutral",
-          "impact": "Mixed impact on yields and equities depending on beat or miss.",
+          "impact": "Potential volatility in USD, yields, and crypto depending on tone.",
           "sources": [
-            "https://www.bls.gov/schedule/news_release/jolts.htm",
-            "https://tradingeconomics.com/united-states/job-offers"
+            "https://www.c-span.org/event/international-telecasts/federal-reserve-chair-warsh-speaks-at-european-central-bank-forum/444516",
+            "https://finance.yahoo.com/economy/policy/article/wednesday-is-warshs-first-appearance-since-his-inaugural-fed-meeting-will-he-demystify-his-thinking-183000837.html"
           ]
         },
         {
-          "title": "Conference Board Consumer Confidence for June Released",
-          "summary": "The Conference Board releases its June consumer confidence index at 10 AM ET, alongside job openings data. This measures household sentiment on the economy and jobs, which can influence spending and growth outlooks. A surprise move higher or lower could shift views on consumer resilience and Fed policy path.",
+          "title": "ISM Manufacturing PMI Set for June Release",
+          "summary": "The ISM Manufacturing PMI for June is due at 10 AM ET, following May's strong 54 reading that beat expectations and showed expansion at a four-year high. Analysts expect another solid print around 54 percent, signaling continued manufacturing resilience. Crypto traders should care as stronger data could support a firmer dollar and higher yields, weighing on risk appetite.",
           "sentiment": "Neutral",
-          "impact": "Potential short-term moves in equities and yields on the print.",
+          "impact": "Solid reading may bolster USD and bond yields mildly.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://www.conference-board.org/topics/consumer-confidence/"
+            "https://tradingeconomics.com/united-states/business-confidence",
+            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html"
           ]
         },
         {
-          "title": "S&P Case-Shiller Home Price Index for April Out Today",
-          "summary": "S&P releases its Case-Shiller 20-city home price index for April at 9 AM ET, along with FHFA house price data. Housing prices remain a key inflation component that the Fed monitors. Updates here can reinforce or ease views on persistent shelter inflation and rate cut timing.",
+          "title": "ADP Private Payrolls Data Released Today",
+          "summary": "ADP's June employment report is out at 8:15 AM ET, with expectations around 110,000 to 115,000 job gains. This serves as a key preview ahead of tomorrow's official nonfarm payrolls. Traders monitor it for labor market strength signals that could influence Fed rate expectations and overall risk sentiment in crypto and equities.",
           "sentiment": "Neutral",
-          "impact": "Minor influence on inflation expectations and bond yields.",
+          "impact": "In-line or strong number supports cautious Fed stance and firmer dollar.",
           "sources": [
             "https://www.marketwatch.com/economy-politics/calendar",
+            "https://forex.tradingcharts.com/economic_calendar/2026-07-01.html?code=usd"
+          ]
+        },
+        {
+          "title": "US Construction Spending Data Due at 10 AM",
+          "summary": "May construction spending figures are scheduled for release today, with forecasts pointing to a modest 0.2 percent gain. This provides insight into housing and infrastructure activity amid higher mortgage rates. A softer print could ease some pressure on yields, offering slight relief to risk assets.",
+          "sentiment": "Neutral",
+          "impact": "Muted impact expected unless significantly off consensus.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://www.census.gov/economic-indicators/calendar-listview.html"
+          ]
+        },
+        {
+          "title": "Challenger Job Cuts Report Shows Sharp Decline",
+          "summary": "Challenger job cuts for June came in at 45.8K, well below the prior month's 97K and forecasts. This suggests companies are holding off on major layoffs despite economic uncertainties. Positive for sentiment as it points to labor market stability, potentially supporting a neutral-to-bullish tilt for risk assets.",
+          "sentiment": "Bullish",
+          "impact": "Lower cuts reinforce resilient jobs picture, aiding risk appetite.",
+          "sources": [
             "https://tradingeconomics.com/united-states/calendar"
           ]
         },
         {
-          "title": "Chicago PMI and Redbook Retail Data Scheduled",
-          "summary": "Chicago Business Barometer PMI for June and Redbook retail sales YoY are due today. These provide early reads on manufacturing and consumer spending trends. Deviations from forecasts could add to the day's data flow and nudge short-term market sentiment.",
+          "title": "MBA Mortgage Applications Flat This Week",
+          "summary": "MBA mortgage applications were unchanged in the latest week while 30-year rates edged down slightly to 6.57 percent. Housing market activity remains subdued but stable amid elevated borrowing costs. Limited direct impact on crypto but serves as a barometer for consumer spending and broader rate sensitivity.",
           "sentiment": "Neutral",
-          "impact": "Limited but additive to daily macro volatility.",
+          "impact": "Minor read on housing demand with little market-moving power.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar"
-          ]
-        },
-        {
-          "title": "US Treasury Yields Little Changed Ahead of Data",
-          "summary": "The 10-year Treasury yield hovers near 4.38 percent with minimal movement in the last session as markets await today's releases and Friday's jobs report. Yields remain elevated post-recent labor data and geopolitical factors. Stable yields keep the dollar supported and limit downside pressure on Bitcoin for now.",
-          "sentiment": "Neutral",
-          "impact": "Supports range-bound trading in risk assets.",
-          "sources": [
-            "https://www.cnbc.com/2026/06/29/us-treasury-yields-investors-key-jobs-data.html",
-            "https://tradingeconomics.com/united-states/30-year-bond-yield"
-          ]
-        },
-        {
-          "title": "DXY Holds Steady Near 101.6 Level",
-          "summary": "The US dollar index remains around 101.6 amid quiet trading ahead of key US data releases. Broader strength from resilient labor markets and higher-for-longer rate expectations continues to underpin it. A firm dollar can weigh on Bitcoin and other risk assets by increasing opportunity costs for non-yielding holdings.",
-          "sentiment": "Neutral",
-          "impact": "Mild headwind for crypto and commodities if dollar strengthens further.",
-          "sources": [
-            "https://tradingeconomics.com/united-states/currency"
+            "https://tradingeconomics.com/united-states/calendar"
           ]
         }
       ]
@@ -116,33 +117,14 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US, Iran Agree to Halt Attacks, Plan Doha Talks",
-          "summary": "The US and Iran have agreed to stop recent strikes after weekend exchanges tested a fragile ceasefire, with delegations heading to Doha on Tuesday for talks on the Strait of Hormuz and broader issues. Oil prices rose initially on the flare-up but are now reacting to the pause. Traders should watch energy flows and any sanctions relief signals, as renewed tensions could spike crude and hit risk assets.",
+          "title": "US-Iran Talks Resume in Qatar Amid Ceasefire Strains",
+          "summary": "US and Iranian officials are in Doha for indirect talks mediated by Qatar and others, following recent tit-for-tat strikes that tested a fragile ceasefire. Conflicting messages from both sides on direct meetings and next steps, with focus on implementing prior agreements and managing the Strait of Hormuz. Traders should watch closely as any escalation or breakthrough could swing oil prices and broader risk sentiment sharply.",
           "sentiment": "Neutral",
-          "impact": "Eases immediate oil supply fears but keeps markets on edge",
+          "impact": "Heightened volatility in energy markets and risk assets due to ongoing uncertainty.",
           "sources": [
-            "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
-            "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html"
-          ]
-        },
-        {
-          "title": "Venezuela Quake Death Toll Tops 1,700",
-          "summary": "Back-to-back powerful earthquakes on June 24 have killed more than 1,700 people in Venezuela, with the toll still rising amid ongoing rescues and aftershocks. International aid is arriving but challenges persist in the crisis-hit country. This humanitarian disaster could add volatility to regional markets and commodities.",
-          "sentiment": "Neutral",
-          "impact": "Limited direct market move but signals broader instability risks",
-          "sources": [
-            "https://www.cnn.com/2026/06/29/world/live-news/venezuela-earthquake-hnk",
-            "https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes"
-          ]
-        },
-        {
-          "title": "Pakistan Strikes Afghanistan, Dozens Reported Dead",
-          "summary": "Pakistan launched airstrikes and a ground operation in eastern Afghanistan, claiming to kill dozens of militants in response to recent attacks inside Pakistan. Afghan officials say at least 36 civilians died and over 160 were wounded. The escalation risks wider regional instability and could pressure energy routes and risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Heightens cross-border tensions and potential supply disruptions",
-          "sources": [
-            "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
-            "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border"
+            "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump",
+            "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+            "https://www.reuters.com/world/middle-east/mediators-set-up-de-escalation-channels-ahead-us-iran-talks-source-says-2026-06-29/"
           ]
         }
       ]
