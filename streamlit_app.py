@@ -71,6 +71,14 @@ st.markdown(
       .src a    { font-size: 0.78rem; color: #6ea8fe; margin-right: 10px; text-decoration: none; }
       .cat-head { margin: 26px 0 10px 0; font-size: 1.35rem; font-weight: 700; }
       .muted    { color: #8a8a92; font-size: 0.85rem; }
+      .summary-card {
+        border: 1px solid #2c2c31; border-left: 4px solid #3ddc84;
+        background: #14141a; border-radius: 12px; padding: 14px 20px;
+        margin: 6px 0 20px 0;
+      }
+      .summary-title { font-weight: 700; font-size: 1.05rem; margin-bottom: 8px; color: #ffffff; }
+      .summary-list  { margin: 0; padding-left: 1.15rem; }
+      .summary-list li { margin: 5px 0; line-height: 1.45; color: #e6e6e6; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -150,6 +158,16 @@ if data is None:
         "(GitHub Actions), or run `python fetch_news.py` locally to generate it."
     )
     st.stop()
+
+# Daily summary — quick at-a-glance bullets covering everything below.
+key_points = data.get("key_points") or []
+if key_points:
+    bullets = "".join(f"<li>{p}</li>" for p in key_points)
+    st.markdown(
+        f"<div class='summary-card'><div class='summary-title'>🗞️ Daily Summary</div>"
+        f"<ul class='summary-list'>{bullets}</ul></div>",
+        unsafe_allow_html=True,
+    )
 
 # Overall read
 left, right = st.columns([3, 1])

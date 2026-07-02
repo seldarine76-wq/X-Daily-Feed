@@ -127,6 +127,19 @@ def clean_items(raw_items) -> list[dict]:
     return items
 
 
+# Shared rules so sentiment reflects the LIKELY FORWARD move, not recent momentum.
+SENTIMENT_RULES = """How to assign sentiment (likely FORWARD effect on Bitcoin / financial markets):
+- Judge the probable NEXT move, not what price has already done. Do NOT mark
+  something Bearish just because price recently fell, or Bullish just because it rose.
+- Price at or testing a SUPPORT or RESISTANCE level is NEUTRAL until it resolves:
+  a confirmed hold or bounce off support is Bullish; a confirmed break below is
+  Bearish (and the reverse at resistance).
+- Oversold, capitulation, or washed-out conditions are often Neutral-to-Bullish.
+- Use Bullish or Bearish only for a clear directional catalyst or a confirmed
+  technical move. When the outcome hinges on an unresolved level or an upcoming
+  event, use Neutral."""
+
+
 def build_category_prompt(category: str, guidance: str) -> str:
     today = datetime.now(timezone.utc)
     return f"""You are a senior markets analyst building the "{category}" section of a daily
@@ -147,10 +160,11 @@ For each story give:
   - title: a clear, punchy headline (max ~12 words).
   - summary: 2-4 sentences written to be READ ALOUD on a live show. Plain spoken
     English, no hashtags, no emojis, no "@" handles. Say why a trader should care.
-  - sentiment: likely effect on Bitcoin / financial markets, EXACTLY one of
-    "Bullish", "Bearish", or "Neutral".
+  - sentiment: EXACTLY one of "Bullish", "Bearish", or "Neutral", following the rules below.
   - impact: one short clause on the likely market impact.
   - sources: a list of 1-3 source URLs you used.
+
+{SENTIMENT_RULES}
 
 Respond with ONLY a JSON array (no markdown fences, no commentary), shaped exactly:
 [
@@ -189,38 +203,47 @@ def fetch_category(client: OpenAI, category: str, guidance: str, from_date: str)
 
 
 def synthesize_overall(client: OpenAI, categories: list[dict]) -> dict:
-    """Write the spoken 'market read' from the gathered headlines (no search)."""
+    """Write the 'market read', a bullet summary, and overall sentiment (no search)."""
     headlines = []
+    titles = []
     sentiments = []
     for cat in categories:
         for it in cat["items"]:
-            headlines.append(f"- ({it['sentiment']}) {it['title']}")
+            headlines.append(f"- ({it['sentiment']}) [{cat['name']}] {it['title']}")
+            titles.append(it["title"])
             sentiments.append(it["sentiment"])
 
-    # Heuristic fallback sentiment from the mix of stories.
+    # Heuristic fallbacks if the model call fails.
     bull, bear = sentiments.count("Bullish"), sentiments.count("Bearish")
-    fallback = "Bullish" if bull > bear else "Bearish" if bear > bull else "Neutral"
+    fallback_sent = "Bullish" if bull > bear else "Bearish" if bear > bull else "Neutral"
+    fallback_points = titles[:5]
 
     if not headlines:
-        return {"overall_sentiment": "Neutral", "overall_summary": ""}
+        return {"overall_sentiment": "Neutral", "overall_summary": "", "key_points": []}
 
     prompt = (
         "Here are today's market headlines for a crypto trader:\n"
         + "\n".join(headlines)
-        + "\n\nWrite a short daily market read. Respond with ONLY JSON: "
-        '{"overall_sentiment": "Bullish|Bearish|Neutral", "overall_summary": '
-        '"2-3 spoken sentences summarising the day\'s tone for crypto, to be read aloud"}'
+        + "\n\n"
+        + SENTIMENT_RULES
+        + "\n\nWrite a daily market read. Respond with ONLY JSON matching:\n"
+        '{"overall_sentiment": "Bullish|Bearish|Neutral", '
+        '"overall_summary": "2-3 spoken sentences summarising the day\'s tone for crypto, to be read aloud", '
+        '"key_points": ["3 to 5 very short bullet points, max ~12 words each, '
+        'covering the most important takeaways across all categories"]}'
     )
     try:
         resp = client.responses.create(model=MODEL, input=[{"role": "user", "content": prompt}])
         data = extract_json(resp.output_text)
+        points = [str(p).strip() for p in (data.get("key_points") or []) if str(p).strip()][:5]
         return {
-            "overall_sentiment": fix_sentiment(data.get("overall_sentiment")) or fallback,
+            "overall_sentiment": fix_sentiment(data.get("overall_sentiment")) or fallback_sent,
             "overall_summary": (data.get("overall_summary") or "").strip(),
+            "key_points": points or fallback_points,
         }
     except Exception as e:  # noqa: BLE001
         print(f"  [overall] synthesis failed, using heuristic: {e}")
-        return {"overall_sentiment": fallback, "overall_summary": ""}
+        return {"overall_sentiment": fallback_sent, "overall_summary": "", "key_points": fallback_points}
 
 
 # --------------------------------------------------------------------------- #
@@ -246,6 +269,7 @@ def build() -> dict:
         "model": MODEL,
         "overall_sentiment": overall["overall_sentiment"],
         "overall_summary": overall["overall_summary"],
+        "key_points": overall.get("key_points", []),
         "categories": categories,
     }
 
