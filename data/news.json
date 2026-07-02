@@ -1,51 +1,56 @@
 {
-  "generated_at": "2026-07-01T11:45:38+00:00",
+  "generated_at": "2026-07-02T12:02:34+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is under pressure after record ETF outflows of 4.5 billion dollars in June and another 222 million on the last day of the month. Price is holding near 58,500 dollars following the sharp selloff, with little bullish catalyst in sight. Broader economic data today is unlikely to shift the cautious tone for crypto traders.",
+  "overall_summary": "Crypto markets are under pressure today as Bitcoin tests the $58,000 support level amid $296 million in ETF outflows. Citi's reduced price targets for Bitcoin and Ethereum add to the caution, even as positive headlines emerge from Russia and Trump. Traders await key U.S. jobs data for further direction.",
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Post Record $4.5B June Outflows",
-          "summary": "U.S. spot Bitcoin ETFs saw their worst month on record with 4.5 billion dollars in net outflows during June, including nine straight days of redemptions. This beat the prior record by nearly 30 percent and contributed to Bitcoin's roughly 20 percent monthly price drop to around 58,500 dollars. Traders should watch these sustained institutional redemptions as they remove a key demand pillar that has supported prices since the ETFs launched.",
-          "sentiment": "Bearish",
-          "impact": "Adds selling pressure and weakens near-term support for Bitcoin prices.",
+          "title": "Russia Legalizes Crypto Payments for Foreign Trade",
+          "summary": "Starting July 1, Russia allows exporters to accept Bitcoin and stablecoins in international deals to bypass sanctions, with the central bank overseeing flows to partners like China and Turkey. The ruble remains the only domestic currency. Traders should care as this boosts real-world utility and sovereign adoption of Bitcoin as a payment asset amid geopolitical tensions.",
+          "sentiment": "Bullish",
+          "impact": "Supports long-term demand and legitimacy for Bitcoin.",
           "sources": [
-            "https://www.coindesk.com/",
-            "https://bitcoinfoundation.org/news/crypto-etfs-news/crypto-etfs-june/",
-            "https://farside.co.uk/btc/"
+            "https://beincrypto.com/russia-crypto-payments-foreign-trade-july/"
           ]
         },
         {
-          "title": "SEC Opens Comment Period on Novel ETF Rules",
-          "summary": "The SEC issued a request for public comment on exchange-traded funds that invest in innovative assets or use novel strategies, explicitly including crypto and prediction-market products. The move aims to balance innovation with investor protection and could lead to updated registration and oversight frameworks. Traders should note this as a signal of evolving but potentially more structured regulation for crypto ETFs going forward.",
-          "sentiment": "Neutral",
-          "impact": "Could bring long-term clarity but introduces short-term regulatory uncertainty for new products.",
+          "title": "Trump Discloses $1.4 Billion in 2025 Crypto Earnings",
+          "summary": "President Trump reported at least $1.4 billion in crypto-related income for 2025 through his latest financial disclosures, far exceeding other public figures. This highlights deep political ties to the sector. Traders should care because it reinforces expectations of pro-crypto policies and high-level institutional interest.",
+          "sentiment": "Bullish",
+          "impact": "Positive sentiment boost and potential regulatory tailwinds.",
           "sources": [
-            "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds",
-            "https://www.reuters.com/legal/government/wall-street-regulator-calls-public-comment-novel-exchange-traded-funds-2026-06-30/"
+            "https://www.youtube.com/watch?v=jv_0HTgOXTM"
           ]
         },
         {
-          "title": "Bitcoin ETFs Bleed Another 222 Million Dollars on June 30",
-          "summary": "Spot Bitcoin ETFs recorded net outflows of approximately 222 million dollars on the final trading day of June according to Farside data. This continues the streak of heavy redemptions and keeps pressure on Bitcoin's price action near current lows. Traders care because daily flow data often moves sentiment and can trigger algorithmic or leveraged positioning.",
+          "title": "Bitcoin ETFs Record $296 Million Net Outflow on July 1",
+          "summary": "US spot Bitcoin ETFs saw nearly $296 million in net outflows on the latest trading day, led by major funds like BlackRock's IBIT. This continues pressure on institutional demand channels. Traders should care as sustained outflows remove a key buyer and can amplify price weakness.",
           "sentiment": "Bearish",
-          "impact": "Reinforces negative flow momentum and weighs on Bitcoin price stability.",
+          "impact": "Reduces buying support and adds downside risk.",
           "sources": [
-            "https://farside.co.uk/btc/",
-            "https://www.coindesk.com/"
+            "https://www.coinglass.com/etf"
           ]
         },
         {
-          "title": "Bitcoin Holds Near 58,500 Dollars After Sharp June Selloff",
-          "summary": "Bitcoin traded around 58,500 to 58,900 dollars as markets digested the record ETF outflows and broader risk-off tone. The asset fell about 20 percent over June, testing key support levels that previously held with ETF buying. Traders should monitor whether this zone attracts fresh bids or gives way to deeper liquidation-driven moves.",
+          "title": "Citi Cuts Bitcoin and Ethereum Price Targets",
+          "summary": "Citi lowered its 12-month price targets for Bitcoin and Ethereum, citing drying ETF flows and shifting institutional momentum. The move comes as Bitcoin trades near recent lows. Traders should care because analyst downgrades from major banks can trigger further selling or repositioning.",
           "sentiment": "Bearish",
-          "impact": "Keeps Bitcoin vulnerable to further downside if support fails.",
+          "impact": "Adds bearish pressure and reprices expectations lower.",
           "sources": [
-            "https://fortune.com/article/price-of-bitcoin-06-30-2026/",
-            "https://www.theblock.co/"
+            "https://x.com/GlockchainGlock/status/2072320823319580697"
+          ]
+        },
+        {
+          "title": "Bitcoin Tests $58,000 Support Amid Market Pressure",
+          "summary": "Bitcoin fell below $58,000 on July 1 amid geopolitical and economic headwinds, marking one of its weakest monthly performances in years before a modest recovery. Liquidations and whale activity accelerated the move. Traders should care as breaking key psychological levels often leads to volatile follow-through.",
+          "sentiment": "Bearish",
+          "impact": "Tests support and raises risk of deeper correction.",
+          "sources": [
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-1-2026-bitcoins-worst-month-since-june-22-123840769.html",
+            "https://bitcoinfoundation.org/news/altcoins/bitcoin-crashed-to-58k-what-happens-next-to-btc-and-altcoins-in-july/"
           ]
         }
       ]
@@ -54,61 +59,54 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Chair Warsh Speaks at ECB Forum in Sintra",
-          "summary": "Federal Reserve Chairman Kevin Warsh is delivering remarks at the European Central Bank annual forum today, his first major public appearance since the recent FOMC meeting. Markets are watching closely for any hints on inflation views or policy path amid ongoing global uncertainties. Traders should pay attention because any hawkish tone could strengthen the dollar and pressure risk assets like Bitcoin, while a balanced message might ease yields.",
+          "title": "US June Jobs Report Set for Release Today",
+          "summary": "The Bureau of Labor Statistics is set to release the June employment situation report at 8:30 AM ET, including nonfarm payrolls, unemployment rate, and wage growth. Economists expect around 110,000 jobs added, down from May's 172,000, with unemployment steady at 4.3 percent and hourly earnings up 0.3 percent. Traders will watch closely for signs of labor market cooling that could influence Federal Reserve rate path decisions and dollar strength.",
           "sentiment": "Neutral",
-          "impact": "Potential volatility in USD, yields, and crypto depending on tone.",
-          "sources": [
-            "https://www.c-span.org/event/international-telecasts/federal-reserve-chair-warsh-speaks-at-european-central-bank-forum/444516",
-            "https://finance.yahoo.com/economy/policy/article/wednesday-is-warshs-first-appearance-since-his-inaugural-fed-meeting-will-he-demystify-his-thinking-183000837.html"
-          ]
-        },
-        {
-          "title": "ISM Manufacturing PMI Set for June Release",
-          "summary": "The ISM Manufacturing PMI for June is due at 10 AM ET, following May's strong 54 reading that beat expectations and showed expansion at a four-year high. Analysts expect another solid print around 54 percent, signaling continued manufacturing resilience. Crypto traders should care as stronger data could support a firmer dollar and higher yields, weighing on risk appetite.",
-          "sentiment": "Neutral",
-          "impact": "Solid reading may bolster USD and bond yields mildly.",
-          "sources": [
-            "https://tradingeconomics.com/united-states/business-confidence",
-            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-may-2026-ism-manufacturing-pmi-report-302786165.html"
-          ]
-        },
-        {
-          "title": "ADP Private Payrolls Data Released Today",
-          "summary": "ADP's June employment report is out at 8:15 AM ET, with expectations around 110,000 to 115,000 job gains. This serves as a key preview ahead of tomorrow's official nonfarm payrolls. Traders monitor it for labor market strength signals that could influence Fed rate expectations and overall risk sentiment in crypto and equities.",
-          "sentiment": "Neutral",
-          "impact": "In-line or strong number supports cautious Fed stance and firmer dollar.",
+          "impact": "High volatility in risk assets and yields as data hits, with softer numbers likely supporting rate cut bets.",
           "sources": [
             "https://www.marketwatch.com/economy-politics/calendar",
-            "https://forex.tradingcharts.com/economic_calendar/2026-07-01.html?code=usd"
+            "https://tradingeconomics.com/united-states/calendar",
+            "https://www.bls.gov/schedule/news_release/current_year.asp"
           ]
         },
         {
-          "title": "US Construction Spending Data Due at 10 AM",
-          "summary": "May construction spending figures are scheduled for release today, with forecasts pointing to a modest 0.2 percent gain. This provides insight into housing and infrastructure activity amid higher mortgage rates. A softer print could ease some pressure on yields, offering slight relief to risk assets.",
-          "sentiment": "Neutral",
-          "impact": "Muted impact expected unless significantly off consensus.",
-          "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://www.census.gov/economic-indicators/calendar-listview.html"
-          ]
-        },
-        {
-          "title": "Challenger Job Cuts Report Shows Sharp Decline",
-          "summary": "Challenger job cuts for June came in at 45.8K, well below the prior month's 97K and forecasts. This suggests companies are holding off on major layoffs despite economic uncertainties. Positive for sentiment as it points to labor market stability, potentially supporting a neutral-to-bullish tilt for risk assets.",
+          "title": "ADP Private Payrolls Miss in June",
+          "summary": "The ADP National Employment Report showed private sector jobs rose just 98,000 in June, missing forecasts and down from 122,000 in May. This weak reading adds to expectations for a softer official jobs report later today. Markets are pricing in implications for consumer spending and Fed policy ahead of the holiday weekend.",
           "sentiment": "Bullish",
-          "impact": "Lower cuts reinforce resilient jobs picture, aiding risk appetite.",
+          "impact": "Supports views of cooling labor market, potentially easing pressure on rates and aiding risk assets like Bitcoin.",
           "sources": [
-            "https://tradingeconomics.com/united-states/calendar"
+            "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020",
+            "https://x.com/FXJunction/status/2072651948403364333"
           ]
         },
         {
-          "title": "MBA Mortgage Applications Flat This Week",
-          "summary": "MBA mortgage applications were unchanged in the latest week while 30-year rates edged down slightly to 6.57 percent. Housing market activity remains subdued but stable amid elevated borrowing costs. Limited direct impact on crypto but serves as a barometer for consumer spending and broader rate sensitivity.",
+          "title": "Fed Chair Warsh Avoids July Rate Signals",
+          "summary": "Federal Reserve Chairman Kevin Warsh participated in a panel discussion but declined to hint at any July policy move, stressing reliance on incoming data. Markets had been watching for clues on the path of interest rates amid mixed economic signals. His comments come just before today's key jobs data and the long holiday weekend.",
           "sentiment": "Neutral",
-          "impact": "Minor read on housing demand with little market-moving power.",
+          "impact": "Keeps uncertainty high around near-term Fed actions, with limited immediate market reaction expected until data arrives.",
           "sources": [
-            "https://tradingeconomics.com/united-states/calendar"
+            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-01-2026",
+            "https://www.youtube.com/watch?v=FNNfz4HRC1g"
+          ]
+        },
+        {
+          "title": "Factory Orders and Jobless Claims Due Today",
+          "summary": "Additional data releases include May factory orders at 10 AM ET and weekly initial jobless claims. These will provide further color on manufacturing and labor market trends alongside the headline jobs report. Traders monitor for consistency with the expected softer payrolls print.",
+          "sentiment": "Neutral",
+          "impact": "Secondary moves in bonds and dollar likely, reinforcing or challenging the main NFP narrative.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://us.econoday.com/"
+          ]
+        },
+        {
+          "title": "Markets Brace for Holiday-Shortened Week",
+          "summary": "US markets will close early or observe Independence Day tomorrow, making today's jobs data the last major release before the long weekend. Positioning is light ahead of the holiday, with focus squarely on how the employment figures shift rate expectations and the dollar.",
+          "sentiment": "Neutral",
+          "impact": "Heightened sensitivity to today's data, potential for post-report moves to carry into next week.",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://finance.yahoo.com/calendar/economic/"
           ]
         }
       ]
@@ -117,14 +115,23 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US-Iran Talks Resume in Qatar Amid Ceasefire Strains",
-          "summary": "US and Iranian officials are in Doha for indirect talks mediated by Qatar and others, following recent tit-for-tat strikes that tested a fragile ceasefire. Conflicting messages from both sides on direct meetings and next steps, with focus on implementing prior agreements and managing the Strait of Hormuz. Traders should watch closely as any escalation or breakthrough could swing oil prices and broader risk sentiment sharply.",
+          "title": "US Iran Talks Advance in Qatar but Iran Refuses Direct Meetings",
+          "summary": "Indirect US-Iran negotiations in Doha wrapped up with reports of positive progress on a memorandum of understanding and Strait of Hormuz shipping issues. Iran has ruled out direct talks with US envoys, keeping discussions through Qatari and Pakistani mediators amid unresolved disputes over nuclear issues and sanctions. Traders should monitor for any escalation or breakthrough that could sharply move oil prices and broader risk sentiment.",
           "sentiment": "Neutral",
-          "impact": "Heightened volatility in energy markets and risk assets due to ongoing uncertainty.",
+          "impact": "Persistent Hormuz uncertainty sustains oil price volatility and risk-off flows.",
           "sources": [
             "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump",
-            "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-            "https://www.reuters.com/world/middle-east/mediators-set-up-de-escalation-channels-ahead-us-iran-talks-source-says-2026-06-29/"
+            "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/",
+            "https://www.youtube.com/watch?v=dtvgcpp4DmE"
+          ]
+        },
+        {
+          "title": "US Declines to Renew USMCA Trade Pact on Deadline",
+          "summary": "The United States announced it will not extend the USMCA agreement past the July 1 joint review deadline, triggering a potential decade of annual reviews or expiration in 2036. Bilateral talks with Mexico continue while Canada has not started its own. This injects fresh trade uncertainty into North American supply chains and could pressure risk assets through higher tariffs or renegotiation risks.",
+          "sentiment": "Neutral",
+          "impact": "Adds to global trade friction and potential drag on equities and growth expectations.",
+          "sources": [
+            "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html"
           ]
         }
       ]
