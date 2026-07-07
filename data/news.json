@@ -1,46 +1,65 @@
 {
-  "generated_at": "2026-07-06T12:03:07+00:00",
+  "generated_at": "2026-07-07T12:03:00+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin shows recovery by retaking 63000 but mixed catalysts leave direction unclear. Geopolitical tensions and ETF outflows offset potential regulatory support. Macro data stays neutral with no strong market driver.",
+  "overall_summary": "Bitcoin holds near 62,000 as ETF inflows offset large sales and mixed flows. Escalating geopolitical tensions add risk-off pressure, leaving direction unclear. Crypto edges up modestly but lacks a decisive catalyst.",
   "key_points": [
-    "Bitcoin retakes 63000 after June slide",
-    "Weekly ETF outflows continue despite rebound",
-    "Clarity Act vote eyed for July",
-    "Ukraine strike and China tariffs add risk",
-    "US services PMI prints neutral"
+    "Bitcoin ETFs record $266M net inflows",
+    "Strategy sells 3,588 BTC, adding supply",
+    "Bitcoin holds key $62,000 level",
+    "Multiple geopolitical conflicts escalate sharply",
+    "Crypto market rises 1.3 percent on July 7"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Retakes $63,000 Level After June Slide",
-          "summary": "Bitcoin climbed back above 63,000 dollars, reversing losses from late June amid thin holiday trading volume. The move shows buyers defending key support after a weak period. Traders should watch whether it holds or breaks higher, as it could signal renewed momentum heading into the week.",
+          "title": "Bitcoin ETFs Pull $266M Net Inflows on July 6",
+          "summary": "U.S. spot Bitcoin ETFs recorded $265.7 million in net inflows, or about 4,180 BTC, according to the latest daily data. This marks continued institutional buying interest after mixed flows earlier in the week. Traders should watch whether this sustains support above key levels or signals a broader shift in allocation.",
           "sentiment": "Bullish",
-          "impact": "Supports short-term bullish bias if support holds.",
+          "impact": "Positive for short-term sentiment and potential price stabilization.",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses"
+            "https://www.coinglass.com/etf/bitcoin",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Bitcoin ETFs Post Weekly Outflows Despite Earlier Rebound",
-          "summary": "US spot Bitcoin ETFs recorded net outflows of about 526 million dollars for the week, extending a recent negative streak even after a single-day inflow earlier in the period. Flows remain a key institutional sentiment gauge. Traders care because sustained outflows can pressure prices while inflows often provide support.",
+          "title": "Strategy Sells 3,588 BTC for $216 Million",
+          "summary": "Strategy filed an SEC update showing it sold 3,588 Bitcoin last week at an average of roughly $60,000 each, bringing holdings to 843,775 BTC. The sale replenishes reserves for preferred stock dividends. Traders should note this as potential supply from a major holder, though the market has largely shrugged it off so far.",
+          "sentiment": "Bearish",
+          "impact": "Adds mild selling pressure but limited immediate downside if absorbed.",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million"
+          ]
+        },
+        {
+          "title": "Bitcoin Holds Near $62,000 Amid Mixed Flows",
+          "summary": "Bitcoin traded around $61,900 to $63,000 on July 6, down slightly from recent rebounds but holding above $60,000 support. Broader crypto markets gained about 1.3 percent on July 7 with modest BTC and ETH advances. Traders should monitor whether it consolidates here or breaks key technical levels next.",
           "sentiment": "Neutral",
-          "impact": "Continued pressure on demand but not a new catalyst.",
+          "impact": "Range-bound until clearer directional catalyst emerges.",
           "sources": [
-            "https://farside.co.uk/btc/",
-            "https://bitcoinfoundation.org/news/bitcoin/btc-price-july-6/"
+            "https://fortune.com/article/price-of-bitcoin-07-06-2026/",
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html",
+            "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-today-july-7-2026-terawulf-ens-trump-updates"
           ]
         },
         {
-          "title": "Clarity Act Final Draft Expected Soon as Senate Eyes July Vote",
-          "summary": "The Digital Asset Market Clarity Act is advancing with expectations of a final Senate draft release and potential floor action after the July recess starting July 13. Lawmakers aim to clarify crypto regulation between SEC and CFTC. Traders should monitor this as positive regulatory clarity could unlock institutional flows and reduce uncertainty.",
+          "title": "BitMine Buys $73 Million in Ethereum",
+          "summary": "Tom Lee's BitMine acquired 42,197 ETH worth about $73 million in a notable institutional purchase. This adds to recent signs of selective buying in major assets beyond Bitcoin. Traders should view it as potential confidence in Ethereum's relative value.",
           "sentiment": "Bullish",
-          "impact": "Potential long-term positive catalyst for market structure.",
+          "impact": "Supports ETH and broader altcoin sentiment.",
           "sources": [
-            "https://www.techtimes.com/articles/319679/20260704/senate-crypto-bill-misses-july-4-three-unresolved-fights-three-weeks-left.htm",
-            "https://crypto.news/bill-hagerty-revives-clarity-act-with-senate-roadmap/"
+            "https://www.reddit.com/r/ethereum/comments/1uons0l/daily_general_discussion_july_06_2026/"
+          ]
+        },
+        {
+          "title": "Crypto Market Rises 1.3 Percent on July 7",
+          "summary": "Total crypto market cap climbed modestly with Bitcoin and Ethereum posting small gains amid easing fear levels. Trading volume increased notably while the Fear and Greed Index ticked up from extreme fear. Traders should track whether volume sustains or fades into the week.",
+          "sentiment": "Neutral",
+          "impact": "Mild positive but not yet a strong reversal signal.",
+          "sources": [
+            "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-today-july-7-2026-terawulf-ens-trump-updates"
           ]
         }
       ]
@@ -49,33 +68,24 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US ISM Services PMI Hits 54.5 in June",
-          "summary": "The Institute for Supply Management released its June services PMI at 54.5, showing continued expansion in the dominant US services sector. Readings above 50 signal growth, with details on business activity, new orders, and prices due at the 10 a.m. ET release. Traders watch this closely because strong services data supports a resilient economy, which can influence Fed rate expectations and risk assets like Bitcoin.",
+          "title": "US Releases May Trade Balance Data",
+          "summary": "The Bureau of Economic Analysis and Census Bureau released the US international trade in goods and services balance for May at 8:30 AM ET today. Markets had expected a wider deficit around 78 to 80 billion dollars following April's 55.9 billion dollar shortfall. Traders should watch for any surprise that moves the dollar, Treasury yields, or risk sentiment as the number feeds into GDP revisions and broader growth views.",
           "sentiment": "Neutral",
-          "impact": "Mixed signals on growth vs inflation could keep markets range-bound.",
+          "impact": "Could spark short-term moves in DXY, bonds, and equities depending on the actual figure versus forecasts.",
           "sources": [
-            "https://tradingeconomics.com/united-states/non-manufacturing-pmi",
-            "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/april/"
-          ]
-        },
-        {
-          "title": "S&P Global US Services PMI Final at 51.3 for June",
-          "summary": "S&P Global confirmed its final June services PMI at 51.3, slightly above flash estimates and showing modest expansion in business activity. The composite PMI also came in around 52.2. These figures matter for crypto traders as they gauge overall economic momentum ahead of key Fed decisions and can sway dollar strength or bond yields.",
-          "sentiment": "Neutral",
-          "impact": "In-line data likely limits big moves in DXY or yields today.",
-          "sources": [
-            "https://tradingeconomics.com/united-states/services-pmi",
-            "https://www.pmi.spglobal.com/"
-          ]
-        },
-        {
-          "title": "US Economic Calendar Focuses on Services Data Today",
-          "summary": "With US markets returning after the July 4 holiday, attention turns to today's S&P and ISM services PMI releases plus other indicators like final PMIs. No major inflation or jobs data is due, but these reports provide fresh reads on economic health. Crypto traders should note any surprises, as they feed into broader macro sentiment and potential Fed path pricing.",
-          "sentiment": "Neutral",
-          "impact": "Data-dependent trading expected with limited catalysts.",
-          "sources": [
+            "https://tradingeconomics.com/united-states/balance-of-trade",
             "https://www.marketwatch.com/economy-politics/calendar",
-            "https://tradingeconomics.com/united-states/calendar"
+            "https://www.bea.gov/news/schedule"
+          ]
+        },
+        {
+          "title": "Fed's Bowman Delivers July 7 Remarks",
+          "summary": "Vice Chair for Supervision Michelle Bowman is scheduled to speak today on topics including supervision and regulation. This comes after Governor Waller's monetary policy comments yesterday and amid ongoing market focus on the Fed's rate path following last week's softer jobs data. Crypto and risk traders monitor central bank voices for any hints on policy easing or tightening.",
+          "sentiment": "Neutral",
+          "impact": "Any hawkish or dovish tilt could influence rate expectations and broader market volatility.",
+          "sources": [
+            "https://www.federalreserve.gov/newsevents.htm",
+            "https://www.federalreserve.gov/newsevents/2026-speeches.htm"
           ]
         }
       ]
@@ -84,53 +94,66 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Russian missiles and drones strike Kyiv, killing at least 10",
-          "summary": "Russia launched a major overnight attack with ballistic missiles and drones on Ukraine's capital, killing at least 10 people and injuring dozens more. The strike comes just days ahead of a key NATO summit and highlights ongoing vulnerabilities in Ukrainian air defenses. Traders should watch for potential risk-off moves in markets as escalation in the Ukraine war raises geopolitical uncertainty.",
+          "title": "Russian Strikes Kill Dozens in Kyiv Ahead of NATO Summit",
+          "summary": "Russia launched massive missile and drone attacks on Ukraine's capital overnight, killing at least 11 to 28 people and damaging residential buildings. Ukrainian President Zelensky will use the upcoming NATO summit in Turkey to push for more air defense systems. Traders should care because this escalation risks broader European conflict and energy market volatility.",
           "sentiment": "Bearish",
-          "impact": "Heightens risk aversion and supports safe-haven flows",
+          "impact": "Heightens geopolitical risk premium, pressuring risk assets including Bitcoin.",
           "sources": [
-            "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk",
-            "https://apnews.com/article/russia-ukraine-war-july-6-2026-0280e3d86022720fd5fa0236122ad90e"
+            "https://www.bbc.com/news/world",
+            "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
+            "https://www.washingtonpost.com/world/"
           ]
         },
         {
-          "title": "Trump holds 90-minute call with Putin, speaks to Zelenskyy",
-          "summary": "President Trump spoke for nearly 90 minutes with Russian President Putin on July 4 and also called Ukraine's Zelenskyy, offering to help broker an end to the Ukraine war ahead of the NATO summit in Turkey. Both leaders discussed the conflict and agreed to continue talks at the summit. Any progress on de-escalation could ease some geopolitical premium in risk assets.",
-          "sentiment": "Neutral",
-          "impact": "Potential for reduced war-related uncertainty if talks advance",
-          "sources": [
-            "https://www.nbcnews.com/world/ukraine/trump-holds-90-minute-call-putin-speaks-zelenskyy-ahead-nato-summit-rcna353010",
-            "https://www.cnn.com/2026/07/05/europe/putin-trump-call-independence-day-intl"
-          ]
-        },
-        {
-          "title": "NATO summit in Turkey opens amid Ukraine and spending tensions",
-          "summary": "The NATO summit begins in Ankara with leaders focused on the Ukraine war, European defense spending commitments, and questions over long-term US involvement in the alliance. Trump is attending and has pushed allies on burden-sharing. Outcomes could influence broader risk sentiment and energy markets.",
-          "sentiment": "Neutral",
-          "impact": "Unresolved outcomes may keep volatility elevated",
-          "sources": [
-            "https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596",
-            "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html"
-          ]
-        },
-        {
-          "title": "US proposes new tariffs on Chinese imports amid labor probes",
-          "summary": "The US Trade Representative is moving forward with proposed additional tariffs of 10-12.5 percent on Chinese goods and dozens of other partners following findings on forced labor issues. Comments close soon and hearings are scheduled, keeping trade policy in focus. Renewed tariff threats typically weigh on global growth expectations and risk assets.",
+          "title": "Tanker Struck Near Strait of Hormuz as Tensions Rise",
+          "summary": "A tanker was set ablaze after being struck by a projectile near the Strait of Hormuz, a critical oil shipping route. This comes as Trump heads to the NATO summit amid ongoing Middle East instability. Traders should watch for potential energy price spikes from any disruption to oil flows.",
           "sentiment": "Bearish",
-          "impact": "Adds pressure on equities and supports volatility",
+          "impact": "Raises oil price volatility and broad risk-off sentiment in markets.",
           "sources": [
-            "https://www.esgdive.com/news/us-eyes-new-tariffs-for-china-eu-mexico-and-more-after-labor-probes/822115/",
-            "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action"
+            "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+            "https://www.cnn.com/world"
           ]
         },
         {
-          "title": "Iran ceasefire and sanctions relief remain in focus",
-          "summary": "Ongoing diplomacy around the Iran ceasefire includes temporary sanctions lifts and safe passage provisions through the Strait of Hormuz. Any fresh developments could affect oil supply risks in the region. Traders monitor for signals on energy price stability.",
-          "sentiment": "Neutral",
-          "impact": "Limits immediate oil shock risk but keeps watch on Hormuz",
+          "title": "China Fires Long-Range Missile into Pacific from Submarine",
+          "summary": "China conducted a rare test-launch of a long-range ballistic missile from a nuclear-powered submarine into the South Pacific, drawing regional protests. The test coincides with Australia and Fiji signing a defense treaty to counter Chinese influence. This signals rising great-power tensions that could weigh on global risk appetite.",
+          "sentiment": "Bearish",
+          "impact": "Increases uncertainty around US-China relations and regional stability.",
           "sources": [
-            "https://www.britannica.com/event/2026-Iran-war",
-            "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-05-2026/"
+            "https://www.nytimes.com/section/world",
+            "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
+            "https://www.cbsnews.com/world/"
+          ]
+        },
+        {
+          "title": "Iran Mourns Slain Supreme Leader Khamenei at Massive Funeral",
+          "summary": "Millions attended funeral services in Iran for Supreme Leader Ali Khamenei and family members assassinated earlier, with his son Mojtaba named successor. Trump indicated US-Iran negotiations remain paused. Ongoing regional fallout keeps Middle East risks elevated for traders.",
+          "sentiment": "Neutral",
+          "impact": "Sustains uncertainty in energy and broader markets without immediate resolution.",
+          "sources": [
+            "https://www.nytimes.com/section/world",
+            "https://www.nbcnews.com/world",
+            "https://www.justsecurity.org/145865/early-edition-july-6-2026/"
+          ]
+        },
+        {
+          "title": "Explosions Hit Damascus During Macron's Syria Visit",
+          "summary": "Explosions occurred near French President Macron's hotel in Damascus while he met with Syrian officials. This highlights persistent instability in Syria amid wider regional conflicts. Traders should monitor for any spillover into energy or security markets.",
+          "sentiment": "Bearish",
+          "impact": "Adds to Middle East volatility and potential safe-haven demand.",
+          "sources": [
+            "https://www.nytimes.com/section/world",
+            "https://www.cnn.com/world"
+          ]
+        },
+        {
+          "title": "Israel Continues Strikes in Gaza and Lebanon Despite Ceasefires",
+          "summary": "Israeli forces struck targets in Gaza and southern Lebanon, violating US-brokered ceasefires and killing civilians. Netanyahu also made unsubstantiated claims about annexing Lebanese villages. Persistent violations sustain regional tension and risk-asset caution.",
+          "sentiment": "Bearish",
+          "impact": "Maintains elevated geopolitical risk in energy and equity markets.",
+          "sources": [
+            "https://www.democracynow.org/2026/7/6/headlines",
+            "https://www.justsecurity.org/145865/early-edition-july-6-2026/"
           ]
         }
       ]
