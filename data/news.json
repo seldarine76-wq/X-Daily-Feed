@@ -1,65 +1,48 @@
 {
-  "generated_at": "2026-07-07T12:03:00+00:00",
+  "generated_at": "2026-07-08T12:03:19+00:00",
   "model": "grok-4.3",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin holds near 62,000 as ETF inflows offset large sales and mixed flows. Escalating geopolitical tensions add risk-off pressure, leaving direction unclear. Crypto edges up modestly but lacks a decisive catalyst.",
+  "overall_summary": "Geopolitical escalation between the US and Iran is injecting fresh risk-off pressure across markets. Bitcoin-specific ETF inflows remain supportive, but unresolved tensions and today's Fed minutes keep direction unclear.",
   "key_points": [
-    "Bitcoin ETFs record $266M net inflows",
-    "Strategy sells 3,588 BTC, adding supply",
-    "Bitcoin holds key $62,000 level",
-    "Multiple geopolitical conflicts escalate sharply",
-    "Crypto market rises 1.3 percent on July 7"
+    "BlackRock-led ETF inflows hit $266M, supporting Bitcoin",
+    "BTC rebounds to $63,300 on sustained ETF demand",
+    "US-Iran strikes and Hormuz tensions drive oil up 5%+",
+    "IMF lifts 2026 global growth forecast to 3.3%",
+    "Fed June FOMC minutes due today amid mixed macro data"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Pull $266M Net Inflows on July 6",
-          "summary": "U.S. spot Bitcoin ETFs recorded $265.7 million in net inflows, or about 4,180 BTC, according to the latest daily data. This marks continued institutional buying interest after mixed flows earlier in the week. Traders should watch whether this sustains support above key levels or signals a broader shift in allocation.",
+          "title": "BlackRock IBIT Leads $266M Bitcoin ETF Inflows",
+          "summary": "U.S. spot Bitcoin ETFs recorded roughly 266 million dollars in net inflows over the past couple of days, with BlackRock's IBIT alone taking in about 209 million dollars on July 7. This marks a sharp reversal after weeks of outflows that had drained billions. Traders should watch these flows closely because sustained institutional buying can provide a strong floor and fuel upside moves in Bitcoin price.",
           "sentiment": "Bullish",
-          "impact": "Positive for short-term sentiment and potential price stabilization.",
+          "impact": "Supports higher prices and reduces selling pressure",
           "sources": [
-            "https://www.coinglass.com/etf/bitcoin",
-            "https://farside.co.uk/btc/"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://www.kucoin.com/news/flash/blackrock-s-ibit-drives-209m-inflow-in-u-s-bitcoin-etfs-on-july-6",
+            "https://crypto.news/blackrock-breaks-etf-drought-as-bitcoin-flashes-rally/"
           ]
         },
         {
-          "title": "Strategy Sells 3,588 BTC for $216 Million",
-          "summary": "Strategy filed an SEC update showing it sold 3,588 Bitcoin last week at an average of roughly $60,000 each, bringing holdings to 843,775 BTC. The sale replenishes reserves for preferred stock dividends. Traders should note this as potential supply from a major holder, though the market has largely shrugged it off so far.",
-          "sentiment": "Bearish",
-          "impact": "Adds mild selling pressure but limited immediate downside if absorbed.",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million"
-          ]
-        },
-        {
-          "title": "Bitcoin Holds Near $62,000 Amid Mixed Flows",
-          "summary": "Bitcoin traded around $61,900 to $63,000 on July 6, down slightly from recent rebounds but holding above $60,000 support. Broader crypto markets gained about 1.3 percent on July 7 with modest BTC and ETH advances. Traders should monitor whether it consolidates here or breaks key technical levels next.",
+          "title": "Strategy Sells 3,588 BTC but Market Absorbs Sale",
+          "summary": "Major corporate holder Strategy sold around 3,588 Bitcoin worth 213 to 216 million dollars to fund reserves and dividends. Despite the size of the sale, Bitcoin price held steady near 63,000 dollars without a sharp drop. Traders care because it shows current demand is strong enough to absorb large supply without breaking support levels.",
           "sentiment": "Neutral",
-          "impact": "Range-bound until clearer directional catalyst emerges.",
+          "impact": "Limited downside risk from corporate selling",
           "sources": [
-            "https://fortune.com/article/price-of-bitcoin-07-06-2026/",
-            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-6-2026-prices-falling-after-last-weeks-rebound-131307981.html",
-            "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-today-july-7-2026-terawulf-ens-trump-updates"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://finance.yahoo.com/video/bitcoin-starts-see-relief-renewed-163000879.html"
           ]
         },
         {
-          "title": "BitMine Buys $73 Million in Ethereum",
-          "summary": "Tom Lee's BitMine acquired 42,197 ETH worth about $73 million in a notable institutional purchase. This adds to recent signs of selective buying in major assets beyond Bitcoin. Traders should view it as potential confidence in Ethereum's relative value.",
+          "title": "Bitcoin Rebounds to 63,300 Dollars on ETF Demand",
+          "summary": "Bitcoin traded around 63,300 dollars on July 8 after touching 64,400 dollars overnight, extending a recovery that began early in the month. The move higher has been supported by ETF inflows, short covering, and softer U.S. labor data that lowered rate-hike odds. Traders should monitor whether the 63,000-dollar area holds as a new support zone.",
           "sentiment": "Bullish",
-          "impact": "Supports ETH and broader altcoin sentiment.",
+          "impact": "Positive momentum if support holds",
           "sources": [
-            "https://www.reddit.com/r/ethereum/comments/1uons0l/daily_general_discussion_july_06_2026/"
-          ]
-        },
-        {
-          "title": "Crypto Market Rises 1.3 Percent on July 7",
-          "summary": "Total crypto market cap climbed modestly with Bitcoin and Ethereum posting small gains amid easing fear levels. Trading volume increased notably while the Fear and Greed Index ticked up from extreme fear. Traders should track whether volume sustains or fades into the week.",
-          "sentiment": "Neutral",
-          "impact": "Mild positive but not yet a strong reversal signal.",
-          "sources": [
-            "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-today-july-7-2026-terawulf-ens-trump-updates"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html"
           ]
         }
       ]
@@ -68,24 +51,42 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US Releases May Trade Balance Data",
-          "summary": "The Bureau of Economic Analysis and Census Bureau released the US international trade in goods and services balance for May at 8:30 AM ET today. Markets had expected a wider deficit around 78 to 80 billion dollars following April's 55.9 billion dollar shortfall. Traders should watch for any surprise that moves the dollar, Treasury yields, or risk sentiment as the number feeds into GDP revisions and broader growth views.",
+          "title": "Fed Releases June FOMC Minutes Today",
+          "summary": "The Federal Reserve will release the minutes from its June 16-17 FOMC meeting at 2 PM ET. Traders are watching closely for any hints on future rate policy, especially after the committee held rates steady at 3.5% to 3.75% last month amid solid growth but elevated inflation. The details could shift expectations for cuts or hikes later this year.",
           "sentiment": "Neutral",
-          "impact": "Could spark short-term moves in DXY, bonds, and equities depending on the actual figure versus forecasts.",
+          "impact": "Could drive volatility in rates, dollar, and risk assets depending on hawkish or dovish tone.",
           "sources": [
-            "https://tradingeconomics.com/united-states/balance-of-trade",
             "https://www.marketwatch.com/economy-politics/calendar",
-            "https://www.bea.gov/news/schedule"
+            "https://www.tradingview.com/news/coinpedia:a9f8c9851094b:0-fed-minutes-july-8-will-the-fomc-signal-a-rate-cut-or-another-hike/"
           ]
         },
         {
-          "title": "Fed's Bowman Delivers July 7 Remarks",
-          "summary": "Vice Chair for Supervision Michelle Bowman is scheduled to speak today on topics including supervision and regulation. This comes after Governor Waller's monetary policy comments yesterday and amid ongoing market focus on the Fed's rate path following last week's softer jobs data. Crypto and risk traders monitor central bank voices for any hints on policy easing or tightening.",
-          "sentiment": "Neutral",
-          "impact": "Any hawkish or dovish tilt could influence rate expectations and broader market volatility.",
+          "title": "IMF Upgrades Global Growth Forecast to 3.3% for 2026",
+          "summary": "The IMF is set to release its July World Economic Outlook Update today at 9 AM ET, projecting global growth at 3.3% for 2026 and 3.2% for 2027. This reflects resilience in the face of geopolitical and trade headwinds. The update highlights a stable but modest outlook that could support risk appetite if confirmed.",
+          "sentiment": "Bullish",
+          "impact": "Positive for global risk assets including Bitcoin as it signals economic resilience.",
           "sources": [
-            "https://www.federalreserve.gov/newsevents.htm",
-            "https://www.federalreserve.gov/newsevents/2026-speeches.htm"
+            "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+            "https://www.facebook.com/imf/posts/stay-tuned-for-the-release-of-the-july-2026-world-economic-outlook-update-on-wed/1460939006076884/"
+          ]
+        },
+        {
+          "title": "US Wholesale Inventories Rise 0.3% in May",
+          "summary": "May wholesale inventories increased 0.3% month-over-month to around $944 billion, beating forecasts and extending a streak of builds. This follows a stronger April gain and suggests businesses are stocking up amid steady demand. The data points to ongoing economic expansion without major overheating signals.",
+          "sentiment": "Neutral",
+          "impact": "Mildly supportive for growth views but unlikely to shift major market moves on its own.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/wholesale-inventories",
+            "https://www.marketwatch.com/economy-politics/calendar"
+          ]
+        },
+        {
+          "title": "MBA Mortgage Applications Fall 2.2% Last Week",
+          "summary": "Mortgage applications dropped 2.2% in the latest week as 30-year rates held near 6.58%. Refinance activity weakened notably while purchase apps were softer too. This reflects persistent high borrowing costs weighing on housing demand.",
+          "sentiment": "Neutral",
+          "impact": "Signals continued pressure on housing sector from elevated rates.",
+          "sources": [
+            "https://tradingeconomics.com/united-states/calendar"
           ]
         }
       ]
@@ -94,66 +95,43 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Russian Strikes Kill Dozens in Kyiv Ahead of NATO Summit",
-          "summary": "Russia launched massive missile and drone attacks on Ukraine's capital overnight, killing at least 11 to 28 people and damaging residential buildings. Ukrainian President Zelensky will use the upcoming NATO summit in Turkey to push for more air defense systems. Traders should care because this escalation risks broader European conflict and energy market volatility.",
+          "title": "US Launches Strikes on Iran After Hormuz Ship Attacks",
+          "summary": "The US military carried out a wave of strikes on Iranian targets including air defenses, radar sites and IRGC boats after Iran hit three commercial vessels in the Strait of Hormuz. Iran claims it struck US sites in Bahrain and Kuwait in retaliation. The moves shattered a fragile ceasefire and sent oil prices sharply higher.",
           "sentiment": "Bearish",
-          "impact": "Heightens geopolitical risk premium, pressuring risk assets including Bitcoin.",
+          "impact": "Risk-off across markets, volatility spike, safe-haven flows",
           "sources": [
-            "https://www.bbc.com/news/world",
-            "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
-            "https://www.washingtonpost.com/world/"
+            "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+            "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/"
           ]
         },
         {
-          "title": "Tanker Struck Near Strait of Hormuz as Tensions Rise",
-          "summary": "A tanker was set ablaze after being struck by a projectile near the Strait of Hormuz, a critical oil shipping route. This comes as Trump heads to the NATO summit amid ongoing Middle East instability. Traders should watch for potential energy price spikes from any disruption to oil flows.",
+          "title": "Oil Surges Over 5% on Hormuz Tensions and Iran Oil Ban",
+          "summary": "Brent and WTI jumped more than 5% after the US revoked Iran's general license for oil sales and launched strikes. Traders are pricing in fresh supply risks through the world's most important energy chokepoint. The move adds upward pressure on energy costs and inflation expectations.",
           "sentiment": "Bearish",
-          "impact": "Raises oil price volatility and broad risk-off sentiment in markets.",
+          "impact": "Higher input costs, inflation concerns, energy sector outperformance",
           "sources": [
-            "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
-            "https://www.cnn.com/world"
+            "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/",
+            "https://abcnews.com/Business/wireStory/oil-prices-jump-2-after-us-strikes-iran-134574031"
           ]
         },
         {
-          "title": "China Fires Long-Range Missile into Pacific from Submarine",
-          "summary": "China conducted a rare test-launch of a long-range ballistic missile from a nuclear-powered submarine into the South Pacific, drawing regional protests. The test coincides with Australia and Fiji signing a defense treaty to counter Chinese influence. This signals rising great-power tensions that could weigh on global risk appetite.",
+          "title": "Trump Says Iran Ceasefire 'Over' at NATO Summit",
+          "summary": "Speaking from the NATO leaders meeting in Ankara, President Trump declared the US-Iran ceasefire agreement is finished while noting talks could still continue. The summit agenda on defense spending and Ukraine is now overshadowed by the Gulf flare-up.",
           "sentiment": "Bearish",
-          "impact": "Increases uncertainty around US-China relations and regional stability.",
+          "impact": "Heightened geopolitical uncertainty, risk aversion",
           "sources": [
-            "https://www.nytimes.com/section/world",
-            "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
-            "https://www.cbsnews.com/world/"
+            "https://www.cnn.com/2026/07/08/world/video/family-photo-ankara-nato-intldsk",
+            "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye"
           ]
         },
         {
-          "title": "Iran Mourns Slain Supreme Leader Khamenei at Massive Funeral",
-          "summary": "Millions attended funeral services in Iran for Supreme Leader Ali Khamenei and family members assassinated earlier, with his son Mojtaba named successor. Trump indicated US-Iran negotiations remain paused. Ongoing regional fallout keeps Middle East risks elevated for traders.",
-          "sentiment": "Neutral",
-          "impact": "Sustains uncertainty in energy and broader markets without immediate resolution.",
-          "sources": [
-            "https://www.nytimes.com/section/world",
-            "https://www.nbcnews.com/world",
-            "https://www.justsecurity.org/145865/early-edition-july-6-2026/"
-          ]
-        },
-        {
-          "title": "Explosions Hit Damascus During Macron's Syria Visit",
-          "summary": "Explosions occurred near French President Macron's hotel in Damascus while he met with Syrian officials. This highlights persistent instability in Syria amid wider regional conflicts. Traders should monitor for any spillover into energy or security markets.",
+          "title": "Iran Claims Strikes on US Bases in Bahrain, Kuwait",
+          "summary": "Tehran said it targeted US military facilities in Bahrain and Kuwait plus the Fifth Fleet naval base after the American strikes. The tit-for-tat exchange raises the risk of broader regional spillover and further disruption to Gulf shipping.",
           "sentiment": "Bearish",
-          "impact": "Adds to Middle East volatility and potential safe-haven demand.",
+          "impact": "Elevated escalation risk, potential for wider conflict",
           "sources": [
-            "https://www.nytimes.com/section/world",
-            "https://www.cnn.com/world"
-          ]
-        },
-        {
-          "title": "Israel Continues Strikes in Gaza and Lebanon Despite Ceasefires",
-          "summary": "Israeli forces struck targets in Gaza and southern Lebanon, violating US-brokered ceasefires and killing civilians. Netanyahu also made unsubstantiated claims about annexing Lebanese villages. Persistent violations sustain regional tension and risk-asset caution.",
-          "sentiment": "Bearish",
-          "impact": "Maintains elevated geopolitical risk in energy and equity markets.",
-          "sources": [
-            "https://www.democracynow.org/2026/7/6/headlines",
-            "https://www.justsecurity.org/145865/early-edition-july-6-2026/"
+            "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran",
+            "https://en.wikipedia.org/wiki/2026_Iran_war"
           ]
         }
       ]
