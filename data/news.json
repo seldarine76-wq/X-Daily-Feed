@@ -1,56 +1,48 @@
 {
-  "generated_at": "2026-07-02T12:02:34+00:00",
+  "generated_at": "2026-07-08T12:03:19+00:00",
   "model": "grok-4.3",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto markets are under pressure today as Bitcoin tests the $58,000 support level amid $296 million in ETF outflows. Citi's reduced price targets for Bitcoin and Ethereum add to the caution, even as positive headlines emerge from Russia and Trump. Traders await key U.S. jobs data for further direction.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Geopolitical escalation between the US and Iran is injecting fresh risk-off pressure across markets. Bitcoin-specific ETF inflows remain supportive, but unresolved tensions and today's Fed minutes keep direction unclear.",
+  "key_points": [
+    "BlackRock-led ETF inflows hit $266M, supporting Bitcoin",
+    "BTC rebounds to $63,300 on sustained ETF demand",
+    "US-Iran strikes and Hormuz tensions drive oil up 5%+",
+    "IMF lifts 2026 global growth forecast to 3.3%",
+    "Fed June FOMC minutes due today amid mixed macro data"
+  ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Russia Legalizes Crypto Payments for Foreign Trade",
-          "summary": "Starting July 1, Russia allows exporters to accept Bitcoin and stablecoins in international deals to bypass sanctions, with the central bank overseeing flows to partners like China and Turkey. The ruble remains the only domestic currency. Traders should care as this boosts real-world utility and sovereign adoption of Bitcoin as a payment asset amid geopolitical tensions.",
+          "title": "BlackRock IBIT Leads $266M Bitcoin ETF Inflows",
+          "summary": "U.S. spot Bitcoin ETFs recorded roughly 266 million dollars in net inflows over the past couple of days, with BlackRock's IBIT alone taking in about 209 million dollars on July 7. This marks a sharp reversal after weeks of outflows that had drained billions. Traders should watch these flows closely because sustained institutional buying can provide a strong floor and fuel upside moves in Bitcoin price.",
           "sentiment": "Bullish",
-          "impact": "Supports long-term demand and legitimacy for Bitcoin.",
+          "impact": "Supports higher prices and reduces selling pressure",
           "sources": [
-            "https://beincrypto.com/russia-crypto-payments-foreign-trade-july/"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://www.kucoin.com/news/flash/blackrock-s-ibit-drives-209m-inflow-in-u-s-bitcoin-etfs-on-july-6",
+            "https://crypto.news/blackrock-breaks-etf-drought-as-bitcoin-flashes-rally/"
           ]
         },
         {
-          "title": "Trump Discloses $1.4 Billion in 2025 Crypto Earnings",
-          "summary": "President Trump reported at least $1.4 billion in crypto-related income for 2025 through his latest financial disclosures, far exceeding other public figures. This highlights deep political ties to the sector. Traders should care because it reinforces expectations of pro-crypto policies and high-level institutional interest.",
+          "title": "Strategy Sells 3,588 BTC but Market Absorbs Sale",
+          "summary": "Major corporate holder Strategy sold around 3,588 Bitcoin worth 213 to 216 million dollars to fund reserves and dividends. Despite the size of the sale, Bitcoin price held steady near 63,000 dollars without a sharp drop. Traders care because it shows current demand is strong enough to absorb large supply without breaking support levels.",
+          "sentiment": "Neutral",
+          "impact": "Limited downside risk from corporate selling",
+          "sources": [
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://finance.yahoo.com/video/bitcoin-starts-see-relief-renewed-163000879.html"
+          ]
+        },
+        {
+          "title": "Bitcoin Rebounds to 63,300 Dollars on ETF Demand",
+          "summary": "Bitcoin traded around 63,300 dollars on July 8 after touching 64,400 dollars overnight, extending a recovery that began early in the month. The move higher has been supported by ETF inflows, short covering, and softer U.S. labor data that lowered rate-hike odds. Traders should monitor whether the 63,000-dollar area holds as a new support zone.",
           "sentiment": "Bullish",
-          "impact": "Positive sentiment boost and potential regulatory tailwinds.",
+          "impact": "Positive momentum if support holds",
           "sources": [
-            "https://www.youtube.com/watch?v=jv_0HTgOXTM"
-          ]
-        },
-        {
-          "title": "Bitcoin ETFs Record $296 Million Net Outflow on July 1",
-          "summary": "US spot Bitcoin ETFs saw nearly $296 million in net outflows on the latest trading day, led by major funds like BlackRock's IBIT. This continues pressure on institutional demand channels. Traders should care as sustained outflows remove a key buyer and can amplify price weakness.",
-          "sentiment": "Bearish",
-          "impact": "Reduces buying support and adds downside risk.",
-          "sources": [
-            "https://www.coinglass.com/etf"
-          ]
-        },
-        {
-          "title": "Citi Cuts Bitcoin and Ethereum Price Targets",
-          "summary": "Citi lowered its 12-month price targets for Bitcoin and Ethereum, citing drying ETF flows and shifting institutional momentum. The move comes as Bitcoin trades near recent lows. Traders should care because analyst downgrades from major banks can trigger further selling or repositioning.",
-          "sentiment": "Bearish",
-          "impact": "Adds bearish pressure and reprices expectations lower.",
-          "sources": [
-            "https://x.com/GlockchainGlock/status/2072320823319580697"
-          ]
-        },
-        {
-          "title": "Bitcoin Tests $58,000 Support Amid Market Pressure",
-          "summary": "Bitcoin fell below $58,000 on July 1 amid geopolitical and economic headwinds, marking one of its weakest monthly performances in years before a modest recovery. Liquidations and whale activity accelerated the move. Traders should care as breaking key psychological levels often leads to volatile follow-through.",
-          "sentiment": "Bearish",
-          "impact": "Tests support and raises risk of deeper correction.",
-          "sources": [
-            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-1-2026-bitcoins-worst-month-since-june-22-123840769.html",
-            "https://bitcoinfoundation.org/news/altcoins/bitcoin-crashed-to-58k-what-happens-next-to-btc-and-altcoins-in-july/"
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin",
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html"
           ]
         }
       ]
@@ -59,54 +51,42 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US June Jobs Report Set for Release Today",
-          "summary": "The Bureau of Labor Statistics is set to release the June employment situation report at 8:30 AM ET, including nonfarm payrolls, unemployment rate, and wage growth. Economists expect around 110,000 jobs added, down from May's 172,000, with unemployment steady at 4.3 percent and hourly earnings up 0.3 percent. Traders will watch closely for signs of labor market cooling that could influence Federal Reserve rate path decisions and dollar strength.",
+          "title": "Fed Releases June FOMC Minutes Today",
+          "summary": "The Federal Reserve will release the minutes from its June 16-17 FOMC meeting at 2 PM ET. Traders are watching closely for any hints on future rate policy, especially after the committee held rates steady at 3.5% to 3.75% last month amid solid growth but elevated inflation. The details could shift expectations for cuts or hikes later this year.",
           "sentiment": "Neutral",
-          "impact": "High volatility in risk assets and yields as data hits, with softer numbers likely supporting rate cut bets.",
+          "impact": "Could drive volatility in rates, dollar, and risk assets depending on hawkish or dovish tone.",
           "sources": [
             "https://www.marketwatch.com/economy-politics/calendar",
-            "https://tradingeconomics.com/united-states/calendar",
-            "https://www.bls.gov/schedule/news_release/current_year.asp"
+            "https://www.tradingview.com/news/coinpedia:a9f8c9851094b:0-fed-minutes-july-8-will-the-fomc-signal-a-rate-cut-or-another-hike/"
           ]
         },
         {
-          "title": "ADP Private Payrolls Miss in June",
-          "summary": "The ADP National Employment Report showed private sector jobs rose just 98,000 in June, missing forecasts and down from 122,000 in May. This weak reading adds to expectations for a softer official jobs report later today. Markets are pricing in implications for consumer spending and Fed policy ahead of the holiday weekend.",
+          "title": "IMF Upgrades Global Growth Forecast to 3.3% for 2026",
+          "summary": "The IMF is set to release its July World Economic Outlook Update today at 9 AM ET, projecting global growth at 3.3% for 2026 and 3.2% for 2027. This reflects resilience in the face of geopolitical and trade headwinds. The update highlights a stable but modest outlook that could support risk appetite if confirmed.",
           "sentiment": "Bullish",
-          "impact": "Supports views of cooling labor market, potentially easing pressure on rates and aiding risk assets like Bitcoin.",
+          "impact": "Positive for global risk assets including Bitcoin as it signals economic resilience.",
           "sources": [
-            "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020",
-            "https://x.com/FXJunction/status/2072651948403364333"
+            "https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+            "https://www.facebook.com/imf/posts/stay-tuned-for-the-release-of-the-july-2026-world-economic-outlook-update-on-wed/1460939006076884/"
           ]
         },
         {
-          "title": "Fed Chair Warsh Avoids July Rate Signals",
-          "summary": "Federal Reserve Chairman Kevin Warsh participated in a panel discussion but declined to hint at any July policy move, stressing reliance on incoming data. Markets had been watching for clues on the path of interest rates amid mixed economic signals. His comments come just before today's key jobs data and the long holiday weekend.",
+          "title": "US Wholesale Inventories Rise 0.3% in May",
+          "summary": "May wholesale inventories increased 0.3% month-over-month to around $944 billion, beating forecasts and extending a streak of builds. This follows a stronger April gain and suggests businesses are stocking up amid steady demand. The data points to ongoing economic expansion without major overheating signals.",
           "sentiment": "Neutral",
-          "impact": "Keeps uncertainty high around near-term Fed actions, with limited immediate market reaction expected until data arrives.",
+          "impact": "Mildly supportive for growth views but unlikely to shift major market moves on its own.",
           "sources": [
-            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-01-2026",
-            "https://www.youtube.com/watch?v=FNNfz4HRC1g"
+            "https://tradingeconomics.com/united-states/wholesale-inventories",
+            "https://www.marketwatch.com/economy-politics/calendar"
           ]
         },
         {
-          "title": "Factory Orders and Jobless Claims Due Today",
-          "summary": "Additional data releases include May factory orders at 10 AM ET and weekly initial jobless claims. These will provide further color on manufacturing and labor market trends alongside the headline jobs report. Traders monitor for consistency with the expected softer payrolls print.",
+          "title": "MBA Mortgage Applications Fall 2.2% Last Week",
+          "summary": "Mortgage applications dropped 2.2% in the latest week as 30-year rates held near 6.58%. Refinance activity weakened notably while purchase apps were softer too. This reflects persistent high borrowing costs weighing on housing demand.",
           "sentiment": "Neutral",
-          "impact": "Secondary moves in bonds and dollar likely, reinforcing or challenging the main NFP narrative.",
+          "impact": "Signals continued pressure on housing sector from elevated rates.",
           "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://us.econoday.com/"
-          ]
-        },
-        {
-          "title": "Markets Brace for Holiday-Shortened Week",
-          "summary": "US markets will close early or observe Independence Day tomorrow, making today's jobs data the last major release before the long weekend. Positioning is light ahead of the holiday, with focus squarely on how the employment figures shift rate expectations and the dollar.",
-          "sentiment": "Neutral",
-          "impact": "Heightened sensitivity to today's data, potential for post-report moves to carry into next week.",
-          "sources": [
-            "https://www.marketwatch.com/economy-politics/calendar",
-            "https://finance.yahoo.com/calendar/economic/"
+            "https://tradingeconomics.com/united-states/calendar"
           ]
         }
       ]
@@ -115,23 +95,43 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Iran Talks Advance in Qatar but Iran Refuses Direct Meetings",
-          "summary": "Indirect US-Iran negotiations in Doha wrapped up with reports of positive progress on a memorandum of understanding and Strait of Hormuz shipping issues. Iran has ruled out direct talks with US envoys, keeping discussions through Qatari and Pakistani mediators amid unresolved disputes over nuclear issues and sanctions. Traders should monitor for any escalation or breakthrough that could sharply move oil prices and broader risk sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Persistent Hormuz uncertainty sustains oil price volatility and risk-off flows.",
+          "title": "US Launches Strikes on Iran After Hormuz Ship Attacks",
+          "summary": "The US military carried out a wave of strikes on Iranian targets including air defenses, radar sites and IRGC boats after Iran hit three commercial vessels in the Strait of Hormuz. Iran claims it struck US sites in Bahrain and Kuwait in retaliation. The moves shattered a fragile ceasefire and sent oil prices sharply higher.",
+          "sentiment": "Bearish",
+          "impact": "Risk-off across markets, volatility spike, safe-haven flows",
           "sources": [
-            "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump",
-            "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/",
-            "https://www.youtube.com/watch?v=dtvgcpp4DmE"
+            "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+            "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/"
           ]
         },
         {
-          "title": "US Declines to Renew USMCA Trade Pact on Deadline",
-          "summary": "The United States announced it will not extend the USMCA agreement past the July 1 joint review deadline, triggering a potential decade of annual reviews or expiration in 2036. Bilateral talks with Mexico continue while Canada has not started its own. This injects fresh trade uncertainty into North American supply chains and could pressure risk assets through higher tariffs or renegotiation risks.",
-          "sentiment": "Neutral",
-          "impact": "Adds to global trade friction and potential drag on equities and growth expectations.",
+          "title": "Oil Surges Over 5% on Hormuz Tensions and Iran Oil Ban",
+          "summary": "Brent and WTI jumped more than 5% after the US revoked Iran's general license for oil sales and launched strikes. Traders are pricing in fresh supply risks through the world's most important energy chokepoint. The move adds upward pressure on energy costs and inflation expectations.",
+          "sentiment": "Bearish",
+          "impact": "Higher input costs, inflation concerns, energy sector outperformance",
           "sources": [
-            "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html"
+            "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/",
+            "https://abcnews.com/Business/wireStory/oil-prices-jump-2-after-us-strikes-iran-134574031"
+          ]
+        },
+        {
+          "title": "Trump Says Iran Ceasefire 'Over' at NATO Summit",
+          "summary": "Speaking from the NATO leaders meeting in Ankara, President Trump declared the US-Iran ceasefire agreement is finished while noting talks could still continue. The summit agenda on defense spending and Ukraine is now overshadowed by the Gulf flare-up.",
+          "sentiment": "Bearish",
+          "impact": "Heightened geopolitical uncertainty, risk aversion",
+          "sources": [
+            "https://www.cnn.com/2026/07/08/world/video/family-photo-ankara-nato-intldsk",
+            "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye"
+          ]
+        },
+        {
+          "title": "Iran Claims Strikes on US Bases in Bahrain, Kuwait",
+          "summary": "Tehran said it targeted US military facilities in Bahrain and Kuwait plus the Fifth Fleet naval base after the American strikes. The tit-for-tat exchange raises the risk of broader regional spillover and further disruption to Gulf shipping.",
+          "sentiment": "Bearish",
+          "impact": "Elevated escalation risk, potential for wider conflict",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran",
+            "https://en.wikipedia.org/wiki/2026_Iran_war"
           ]
         }
       ]
