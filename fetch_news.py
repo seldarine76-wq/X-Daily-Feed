@@ -33,7 +33,7 @@ from openai import OpenAI
 # Configuration
 # --------------------------------------------------------------------------- #
 
-MODEL = "grok-4.3"  # xAI flagship; see https://docs.x.ai/developers/models
+MODEL = "grok-4.5"  # xAI flagship; see https://docs.x.ai/developers/models
 OUTPUT_PATH = Path(__file__).parent / "data" / "news.json"
 
 # Each category gets its own search pass. The "guidance" tells Grok exactly what
