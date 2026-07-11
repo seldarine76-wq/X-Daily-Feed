@@ -1,74 +1,83 @@
 {
-  "generated_at": "2026-07-10T12:05:05+00:00",
+  "generated_at": "2026-07-11T12:03:53+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto faces pressure from escalating Middle East conflicts, oil spikes, and rising inflation risks that could prompt Fed rate hikes. Bitcoin rebounded above 64,000 with some positive regulatory news like Circle's approval, but ETF outflows and geopolitical threats dominate the tone. Overall sentiment remains cautious as risk assets could face further headwinds.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Crypto faces a mixed session with solid institutional tailwinds from ETF inflows, Circle's banking approval, and bullish analyst calls offsetting a corporate Bitcoin sale. Geopolitical escalations around Iran and a hawkish Fed report introduce clear risk-off pressure, while upcoming CPI keeps traders cautious. The tone is balanced and event-driven rather than decisively directional.",
   "key_points": [
-    "US-Iran strikes resume, oil jumps, inflation risks rise",
-    "Bitcoin rebounds above 64k on tech rally",
-    "Circle wins OCC national trust bank approval",
-    "Bitcoin ETFs see 95 million outflows",
-    "Fed officials signal possible rate hikes"
+    "Spot Bitcoin ETFs post $90M inflows",
+    "Circle wins OCC national trust bank nod",
+    "Hawkish Fed report flags elevated inflation",
+    "Trump-Iran tensions escalate risk-off fears",
+    "Bitcoin holds rebound above $64K"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Circle Wins Final OCC Approval for National Trust Bank",
-          "summary": "Circle, the issuer of USDC, just received final approval from the Office of the Comptroller of the Currency to launch Circle National Trust, a federally supervised national trust bank. This lets it offer regulated custody services and positions it to eventually manage USDC reserves under direct federal oversight. Traders should care because it deepens the bridge for institutions to bring capital into crypto rails and strengthens the largest regulated stablecoin ecosystem.",
+          "title": "Circle Wins Final OCC Nod for US National Trust Bank",
+          "summary": "Circle, the issuer of USDC, received final approval from the Office of the Comptroller of the Currency to establish Circle National Trust, a federally chartered national trust bank. This lets it offer regulated custody for digital assets and eventually manage USDC reserves under direct federal oversight. Traders should care because it is a major step integrating stablecoins into the traditional banking system, which can boost institutional confidence and on-ramps for crypto liquidity.",
           "sentiment": "Bullish",
-          "impact": "Boosts institutional confidence and USDC adoption potential",
+          "impact": "Supports broader institutional adoption and stablecoin infrastructure",
           "sources": [
             "https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank",
+            "https://www.reuters.com/legal/transactional/circle-wins-final-regulatory-approval-establish-us-trust-bank-shares-rise-2026-07-10/",
             "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion"
           ]
         },
         {
-          "title": "Bitcoin Rebounds Above $64,000 on Tech Rally",
-          "summary": "Bitcoin climbed roughly three and a half percent to nearly sixty-four thousand dollars on Friday, putting it up over four percent for the week. The move was driven by a strong rally in Asian semiconductor and AI stocks, a stronger yen, and improving risk sentiment after earlier Iran-related pressure, not crypto-specific catalysts. Traders should watch whether this bounce holds as leverage and liquidations amplified the speed of the recovery.",
+          "title": "Spot Bitcoin ETFs See $90M Inflows Led by BlackRock",
+          "summary": "US spot Bitcoin ETFs recorded about ninety million dollars in net inflows on July tenth, with BlackRock's IBIT accounting for the vast majority at roughly eighty-seven million. This comes after heavy outflows earlier in the year and signals some institutional capital is stepping back in at current levels. For traders this matters as ETF flows remain a key marginal driver of Bitcoin demand and price direction.",
           "sentiment": "Bullish",
-          "impact": "Short-term upside momentum if key levels hold",
+          "impact": "Positive near-term demand signal that could help sustain the rebound",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
-            "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390"
+            "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-see-90-44m-net-inflow-on-july-10-blackrock-s-ibit-leads-with-86-83m",
+            "https://m.sosovalue.com/assets/etf/us-btc-spot",
+            "https://pluang.com/en/news-feed/etf-bitcoin-ethereum-as-us-dollar-masuk-juli-2026"
           ]
         },
         {
-          "title": "Bitcoin ETFs See $95 Million Thursday Outflows",
-          "summary": "U.S. spot bitcoin ETFs lost about ninety-five million dollars on Thursday, with Fidelity and ARK leading the redemptions, while ether funds also flipped to outflows of around fifty-two million. Assets under management sit near seventy-seven billion dollars. Traders care because institutional flows remain soft even as price rallied, showing limited fresh demand at these levels.",
+          "title": "Empery Digital Sells Nearly Half Its Bitcoin Treasury",
+          "summary": "Public Bitcoin treasury firm Empery Digital sold fourteen hundred BTC for about eighty-seven million dollars since May, cutting its holdings nearly in half. Proceeds are going to pay down debt, fund a stake in an AI data center project, and cover legal costs. Traders should watch this as it shows some corporate holders treating Bitcoin as a liquidity source rather than a permanent reserve, adding potential supply pressure.",
           "sentiment": "Bearish",
-          "impact": "Weighs on sustained upside without stronger inflows",
+          "impact": "Highlights corporate selling risk and weakens pure treasury accumulation narrative",
           "sources": [
-            "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak"
+            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-treasury-firm-empery-digital-185446284.html",
+            "https://www.bankless.com/read/news/empery-digital-sells-half-its-bitcoin-treasury-for-87m",
+            "https://decrypt.co/"
           ]
         },
         {
-          "title": "New Hampshire Rejects $100 Million Bitcoin Bond",
-          "summary": "New Hampshire's Executive Council voted three-to-two to kill a proposed one-hundred-million-dollar Bitcoin-backed municipal bond that would have been a first-of-its-kind state effort. Concerns centered on the state's financial reputation and Bitcoin volatility. This is a setback for state-level crypto adoption experiments that traders watch for broader regulatory and institutional signals.",
-          "sentiment": "Bearish",
-          "impact": "Dents narrative of public-sector Bitcoin integration",
-          "sources": [
-            "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
-            "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million"
-          ]
-        },
-        {
-          "title": "Clarity Act Draft May Drop Next Week",
-          "summary": "Sources say a new merged version of the Digital Asset Market Clarity Act could be released as soon as next week, combining Senate Banking and Agriculture efforts for a possible late-July floor push. Key sticking points remain around ethics rules for officials and securing Democratic support for the sixty-vote threshold. This is the last real window before summer recess and midterms make 2026 passage unlikely, so any progress is a potential catalyst.",
-          "sentiment": "Neutral",
-          "impact": "Unresolved regulatory catalyst hanging over markets",
-          "sources": [
-            "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say"
-          ]
-        },
-        {
-          "title": "Metaplanet Studies Bitcoin-Backed Credit in Japan",
-          "summary": "Japanese Bitcoin treasury company Metaplanet is studying tokenized bitcoin-backed credit products with partners including yen stablecoin issuer JPYC and Progmat. The goal is to create twenty-four-seven digital credit markets using Bitcoin as collateral for mid-sized firms. With Metaplanet holding forty-three thousand BTC, this expands corporate Bitcoin utility beyond simple holding and could drive Asian product innovation.",
+          "title": "Bitcoin Rebounds Above $64K on Tech Rally and Short Squeeze",
+          "summary": "Bitcoin climbed back above sixty-four thousand dollars, recovering recent losses as chip stocks surged after SK Hynix's massive US IPO and risk appetite improved. Short liquidations added fuel to the move higher. Traders care because the break of recent resistance levels on spot buying rather than pure leverage could set up further upside if the rebound holds.",
           "sentiment": "Bullish",
-          "impact": "Supports Bitcoin as productive financial collateral",
+          "impact": "Near-term momentum shift higher if support around sixty-two to sixty-three thousand holds",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan"
+            "https://www.coindesk.com/",
+            "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-64k-heads-for-weekly-rise-on-techled-rally-4785390",
+            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-10-2026-up-nearly-3-since-last-friday-130101171.html"
+          ]
+        },
+        {
+          "title": "Standard Chartered Calls Bitcoin a Screaming Buy at $64K",
+          "summary": "Standard Chartered reaffirmed its one hundred thousand dollar Bitcoin year-end target and described current prices around sixty-four thousand as a screaming buy. The bank views recent corporate treasury sales, including from Strategy, as mostly noise rather than a change in the medium-term outlook. This matters for traders as a major bank's public bullish stance can influence institutional sentiment and positioning.",
+          "sentiment": "Bullish",
+          "impact": "Supports accumulation narrative and could encourage dip buying",
+          "sources": [
+            "https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-sales-mostly-noise-135230047.html",
+            "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+            "https://seekingalpha.com/news/4612905-standard-chartered-keeps-100k-bitcoin-target-despite-strategy-pivot"
+          ]
+        },
+        {
+          "title": "Metaplanet Studies Bitcoin-Backed Digital Credit in Japan",
+          "summary": "Japan's largest corporate Bitcoin holder Metaplanet announced a joint feasibility study with JPYC and Progmat to develop tokenized, Bitcoin-backed digital credit products. The idea is to use BTC as collateral for twenty-four seven credit markets settled with yen stablecoins. Traders should note this expands Bitcoin's use case beyond simple treasury holding into productive financial infrastructure in a major market.",
+          "sentiment": "Bullish",
+          "impact": "Positive long-term adoption signal for corporate Bitcoin utility",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
+            "https://bitcoinmagazine.com/news/metaplanet-announces-joint-study-bitcoin",
+            "https://cryptorank.io/news/feed/da07d-metaplanet-explores-bitcoin-backed-digital-credit-with-jpyc-and-progmat"
           ]
         }
       ]
@@ -77,67 +86,65 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Officials Signal Rate Hikes If Inflation Stays High",
-          "summary": "June FOMC minutes and fresh analysis show policymakers split but ready to hike rates if inflation broadens or persists from Middle East energy shocks, AI investment, and tariffs. New Chair Warsh's leaner readout emphasized scenario-based responses over vague risk management. Crypto traders should care because hotter upcoming CPI data could force markets to price more tightening, lifting the dollar and yields while pressuring Bitcoin and risk assets.",
+          "title": "Fed Releases Hawkish Monetary Policy Report Citing Elevated Inflation",
+          "summary": "The Federal Reserve's semiannual Monetary Policy Report to Congress, released Friday under Chair Kevin Warsh, flags that inflation stepped up further this spring to about double the 2 percent target. Drivers include tariffs, the Middle East war energy shock, and AI-related demand pressures. The report describes solid growth, strong productivity, and a stable labor market while vowing to deliver price stability. Traders should care because it reinforces the case for higher-for-longer rates or a potential hike, pressuring risk assets including Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Raises odds of tighter policy, negative for crypto liquidity",
+          "impact": "Supports higher rate expectations and stronger dollar, weighing on crypto and equities",
           "sources": [
-            "https://www.reuters.com/business/fed-officials-fret-over-inflation-risk-weigh-rate-hikes-2026-07-10/",
-            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-            "https://www.wsj.com/economy/central-banking/fed-officials-flagged-risks-that-would-warrant-higher-rates-6f584cba"
+            "https://www.reuters.com/business/fed-report-cites-stepped-up-inflation-2026-07-10/",
+            "https://www.federalreserve.gov/monetarypolicy/files/20260710_mprfullreport.pdf",
+            "https://news.bloomberglaw.com/banking-law/fed-vows-to-deliver-price-stability-in-monetary-policy-report"
           ]
         },
         {
-          "title": "Warsh Names Andreessen, Chetty to Lead Fed Task Forces",
-          "summary": "Fed Chair Kevin Warsh announced high-profile external leaders for five task forces examining communications, the balance sheet, data quality, AI-driven productivity and jobs, and inflation frameworks. Names include Marc Andreessen, Raj Chetty, Mervyn King, Raghuram Rajan, and Greg Mankiw. This signals a deep rethink of how the Fed operates under new leadership. Traders should watch for potential shifts toward tech-aware policy or faster adaptation that could eventually ease or reshape monetary conditions.",
+          "title": "Markets Eye June CPI Release Tuesday Amid Cooling Nowcasts",
+          "summary": "With no major data today, attention turns to the June CPI report due Tuesday July 14 at 8:30 AM ET. Cleveland Fed nowcasts show June headline CPI around 3.9 percent year-over-year with core near 2.85 percent, and early July readings pointing lower as oil eases. Soft prints could ease hike fears while hot core data would cement hawkish views. Crypto traders watch this closely as inflation surprises drive the next leg in risk appetite and Fed pricing.",
           "sentiment": "Neutral",
-          "impact": "Longer-term reform catalyst with uncertain near-term market effect",
+          "impact": "High-volatility event that could swing rates, dollar, and Bitcoin direction",
           "sources": [
-            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-            "https://apnews.com/article/federal-reserve-task-force-andreessen-chetty-8a7ca37bd1c41fa2e5533f8bd172b976",
-            "https://news.bloomberglaw.com/banking-law/feds-warsh-names-leadership-for-five-new-task-forces"
+            "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+            "https://www.bls.gov/schedule/news_release/current_year.asp",
+            "https://tradingeconomics.com/calendar"
           ]
         },
         {
-          "title": "Middle East Flare-Up Lifts Oil and Inflation Risks",
-          "summary": "Renewed US-Iran hostilities earlier this week drove oil prices to multi-week highs before some easing on mediation hopes, keeping energy-driven inflation fears alive. This has supported elevated Treasury yields and reinforced the Fed's hawkish lean. Crypto traders care because higher oil feeds into broader price pressures and rate-hike odds, creating a risk-off backdrop that often weighs on Bitcoin even as geopolitical uncertainty can spark short-term safe-haven flows.",
-          "sentiment": "Bearish",
-          "impact": "Fuels higher yields and tighter policy expectations",
+          "title": "Germany LEI Rises 0.6 Percent Signaling Easing Headwinds",
+          "summary": "The Conference Board Leading Economic Index for Germany increased 0.6 percent in May to 87.5, the second straight monthly gain after earlier declines. All components improved and the six-month change remains negative but stabilizing. This suggests possible near-term relief for Europe's largest economy. Positive European growth signals can support global risk sentiment and commodity demand that often correlates with crypto.",
+          "sentiment": "Bullish",
+          "impact": "Supportive for global risk assets if growth improves",
           "sources": [
-            "https://www.reuters.com/business/energy/us-oil-prices-jump-after-us-military-launches-strikes-against-iran-2026-07-07/",
-            "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
-            "https://www.reuters.com/business/fed-officials-fret-over-inflation-risk-weigh-rate-hikes-2026-07-10/"
+            "https://www.conference-board.org/topics/business-cycle-indicators/germany/"
           ]
         },
         {
-          "title": "Existing Home Sales Drop as Prices Hit Record High",
-          "summary": "June existing-home sales fell unexpectedly by 2.4 percent to a 4.09 million annualized rate while the median price climbed to a record 440,600 dollars on tight inventory. Elevated mortgage rates tied to Fed policy and geopolitical risks continue to sideline buyers. Soft housing activity hints at cooling demand that could eventually support rate-cut bets, but sticky prices keep inflation risks in play for markets.",
+          "title": "Japan LEI Climbs 0.9 Percent Showing Continued Recovery",
+          "summary": "Japan's Conference Board Leading Economic Index rose 0.9 percent in May, extending gains and delivering a solid 4.3 percent six-month advance. The improvement points to better near-term prospects for the Japanese economy. Stronger Asian growth data helps the global outlook and can lift risk appetite across markets including crypto.",
+          "sentiment": "Bullish",
+          "impact": "Positive global growth signal supporting risk-on trades",
+          "sources": [
+            "https://www.conference-board.org/topics/business-cycle-indicators/japan/"
+          ]
+        },
+        {
+          "title": "US 10-Year Yield Holds Near 4.56 Percent as DXY Steady",
+          "summary": "The US 10-year Treasury yield closed Friday around 4.56 percent, little changed after recent gains, while the dollar index hovered near 101. Markets digested the Fed report without major spikes. Stable but elevated yields keep financial conditions tight. Crypto traders monitor this closely as rising real yields and a firm dollar have historically been headwinds for Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "Mixed signal of economic cooling versus residual inflation pressure",
-          "sources": [
-            "https://www.reuters.com/world/us/us-weekly-jobless-claims-fall-amid-stable-labor-market-conditions-2026-07-09/",
-            "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales"
-          ]
-        },
-        {
-          "title": "Jobless Claims Stay Low, Labor Market Holds Steady",
-          "summary": "Initial weekly jobless claims eased to 215,000, remaining near multi-decade lows and confirming a resilient labor market. Continuing claims also stayed elevated but showed no sharp deterioration. This data keeps the Fed focused on inflation rather than employment risks, reducing near-term odds of rate cuts and supporting a hold-or-hike bias that is typically cautious for crypto.",
-          "sentiment": "Neutral",
-          "impact": "Supports current restrictive policy stance",
-          "sources": [
-            "https://www.reuters.com/world/us/us-weekly-jobless-claims-fall-amid-stable-labor-market-conditions-2026-07-09/",
-            "https://tradingeconomics.com/united-states/jobless-claims"
-          ]
-        },
-        {
-          "title": "Treasury Yields Elevated Near 4.55 Percent; DXY Softens",
-          "summary": "The 10-year Treasury yield hovered around 4.55 percent amid Fed hawkishness and Middle East risks, while the dollar index eased slightly toward 100.8. No major US economic data was scheduled for today, shifting focus to next week's CPI. Elevated yields tighten financial conditions and can pressure Bitcoin, though a softer dollar offers some offset for risk assets.",
-          "sentiment": "Neutral",
-          "impact": "Keeps liquidity tight but no sharp new catalyst",
+          "impact": "Tight financial conditions limit risk appetite until yields ease",
           "sources": [
             "https://tradingeconomics.com/united-states/government-bond-yield",
-            "https://finance.yahoo.com/quote/DX-Y.NYB/",
-            "https://www.reuters.com/world/war-driven-inflation-fears-fail-shake-us-treasury-yield-outlook-2026-07-09/"
+            "https://tradingeconomics.com/united-states/currency",
+            "https://fred.stlouisfed.org/series/DGS10"
+          ]
+        },
+        {
+          "title": "USDA WASDE Tightens Corn Stocks More Than Expected",
+          "summary": "Friday's WASDE report cut US corn ending stocks more than traders anticipated for both old and new crop years, while wheat production hit multi-decade lows. Soybeans saw smaller adjustments. Grain prices jumped on the release. Tighter ag supplies can feed into food inflation readings and broader commodity strength, factors that influence the Fed's inflation fight and risk markets.",
+          "sentiment": "Neutral",
+          "impact": "Potential upside to inflation prints and commodity-linked assets",
+          "sources": [
+            "https://www.agriculture.com/july-usda-wasde-report-12014120",
+            "https://www.americanagnetwork.com/2026/07/10/usda-releases-july-2026-wasde-report/",
+            "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report"
           ]
         }
       ]
@@ -146,62 +153,61 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US-Iran Airstrikes Resume, Ceasefire Collapses",
-          "summary": "The United States has launched multiple waves of airstrikes hitting over 170 targets in Iran over the past two days after Iranian attacks on commercial ships in the Strait of Hormuz. Iran has retaliated with missiles targeting US bases and allies in the Gulf, Kuwait, Bahrain, Qatar, and even Jordan. President Trump declared the fragile ceasefire over while warning of more action. Traders need to watch this closely because Hormuz handles about a fifth of global oil trade, so any closure or sustained disruption spikes energy prices and drives risk-off selling across equities and crypto.",
+          "title": "Trump Declares Iran Ceasefire Over as Talks Resume on Hormuz",
+          "summary": "President Trump said the U.S. and Iran agreed to continue talks but declared the ceasefire over after this week's ship attacks and retaliatory strikes. Iran's foreign minister arrived in Oman for mediation as Washington demands a public pledge of free, secure passage through the Strait of Hormuz with no tolls. No major attacks were reported overnight, but oil prices remain elevated and shipping is disrupted. Traders should watch for any breakthrough or fresh flare-up that could spike energy prices and trigger risk-off moves in crypto and equities.",
           "sentiment": "Bearish",
-          "impact": "Oil shock risk and heightened geopolitical uncertainty weigh on risk assets",
+          "impact": "Elevated oil prices and geopolitical uncertainty pressure risk assets",
           "sources": [
-            "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
-            "https://www.cnn.com/2026/07/09/world/live-news/iran-war-trump",
-            "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump"
+            "https://www.reuters.com/world/asia-pacific/trump-says-us-iran-agree-continue-talks-ceasefire-over-2026-07-11/",
+            "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/"
           ]
         },
         {
-          "title": "China Bans Helium Exports Amid Middle East Fears",
-          "summary": "China announced an immediate temporary ban on helium exports Friday as US-Iran fighting raises the threat of new global shortages of the gas. Helium is essential for cooling and processes in semiconductor manufacturing, and China relies heavily on imports while also re-exporting some. This hits chip production just as AI and tech demand remains strong. Crypto traders should care because semiconductor supply constraints often pressure tech stocks and growth assets that Bitcoin tends to track in risk-on periods.",
+          "title": "Trump Locks Missiles on Iran Over Assassination Plot Threat",
+          "summary": "Trump posted that 1,000 missiles are locked and loaded against Iran, with thousands more ready, if Tehran acts on threats to assassinate him. Israel shared intelligence of a fresh Iranian plot, and mourners at Khamenei's funeral chanted for Trump's death. This adds a direct personal escalation layer to the already hot conflict over Hormuz. For markets, any attempted strike or preemptive U.S. response would be a black-swan volatility event slamming risk assets.",
           "sentiment": "Bearish",
-          "impact": "Semiconductor supply squeeze and higher tech production costs",
+          "impact": "High risk of sudden military escalation driving risk-off selling",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/china-announces-temporary-export-ban-helium-2026-07-10/"
+            "https://www.reuters.com/world/asia-pacific/trump-says-us-iran-agree-continue-talks-ceasefire-over-2026-07-11/",
+            "https://www.wsj.com/world/middle-east/iran-hatched-fresh-plot-to-kill-trump-israel-told-u-s-1511d9d2"
           ]
         },
         {
-          "title": "Oil Prices Jump on Hormuz Threats and Iran Strikes",
-          "summary": "Crude benchmarks climbed sharply this week after Trump said the Iran ceasefire was over, the US reimposed oil sanctions waivers, and strikes hit Iranian targets linked to shipping threats. Brent moved higher as markets priced in supply risks through the Strait of Hormuz. Energy costs feeding into inflation can slow growth and force tighter financial conditions, which historically pressures Bitcoin and other risk assets even as oil producers gain.",
+          "title": "Trump Backs Heavy Tariffs on Buyers of Russian Oil",
+          "summary": "The Trump administration will support a bipartisan Senate bill imposing steep tariffs on countries that keep buying Russian oil and gas, mainly targeting China and India. Senators Graham and Blumenthal said the White House approved the latest draft to pressure Putin into ending the Ukraine war. Ukraine has been briefed. This secondary sanctions push could tighten global oil supplies further and raise prices, adding inflation pressure that typically weighs on risk assets like Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Higher energy prices fuel inflation fears and risk-off flows",
+          "impact": "Potential oil price spike and broader trade friction",
           "sources": [
-            "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
-            "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html"
+            "https://www.cbsnews.com/news/trump-admin-to-support-heavy-tariffs-on-russian-oil-in-effort-to-end-ukraine-war/"
           ]
         },
         {
-          "title": "Putin Likely to Escalate Ukraine War",
-          "summary": "Kremlin sources say Vladimir Putin is rejecting peace negotiations and preparing to escalate the conflict further after Ukrainian drone strikes damaged Russian oil refineries and ports. This comes despite US pressure for a settlement. Prolonged fighting keeps European energy and commodity markets volatile and sustains sanctions uncertainty. For crypto, extended great-power conflict supports a defensive market tone that can cap upside in risk assets.",
+          "title": "Ukraine Hits Russian Oil Infrastructure Deep Inside Russia",
+          "summary": "Ukrainian forces conducted long-range drone strikes on oil refineries and terminals in Krasnodar, Rostov, and even Leningrad Oblast overnight, sparking fires at key energy sites. Russia responded with missiles and drones on Kyiv, injuring civilians. These attacks on Russia's energy assets compound global supply concerns already elevated by Hormuz tensions. Traders care because further damage to Russian refining capacity supports higher oil prices and sustained risk premium in energy markets.",
           "sentiment": "Bearish",
-          "impact": "Sustained European war risk and energy market volatility",
+          "impact": "Supports higher oil prices and energy market volatility",
           "sources": [
-            "https://www.reuters.com/world/europe/putin-likely-escalate-ukraine-war-despite-trump-peace-push-sources-say-2026-07-09/"
+            "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-10-2026/",
+            "https://www.reuters.com/world/europe/kyiv-under-russian-missile-attack-officials-say-2026-07-11/"
           ]
         },
         {
-          "title": "NATO Ankara Summit Ends with Mixed Trump Signals",
-          "summary": "The NATO leaders summit in Ankara wrapped on July 8 with Trump initially ordering an end to trade with Spain before later praising alliance unity and endorsing more support for Ukraine including Patriot interceptor production licenses. Allies committed further defense spending and aid packages. Markets read this as continued rearmament spending in Europe but also as evidence of US unpredictability toward allies, which can keep a mild geopolitical risk premium in place.",
+          "title": "Iran's New Supreme Leader Pledges Revenge for Father",
+          "summary": "Ayatollah Mojtaba Khamenei, the new Supreme Leader, said avenging his slain father and predecessor is the demand of the nation and must take place. This comes amid funerals, U.S. strikes, and ongoing Hormuz brinkmanship. Hardline rhetoric reduces the odds of a quick de-escalation. For crypto traders, sustained Iranian defiance keeps the Middle East risk premium alive and oil prices sticky higher, which is generally negative for risk appetite.",
+          "sentiment": "Bearish",
+          "impact": "Hardens Iranian stance, prolonging energy market risk premium",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/irans-supreme-leader-pledges-revenge-slain-father-predecessor-2026-07-11/"
+          ]
+        },
+        {
+          "title": "Super Typhoon Bavi Threatens Eastern China and Taiwan",
+          "summary": "Super Typhoon Bavi, one of the strongest storms of the year and spanning roughly the width of France, is expected to make landfall in eastern China near Fujian and Zhejiang on Saturday night after brushing Taiwan. China has evacuated over a million people, with schools closed and travel disrupted. Major manufacturing and port hubs are in the path. Supply chain hitches or factory shutdowns in key Chinese regions could add another layer of global economic uncertainty and volatility for risk assets.",
           "sentiment": "Neutral",
-          "impact": "Defense spending boosts offset by alliance uncertainty",
+          "impact": "Potential short-term disruption to Chinese manufacturing and ports",
           "sources": [
-            "https://www.reuters.com/business/aerospace-defense/nato-weathers-another-trump-storm-braces-more-after-ankara-summit-2026-07-09/",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration"
-          ]
-        },
-        {
-          "title": "Ukraine Drones Hit Russian Oil Infrastructure",
-          "summary": "Ukrainian forces continued striking Russian oil refineries, pipeline facilities, and tankers in the Black Sea, contributing to fuel shortages inside Russia. These attacks form part of Kyiv’s pressure campaign as Moscow shows little interest in talks. Damage to Russian energy export capacity adds another layer of global oil market tightness on top of Middle East risks. Traders should monitor for further supply shocks that reinforce higher energy prices and broader risk aversion.",
-          "sentiment": "Bearish",
-          "impact": "Additional pressure on global oil supplies and energy prices",
-          "sources": [
-            "https://apnews.com/article/russia-ukraine-war-oil-trump-zelenskyy-putin-6cb5602f1cf309533ed0cf5c734e19d8",
-            "https://www.democracynow.org/2026/7/9/headlines"
+            "https://www.reuters.com/business/environment/typhoon-bavi-churns-towards-taiwan-china-braces-landfall-2026-07-09/",
+            "https://apnews.com/article/typhoon-bavi-taiwan-china-japan-b24529aa2b014bf55a6d7fecc4172e6b"
           ]
         }
       ]
