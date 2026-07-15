@@ -1,77 +1,75 @@
 {
-  "generated_at": "2026-07-14T12:05:14+00:00",
+  "generated_at": "2026-07-15T12:04:23+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Geopolitical escalations from US-Iran strikes and wider Middle East conflicts are driving clear risk-off pressure, with Bitcoin testing support near 63k amid liquidations. ETF inflows and fading panic sales provide some offset, but Strategy's buy pause, elevated yields, and a firm dollar keep the tone heavy. Today's CPI release remains the key near-term catalyst.",
+  "overall_sentiment": "Bullish",
+  "overall_summary": "Soft CPI data is crushing Fed hike odds and driving Bitcoin toward sixty-five thousand with strong ETF inflows and long-term holder strength. Macro tailwinds like falling yields and a softer dollar support risk assets. Geopolitical risks around Iran and sanctions remain a potential volatility source but are secondary for now.",
   "key_points": [
-    "US-Iran and ME conflicts fuel risk-off",
-    "Bitcoin tests 63k support with heavy liquidations",
-    "ETFs post first inflows after eight-week streak",
-    "Strategy pauses BTC buys for cash cushion",
-    "CPI data and Fed testimony due today"
+    "Soft CPI crushes Fed hike odds, lifts Bitcoin",
+    "Spot ETFs flip to one hundred eighty-one million inflows",
+    "Long-term holder dominance hits thirty-month high",
+    "Yields and dollar drop on cool inflation data",
+    "Iran energy threats and sanctions add risk"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "US Gov Moves $288M Seized BTC and ETH to Coinbase Prime",
-          "summary": "US government wallets transferred roughly 3,800 bitcoin and 30,000 ether worth about 288 million dollars to Coinbase Prime from older seizure cases including BTC-e and others. Bitcoin went through intermediate wallets while ether moved directly. This comes despite a Trump-era executive order creating a Strategic Bitcoin Reserve that directs seized bitcoin not to be sold. Traders should care because exchange deposits often precede sales and this could add unexpected supply even if it is only a small fraction of total government holdings.",
-          "sentiment": "Bearish",
-          "impact": "Risk of liquidation adding sell pressure",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
-            "https://cryptobriefing.com/us-government-288m-bitcoin-ether-coinbase-prime/"
-          ]
-        },
-        {
-          "title": "US-Iran Airstrikes Drive Risk-Off as Bitcoin Slides Near 63k",
-          "summary": "Bitcoin dropped more than one percent to hover near 63,000 dollars amid renewed mutual airstrikes between the US and Iran that raised fears over Strait of Hormuz shipping. Brent crude jumped over three percent adding inflation concerns just ahead of CPI data. This revived risk-off selling that has hit crypto in prior oil shocks. Traders need to watch because geopolitics can overwhelm technicals and ETF flows in the short term while lifting Fed rate-hike bets.",
-          "sentiment": "Bearish",
-          "impact": "Macro downside pressure and higher volatility",
-          "sources": [
-            "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
-            "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-13-2026-strong-price-openings-backtracking-this-morning-133042462.html"
-          ]
-        },
-        {
-          "title": "Strategy Pauses Bitcoin Buys and Builds 3 Billion Cash Cushion",
-          "summary": "Michael Saylor's Strategy has bought no bitcoin since June 22 and earlier sold 3,588 BTC for about 216 million dollars. It raised roughly 467 million via stock sales last week lifting its USD reserve to 3 billion dollars which covers over 20 months of preferred dividends and debt interest. Holdings sit unchanged at 843,775 BTC. This matters because Strategy has been one of the largest and steadiest corporate buyers so the pause removes a key demand source during a weak market.",
-          "sentiment": "Bearish",
-          "impact": "Loss of consistent institutional bid",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
-            "https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings"
-          ]
-        },
-        {
-          "title": "Bitcoin ETFs Break Eight-Week Outflow Streak with Weekly Inflows",
-          "summary": "Spot bitcoin ETFs posted about 197 million dollars in net inflows last week ending an eight-week streak of outflows that drained billions. Ether funds also flipped positive. Monday July 13 itself saw roughly 425 million in outflows led by major funds. The weekly turnaround signals some institutional demand returning even as price remains under pressure. Traders should track whether this becomes a sustained trend that can absorb selling and support a base near current levels.",
+          "title": "Bitcoin Nears $65K as Soft CPI Crushes Fed Hike Odds",
+          "summary": "June US CPI came in at 3.5 percent year-over-year, well below the 3.8 percent expected, with a 0.4 percent monthly drop. Core was also softer. This slashed July Fed rate-hike odds from the mid-30s percent range down to teens or lower. Traders should care because it eases the tight-money overhang that had weighed on Bitcoin amid Iran tensions, opening the door for risk-asset recovery if oil prices stay in check.",
           "sentiment": "Bullish",
-          "impact": "Positive demand catalyst if inflows continue",
+          "impact": "Supports near-term upside as rate-cut hopes rebuild",
           "sources": [
-            "https://www.cfbenchmarks.com/blog/bitcoin-etf-outflow-streak-ends-as-bvx-falls-to-a-12-month-low",
-            "https://farside.co.uk/btc/",
-            "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand"
+            "https://crypto.news/bitcoin-rebounds-towards-65k-dollars-amid-cooling-cpi/",
+            "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-64000",
+            "https://www.coindesk.com/"
           ]
         },
         {
-          "title": "Bitcoin Panic Selling May Be Ending as Net Sales Collapse",
-          "summary": "On-chain data shows spot net selling slowed from nearly 2,000 BTC per day in June to just 53 BTC a day so far in July. Bitcoin held near 62,000 dollars through weekend US-Iran escalations and oil spikes where earlier similar events caused sharp drops. Combined with the ETF inflow reversal this points to weak-hand exhaustion. Traders care because seller fatigue often precedes bottoms especially if spot demand reappears ahead of CPI and other macro data.",
+          "title": "Spot Bitcoin ETFs Flip to $181M Inflows After Outflows",
+          "summary": "US spot Bitcoin ETFs recorded about 181 million dollars in net inflows on Tuesday after the prior session saw roughly 425 million in redemptions. BlackRock's IBIT drove most of the buying, and Ether ETFs also turned positive. This matters for traders because it signals institutions stepping back in on the CPI bounce, providing real demand that can help sustain any rally beyond short covering.",
           "sentiment": "Bullish",
-          "impact": "Reduced sell-side pressure supporting a potential floor",
+          "impact": "Positive flow momentum aids price support",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear"
+            "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
+            "https://www.coinglass.com/etf/bitcoin"
           ]
         },
         {
-          "title": "Hundreds of Millions Liquidated as Bitcoin Tests Support",
-          "summary": "Crypto liquidations totaled around 250 to 300 million dollars in the past 24 hours with the majority long positions as bitcoin slipped below 63,000. Thousands of traders were wiped out amid the risk-off move. This leverage flush often cleans the market of overextended positions. Traders should note that while painful short-term it can reduce forced selling and set up cleaner moves once macro or geopolitical noise settles.",
+          "title": "Strategy CEO Outlines Path to Resume Bitcoin Buying",
+          "summary": "Strategy Inc. CEO Phong Le detailed a plan to rebuild cash reserves, normalize its preferred stock trading near par, and then resume Bitcoin accumulation toward a one-million-coin target. He personally bought a million dollars of the preferred shares. Traders care because this is the largest corporate holder signaling a return to net buying after recent liquidity sales, potentially adding meaningful demand.",
+          "sentiment": "Bullish",
+          "impact": "Signals future large-scale institutional purchases",
+          "sources": [
+            "https://cryptobriefing.com/strategy-strc-bitcoin-accumulation-plan/"
+          ]
+        },
+        {
+          "title": "Bitcoin Long-Term Holder Dominance Hits 30-Month High",
+          "summary": "The share of Bitcoin held by long-term holders versus short-term ones reached a 30-month peak on CryptoQuant data. This shows strong hands continuing to accumulate or hold through volatility. For traders it reduces the pool of likely sellers and often appears near accumulation phases, making sustained upside more plausible if macro stays supportive.",
+          "sentiment": "Bullish",
+          "impact": "Tighter circulating supply supports higher prices",
+          "sources": [
+            "https://www.kucoin.com/news/flash/btc-long-term-holder-ratio-hits-30-month-high",
+            "https://www.coingecko.com/en/coins/bitcoin"
+          ]
+        },
+        {
+          "title": "Wrapped Bitcoin Exchange Outflows Hit Six-Week High",
+          "summary": "About 326 WBTC left exchanges in a single day, the largest net outflow since early June according to Santiment. Fewer coins sitting on trading platforms means less immediate sell pressure. Traders should note this classic bullish on-chain signal during the rebound, as it suggests holders are securing coins rather than preparing to dump into strength.",
+          "sentiment": "Bullish",
+          "impact": "Reduced available supply can amplify upside moves",
+          "sources": [
+            "https://cryptopotato.com/is-wrapped-bitcoin-flashing-a-bullish-signal-exchange-outflows-hit-six-week-high/"
+          ]
+        },
+        {
+          "title": "Senate Democrats Slam Clarity Act as Corrupt Over Trump Ties",
+          "summary": "Senators Murphy, Van Hollen and Merkley publicly opposed the crypto market-structure bill, calling it corrupt unless it fully severs President Trump's personal crypto interests with strict ethics rules. The bill already faces a tight timeline before summer recess. Traders watch this because bipartisan support is needed for passage, and fresh Democratic resistance raises the odds of further delay in clear regulatory rules for the industry.",
           "sentiment": "Neutral",
-          "impact": "Leverage reset that may stabilize price after washout",
+          "impact": "Adds uncertainty to near-term regulatory progress",
           "sources": [
-            "https://www.coinglass.com/liquidations",
-            "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand"
+            "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill"
           ]
         }
       ]
@@ -80,64 +78,67 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US June CPI Data Due Today at 8:30 AM ET",
-          "summary": "The Bureau of Labor Statistics releases the Consumer Price Index for June today. Consensus looks for a cool-down to 3.8 percent year-over-year from 4.2 percent previously, with core expected near 2.8 percent. Traders should care because this is the key inflation print that will drive Treasury yields, Fed rate-hike odds, the dollar, and risk assets including Bitcoin in the hours and days ahead. A hotter number would reinforce higher-for-longer rates while a cooler one could ease pressure.",
-          "sentiment": "Neutral",
-          "impact": "High volatility and potential directional move in yields, DXY, and crypto depending on the print",
-          "sources": [
-            "https://www.bls.gov/schedule/news_release/cpi.htm",
-            "https://tradingeconomics.com/united-states/calendar",
-            "https://www.investing.com/economic-calendar"
-          ]
-        },
-        {
-          "title": "NFIB Small Business Optimism Jumps to 97.4 in June",
-          "summary": "The NFIB Small Business Optimism Index rose 2.1 points to 97.4 in June, beating the 95.8 consensus and approaching its long-term average. Expectations for better business conditions and sales drove the gain, though inflation remains the top problem for owners and price hikes are still elevated. Crypto traders should watch this because stronger small-business confidence supports the soft-landing narrative and risk appetite, even as sticky inflation keeps Fed caution alive.",
+          "title": "Cooler June CPI Beats Forecasts, Eases Hike Odds",
+          "summary": "June CPI dropped 0.4 percent month over month, the biggest fall since April 2020, bringing the annual rate to 3.5 percent versus the 3.8 percent expected. Core CPI was flat on the month and rose just 2.6 percent year over year, cooler than forecasts. Energy prices, especially gasoline, drove much of the relief after a temporary ceasefire, though oil has since climbed again. Traders should care because this soft print reduced near-term rate-hike bets, lifted stocks and crypto, and pulled Treasury yields lower, creating a more risk-on backdrop ahead of today's PPI.",
           "sentiment": "Bullish",
-          "impact": "Supportive for equities and risk assets if it signals resilient economy without overheating",
+          "impact": "Supports risk assets and crypto via lower rate-hike odds in near term",
           "sources": [
-            "https://www.nfib.com/news/press-release/new-nfib-survey-small-business-optimism-picks-up-in-june/",
-            "https://tradingeconomics.com/united-states/nfib-business-optimism-index"
+            "https://www.bls.gov/news.release/cpi.nr0.htm",
+            "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
+            "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026"
           ]
         },
         {
-          "title": "10-Year Treasury Yield Holds Near 4.63% Multi-Week Highs",
-          "summary": "The US 10-year yield is trading around 4.62 to 4.63 percent, near two-month highs, as Middle East tensions push oil higher and lift inflation and rate-hike concerns. Markets now price about a 51 percent chance of a Fed hike in September. Higher yields raise the cost of capital and typically pressure Bitcoin and growth assets, so this remains a key headwind until the CPI or Fed comments change the narrative.",
-          "sentiment": "Bearish",
-          "impact": "Pressure on risk assets and crypto via tighter financial conditions",
-          "sources": [
-            "https://tradingeconomics.com/united-states/government-bond-yield",
-            "https://www.cnbc.com/quotes/US10Y"
-          ]
-        },
-        {
-          "title": "Fed Chair Kevin Warsh Testifies Before Congress Today",
-          "summary": "New Federal Reserve Chair Kevin Warsh delivers testimony on the semi-annual monetary policy report to the House Financial Services Committee starting around 10 AM ET. Markets will parse every word for clues on the inflation outlook, rate path, and response to oil-driven price pressures. Any hawkish tilt could reinforce yield gains and dollar strength, while dovish notes might give risk assets breathing room.",
+          "title": "Fed Chair Warsh Testifies, Pledges Inflation Fight",
+          "summary": "New Federal Reserve Chair Kevin Warsh delivered his first congressional testimony yesterday to the House Financial Services Committee on the semiannual Monetary Policy Report, reaffirming commitment to bring inflation sustainably lower with no tolerance for persistently elevated prices. He stressed policy independence and vowed to do his job even under political pressure, without giving explicit signals on the next rate move. A Senate appearance is also on the calendar. Crypto traders should watch closely because his tone shapes rate-path expectations that drive liquidity and Bitcoin valuations.",
           "sentiment": "Neutral",
-          "impact": "Potential catalyst for yields, DXY, and crypto depending on tone",
+          "impact": "Keeps policy uncertainty high until clearer rate guidance emerges",
           "sources": [
-            "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing",
+            "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm",
+            "https://www.reuters.com/business/feds-warsh-heads-congress-after-tentative-steps-away-trump-2026-07-14/",
+            "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html"
+          ]
+        },
+        {
+          "title": "June PPI Due Today After Soft CPI Print",
+          "summary": "The Producer Price Index for June is scheduled for release this morning at 8:30 a.m. Eastern, with markets expecting a soft headline near zero month over month after May's 1.1 percent jump, driven by earlier energy relief. Core PPI is watched for stickiness and is projected around 0.4 percent. This follows yesterday's cooler CPI and comes as oil prices have rebounded on renewed Iran tensions. Traders care because a hot PPI could rekindle inflation fears and reverse the risk-on move, while a soft one would reinforce the disinflation narrative for rates and Bitcoin.",
+          "sentiment": "Neutral",
+          "impact": "Could confirm or reverse the post-CPI risk-on move depending on core reading",
+          "sources": [
+            "https://www.bls.gov/schedule/news_release/ppi.htm",
+            "https://tradingeconomics.com/united-states/calendar",
+            "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026"
+          ]
+        },
+        {
+          "title": "Treasury Yields Drop Sharply on Soft CPI Data",
+          "summary": "U.S. Treasury yields fell noticeably after the cooler-than-expected June CPI, with the two-year note dropping more than seven basis points and the ten-year sliding over two basis points. This reversed some of the prior hike-scare rally that had pushed the two-year to multi-month highs. Yields are slightly firmer in early trading today. Bond moves matter for crypto because lower yields ease financial conditions and support risk assets, while any rebound tied to hot PPI or oil could pressure Bitcoin.",
+          "sentiment": "Bullish",
+          "impact": "Easier financial conditions supportive for equities and crypto",
+          "sources": [
+            "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
+            "https://www.xtb.com/en/market-analysis/us-cpi-review"
+          ]
+        },
+        {
+          "title": "Empire State Manufacturing Index and Beige Book Due",
+          "summary": "The New York Fed's Empire State Manufacturing Index for July is released today alongside PPI, after June's reading of 5.7. The Fed's Beige Book, summarizing regional economic conditions, is also due later today. These provide timely signals on manufacturing strength, price pressures, and overall activity heading into the late-July FOMC. Traders should monitor them for clues on growth and inflation persistence that influence rate expectations and dollar direction.",
+          "sentiment": "Neutral",
+          "impact": "Growth and inflation signals that can shift rate-path pricing",
+          "sources": [
+            "https://www.newyorkfed.org/survey/empire/empiresurvey_overview",
+            "https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm",
             "https://tradingeconomics.com/united-states/calendar"
           ]
         },
         {
-          "title": "US June Budget Deficit Hits $120 Billion on Tariff Refunds",
-          "summary": "The Treasury reported a $120 billion federal budget deficit for June, narrower than the prior month's $293 billion but a sharp swing from last June's surplus, driven by nearly $50 billion in tariff refunds after legal rulings. Cumulative deficits remain large. Fiscal news like this can influence long-term yields and dollar sentiment if markets worry about debt sustainability, which matters for crypto as a potential alternative asset.",
-          "sentiment": "Neutral",
-          "impact": "Mild fiscal concern that could support higher term premium in yields",
+          "title": "Dollar Softens as Soft CPI Cuts Hike Bets",
+          "summary": "The U.S. dollar index eased after the cooler CPI print reduced immediate rate-hike odds, with the greenback at multi-week lows against some majors in the reaction. Geopolitical oil spikes and upcoming data keep volatility high. A weaker dollar has historically been supportive for Bitcoin and commodities. Watch DXY closely around today's PPI and Fed speak, as any rebound on sticky producer prices could reverse the recent relief.",
+          "sentiment": "Bullish",
+          "impact": "Weaker dollar generally constructive for crypto and risk assets",
           "sources": [
-            "https://www.reuters.com/world/us/tariff-refunds-push-us-june-budget-deficit-120-billion-2026-07-13/",
-            "https://tradingeconomics.com/united-states/government-budget-value"
-          ]
-        },
-        {
-          "title": "US Dollar Index Holds Near 101 Amid Geopolitical Jitters",
-          "summary": "The DXY is trading around 101, supported by Middle East tensions, higher oil prices, and rising Treasury yields that boost rate differentials. A firm dollar typically acts as a headwind for Bitcoin and commodities. Traders should monitor whether the greenback extends gains post-CPI or fades if inflation cools, as DXY strength often correlates with risk-off moves in crypto.",
-          "sentiment": "Bearish",
-          "impact": "Headwind for Bitcoin and other risk assets via stronger USD",
-          "sources": [
-            "https://tradingeconomics.com/united-states/currency",
-            "https://tradingeconomics.com/united-states/government-bond-yield"
+            "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026",
+            "https://www.schwab.com/learn/story/stock-market-update-open"
           ]
         }
       ]
@@ -146,62 +147,65 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US-Iran Strikes Escalate Over Strait of Hormuz Control",
-          "summary": "The United States and Iran have exchanged multiple nights of strikes, with US forces hitting Iranian military targets and Iran's Revolutionary Guard hitting US bases in Bahrain, Kuwait, Jordan and elsewhere. Trump has reinstated a blockade on Iranian shipping through the Strait of Hormuz, claimed US guardianship of the waterway, and floated a 20 percent toll on vessels. This chokepoint handles about a fifth of global oil trade, so any prolonged disruption drives energy prices higher and fuels risk-off sentiment across markets including crypto.",
+          "title": "US Reimposes Iran Naval Blockade Amid Ongoing Strikes",
+          "summary": "The United States has reinstated its naval blockade of Iranian ports and launched another round of strikes on Iranian military targets for the fourth consecutive night. Iran has retaliated by hitting commercial tankers and US assets in the region, including in Kuwait, Bahrain, and Jordan. Oil prices have jumped sharply on fears of disrupted flows through the Strait of Hormuz. Traders should care because this is a major energy chokepoint, driving higher oil prices, inflation risks, and broad risk-off sentiment that typically pressures Bitcoin and equities.",
           "sentiment": "Bearish",
-          "impact": "Oil price spikes, inflation fears, and broad risk-asset selloffs",
+          "impact": "Higher oil prices and risk-off selling pressure on crypto and stocks",
           "sources": [
-            "https://www.democracynow.org/2026/7/13/headlines",
-            "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-qatar-kuwait-b3013600.html",
-            "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be"
+            "https://www.cnn.com/2026/07/14/world/live-news/iran-war-trump",
+            "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be",
+            "https://www.wsj.com/world/middle-east/u-s-launches-new-iran-strikes-as-trump-weighs-attacking-nuclear-site-156d2109"
           ]
         },
         {
-          "title": "Russia Extends Diesel Export Ban Amid Refinery Attacks",
-          "summary": "Russia has banned diesel and related fuel exports through the end of July after Ukrainian drone strikes hammered its refineries, creating domestic shortages and long gas lines. The move has already tightened global diesel supplies and pushed prices higher, layering onto Hormuz tensions. Crypto traders should watch because higher industrial fuel costs feed into inflation and can pressure risk assets while boosting energy-related volatility.",
+          "title": "Iran Threatens to Halt All Middle East Energy Exports",
+          "summary": "Iran's Revolutionary Guard has threatened to stop all oil and gas exports from the Middle East, saying they will be for everyone or no one, in response to the US blockade. This comes as shipping traffic through Hormuz has already plummeted. For traders, this is a black-swan style energy shock risk that could send oil soaring further and fuel global inflation fears. Expect increased volatility across commodities, currencies, and risk assets like Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Global fuel supply crunch and higher energy inflation",
+          "impact": "Potential severe oil supply shock and risk-off market reaction",
           "sources": [
-            "https://www.reuters.com/business/energy/russias-diesel-export-ban-deepens-global-supply-crunch-2026-07-11/",
-            "https://www.theguardian.com/world/2026/jul/09/ukraine-war-briefing-russia-bans-diesel-exports-as-refinery-attacks-trigger-gas-shortages-and-price-spikes"
+            "https://apnews.com/article/iran-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25",
+            "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+            "https://www.nbcnews.com/world/iran/iran-threatens-halt-mideast-energy-exports-us-reimposes-blockade-rcna587593"
           ]
         },
         {
-          "title": "Ukraine Hits Over 100 Russian Shadow Fleet Tankers",
-          "summary": "Ukrainian drones have struck dozens more vessels in Russia's shadow fleet used to evade oil sanctions, bringing the total to over 100 ships hit in about eight days, mainly in the Sea of Azov. This compounds Russia's fuel crisis and further disrupts sanctioned oil flows. The continued degradation of Russian energy export capacity adds to global supply risks and keeps geopolitical premium in oil prices elevated.",
+          "title": "US Unveils Revised Russia Sanctions Bill Targeting China and India",
+          "summary": "US senators have released an updated bipartisan Russia sanctions bill, backed in spirit by the late Lindsey Graham, that would allow tariffs of up to 100 percent on the top five buyers of Russian oil and gas, primarily China and India. The bill also hits Russian officials, banks, and energy projects, with waiver power for the president. This matters for markets because secondary tariffs could escalate trade tensions with major economies and disrupt energy flows, adding another layer of geopolitical risk.",
           "sentiment": "Bearish",
-          "impact": "Further pressure on Russian oil logistics and energy prices",
+          "impact": "Heightened trade tensions and potential secondary sanctions pressure on global energy markets",
           "sources": [
-            "https://www.youtube.com/watch?v=QsIyIEhpm0Q",
-            "https://www.theguardian.com/world/ukraine"
+            "https://www.reuters.com/world/us-russia-sanctions-bill-eases-threat-tariffs-china-india-2026-07-14/",
+            "https://www.bloomberg.com/news/articles/2026-07-14/new-russia-oil-sanctions-bill-targets-china-india-for-tariffs"
           ]
         },
         {
-          "title": "Senator Lindsey Graham Dies; Sister Named to Seat",
-          "summary": "Republican Senator Lindsey Graham of South Carolina has died at 71 after a brief illness, shortly after visiting Ukraine. The governor has appointed his sister Darline Graham Nordone to fill the seat until a special election. While mostly a domestic political story, Graham was a strong voice for military aid and hawkish foreign policy, so the succession could subtly shift Senate dynamics on Ukraine and Middle East issues.",
+          "title": "China Q2 GDP Growth Slows to 4.3 Percent, Misses Target",
+          "summary": "China reported second-quarter GDP growth of 4.3 percent, the weakest in over three years and below the lower end of its full-year target, with officials and analysts linking some weakness to global trade disruptions from the Iran conflict. Weak domestic demand and investment also weighed. Crypto traders should watch this because a slowing Chinese economy signals softer global growth, which can reduce risk appetite and commodity demand, often weighing on Bitcoin.",
+          "sentiment": "Bearish",
+          "impact": "Weaker global growth outlook reducing risk appetite",
+          "sources": [
+            "https://www.reuters.com/world/china/chinas-q2-gdp-growth-slows-43-yy-misses-market-forecast-2026-07-15/",
+            "https://www.cnn.com/2026/07/14/business/china-q2-gdp-export-economy-intl-hnk"
+          ]
+        },
+        {
+          "title": "US Freezes Over 130 Million in Iran-Linked Cryptocurrency",
+          "summary": "The US Treasury has frozen more than 130 million dollars in cryptocurrency allegedly linked to Iran's central bank and sanctions-evasion networks as part of renewed pressure amid the military escalation. Tether was involved in freezing some of the assets. This is directly relevant for crypto markets as it highlights ongoing government scrutiny of crypto for sanctions busting and could increase regulatory fears or selling pressure on related tokens.",
+          "sentiment": "Bearish",
+          "impact": "Increased crypto regulatory scrutiny and potential liquidity freezes",
+          "sources": [
+            "https://www.cnn.com/2026/07/14/world/live-news/iran-war-trump"
+          ]
+        },
+        {
+          "title": "Ukraine Intensifies Drone Strikes on Russian Oil and Shipping",
+          "summary": "Ukrainian forces have continued heavy drone attacks on Russian oil refineries, including the last major one previously untouched this year, and dozens of tankers and vessels in the Sea of Azov and Black Sea, forcing shipping suspensions and fuel shortages in Russia. Russia has responded with attacks on Ukrainian ports. This secondary energy disruption adds to global oil market tightness already pressured by the Iran conflict, supporting higher prices and broader inflation concerns.",
           "sentiment": "Neutral",
-          "impact": "Limited near-term market move; potential foreign-policy nuance",
+          "impact": "Additional upward pressure on oil prices from Russian supply disruptions",
           "sources": [
-            "https://www.democracynow.org/2026/7/13/headlines",
-            "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
-          ]
-        },
-        {
-          "title": "Israeli Settlers Detain US Congressman in West Bank",
-          "summary": "Armed Israeli settlers detained Democratic Congressman Ro Khanna and his delegation for about 90 minutes while visiting a destroyed Palestinian village, and separately attacked journalists. The incidents highlight rising settler violence in the occupied West Bank amid broader regional tensions. Traders should note any further escalation could draw US political pressure and add another layer of Middle East instability on top of the Iran conflict.",
-          "sentiment": "Neutral",
-          "impact": "Heightened regional tension risk but secondary to Hormuz",
-          "sources": [
-            "https://www.democracynow.org/2026/7/13/headlines"
-          ]
-        },
-        {
-          "title": "Houthis Strike Saudi Airport as Regional Fires Spread",
-          "summary": "Yemen's Houthis launched missiles and drones at Saudi Arabia's Abha airport in a sharp escalation. This comes as the wider Middle East conflict involving Iran and the US intensifies. Additional proxy attacks raise the chance of broader Gulf involvement, which could further threaten energy infrastructure and shipping lanes beyond Hormuz itself.",
-          "sentiment": "Bearish",
-          "impact": "Expanded regional risk premium on oil and risk assets",
-          "sources": [
-            "https://apnews.com/article/iran-us-hormuz-strait-war-july-14-2026-abd060c55feea216625689e57d8f76be"
+            "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-14-2026/",
+            "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea",
+            "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov"
           ]
         }
       ]
