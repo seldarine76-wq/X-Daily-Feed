@@ -1,79 +1,77 @@
 {
-  "generated_at": "2026-07-17T12:05:04+00:00",
+  "generated_at": "2026-07-18T12:05:00+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin and crypto face mixed signals with strong ETF inflows and institutional expansions offering support against a pullback. Hawkish macro data is lifting yields and the dollar while Middle East tensions keep oil elevated and risk appetite cautious. The tone remains balanced as adoption positives offset broader headwinds.",
+  "overall_summary": "Crypto faces mixed signals as strong institutional adoption and soft inflation data provide support, while escalating Iran tensions and rising oil prices create risk-off pressure. Bitcoin already slipped below 63K on the geopolitics, leaving the near-term tone cautious but not decisively broken. Overall the tape stays balanced between fresh capital inflows and unresolved macro-geopolitical overhangs.",
   "key_points": [
-    "Bitcoin ETFs see over $100M inflows",
-    "Institutions expand crypto access and products",
-    "Strong data lifts yields and dollar",
-    "Iran strikes raise oil and risk fears",
-    "Bitcoin pulls back to $64K levels"
+    "Institutional crypto products and inflows accelerate",
+    "Iran escalation lifts oil, fuels risk-off tone",
+    "Soft CPI/PPI slash near-term Fed hike odds",
+    "Clarity Act passage odds hit record lows",
+    "Resilient US data keeps macro backdrop steady"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Pulls Back to $64K After Hitting $65.5K Monthly High",
-          "summary": "Bitcoin retreated from a monthly high near sixty-five thousand five hundred dollars down toward sixty-four thousand amid profit-taking and fresh Iranian strikes on U.S. bases in the Gulf. Bears took control of short-term price action across most tokens as risk-off sentiment hit crypto alongside equities. Traders should watch closely because geopolitical escalation can quickly amplify volatility and force liquidations in leveraged positions.",
+          "title": "Bitcoin Slips Below $63K on Iran Tensions, Tech Selloff",
+          "summary": "Bitcoin fell as much as 1.4 percent and briefly traded under 63 thousand dollars on Friday as fresh Middle East escalations and a broad AI and semiconductor stock selloff triggered risk-off flows. Crude oil spiked and Nasdaq weakness spilled into crypto, trimming the total market cap. Traders should watch whether this is a short flush or deeper breakdown, since on-chain smart money remains net long and prior geopolitical hits have often reversed quickly.",
           "sentiment": "Bearish",
-          "impact": "Short-term downside pressure and higher volatility from geo risk",
+          "impact": "Near-term downside pressure and higher volatility for BTC",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
-            "https://www.fool.com/coverage/stock-market-today/2026/07/16/crypto-market-today-july-16-bitcoin-pulls-back-as-risk-aversion-weighs-on-markets/"
-          ]
-        },
-        {
-          "title": "Dormant Whale Moves $383 Million BTC After 8.5 Years",
-          "summary": "A Bitcoin wallet silent since the 2017 peak transferred nearly six thousand BTC worth about three hundred eighty-three million dollars to a fresh address. Critically the coins did not go to any exchange, pointing to a custody upgrade or reorganization rather than an imminent sale. This matters for traders because large dormant supply moving without selling removes potential overhead supply and signals long-term holder conviction even in a down market.",
-          "sentiment": "Bullish",
-          "impact": "Reduces near-term sell pressure from old coins",
-          "sources": [
-            "https://www.techtimes.com/articles/320762/20260716/bitcoin-whale-moves-383m-after-8-years-silence-skips-every-exchange.htm",
-            "https://bitcoinfoundation.org/news/bitcoin/dormant-btc-whale/"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs See Over $100M Inflows Led by BlackRock",
-          "summary": "U.S. spot Bitcoin ETFs recorded roughly one hundred eight million dollars in net inflows on July fifteenth with BlackRock's IBIT accounting for about eighty-one million. Flows stayed positive into the next session as well after a prior streak of outflows. Institutional demand returning at these levels provides a key support pillar and can absorb selling pressure for traders monitoring accumulation.",
-          "sentiment": "Bullish",
-          "impact": "Supports price via steady institutional buying",
-          "sources": [
-            "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-see-108m-net-inflow-on-july-15-blackrock-s-ibit-leads-with-80-8m",
-            "https://financefeeds.com/crypto-etf-flows-stay-positive-on-july-15-as-bitcoin-and-ether-funds-add-162-million/",
-            "https://farside.co.uk/btc/"
-          ]
-        },
-        {
-          "title": "Citadel Securities Invests $400M in Crypto.com at $20B Valuation",
-          "summary": "Market maker Citadel Securities poured four hundred million dollars into Crypto.com in the exchange's first major institutional funding round, valuing it at twenty billion. The capital will fund expansion into tokenized securities and derivatives. This deepens TradFi integration and signals growing confidence from one of the biggest players on Wall Street, which can lift sentiment across the crypto complex.",
-          "sentiment": "Bullish",
-          "impact": "Boosts confidence in crypto exchanges and institutional adoption",
-          "sources": [
-            "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-            "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel"
-          ]
-        },
-        {
-          "title": "Morgan Stanley Completes E*TRADE Spot Crypto Rollout for Millions",
-          "summary": "E*TRADE from Morgan Stanley finished rolling out spot trading for Bitcoin, Ethereum, and Solana to eligible clients among its roughly eight point six million accounts. The offering uses a low fifty basis point fee via partnership with Zero Hash. This massively expands easy access for traditional brokerage customers and should drive incremental retail and advisory flows into major cryptos over time.",
-          "sentiment": "Bullish",
-          "impact": "Broadens retail and wealth-management on-ramps",
-          "sources": [
-            "https://lasvegassun.com/news/2026/jul/16/etrade-from-morgan-stanley-completes-rollout-of-cr/",
-            "https://solanacompass.com/news/etrade-from-morgan-stanley-launches-spot-crypto-pilot-with-sol-among-three-initial-assets"
+            "https://news.bitcoin.com/bitcoin-traders-pull-btc-below-63k-as-middle-east-tensions-trigger-fresh-risk-off-selling/",
+            "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto"
           ]
         },
         {
           "title": "T. Rowe Price Launches First Active Multi-Token Crypto ETF",
-          "summary": "The one point nine trillion dollar asset manager T. Rowe Price debuted its actively managed multi-token spot crypto ETF under ticker TKNZ. The fund allocates roughly forty-one percent to Bitcoin along with Ethereum, Solana, XRP and others. Another major traditional player entering the space with a diversified product increases legitimate investment options and can channel more capital into the market.",
+          "summary": "The 1.9 trillion dollar asset manager debuted its actively managed spot crypto ETF under ticker TKNZ, holding Bitcoin, Ethereum, XRP and other majors. It is positioned as the first U.S. multi-token active spot product and launched with modest initial assets but a clear path for broader institutional allocation. This expands beyond pure Bitcoin ETFs and signals traditional finance is building diversified crypto vehicles, which could drive sustained demand over time.",
           "sentiment": "Bullish",
-          "impact": "Expands institutional product suite and potential inflows",
+          "impact": "Positive longer-term demand signal from major TradFi player",
           "sources": [
-            "https://bitcoinmagazine.com/news/t-rowe-price-debuts-new-bitcoin-etf",
             "https://finance.yahoo.com/markets/crypto/articles/t-rowe-price-launches-multi-184000929.html",
-            "https://cryptobriefing.com/t-rowe-price-debuts-first-actively-managed-multi-token-spot-crypto-etp-on-nyse/"
+            "https://bitcoinfoundation.org/news/crypto-etfs-news/multi-crypto-etf/",
+            "https://news.bitcoin.com/"
+          ]
+        },
+        {
+          "title": "Citadel Securities Invests $400M in Crypto.com at $20B Valuation",
+          "summary": "Market maker Citadel Securities led Crypto.com’s first institutional funding round with a 400 million dollar stake that values the exchange at 20 billion dollars. The capital will support expansion into tokenized securities and derivatives. This is a strong vote of confidence from a top TradFi liquidity provider and deepens the bridge between traditional market making and crypto venues.",
+          "sentiment": "Bullish",
+          "impact": "Boosts exchange credibility and institutional infrastructure buildout",
+          "sources": [
+            "https://www.reuters.com/legal/transactional/citadel-securities-invests-400-million-cryptocom-20-billion-valuation-2026-07-16/",
+            "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+            "https://www.prnewswire.com/news-releases/cryptocom-announces-400-million-strategic-investment-from-citadel-securities-302827736.html"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs Log Fourth Straight Day of Inflows",
+          "summary": "U.S. spot Bitcoin ETFs recorded roughly 132 million dollars in net inflows on Friday, extending a multi-day positive streak led by BlackRock’s IBIT. While not a blowout number, the persistence of inflows amid geopolitical noise shows institutional bids remain active. Traders should monitor whether the streak continues next week as a gauge of real money demand versus short-term positioning.",
+          "sentiment": "Bullish",
+          "impact": "Supports price floor via ongoing institutional buying",
+          "sources": [
+            "https://x.com/bpaynews/status/2078330404046602396",
+            "https://www.youtube.com/shorts/-wS_GEYz9kk"
+          ]
+        },
+        {
+          "title": "Clarity Act Passage Odds Hit Record Low on Polymarket",
+          "summary": "Prediction market odds for the Clarity Act passing this year dropped to about 32 percent, the lowest since the market launched, as Senate ethics and bipartisan talks drag on. A House hearing continued but no breakthrough on key sticking points emerged. Delayed market-structure legislation keeps regulatory uncertainty elevated, which can weigh on U.S. crypto activity and valuation multiples until resolved.",
+          "sentiment": "Bearish",
+          "impact": "Prolongs regulatory overhang and potential capital flight offshore",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on"
+          ]
+        },
+        {
+          "title": "Morgan Stanley Rolls Out BTC, ETH, SOL Trading on E*Trade",
+          "summary": "Morgan Stanley enabled eligible E*Trade clients to buy, sell and hold Bitcoin, Ethereum and Solana via a Zero Hash partnership, integrating crypto holdings alongside traditional assets. The move follows earlier ETF filings and tokenization work by the bank. Broader brokerage access for millions of retail and wealth clients is a clear positive for adoption and liquidity.",
+          "sentiment": "Bullish",
+          "impact": "Expands retail and wealth-channel access to major cryptos",
+          "sources": [
+            "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-launches-bitcoin-ethereum-200103780.html"
           ]
         }
       ]
@@ -82,67 +80,63 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Dallas Fed's Logan Calls for Modestly Higher Rates",
-          "summary": "Dallas Fed President Lorie Logan said inflation has stayed too high for too long and does not look on track to return fully to the two percent target. She believes modestly higher interest rates would better balance the Fed's dual mandate of maximum employment and price stability. Traders should care because this is the first public call for a hike from a Warsh-era colleague and raises odds of a dissent or tighter policy at the late-July FOMC meeting, which could pressure risk assets including Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Higher rate expectations lift yields and dollar, weighing on crypto",
+          "title": "Soft June CPI/PPI Slash July Fed Hike Odds",
+          "summary": "Softer-than-expected June inflation data has substantially reduced market pricing for a Federal Reserve rate hike at the late-July FOMC meeting. Both CPI and PPI came in below forecasts, boosting Treasuries and pulling yields lower while mortgage rates eased somewhat. Traders should care because this shifts the near-term rate path toward a hold, supporting risk assets, though Fed officials stress one month does not make a trend and September remains data-dependent.",
+          "sentiment": "Bullish",
+          "impact": "Lower hike odds ease financial conditions, positive for Bitcoin and equities",
           "sources": [
-            "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-            "https://www.reuters.com/business/feds-logan-calls-modestly-higher-interest-rates-2026-07-16/",
-            "https://www.dallasfed.org/news/speeches/logan/2026/lkl260716"
+            "https://chrismancommentary.com/post/capital-markets-recap-july-17-2026/",
+            "https://tradingeconomics.com/united-states/interest-rate"
           ]
         },
         {
-          "title": "Philly Fed Manufacturing Index Surges to 41.4",
-          "summary": "The Philadelphia Fed's manufacturing index jumped to 41.4 in July from 10.3, far above the 13 consensus and the strongest reading since late 2021. New orders and shipments also posted big gains while employment improved. This points to resilient factory activity that could keep growth solid and reduce the chance of near-term Fed cuts, supporting a higher-for-longer rates narrative that tends to challenge Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Reinforces growth strength and rate-hike risks",
-          "sources": [
-            "https://tradingeconomics.com/united-states/philadelphia-fed-manufacturing-index",
-            "https://investinglive.com/news/us-july-philly-fed-business-index-41-4-vs-13-0-expected/",
-            "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey"
-          ]
-        },
-        {
-          "title": "June Retail Sales Rise 0.2 Percent, Core Holds Up",
-          "summary": "U.S. retail sales increased 0.2 percent in June, matching expectations after a strong May, while the control group used for GDP rose 0.5 percent. Lower gas prices dragged the headline but online and auto sales stayed firm. Solid consumer spending keeps the economy resilient and reduces recession odds, which can be mixed for crypto but often pairs with firmer yields that act as a headwind.",
+          "title": "Housing Starts Surge 19% on Multi-Family Rebound",
+          "summary": "June housing starts jumped 19 percent to a 1.427 million annualized rate, far above expectations, driven by a sharp multi-family recovery, while single-family starts slipped slightly and building permits fell 3 percent to 1.367 million. Completions also rose. This mixed report shows resilience in construction activity despite elevated mortgage rates near 6.65 percent, which matters for growth outlooks and any Fed assessment of the broader economy holding up.",
           "sentiment": "Neutral",
-          "impact": "Supports growth outlook without clear directional catalyst",
+          "impact": "Supports growth narrative but permits weakness signals future caution",
           "sources": [
-            "https://www.census.gov/retail/sales.html",
-            "https://www.cnn.com/2026/07/16/economy/us-retail-sales-june",
-            "https://tradingeconomics.com/united-states/retail-sales"
+            "https://www.census.gov/construction/nrc/current/index.html",
+            "https://economics.td.com/us-housing-starts-and-permits"
           ]
         },
         {
-          "title": "Jobless Claims Drop to 208,000, Labor Stays Tight",
-          "summary": "Initial jobless claims fell to 208,000 for the week ending July 11, well below the 217,000 forecast and prior reading. Continuing claims also eased. A still-solid labor market shows little cooling, which supports consumer spending but keeps wage and inflation risks alive. For traders this sustains the higher-for-longer rates backdrop that typically pressures Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Firms rate expectations and dollar",
+          "title": "UMich Sentiment Jumps to 54.4, Beats Forecasts",
+          "summary": "Preliminary July University of Michigan consumer sentiment rose to 54.4 from 49.5, beating the 51 consensus and hitting a multi-month high on easing gas prices. One-year inflation expectations fell to 4.2 percent while five-year held at 3.3 percent, with broad gains across groups. Traders watch this as a leading indicator of spending power; the rebound plus cooler expectations lean supportive for risk assets if it holds, though levels remain historically low.",
+          "sentiment": "Bullish",
+          "impact": "Improved confidence and lower inflation views favor softer policy path",
           "sources": [
-            "https://tradingeconomics.com/united-states/calendar",
-            "https://www.cnbc.com/2026/07/16/us-treasury-yields-wall-street-inflation-employment-data.html"
+            "https://tradingeconomics.com/united-states/consumer-confidence",
+            "https://www.sca.isr.umich.edu/"
           ]
         },
         {
-          "title": "Pending Home Sales Plunge 5.4 Percent in June",
-          "summary": "Contracts to buy existing homes dropped 5.4 percent month-over-month, far worse than the expected 0.5 percent decline, with losses across all regions. High mortgage rates and elevated prices continue to freeze buyers. Weakness in this rate-sensitive sector highlights policy restriction already at work and could eventually build the case for easier policy, though near-term impact is muted.",
+          "title": "Import Prices Rise 0.3% Unexpectedly in June",
+          "summary": "U.S. import prices increased 0.3 percent in June versus expectations of a 0.7 percent drop, with the year-over-year gain at 7.1 percent, the largest in nearly four years. Nonfuel prices drove the rise while fuel eased. Details were seen as consistent with benign readings for the Fed's preferred PCE gauge. This keeps some inflation vigilance alive even as headline CPI and PPI cooled, relevant for rate pricing and dollar strength.",
           "sentiment": "Neutral",
-          "impact": "Flags housing stress but does not shift Fed path immediately",
+          "impact": "Mild hawkish tilt but not enough to reverse soft domestic inflation narrative",
           "sources": [
-            "https://www.nar.realtor/newsroom/nar-pending-home-sales-report-shows-5-4-decrease-in-june",
-            "https://www.mpamag.com/us/mortgage-industry/market-updates/pending-home-sales-post-steepest-monthly-drop-of-2026/582634"
+            "https://www.bls.gov/news.release/ximpim.nr0.htm",
+            "https://www.reuters.com/world/asia-pacific/us-import-prices-unexpectedly-rise-june-2026-07-17/"
           ]
         },
         {
-          "title": "Treasury Yields Rise and Dollar Firms on Data",
-          "summary": "The 10-year Treasury yield climbed after the strong Philly Fed, firm claims, and Logan's hawkish remarks, while the dollar index held near 100.7-100.8. Markets are pricing less chance of near-term easing. Higher yields and a firmer dollar raise the opportunity cost of holding non-yielding assets like Bitcoin and often weigh on risk appetite.",
+          "title": "Fed Officials Stress Inflation Vigilance Post-Data",
+          "summary": "After the soft inflation prints, Fed Governor Lisa Cook, Kansas City's Jeff Schmid, and Dallas' Lorie Logan emphasized that inflation remains above target and risks from energy, tariffs, and geopolitics could reverse progress. Cook said she is prepared to act if disinflation does not continue. Chair Warsh's recent testimony reaffirmed commitment to price stability without new policy signals. This keeps markets from fully pricing cuts and anchors the higher-for-longer debate heading into the July 29 meeting.",
           "sentiment": "Bearish",
-          "impact": "Tightens financial conditions for risk assets",
+          "impact": "Limits dovish repricing and supports yields and the dollar",
           "sources": [
-            "https://tradingeconomics.com/united-states/government-bond-yield",
-            "https://tradingeconomics.com/united-states/currency",
-            "https://www.cnbc.com/2026/07/16/us-treasury-yields-wall-street-inflation-employment-data.html"
+            "https://chrismancommentary.com/post/capital-markets-recap-july-17-2026/",
+            "https://www.reuters.com/business/fed-chair-warsh-sticks-policy-silence-colleagues-voice-their-views-2026-07-15/"
+          ]
+        },
+        {
+          "title": "Resilient Data Mix: Retail, Claims, Beige Book Steady",
+          "summary": "Friday's recap highlighted ongoing economic resilience with June retail sales up 0.2 percent, jobless claims at a low 208k, strong regional manufacturing surveys, and the Beige Book describing modest steady growth across most districts. Combined with the housing surge, this paints a picture of inflation cooling without activity collapsing. For traders it reinforces a Goldilocks setup that has allowed July hike odds to collapse while keeping the economy from recession fears.",
+          "sentiment": "Bullish",
+          "impact": "Supports risk-on tone as growth holds with cooler prices",
+          "sources": [
+            "https://chrismancommentary.com/post/capital-markets-recap-july-17-2026/",
+            "https://www.federalreserve.gov/monetarypolicy/beigebook202607-summary.htm"
           ]
         }
       ]
@@ -151,66 +145,64 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US launches sixth day of strikes on Iran amid Hormuz blockade",
-          "summary": "The United States has carried out a sixth consecutive night of airstrikes on Iranian military targets including coastal defenses, air defenses, bridges, and infrastructure near the Strait of Hormuz. Iran has retaliated with attacks on US assets in Gulf states like Kuwait and Bahrain while the US navy enforces a blockade and has disabled or redirected commercial vessels. Traders should care because this threatens roughly one fifth of global oil and LNG trade through Hormuz, keeping energy prices elevated and raising risk-off pressure on equities and crypto.",
+          "title": "US Hits Iran Seventh Night; Tehran Strikes Gulf Allies",
+          "summary": "The US completed its seventh straight night of strikes on Iranian military, surveillance, logistics and maritime targets as it pushes to control the Strait of Hormuz. Iran hit back at US allies, striking a power and desalination plant in Kuwait, bases in Bahrain and other sites, while both sides targeted shipping. Oil jumped over four percent Friday on the escalation after a fragile ceasefire collapsed. Traders should watch this closely because Hormuz handles about a fifth of global oil and further disruption risks a full energy shock that hits risk assets hard.",
           "sentiment": "Bearish",
-          "impact": "Elevated oil prices and broader risk-off sentiment for risk assets",
+          "impact": "Higher oil and inflation fears drive risk-off selling in crypto and equities",
           "sources": [
-            "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker",
-            "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4548433/us-successfully-completes-new-strikes-in-iran/",
-            "https://www.reuters.com/business/energy/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-2026-07-16/"
+            "https://www.reuters.com/world/middle-east/iran-renews-attacks-gulf-states-after-another-night-us-strikes-2026-07-18/",
+            "https://www.reuters.com/world/middle-east/us-military-says-it-completed-latest-strikes-iran-marking-7th-consecutive-night-2026-07-18/",
+            "https://www.cnn.com/2026/07/18/world/live-news/iran-war-trump"
           ]
         },
         {
-          "title": "IEA chief warns Hormuz crisis threatens global energy security",
-          "summary": "International Energy Agency head Fatih Birol said the world should be worried about oil security if the United States and Iran do not restore flows through the Strait of Hormuz within weeks. He called oil security a critical issue amid the ongoing disruption. For traders this matters because it underscores the risk of a prolonged supply shock that could push oil higher and fuel inflation or tighter financial conditions.",
+          "title": "Ukraine Drones Kill Seven in Russia, Hit Oil Depot",
+          "summary": "Overnight Ukrainian drone waves killed seven warehouse workers at a major retailer facility and injured dozens more while sparking a fire at an oil depot in the Moscow region. Kyiv said the strikes hit logistics sites tied to Russian drone production and navigation gear. This keeps pressure on Russian energy and supply lines deep inside its territory. For markets it signals the Ukraine war remains hot and capable of spilling into energy infrastructure, adding to the broader risk premium already elevated by the Middle East.",
           "sentiment": "Bearish",
-          "impact": "Heightened energy price volatility and inflation fears",
+          "impact": "Prolonged war risk and energy infrastructure hits support higher volatility",
           "sources": [
-            "https://www.reuters.com/business/energy/global-energy-security-risk-if-strait-hormuz-does-not-open-weeks-iea-chief-says-2026-07-17/",
-            "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security"
+            "https://www.reuters.com/world/europe/ukrainian-drone-attacks-kill-seven-warehouse-workers-russia-spark-fire-moscow-2026-07-18/",
+            "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions"
           ]
         },
         {
-          "title": "Oil prices stay near one-month highs on Iran war fears",
-          "summary": "Brent crude settled around eighty-four dollars a barrel after earlier gains, remaining near one-month highs as the US-Iran conflict escalated and Iran reportedly urged Houthis to prepare to close the Red Sea oil route. Fewer vessels are transiting Hormuz under the US blockade. Crypto and equity traders should watch this because simultaneous disruptions to Hormuz and the Red Sea would amplify supply stress, insurance costs, and risk aversion across markets.",
+          "title": "Trump Threatens Extra Tariffs on Canada Over Wildfire Smoke",
+          "summary": "President Trump said he will add the incalculable cost of Canadian wildfire smoke polluting US cities to existing tariffs on Canadian goods, calling it willful negligence. Smoke from Ontario fires has blanketed parts of the Midwest and East Coast, prompting health warnings. This ratchets up the already tense US-Canada trade fight. Crypto traders should note that fresh tariff escalation raises recession and inflation risks that typically weigh on risk assets.",
           "sentiment": "Bearish",
-          "impact": "Sustained high oil supporting inflationary pressures and risk-off moves",
+          "impact": "Trade war escalation increases uncertainty and pressure on growth assets",
           "sources": [
-            "https://www.reuters.com/business/energy/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-2026-07-16/",
-            "https://www.bloomberg.com/news/videos/2026-07-16/have-we-reached-peak-hormuz-video"
+            "https://www.reuters.com/world/ontario-buy-new-11-new-aircraft-very-difficult-wildfire-fight-2026-07-17/",
+            "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke",
+            "https://thehill.com/homenews/administration/5975233-trump-canada-wildfire-smoke-tariffs/"
           ]
         },
         {
-          "title": "Zelenskyy fires popular Ukraine defense minister sparking protests",
-          "summary": "Ukrainian President Volodymyr Zelenskyy has dismissed Defense Minister Mykhailo Fedorov, the architect of the country's successful drone program, as part of a government reshuffle. The move triggered protests in Kyiv and other cities with Fedorov publicly criticizing the army chief for blocking reforms. Traders should note this because internal Ukrainian turmoil could affect the war's trajectory, Western aid cohesion, and broader European security sentiment.",
+          "title": "Oil Climbs to Multi-Week Highs on Iran Escalation",
+          "summary": "Crude extended gains above eighty-two dollars a barrel after Iranian attacks on Kuwaiti energy infrastructure and continued US strikes, marking the highest levels in over a month. The jump comes as shipping through Hormuz faces fresh threats from both sides. Energy shocks feed directly into inflation expectations and central bank policy paths. Higher oil is a classic headwind for risk appetite, including Bitcoin, until the conflict de-escalates or inventories rebuild.",
+          "sentiment": "Bearish",
+          "impact": "Energy price spike fuels inflation fears and risk-off flows",
+          "sources": [
+            "https://tradingeconomics.com/commodity/crude-oil",
+            "https://www.reuters.com/world/middle-east/iran-renews-attacks-gulf-states-after-another-night-us-strikes-2026-07-18/"
+          ]
+        },
+        {
+          "title": "Kyiv Protests Demand Army Chief Ouster After Reshuffle",
+          "summary": "Thousands of Ukrainians protested for a second day outside Zelenskiy's office calling for the removal of commander-in-chief Oleksandr Syrskyi after the popular defence minister Mykhailo Fedorov was dropped in a government shake-up. Protesters say the old-style command is costing lives and blocking modernisation. Zelenskiy appointed a new national security chief and acting defence minister to calm the outcry. Internal political friction in Ukraine could complicate military aid and war strategy at a time when drone campaigns are intensifying.",
           "sentiment": "Neutral",
-          "impact": "Potential longer-term uncertainty for Ukraine war effort and European risk",
+          "impact": "Potential drag on Ukrainian war effort and Western support optics",
           "sources": [
-            "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-            "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/",
-            "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0"
+            "https://www.reuters.com/business/aerospace-defense/zelenskiy-shakes-up-national-security-post-protesters-rally-second-day-2026-07-17/"
           ]
         },
         {
-          "title": "Trump delivers primetime speech on election security vulnerabilities",
-          "summary": "President Donald Trump gave a national address claiming declassified documents reveal shocking vulnerabilities in US election systems and alleged Chinese interference or access to voter data. He pushed for new election security legislation while critics said the claims lacked new evidence and risked undermining confidence ahead of midterms. Market participants should care as heightened political division or contested election narratives can introduce domestic policy uncertainty and risk premium into US assets.",
+          "title": "China Vows Measures Over UK Nationalisation of British Steel",
+          "summary": "China's foreign ministry said it will closely monitor the UK's full nationalisation of Chinese-owned British Steel and take appropriate measures to protect its interests. Beijing earlier called the move strongly unsatisfactory and damaging to investor confidence. The UK acted to secure domestic steel production after earlier intervention. This adds another flashpoint to Western-China economic tensions and could spill into broader trade or investment restrictions that markets hate.",
           "sentiment": "Neutral",
-          "impact": "Increased US political noise with limited immediate market direction",
+          "impact": "Incremental trade and investment friction between West and China",
           "sources": [
-            "https://www.nytimes.com/live/2026/07/16/us/trump-speech-election",
-            "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security",
-            "https://www.cnn.com/2026/07/16/politics/live-news/trump-speech-election"
-          ]
-        },
-        {
-          "title": "Ukraine hits Russian shadow fleet tankers in Black Sea",
-          "summary": "Ukrainian forces struck two Russian shadow fleet oil tankers in the Black Sea amid ongoing efforts to disrupt Moscow's energy exports. This comes alongside reports of Russia shifting focus to Black Sea operations and Turkish warnings about the conflict spilling over. For energy and risk markets this adds another layer of supply uncertainty on top of Middle East disruptions, potentially supporting oil prices while weighing on broader risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Additional pressure on Russian oil flows and European energy security",
-          "sources": [
-            "https://geopoliticalfutures.com/daily-memo-us-iran-conflict-simmers-a-controversial-firing-in-ukraine/",
-            "https://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/"
+            "https://www.reuters.com/world/china/china-says-it-will-take-measures-uks-nationalisation-british-steel-2026-07-18/",
+            "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
           ]
         }
       ]
