@@ -1,76 +1,77 @@
 {
-  "generated_at": "2026-07-27T12:05:03+00:00",
+  "generated_at": "2026-07-28T12:05:32+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Bitcoin is reclaiming sixty-five thousand on the back of a US-Iran strike pause and crashing oil prices, while ETF inflows extend to a third straight week. Ether is outperforming and risk appetite looks supported by softer energy costs and steadier macro data. Upcoming Fed decision and lingering tariff and Red Sea risks keep some caution in the mix, but the near-term tone favors crypto.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Crypto tone is heavy as the Senate shelves the Clarity Act, Saylor opens the door to possible Strategy BTC sales, and exchanges shut amid collapsing volume. ETF outflows and the break below 64k add pressure, even as softer oil and yields give modest macro support. Traders are in wait-and-see mode ahead of tomorrow’s FOMC.",
   "key_points": [
-    "BTC reclaims $65K on Iran de-escalation",
-    "ETF inflows hit third straight week",
-    "Oil plunges over 5%, easing risk pressure",
-    "ETH/BTC ratio hits multi-month high",
-    "Fed hold expected; tariffs and Houthis linger"
+    "Senate shelves Crypto Clarity Act",
+    "Saylor opens door to BTC sales",
+    "BitMEX and BitMart shut on volume collapse",
+    "Oil slides on US-Iran pause",
+    "FOMC decision tomorrow, hold favored"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Reclaims $65K as US-Iran Hold Fire, Oil Crashes",
-          "summary": "Bitcoin pushed back above sixty-five thousand dollars after the US and Iran paused military strikes for a second straight day. Oil tumbled about five to seven percent on the news, easing inflation fears and sparking a risk-on move across equities and crypto. Ether led with gains over three percent while other majors advanced one to two percent. Traders should care because cheaper oil and de-escalation remove a major macro headwind right before the Fed decision, supporting the bounce off recent lows.",
-          "sentiment": "Bullish",
-          "impact": "Supports near-term risk appetite and could fuel a test of higher resistance if the pause holds",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
-            "https://crypto.news/bitcoin-price-reclaims-65k-peace-trade-lifts-assets/",
-            "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500"
-          ]
-        },
-        {
-          "title": "Bitcoin ETFs Log Third Straight Weekly Inflows",
-          "summary": "US spot Bitcoin ETFs posted about thirty-four million dollars in net inflows for the week ending July twenty-fourth, marking the third consecutive positive week. That came despite roughly four hundred sixty-five million in outflows over Thursday and Friday that ended a seven-day daily inflow streak, mostly from BlackRock's IBIT. After months of heavy redemptions earlier in the year, this repair phase shows institutional demand is returning, even if still cautious. Traders watch these flows closely as a leading indicator of spot demand that can stabilize or lift price.",
-          "sentiment": "Bullish",
-          "impact": "Modest positive demand signal that cushions downside and supports the July recovery narrative",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week"
-          ]
-        },
-        {
-          "title": "Storj Files Chapter 11 Amid Wave of Crypto Failures",
-          "summary": "Decentralized storage firm Storj Labs filed for Chapter Eleven bankruptcy to restructure legacy debts while pledging to keep the network running and even offering token holders equity in the reorganized company. The move caps a rough week that also saw BitMart and BitMEX announce orderly wind-downs plus Movement Labs seeking protection. Tokens like STORJ and BMX sold off hard on the news. This matters because it highlights capital flight toward AI and lingering stress in weaker crypto businesses, which can weigh on broader risk sentiment even if Bitcoin holds up.",
+          "title": "Senate Shelves Crypto Clarity Act for Now",
+          "summary": "The U.S. Senate has delayed floor action on the Digital Asset Market Clarity Act to prioritize Russia sanctions and nominations. With the August recess starting August 8, this leaves little time and makes 2026 passage uncertain amid ongoing ethics disputes. Traders should care because stalled market structure rules keep big institutions cautious and remove a potential bullish catalyst for Bitcoin adoption.",
           "sentiment": "Bearish",
-          "impact": "Negative for altcoin and sector sentiment, underscoring selective capital rotation away from crypto",
+          "impact": "Increases regulatory uncertainty and weighs on sentiment",
           "sources": [
-            "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
-            "https://crypto.news/storj-labs-files-chapter-11-after-raising-35-million/"
+            "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
+            "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act"
           ]
         },
         {
-          "title": "CLARITY Act Faces Make-or-Break Two-Week Senate Window",
-          "summary": "The Senate has roughly two weeks before its August recess to advance the Digital Asset Market Clarity Act, with a new draft merging prior versions and adding ethics language around officials and crypto. Negotiations continue on the ethics provisions amid Democratic pushback and some Republican concerns, while leadership signals the timeline is tight. Industry wants the market-structure rules badly for clearer SEC-CFTC lines. Traders should track any motion to proceed this week because passage odds and headlines can drive sharp volatility in Bitcoin and crypto stocks.",
+          "title": "Bitcoin Drops Below $64K on Kospi Crash",
+          "summary": "Bitcoin fell roughly 2.5 percent to around 63,400 dollars as South Korea's Kospi index plunged over 10 percent on chip stock fears, hitting circuit breakers and sparking global risk-off. The move dragged alts lower and aligned with the Clarity Act delay ahead of the Fed decision. Traders should watch this correlation because equity stress is spilling directly into crypto and testing key supports.",
+          "sentiment": "Bearish",
+          "impact": "Short-term downside pressure with elevated volatility risk",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+            "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
+            "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html"
+          ]
+        },
+        {
+          "title": "$100M Liquidated as BTC Breaks $64K Again",
+          "summary": "About 100 million dollars in leveraged crypto positions were wiped out in a single hour as Bitcoin slipped under 64,000 dollars for the third time this week. Longs took most of the pain in the risk-off cascade tied to Asian equities. Traders should care because repeated leverage flushes around this level can either clear weak hands for a bounce or signal further breakdown if support fails.",
           "sentiment": "Neutral",
-          "impact": "Unresolved catalyst that could spark a relief rally on progress or disappointment sell-off if delayed",
+          "impact": "Leverage reset that may stabilize or amplify next move",
           "sources": [
-            "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
-            "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says"
+            "https://news.bitcoin.com/bitcoin-slides-under-64000-100-million-liquidated/",
+            "https://cryptonews.com/news/bitcoin-price-100m-liquidation-64k/"
           ]
         },
         {
-          "title": "Bitcoin Options Traders Drop Hedges Ahead of Fed",
-          "summary": "Bitcoin options markets have turned less defensive, with the put-call open interest ratio falling to about zero point five two from zero point seven six in late June. Short-term downside protection has cheapened sharply while traders pile into upside calls around seventy thousand. Implied volatility is subdued near-term even with the FOMC decision Wednesday. This positioning suggests the market expects a quiet outcome, but thin hedges mean any hawkish surprise or statement shift could amplify a move in either direction.",
+          "title": "Saylor Opens Door to Strategy Bitcoin Sales",
+          "summary": "Michael Saylor said Strategy may sell Bitcoin or issue stock to fund buybacks of its STRC preferred shares when they trade at a discount. The firm aims for stable preferred trading and has already been repurchasing shares. This matters to traders because even conditional sales from one of Bitcoin's largest corporate holders introduce potential supply overhang that contrasts with its prior pure accumulation stance.",
+          "sentiment": "Bearish",
+          "impact": "Possible future selling pressure from major holder",
+          "sources": [
+            "https://news.bitcoin.com/strategy-opens-the-door-to-bitcoin-sales-michael-saylor-explains-why-it-makes-sense/"
+          ]
+        },
+        {
+          "title": "BitMEX and BitMart Shut Amid Volume Collapse",
+          "summary": "BitMEX will permanently close in September and BitMart is winding down trading, joining other firm failures as centralized exchange volumes hit multi-year lows around 1 trillion dollars monthly. Analysts blame fading retail speculation and rising compliance costs. Traders should note this signals industry consolidation where only scaled compliant platforms survive, underscoring weak retail participation.",
+          "sentiment": "Bearish",
+          "impact": "Highlights sector stress and lower retail activity",
+          "sources": [
+            "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+            "https://finance.yahoo.com/markets/crypto/articles/why-bitmart-bitmex-shutdowns-analysts-091428074.html"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs Post $11.6M Net Outflow",
+          "summary": "U.S. spot Bitcoin ETFs saw roughly 11.6 million dollars in net outflows on July 27, led by BlackRock's IBIT, after prior weekly inflows. This comes as price weakens and macro uncertainty builds before the Fed. Flows remain a key gauge of institutional demand, so even modest redemptions flag caution among big money.",
           "sentiment": "Neutral",
-          "impact": "Low near-term vol pricing leaves room for outsized reaction if Fed surprises",
+          "impact": "Mild check on institutional buying pressure",
           "sources": [
-            "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting"
-          ]
-        },
-        {
-          "title": "Ether Leads Gains as ETH/BTC Ratio Hits Multi-Month High",
-          "summary": "Ether jumped more than three percent while Bitcoin rose about one percent, pushing the ether-bitcoin ratio to a three-month high near zero point zero three. The pair sits above its two-hundred-day moving average for the first time since January after gaining over twenty percent since early June. Analysts see this as a possible early sign of capital rotating into alts, though Bitcoin dominance remains elevated around fifty-eight to fifty-nine percent. Traders care because sustained ETH outperformance often precedes broader altcoin strength if risk appetite continues.",
-          "sentiment": "Bullish",
-          "impact": "Hints at potential altcoin rotation if the relative strength holds",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-            "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5"
+            "https://farside.co.uk/btc/",
+            "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week"
           ]
         }
       ]
@@ -79,69 +80,67 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US Durable Goods Orders Rebound 1.6% in June",
-          "summary": "June durable goods orders jumped 1.6 percent, snapping back from May's 4.5 percent drop and matching forecasts. The core proxy for business investment, non-defense capital goods excluding aircraft, rose a solid 1.4 percent. This shows corporate spending remains resilient despite elevated rates, giving the Fed more cover to stay on hold and pushing back rate-cut hopes. Traders should watch yields and the dollar for the reaction, as stronger growth data supports the higher-for-longer narrative that can weigh on risk assets including crypto.",
+          "title": "FOMC Decision Tomorrow Under Chair Warsh; Hold Favored",
+          "summary": "The Fed's two-day FOMC meeting is underway with the rate decision due Wednesday at 2pm ET. Markets price a high probability of holding the funds rate at 3.50-3.75 percent for a fifth straight meeting, though oil-driven inflation risks have kept some hike odds alive around 30-35 percent. New Chair Kevin Warsh has stressed no tolerance for high inflation and less forward guidance, so the statement and any press conference comments will be closely watched for hawkish signals. Crypto traders should care because a hold with dovish tilt supports risk assets while any hike talk or hawkish surprise could pressure Bitcoin and equities.",
           "sentiment": "Neutral",
-          "impact": "Supports higher-for-longer rates, mixed for risk assets",
-          "sources": [
-            "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/",
-            "https://tradingeconomics.com/united-states/durable-goods-orders",
-            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--july-2026-.html"
-          ]
-        },
-        {
-          "title": "Oil Plunges Over 5% on US-Iran Attack Pause",
-          "summary": "Brent crude dropped more than 5 percent, briefly under 90 dollars, after the US and Iran paused military strikes over the weekend. WTI followed lower as hopes rose for de-escalation that could ease supply risks around the Strait of Hormuz. Lower energy prices ease inflation pressure and support risk appetite. Crypto traders should care because cheaper oil is disinflationary, potentially giving central banks more flexibility later while the immediate risk-on tone can lift Bitcoin and equities.",
-          "sentiment": "Bullish",
-          "impact": "Risk-on bid, eases inflation fears",
-          "sources": [
-            "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-            "https://www.businesstoday.com.my/2026/07/27/oil-prices-fall-5-as-us-iran-pause-fighting-brent-drops-below-us92/",
-            "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/"
-          ]
-        },
-        {
-          "title": "German Ifo Business Climate Rises to 86.6",
-          "summary": "Germany's Ifo business climate index climbed to 86.6 in July from 85.7, beating expectations around 86. Expectations improved sharply while current conditions eased slightly. It suggests the eurozone's industrial gloom may be bottoming, offering the ECB a bit more breathing room. For global markets this is a modest positive for growth sentiment that can support European risk assets and the euro, with spillover to broader risk appetite.",
-          "sentiment": "Bullish",
-          "impact": "Modest lift to eurozone growth sentiment",
-          "sources": [
-            "https://www.fxstreet.com/news/germanys-ifo-business-climate-index-improves-to-866-in-july-beats-estimates-202607270806",
-            "https://tradingeconomics.com/germany/business-confidence",
-            "https://investinglive.com/news/germany-july-ifo-business-climate-index-vs-86-0-expected/"
-          ]
-        },
-        {
-          "title": "FOMC Meeting This Week: Hold Expected Under Warsh",
-          "summary": "The Federal Reserve meets July 28-29 with markets pricing a high chance of holding the funds rate at 3.5 to 3.75 percent. New Chair Kevin Warsh faces sticky inflation debates and recent oil volatility, with some earlier hike odds that have since cooled. The statement and any press conference will be key for the path ahead. Crypto traders watch closely because any hawkish tilt keeps liquidity tight, while a dovish surprise could spark a relief rally in Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "High-volatility event for rates and risk assets",
+          "impact": "High volatility around decision; hold likely mild positive for crypto",
           "sources": [
             "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
             "https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/",
-            "https://www.cmelitegroup.com/knowledge-hub/fomc-meeting-fed-decision-day/"
+            "https://www.morningstar.com/economy/what-expect-july-fed-meeting"
           ]
         },
         {
-          "title": "US 10-Year Yield Near 4.68%, Dollar Steady Around 101",
-          "summary": "The US 10-year Treasury yield hovers near 4.68 to 4.71 percent while the dollar index sits around 101.2 to 101.5. Stronger US data and the Fed blackout keep the higher-for-longer theme alive, though Middle East de-escalation and oil's drop have limited dollar upside. Bond auctions today will test demand. Elevated yields raise the opportunity cost of holding non-yielding assets like Bitcoin, so any sharp move higher in rates can pressure crypto.",
+          "title": "Durable Goods Orders Miss Big; Core Holds Up on AI",
+          "summary": "June durable goods orders rose just 0.3 percent, well below the 1.6 to 2.1 percent forecasts, after a sharp prior drop. Ex-transportation orders gained 0.6 percent and core capital goods excluding aircraft rose about 0.9 percent, pointing to resilient business investment tied to the AI buildout. The soft headline may feed into softer Q2 growth estimates but the underlying strength limits recession fears. Traders watch this as a read on manufacturing and capex heading into the Fed decision and Thursday GDP.",
           "sentiment": "Neutral",
-          "impact": "Elevated yields a headwind for risk assets",
+          "impact": "Mixed data; limited immediate market move but supports soft-landing view",
           "sources": [
-            "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/",
-            "https://finance.yahoo.com/quote/DX-Y.NYB/history/",
-            "https://fred.stlouisfed.org/series/DGS10"
+            "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+            "https://tradingeconomics.com/united-states/durable-goods-orders",
+            "https://www.marketwatch.com/economy-politics/calendar"
           ]
         },
         {
-          "title": "Dallas Fed Manufacturing and Treasury Auctions Due Today",
-          "summary": "Markets await the Dallas Fed manufacturing index later Monday, expected near flat or slightly negative, for another read on factory activity. The Treasury also auctions 2-year and 5-year notes, a key gauge of demand at current yield levels. Soft manufacturing would highlight uneven growth while a weak auction could push yields higher. These inputs feed directly into the growth-versus-rates debate that drives dollar, bond, and crypto positioning heading into the Fed.",
-          "sentiment": "Neutral",
-          "impact": "Secondary data and supply that can move yields",
+          "title": "Oil Falls Sharply on US-Iran Strike Pause",
+          "summary": "Crude prices dropped as the US and Iran paused strikes after recent escalations, reversing some of the war premium that had pushed oil higher and lifted inflation fears. Lower energy costs ease pressure on consumer prices and reduce the odds of an immediate Fed hike. This improves risk sentiment globally and has contributed to a softer dollar tone. Crypto benefits from the de-escalation and lower inflation path as it reduces the chance of tighter policy.",
+          "sentiment": "Bullish",
+          "impact": "Eases rate-hike fears and supports risk assets including Bitcoin",
           "sources": [
-            "https://www.dallasfed.org/research/surveys/tmos",
-            "https://tradingeconomics.com/united-states/dallas-fed-manufacturing-index",
-            "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/"
+            "https://www.youtube.com/watch?v=F6TA8zw7Hto",
+            "https://www.reuters.com/world/africa/dollar-near-one-month-low-cooling-inflation-curbs-fed-hike-bets-2026-07-16/"
+          ]
+        },
+        {
+          "title": "Atlanta Fed GDPNow Slips to 1.6 Percent for Q2",
+          "summary": "The Atlanta Fed's GDPNow model lowered its Q2 2026 real GDP growth estimate to 1.6 percent after the latest data including durables. This is soft relative to earlier readings and consensus around 1.8-2.3 percent for the advance release due Thursday. Soft growth keeps the Fed on hold but also highlights cooling momentum after Q1's 2.1 percent. Traders should note it as a key input for rate path expectations and overall risk appetite into the GDP print.",
+          "sentiment": "Neutral",
+          "impact": "Supports hold but signals slower growth; watch Thursday GDP",
+          "sources": [
+            "https://www.atlantafed.org/research-and-data/data/gdpnow",
+            "https://www.marketwatch.com/economy-politics/calendar"
+          ]
+        },
+        {
+          "title": "10-Year Yield Eases to Around 4.65 Percent; DXY Steady",
+          "summary": "The 10-year Treasury yield pulled back toward 4.65 percent after recent highs near 4.7 percent, while the dollar index hovered near 101.5. Mortgage rates remain elevated around 6.58 percent for the 30-year. Softening yields reflect lower oil and tempered hike bets ahead of the Fed. A stable-to-softer dollar and yields environment is generally supportive for crypto and risk assets by easing financial conditions.",
+          "sentiment": "Bullish",
+          "impact": "Easier financial conditions positive for Bitcoin and equities",
+          "sources": [
+            "https://ycharts.com/indicators/10_year_treasury_rate",
+            "https://tradingeconomics.com/united-states/currency",
+            "https://www.freddiemac.com/pmms"
+          ]
+        },
+        {
+          "title": "Today's Data: Trade Balance, Consumer Confidence, Home Prices",
+          "summary": "Tuesday brings the advance goods trade balance for June, Conference Board consumer confidence for July, Case-Shiller home prices, and other releases including ADP weekly employment. Confidence is expected to edge up from 91.2 toward 92, while trade data will update the deficit picture ahead of full GDP. These fill in the pre-FOMC puzzle on consumer strength and external balances. Any big surprise could shift Fed pricing or risk sentiment before Wednesday's decision.",
+          "sentiment": "Neutral",
+          "impact": "Potential short-term volatility; feeds into Fed and growth views",
+          "sources": [
+            "https://www.marketwatch.com/economy-politics/calendar",
+            "https://www.forexfactory.com/calendar",
+            "https://www.conference-board.org/topics/consumer-confidence/"
           ]
         }
       ]
@@ -150,64 +149,65 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US and Iran Pause Mutual Strikes After Escalation",
-          "summary": "The United States has paused airstrikes on Iran for a second or third straight night, with Iran reciprocating by halting its retaliatory attacks on regional US bases and allies. Top military advisors cited dwindling munitions stocks and limited targets as reasons for the halt, while diplomats push talks via Oman on reopening the Strait of Hormuz. Netanyahu is set to visit the White House soon and may push for renewed pressure. Traders should watch this closely because sustained de-escalation would remove a major risk premium from oil and risk assets.",
+          "title": "Gulf Backs Oman Plan for Voluntary Hormuz Fees",
+          "summary": "Oman has presented a proposal, now backed by Gulf states, for a regional mechanism managing the Strait of Hormuz with voluntary fees modeled on the Malacca Strait. This comes as the US-Iran military pause holds for multiple nights, with Trump saying there are good talks but warning strikes resume if talks fail. Oil has tumbled further, with Brent around the mid-80s. Traders should care because successful reopening of this chokepoint, which normally handles 20 percent of global oil, would crush the energy risk premium, ease inflation fears, and spark a broad risk-on move across equities and crypto.",
           "sentiment": "Bullish",
-          "impact": "Eases oil spike and geopolitical risk premium supporting risk-on assets",
+          "impact": "Lower oil prices and reduced geopolitical premium support risk assets",
           "sources": [
-            "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-            "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-            "https://www.csmonitor.com/World/2026/0726/US-pauses-attacks-on-Iran-for-a-second-day-and-Tehran-does-too"
+            "https://www.reuters.com/world/asia-pacific/gulf-states-back-plan-let-iran-collect-voluntary-fees-use-hormuz-2026-07-28/",
+            "https://www.reuters.com/world/middle-east/oman-presented-regional-mechanism-hormuz-iran-source-says-2026-07-28/",
+            "https://www.wsj.com/world/middle-east/iran-and-oman-seek-agreement-on-the-hormuz-in-bid-to-jumpstart-peace-talks-d4c442ac"
           ]
         },
         {
-          "title": "Oil Prices Ease Sharply on Iran Conflict Pause",
-          "summary": "Brent crude fell several percent in early trading as markets reacted to the US-Iran strike pause, dropping from recent highs near or above one hundred dollars after weeks of Hormuz disruption and Houthi threats. Shipping remains constrained and the naval blockade continues, so the relief is fragile. Crypto traders care because lower energy prices cool inflation fears and support risk appetite after the conflict drove oil higher and weighed on growth assets.",
+          "title": "Houthis Target Saudi East-West Oil Pipeline Route",
+          "summary": "Yemen's Houthis claimed drone and missile strikes on Saudi crude transport infrastructure linking eastern oil fields to the Red Sea export hub at Yanbu, plus earlier hits on Aramco sites. Red Sea shipping through Bab el-Mandeb has dropped to multi-month lows as a result. This expands the Iran-linked war into a second energy chokepoint just as Hormuz diplomacy advances. For traders, it keeps a floor under oil prices and war-risk insurance, offsetting some de-escalation gains and reminding markets that proxy attacks can quickly reverse the risk-on move.",
+          "sentiment": "Bearish",
+          "impact": "Sustains oil supply fears and shipping disruptions via Red Sea",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/houthis-say-they-targeted-saudi-east-west-oil-transport-2026-07-27/",
+            "https://www.reuters.com/world/middle-east/red-sea-shipping-slows-after-houthi-attack-saudi-arabia-data-shows-2026-07-27/",
+            "https://www.criticalthreats.org/analysis/iran-update-special-report-july-27-2026"
+          ]
+        },
+        {
+          "title": "Trump Hosts Zelensky and Netanyahu Amid Dual Wars",
+          "summary": "President Trump is meeting Ukrainian President Zelensky and Israeli Prime Minister Netanyahu in Washington today, both in town for Senator Lindsey Graham's funeral. Zelensky is prioritizing air defense interceptors and Patriot production licenses as Ukraine shows battlefield gains, while Netanyahu seeks support amid strained ties and Iran war complications. These talks sit at critical junctures for both conflicts. Crypto and risk traders watch for any signals on US aid levels, peace frameworks, or Middle East escalation that could swing safe-haven flows and overall risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Outcomes on aid and diplomacy will set near-term risk tone",
+          "sources": [
+            "https://www.reuters.com/world/us/trump-host-netanyahu-zelenskiy-ukraine-iran-wars-reach-critical-stages-2026-07-28/",
+            "https://www.wsj.com/world/middle-east/iran-and-oman-seek-agreement-on-the-hormuz-in-bid-to-jumpstart-peace-talks-d4c442ac"
+          ]
+        },
+        {
+          "title": "Oil Extends Slide as US-Iran Pause Holds",
+          "summary": "Brent crude fell over 5 to 8 percent on Monday and continued lower Tuesday toward the mid-80s after the US paused strikes on Iran and Tehran reciprocated, opening space for Oman-brokered diplomacy. The pause followed military advice on dwindling targets and air-defense stocks. Lower energy prices reduce inflation pressure and free up room for easier financial conditions. This is classic risk-on fuel for Bitcoin and equities if the calm persists, though any collapse in talks could reverse it overnight.",
           "sentiment": "Bullish",
-          "impact": "Reduces inflation pressure and supports broader risk assets including crypto",
+          "impact": "Eases inflation and boosts risk appetite if de-escalation sticks",
           "sources": [
-            "https://www.kwch.com/2026/07/27/oil-prices-ease-after-us-iran-pause-their-attacks/",
-            "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
+            "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news",
+            "https://www.reuters.com/world/asia-pacific/dollar-pulls-back-us-iran-attacks-pause-oil-drops-2026-07-27/",
+            "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html"
           ]
         },
         {
-          "title": "Ukraine Drones Black Out Towns Across Crimea",
-          "summary": "Ukrainian drone and missile strikes have left whole towns in Russian-occupied Crimea without power or water, part of a sustained campaign hitting energy infrastructure, logistics, and shipping to pressure Moscow. Russian authorities have downplayed the crisis while Ukraine aims to make the war felt deeper in Russian-held territory. This matters for markets as it shows Ukraine's long-range capabilities remain potent and could prolong or intensify the conflict, keeping energy and grain volatility alive.",
-          "sentiment": "Neutral",
-          "impact": "Sustains war-related uncertainty and potential energy/grain disruptions",
-          "sources": [
-            "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
-            "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis"
-          ]
-        },
-        {
-          "title": "Houthis Escalate Red Sea Pressure on Saudi Shipping",
-          "summary": "Yemen's Houthis have attacked or threatened Saudi oil tankers and claimed further missile and drone strikes, extending Middle East conflict risks to the Bab el-Mandeb chokepoint after Hormuz disruptions. Trump previously vowed major punishment for Iran and the Houthis if attacks continue. Traders need to track this because dual chokepoint threats amplify oil supply fears even during a US-Iran pause and keep energy volatility elevated.",
+          "title": "Iran Fortifies Kharg Island Oil Terminal",
+          "summary": "Iran is accelerating safety, fire detection, and infrastructure upgrades at Kharg Island, which handles about 90 percent of its oil exports, amid ongoing US threats to bomb or seize the facility. Dark fleet tankers continue loading there under the naval blockade. Even with the current pause, Trump has posted AI images of strikes on Kharg. Traders should note that any move against this terminal would spike oil sharply and reignite full risk-off conditions across markets.",
           "sentiment": "Bearish",
-          "impact": "Heightens dual-chokepoint oil supply risks and geopolitical premium",
+          "impact": "Keeps latent supply-shock risk elevated for energy markets",
           "sources": [
-            "https://www.reuters.com/world/middle-east/trump-vows-punish-iran-houthis-attacks-red-sea-2026-07-24/",
-            "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
+            "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html"
           ]
         },
         {
-          "title": "Pentagon Updates Show Over 600 US Iran War Casualties",
-          "summary": "Updated Pentagon figures put US wounded in the Iran conflict above six hundred with around eighteen deaths, after earlier quiet revisions and questions over transparency on recent base attacks. The toll has climbed amid the recent escalation phase. This is relevant for markets as rising domestic political costs and midterm pressures could influence Trump's willingness to re-escalate or seek a deal, affecting risk sentiment.",
+          "title": "Magnitude 7.1 Quake Strikes Southern Japan",
+          "summary": "A powerful 7.1 magnitude earthquake hit Kumamoto Prefecture on Kyushu, registering the maximum intensity on Japan's scale, knocking out power, damaging roads and a mall, and injuring dozens with a tsunami advisory issued. Japan is a major industrial and financial hub, so significant damage can ripple into supply chains, insurance markets, and the yen. For global traders it is a sudden risk event that can drive short-term safe-haven flows even if it is not a classic geopolitical conflict.",
           "sentiment": "Neutral",
-          "impact": "Raises domestic political risks that could shape future escalation or diplomacy",
+          "impact": "Potential short-term safe-haven bid and supply-chain noise",
           "sources": [
-            "https://www.cnn.com/2026/07/26/politics/iran-war-casualties",
-            "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report"
-          ]
-        },
-        {
-          "title": "Trump Tariffs on 60 Partners Take Hold Over Forced Labor",
-          "summary": "New US Section 301 tariffs of ten to twelve point five percent on goods from sixty economies, including the EU and China, took effect as prior temporary global tariffs expired, justified by forced labor enforcement shortfalls. Trading partners protested the rationale while noting some alignment with prior deals. Crypto and risk traders should note the inflationary and supply-chain drag potential even as markets focused more on Middle East events.",
-          "sentiment": "Bearish",
-          "impact": "Adds trade friction and potential inflation pressure on global growth",
-          "sources": [
-            "https://www.reuters.com/world/us/trump-imposes-forced-labor-duties-60-trading-partners-as-10-us-tariffs-expire-2026-07-24/",
-            "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+            "https://kfgo.com/2026/07/28/magnitude-7-1-earthquake-hits-japans-kyushu-region-jma-says/",
+            "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan"
           ]
         }
       ]
