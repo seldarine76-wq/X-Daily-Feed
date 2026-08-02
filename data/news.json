@@ -1,82 +1,78 @@
 {
-  "generated_at": "2026-08-01T12:04:18+00:00",
+  "generated_at": "2026-08-02T12:05:08+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is under pressure testing sixty-three thousand dollars amid heavy spot ETF outflows and weak earnings from Strategy and Coinbase. Broader markets face sticky inflation data, slowing growth, and elevated yields, while multiple geopolitical flashpoints add clear risk-off weight. Limited support comes from Tether’s profits and Circle’s regulatory win, but the forward tone remains defensive for crypto.",
+  "overall_summary": "Bitcoin faces clear near-term pressure from authorized large-scale sales, spot ETF outflows, and multi-year highs in long-term yields driven by sticky inflation. A weaker dollar and selective corporate buying offer limited offsets, while mixed geopolitics add uncertainty. The balance of catalysts points to a cautious, risk-off tone for crypto.",
   "key_points": [
-    "Bitcoin tests $63K on $265M ETF outflows",
-    "Strategy and Coinbase post large Q2 losses",
-    "Tether adds BTC; Circle wins NY trust charter",
-    "Sticky costs, China contraction, elevated yields",
-    "Escalating Iran, Russia, China geopolitical risks"
+    "Strategy authorizes up to $5B BTC sales",
+    "Spot Bitcoin ETFs see $265M outflow",
+    "30-year yields hit highest since 2007",
+    "Weaker dollar gives partial crypto support",
+    "Fed hike odds and tensions linger"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Tests $63K as Spot ETFs See $265M Outflows",
-          "summary": "Bitcoin hovered near sixty-three thousand dollars after US spot Bitcoin ETFs recorded two hundred sixty-five million dollars in net outflows on July thirty-first, the largest daily withdrawal in weeks. BlackRock's IBIT led the redemptions with about one hundred twenty-three million dollars out. Traders should care because fragile institutional demand at the start of August adds downside pressure while price sits right on key Fibonacci support, with liquidation clusters nearby that could accelerate a move either way.",
+          "title": "Coldcard Wallet Bug Drains Nearly $89M in BTC",
+          "summary": "A firmware flaw in Coldcard hardware wallets from 2021 allowed attackers to recreate private keys offline without touching devices. Losses have climbed across multiple waves to about 1,367 bitcoin from over 4,500 addresses, near 89 million dollars, with more potential risk if users do not migrate. Traders should care because this shakes confidence in self-custody hardware, a core Bitcoin ethos, and could spark further caution or selling among holders worried about seed security.",
           "sentiment": "Bearish",
-          "impact": "Near-term selling pressure and risk of break below support",
+          "impact": "Negative sentiment hit and possible forced moves by affected holders",
           "sources": [
-            "https://crypto.news/bitcoin-price-tests-63k-as-etf-outflows-hit-265m/",
-            "https://www.tradingview.com/news/cointelegraph:cb39b833d094b:0-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling/",
-            "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-outflows-2/"
-          ]
-        },
-        {
-          "title": "Coldcard Flaw Drains $38M-plus in Bitcoin from Hardware Wallets",
-          "summary": "A longstanding randomness bug in Coldcard Mk3 firmware allowed an attacker to sweep roughly five hundred ninety-four Bitcoin worth about thirty-eight million dollars from around five hundred wallets in under thirty minutes. Some reports put the total higher as more funds moved. Coinkite warned affected users to migrate seeds; newer models appear safe so far. Traders should watch this because it dents confidence in self-custody and could drive more capital into ETFs and custodians over time, even if spot price reaction stayed muted initially.",
-          "sentiment": "Neutral",
-          "impact": "Potential shift from self-custody to ETFs; limited immediate price hit",
-          "sources": [
-            "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
-            "https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack",
+            "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+            "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
             "https://www.forbes.com/sites/digital-assets/2026/07/31/massive-surprise-bitcoin-attack-sparks-sudden-price-crash-fears/"
           ]
         },
         {
-          "title": "Strategy Posts Huge Q2 Loss, Pauses Bitcoin Buys",
-          "summary": "Strategy reported an eight point two billion dollar quarterly net loss driven by an unrealized mark-to-market hit on its Bitcoin holdings and said it will hold cash rather than buy more BTC while supporting its preferred stock back toward par. Shares fell more than four percent. Michael Saylor emphasized a broader capital approach over immediate accumulation. This matters because Strategy is one of the largest corporate Bitcoin holders; a pause removes a consistent bid and weighs on leveraged Bitcoin equity sentiment.",
+          "title": "Strategy Authorizes Up to $5 Billion BTC Sales",
+          "summary": "On its Q2 earnings call, Strategy discussed plans to sell as much as 5 billion dollars of bitcoin under capital programs after reporting a multi-billion dollar loss tied to unrealized crypto declines. The company remains the largest corporate holder with hundreds of thousands of BTC but is shifting toward active management rather than pure accumulation. This matters for traders as any actual sales from the biggest whale could add supply pressure and weigh on price in an already cautious market.",
           "sentiment": "Bearish",
-          "impact": "Removes corporate buying pressure; hits MSTR and crypto sentiment",
+          "impact": "Potential overhang of corporate selling pressure",
           "sources": [
-            "https://crypto.news/strategy-stock-sinks-saylor-puts-bitcoin-buys-on-hold/",
-            "https://finance.yahoo.com/video/strategy-raises-544-5m-stock-163000894.html"
+            "https://www.investors.com/news/bitcoin-price-falls-strategy-5-billion-crypto-sales-q2-earnings/",
+            "https://www.kucoin.com/news/flash/michael-saylor-s-strategy-authorizes-5-billion-btc-sale-amid-8-2-billion-q2-loss"
           ]
         },
         {
-          "title": "Coinbase Posts $359M Q2 Loss, Misses Estimates",
-          "summary": "Coinbase reported a three hundred fifty-nine million dollar net loss and one point two billion dollars in revenue for the second quarter, missing Wall Street expectations as softer crypto trading volumes hit transaction fees. Shares dropped after the release. The exchange still gained market share, but the miss underscores weak activity. Traders care because Coinbase is a bellwether for retail and institutional crypto volumes; weak results reinforce the subdued demand backdrop weighing on prices.",
+          "title": "SEC Freezes Nasdaq Bitcoin Options After CME Challenge",
+          "summary": "The SEC has paused its earlier conditional approval of Nasdaq PHLX cash-settled Bitcoin index options known as QBTC following a jurisdictional challenge from CME Group. CME argues bitcoin is a commodity so the products belong under CFTC oversight, opening a public comment period through late August. Traders should watch this turf war closely as delayed or restricted new options products slow liquidity growth and institutional access tools that could otherwise support deeper markets.",
+          "sentiment": "Neutral",
+          "impact": "Delays potential new derivatives liquidity and product launch",
+          "sources": [
+            "https://cryptobriefing.com/sec-freezes-nasdaq-bitcoin-options-cme-challenge/",
+            "https://whale-alert.io/stories/e0d5016877bb50/SEC-pauses-Nasdaq-bitcoin-index-options-approval-after-CME-challenges-jurisdiction"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs Post $265 Million Outflow July 31",
+          "summary": "US spot Bitcoin ETFs recorded a net outflow of roughly 265 million dollars on the final trading day of July, according to flow trackers, after mixed performance earlier in the month. Assets under management sit near 76 billion dollars with cumulative net inflows still positive since launch but under pressure in 2026. This is key for traders as ETF flows remain one of the clearest real-time signals of institutional demand, and redemptions can amplify downside moves.",
           "sentiment": "Bearish",
-          "impact": "Negative sentiment on exchange volumes and sector health",
+          "impact": "Signals softer near-term institutional demand",
           "sources": [
-            "https://finance.yahoo.com/markets/crypto/articles/coinbase-q2-2026-earnings-miss-144916215.html",
-            "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
-            "https://investor.coinbase.com/news/news-details/2026/Coinbase-Q2-Earnings-Everything-Exchange-Drives-3rd-Consecutive-Quarter-of-Record-Crypto-Trading-Volume-Market-Share-Revenue-Diversification-and-Resilience/default.aspx"
+            "https://www.tftc.io/bitcoin-etf-flows",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Tether Posts $1.5B Q2 Profit, Adds Nearly 1,800 BTC",
-          "summary": "Tether generated one point five billion dollars in net operating profit for the second quarter and increased its Bitcoin holdings by about one thousand eight hundred coins to nearly ninety-nine thousand BTC. It also added gold while its excess reserve buffer shrank. USDT supply ticked higher. This is relevant because Tether remains a major buyer and holder of Bitcoin; continued accumulation and strong profits signal underlying stablecoin demand and provide a counterweight to ETF outflows.",
+          "title": "Circle Wins NYDFS Trust Charter for USDC Business",
+          "summary": "Circle received a limited-purpose trust charter from the New York Department of Financial Services for its Circle New York Trust entity, strengthening the regulatory setup around USDC issuance and related services. This builds on prior BitLicense and recent federal OCC approvals for custody. Stablecoin clarity reduces counterparty and regulatory risk for the broader crypto ecosystem that traders rely on for liquidity and settlement.",
           "sentiment": "Bullish",
-          "impact": "Supportive institutional demand and reserve strength for USDT",
+          "impact": "Positive regulatory milestone for major stablecoin issuer",
           "sources": [
-            "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-            "https://news.bitcoin.com/stablecoins/usdt-issuer-tether-hits-1-5b-q2-profit-hoards-98932-bitcoin/",
-            "https://crypto.news/tether-q2-profit-hits-1-5b-dollar-as-usdt-supply-grows/"
-          ]
-        },
-        {
-          "title": "Circle Secures New York Trust Charter for USDC",
-          "summary": "Circle received a limited purpose trust charter from the New York Department of Financial Services, allowing its new entity to offer fiduciary, custody, and asset-management services under state banking law. It builds on Circle's existing BitLicense and recent OCC footing. This matters for traders because stronger regulatory standing for the second-largest stablecoin improves institutional confidence in USDC rails and could support broader crypto market structure and liquidity over time.",
-          "sentiment": "Bullish",
-          "impact": "Positive regulatory clarity and institutional access for USDC",
-          "sources": [
-            "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+            "https://www.businesswire.com/news/home/20260731400151/en/Circle-Granted-Trust-Charter-by-the-New-York-Department-of-Financial-Services",
             "https://www.cryptopolitan.com/circle-trust-charter-from-nydfs-regime/",
-            "https://finance.yahoo.com/markets/crypto/articles/circle-lands-york-trust-charter-153202072.html"
+            "https://coingape.com/circle-secures-nydfs-limited-purpose-trust-charter-for-circle-new-york-trust/"
+          ]
+        },
+        {
+          "title": "Coinbase Adds 819 BTC to Corporate Balance Sheet",
+          "summary": "Coinbase reportedly purchased 819 bitcoin worth about 52 million dollars for its treasury, bringing total holdings to roughly 17,311 BTC and ranking it among the top public company holders. This comes amid ongoing corporate interest in bitcoin as a reserve asset. Traders care because exchange balance-sheet buys provide a constructive institutional demand signal even when ETF flows are mixed.",
+          "sentiment": "Bullish",
+          "impact": "Supportive corporate accumulation signal",
+          "sources": [
+            "https://www.facebook.com/BitcoinMagazine/posts/just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-/1623515299180878/"
           ]
         }
       ]
@@ -85,63 +81,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Warsh Weighs Cutting FOMC Meeting Frequency",
-          "summary": "New Fed Chair Kevin Warsh floated the idea this week of reducing the number of scheduled rate-setting meetings from the long-standing eight per year. The New York Times reports he raised it at the latest FOMC gathering and could decide before September. Traders should care because fewer meetings mean less frequent guidance, potentially higher uncertainty and bigger market moves around the remaining decisions.",
-          "sentiment": "Neutral",
-          "impact": "Increased policy uncertainty and potential volatility around fewer rate decisions",
+          "title": "30-Year Treasury Yield Hits Highest Since 2007",
+          "summary": "The US 30-year Treasury yield climbed to around 5.28 percent, its highest level since 2007, even after the Fed held rates steady. Investors are pricing in sticky inflation, heavy government debt issuance, and geopolitical risks rather than just the short-term policy rate. For crypto traders this matters because elevated long-end yields tighten financial conditions, raise discount rates on risk assets, and often pressure Bitcoin until the move stabilizes or reverses.",
+          "sentiment": "Bearish",
+          "impact": "Tighter conditions and higher real yields weigh on risk assets including Bitcoin",
           "sources": [
-            "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
-            "https://seekingalpha.com/news/4623000-warsh-is-considering-reducing-frequency-of-fed-policy-meetings-report"
+            "https://www.ndtvprofit.com/world/us-30-year-treasury-yield-hits-5-28-highest-since-2007-despite-feds-hawkish-pause-whats-driving-borrowing-costs-11855722",
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://fred.stlouisfed.org/series/DGS30"
           ]
         },
         {
-          "title": "Q2 Employment Cost Index Holds at Sticky 0.9%",
-          "summary": "The Employment Cost Index rose 0.9 percent quarter-over-quarter in the second quarter, matching the prior reading and coming in at or slightly above forecasts. Year-over-year compensation was up 3.4 percent with wages at 3.2 percent. This keeps labor cost pressures alive for the Fed, supporting the case for rates staying higher for longer and weighing on risk assets including crypto.",
+          "title": "Divided Fed Holds Rates 9-3; Three Dissent for Hike",
+          "summary": "The Federal Reserve kept the funds rate at 3.50 to 3.75 percent for a fifth straight meeting in a 9-3 vote, with three members preferring a 25 basis point hike. Chair Kevin Warsh stressed commitment to price stability but gave limited forward guidance, leaving markets focused on data. Traders should watch this because the dissent and long-end selloff signal lingering inflation worries that could keep policy tighter for longer and limit liquidity for crypto.",
           "sentiment": "Bearish",
-          "impact": "Reinforces sticky inflation risks and higher-for-longer rate path",
+          "impact": "Hawkish dissent and credibility questions support higher-for-longer rates",
           "sources": [
-            "https://www.bls.gov/news.release/eci.nr0.htm",
-            "https://tradingeconomics.com/united-states/employment-cost-index"
-          ]
-        },
-        {
-          "title": "China Factory PMI Slips into Contraction at 49.2",
-          "summary": "China's official manufacturing PMI dropped to 49.2 in July from 50.3, missing forecasts and entering contraction territory for the first time in months. Non-manufacturing also fell to 49. Weak Chinese demand signals softer global growth and commodity prices, which can pressure risk appetite but sometimes support easier policy elsewhere.",
-          "sentiment": "Bearish",
-          "impact": "Weighs on global growth outlook and risk assets",
-          "sources": [
-            "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-unexpectedly-shrinks-july-2026-07-31/",
-            "https://www.investing.com/news/economic-indicators/china-manufacturing-pmi-unexpectedly-slips-into-contraction-in-july-4826676"
-          ]
-        },
-        {
-          "title": "Bond Yields Stay Elevated After Fed Hold",
-          "summary": "Long-term Treasury yields remain near multi-year highs after the Fed held rates steady this week amid dissents and limited guidance from Chair Warsh. The 30-year has hovered above 5.2 percent as markets question the inflation fight. Higher yields tighten financial conditions, raise discount rates for assets, and typically pressure Bitcoin and equities.",
-          "sentiment": "Bearish",
-          "impact": "Tighter financial conditions and headwind for risk assets",
-          "sources": [
-            "https://fortune.com/2026/07/30/wall-street-fed-chair-warsh-interest-rate-bond-market-puked/",
+            "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+            "https://tradingeconomics.com/united-states/interest-rate",
             "https://www.reuters.com/markets/us/uncertainty-creeps-into-feds-rate-decision-warsh-keeps-his-cards-hidden-2026-07-29/"
           ]
         },
         {
-          "title": "Michigan Sentiment Rebounds Strongly to 55.2",
-          "summary": "Final University of Michigan consumer sentiment for July rose to 55.2 from 49.5 in June, a solid rebound to a multi-month high with broad-based gains. Inflation expectations eased somewhat. Stronger consumer mood supports spending resilience, which can keep growth alive but also complicate the Fed's inflation battle.",
-          "sentiment": "Neutral",
-          "impact": "Supports growth narrative while keeping inflation risks in focus",
+          "title": "US Dollar Posts Biggest Weekly Drop in Three Months",
+          "summary": "The dollar index fell nearly 1.5 percent for the week, its worst performance in three months, closing near 99.8 even as Treasury yields rose. The unusual divergence reflects doubts about Fed inflation-fighting credibility, fiscal concerns, and possible yen support. Crypto traders care because a weaker DXY has historically supported Bitcoin and risk assets, though the yield rise offsets some of that tailwind.",
+          "sentiment": "Bullish",
+          "impact": "Weaker dollar typically lifts Bitcoin and global risk appetite",
           "sources": [
-            "https://www.sca.isr.umich.edu/",
-            "https://www.usnews.com/news/national-news/articles/2026-07-31/consumer-sentiment-strong-in-july-inflation-expectations-drop"
+            "https://tradingeconomics.com/united-states/currency",
+            "https://www.cnbc.com/quotes/.DXY"
           ]
         },
         {
-          "title": "Q2 US GDP Slows to 1.5 Percent Annualized",
-          "summary": "Advance Q2 GDP came in at 1.5 percent, down from 2.1 percent in Q1 and below some expectations, with consumer spending and investment still contributing but imports and government weighing. Discussions continue on the slowdown amid energy and Middle East pressures. Softer growth could eventually open the door to easier policy but currently sits alongside sticky inflation readings.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signal: slower growth vs. still-elevated inflation",
+          "title": "Markets Still Price Solid Odds of September Fed Hike",
+          "summary": "Despite the July hold, futures markets continue to assign roughly a two-thirds probability of a 25 basis point rate increase at the mid-September FOMC meeting. Comments from the three dissenters reinforced the case for tighter policy if inflation stays elevated. This keeps rate-cut hopes distant and means any hot data next week could quickly reprice higher odds, pressuring crypto via tighter liquidity expectations.",
+          "sentiment": "Bearish",
+          "impact": "Elevated hike odds sustain restrictive financial conditions",
           "sources": [
-            "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
-            "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+            "https://tradingeconomics.com/united-states/interest-rate",
+            "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+            "https://tradingeconomics.com/united-states/government-bond-yield"
+          ]
+        },
+        {
+          "title": "ISM Manufacturing PMI Due Monday as Key Data Focus",
+          "summary": "No major US data prints on Sunday, but Monday brings the July ISM Manufacturing PMI, with consensus around 53.7 to 54 after June's 53.3, plus the S&P Global final PMI and construction spending. This kicks off a busy week ahead of later jobs and inflation numbers. Traders should care because a strong print could reinforce growth and inflation stickiness narratives, supporting higher yields, while a miss might ease rate-hike bets and help risk assets.",
+          "sentiment": "Neutral",
+          "impact": "Data-dependent catalyst that can swing rate expectations and risk sentiment",
+          "sources": [
+            "https://tradingeconomics.com/calendar",
+            "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+            "https://tradingeconomics.com/united-states/business-confidence"
+          ]
+        },
+        {
+          "title": "Sticky Inflation and Deficits Drive Long-End Yields Higher",
+          "summary": "Headline PCE remains elevated near 3.7 percent with core at 3.3 percent, helped by energy prices tied to Middle East tensions, while large federal deficits and heavy Treasury issuance add supply pressure. The bond market is effectively tightening conditions independently of the Fed. For Bitcoin this is a headwind because persistent inflation plus fiscal concerns keep real yields and term premia elevated, competing with crypto for capital.",
+          "sentiment": "Bearish",
+          "impact": "Structural pressure on yields raises the bar for risk-asset rallies",
+          "sources": [
+            "https://www.ndtvprofit.com/world/us-30-year-treasury-yield-hits-5-28-highest-since-2007-despite-feds-hawkish-pause-whats-driving-borrowing-costs-11855722",
+            "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+            "https://www.dallasfed.org/research/economics/2026/0417"
           ]
         }
       ]
@@ -150,62 +151,65 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Plans Fresh Weekend Strikes on Iran Amid Hormuz Attacks",
-          "summary": "US officials say America is preparing a new wave of strikes on Iran that could start as soon as this weekend, with President Trump telling his cabinet the US will be hitting them very hard. Iran's forces have attacked more tankers near the Strait of Hormuz, keeping the critical oil chokepoint under threat. Traders should care because any escalation here spikes oil prices, fuels inflation fears, and drives classic risk-off moves that hit Bitcoin and equities hard.",
-          "sentiment": "Bearish",
-          "impact": "Higher oil and geopolitical risk premium pressure risk assets",
-          "sources": [
-            "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump",
-            "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
-            "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-hormuz-ceasefire-deal/article71293385.ece"
-          ]
-        },
-        {
-          "title": "Russia Pounds Kyiv with Ballistic Missiles, Kills Nine",
-          "summary": "Russia launched a heavy ballistic missile and drone barrage on Kyiv early Saturday, killing at least nine people and damaging residential buildings plus the Lithuanian embassy. President Zelensky said Ukraine has run out of Patriot interceptors and only one ballistic missile was stopped. This keeps the Ukraine war hot, raises European security fears, and sustains demand for safe-haven flows while weighing on broader risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Elevated European geopolitical risk and defense spending pressure",
-          "sources": [
-            "https://www.reuters.com/business/aerospace-defense/russia-pounds-kyiv-with-missiles-2026-07-31/",
-            "https://www.al-monitor.com/originals/2026/07/russia-pounds-kyiv-missiles-killing-least-three"
-          ]
-        },
-        {
-          "title": "China Holds Combat Drills Around Disputed Scarborough Shoal",
-          "summary": "China's military and coast guard conducted joint naval and air combat drills around the disputed Scarborough Shoal in the South China Sea, calling them a response to actions undermining stability. Beijing also rolled out new rules for a nature reserve there and rejected Philippine baseline claims. Heightened US-China friction in a key trade route can rattle supply chains and keep investors cautious on Asia risk assets.",
-          "sentiment": "Bearish",
-          "impact": "South China Sea tensions add supply-chain and trade risk premium",
-          "sources": [
-            "https://www.reuters.com/world/china/china-conducts-naval-air-patrols-around-disputed-shoal-south-china-sea-2026-08-01/"
-          ]
-        },
-        {
-          "title": "US Bans Imports from 43 More Chinese Firms Over Forced Labor",
-          "summary": "The Trump administration added 43 companies to the Uyghur Forced Labor Prevention Act entity list, the largest single expansion since the law began and the first under this White House. Targets include electronics capacitor makers, pharma, metals, and food firms tied to Xinjiang. This ratchets up US-China trade friction and could disrupt supply chains for key components that feed into tech and manufacturing stocks.",
-          "sentiment": "Bearish",
-          "impact": "Trade restrictions tighten, pressuring China-linked equities and supply chains",
-          "sources": [
-            "https://www.reuters.com/world/china/us-bars-imports-43-more-companies-over-chinas-alleged-forced-labor-involving-2026-07-31/"
-          ]
-        },
-        {
-          "title": "Trump Touts Gaza Deal as Hamas Agrees to Disarm Plan",
-          "summary": "President Trump said the US and Israel have an understanding to start implementing a new Gaza roadmap, with Hamas agreeing for the first time to a specific disarmament plan if Israel meets its ceasefire obligations. UN officials called it the only good news lately, though Israeli strikes continued and skepticism remains high on the ground. A durable de-escalation here would reduce one major Middle East risk factor and support risk-on sentiment.",
+          "title": "Trump Cancels Iran Strikes Pending Rapid Hormuz Deal",
+          "summary": "President Trump announced late Saturday he is calling off planned major US strikes on Iran after claims that outlines of a deal have been reached, including full reopening of the Strait of Hormuz and ending Iran's nuclear threat. Saudi Crown Prince Mohammed bin Salman urged de-escalation in a call, and Trump said Israel is joining the pause, though Iran has not confirmed any request or shift in stance and state media mocked it as a retreat. No overnight strikes were reported. Traders should watch closely because Hormuz controls a huge chunk of global oil flows; de-escalation hopes typically crush oil prices and spark risk-on rallies in stocks and crypto, while failure could reverse it fast.",
           "sentiment": "Bullish",
-          "impact": "Potential regional de-escalation could ease oil and risk premiums",
+          "impact": "Lower oil prices and risk-on bid for Bitcoin and equities if deal holds",
           "sources": [
-            "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump",
-            "https://www.reuters.com/world/middle-east/israeli-strikes-kill-two-gaza-destroy-medicine-storage-warehouses-2026-08-01/"
+            "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+            "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump",
+            "https://www.britannica.com/event/2026-Iran-war"
           ]
         },
         {
-          "title": "Trump Casts Doubt on Ukraine Patriot Missile Production License",
-          "summary": "President Trump said the US has not agreed to let Ukraine build Patriot missiles, walking back earlier positive signals after meetings with Zelensky. Ukraine is desperately short of interceptors amid stepped-up Russian ballistic attacks. Uncertainty over long-term Western air-defense support keeps the war's attrition outlook murky and can weigh on European defense and risk markets.",
+          "title": "OPEC+ Plans September Output Hike Then Pause",
+          "summary": "OPEC+ sources say the group will approve another roughly 188,000 barrels per day production quota increase for September on Sunday, completing the unwind of 2023 voluntary cuts, then pause further hikes. The actual output has lagged due to Iran war disruptions in the Gulf. For energy traders this adds potential supply just as Hormuz deal hopes swirl, which could pressure oil prices lower if the strait reopens and exports normalize, or leave markets tight if conflict lingers.",
           "sentiment": "Neutral",
-          "impact": "Policy ambiguity sustains uncertainty over Ukraine aid trajectory",
+          "impact": "Downside pressure on oil if executed alongside any Hormuz reopening",
           "sources": [
-            "https://www.reuters.com/business/aerospace-defense/trump-says-us-has-not-agreed-ukraine-building-patriot-missiles-2026-07-31/",
-            "https://www.theguardian.com/world/2026/jul/31/ukraine-war-briefing-trump-says-he-is-not-sure-about-letting-ukraine-build-patriot-missiles"
+            "https://www.reuters.com/business/energy/opec-has-agreement-principle-september-quota-increase-pause-thereafter-source-2026-08-02/",
+            "https://www.opec.org/pr-detail/1835609-5-july-2026.html"
+          ]
+        },
+        {
+          "title": "China Stages Drills Near Disputed Scarborough Shoal",
+          "summary": "China conducted joint naval and air military drills plus coast guard operations near the contested Scarborough Shoal in the South China Sea on Saturday amid rising tensions with the Philippines. Beijing criticized Manila's UN bid to extend seabed rights and released new nature reserve rules banning unauthorized activities. The waterway is a critical global trade route carrying massive shipping volumes. Escalation here risks supply chain snags and insurance spikes that hit risk assets, though it remains contained for now.",
+          "sentiment": "Bearish",
+          "impact": "Trade route disruption fears weighing on Asian equities and risk sentiment",
+          "sources": [
+            "https://wtop.com/world/2026/08/china-holds-military-drills-near-disputed-shoal-in-the-south-china-sea/",
+            "https://www.bssnews.net/international/410731"
+          ]
+        },
+        {
+          "title": "US Treasury Joins Japan in Yen-Buying Intervention",
+          "summary": "The US Treasury bought yen on Friday in coordinated action with Japan, the first such US yen support in over a decade, after the currency hit multi-decade lows near 164 to the dollar. The New York Fed executed via major banks, following Japan's large prior interventions, and further action remains possible. Currency volatility from a collapsing yen can spill into broader markets via carry trades and Japanese investor flows. Stabilization here reduces one source of global financial stress that often hits crypto hard.",
+          "sentiment": "Bullish",
+          "impact": "Reduced FX volatility supporting risk assets and carry trade unwind relief",
+          "sources": [
+            "https://www.reuters.com/world/asia-pacific/us-treasury-undertakes-intervention-yen-market-ft-reports-2026-08-01/",
+            "https://asia.nikkei.com/business/markets/currencies/us-treasury-tells-banks-further-yen-intervention-possible-yen-surges"
+          ]
+        },
+        {
+          "title": "Russian Missile Enters Polish Airspace During Ukraine Barrage",
+          "summary": "Russia launched heavy missile and drone strikes on Kyiv and other Ukrainian cities around August 1, killing multiple civilians and causing widespread damage. During the attacks a Russian cruise missile entered Polish airspace, a NATO member, with debris and a crater reported in a field; no injuries in Poland. Ukraine continues appealing for more air defenses. Any NATO airspace violation raises Article 5 risks and could force higher European defense spending or energy disruptions that feed into broader risk-off moves.",
+          "sentiment": "Bearish",
+          "impact": "NATO escalation premium adding geopolitical risk premium to markets",
+          "sources": [
+            "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+            "https://www.reuters.com/business/aerospace-defense/russia-pounds-kyiv-with-missiles-2026-07-31/"
+          ]
+        },
+        {
+          "title": "Moscow Restaurant Bombing Kills Three in Terrorism Probe",
+          "summary": "A woman detonated a homemade explosive device at an upscale Italian restaurant in central Moscow on Saturday evening during a private event, killing herself, a security guard, and one patron while injuring over 20 others. Russian authorities launched a terrorism investigation. No group immediately claimed responsibility. Domestic attacks in Russia can signal internal instability or spillover from the Ukraine war, occasionally rattling energy markets or prompting tighter security that affects sentiment, though direct market impact is usually limited unless linked to broader conflict.",
+          "sentiment": "Neutral",
+          "impact": "Limited direct market effect unless tied to wider Russia-Ukraine escalation",
+          "sources": [
+            "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+            "https://www.politico.com/news/2026/08/01/3-people-killed-at-least-21-wounded-in-moscow-restaurant-bombing-russian-officials-say-01021536",
+            "https://en.wikipedia.org/wiki/2026_Moscow_bombing"
           ]
         }
       ]
