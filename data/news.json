@@ -1,80 +1,78 @@
 {
-  "generated_at": "2026-08-08T12:05:14+00:00",
+  "generated_at": "2026-08-09T12:05:48+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bullish",
-  "overall_summary": "A soft jobs report has sharply reduced rate-hike odds, driving Bitcoin toward sixty-five thousand as yields and the dollar slide. Heavy whale buying and solid ETF inflows reinforce the risk-on tone, while equities hit fresh records. A Lightning Network exploit is the main caution, but an urgent patch is already out.",
+  "overall_summary": "Bitcoin looks supported today by strong ETF inflows and whale accumulation, while the soft jobs report drove yields and the dollar lower and cut Fed hike odds. Geopolitical tensions in the Middle East and delayed U.S. crypto legislation add some caution, but the macro backdrop remains favorable for crypto. Traders will watch Wednesday's CPI for the next catalyst.",
   "key_points": [
-    "Weak payrolls slash rate-hike odds",
-    "Bitcoin lifts toward $65K",
-    "Whales and ETFs absorb billions",
-    "Lightning exploit patched quickly",
-    "Possible Hormuz reopen aids risk assets"
+    "Bitcoin ETFs see 853M five-day inflows",
+    "Whales buy over 1.2B BTC this week",
+    "Soft jobs cut Fed hike odds, yields drop",
+    "Middle East strikes and sanctions add risk",
+    "CLARITY Act vote delayed into September"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Senate Starts CLARITY Act Process, Vote Delayed to September",
-          "summary": "Senate Majority Leader Thune filed the motion to proceed on the Digital Asset Market Clarity Act early Saturday after overnight sessions, setting up initial procedural votes right after the August recess. Full floor action missed the pre-recess window and now faces a crowded September calendar plus remaining fights over ethics rules, stablecoin yields, and illicit finance. Traders should watch closely because passage would clarify SEC-CFTC lines and unlock more institutional capital, but failure or further delay keeps regulatory overhang alive into midterms.",
+          "title": "BIP-110 Minority Fork Stalls After Just Two Blocks",
+          "summary": "Supporters of the controversial BIP-110 soft fork, which aims to temporarily limit arbitrary data in Bitcoin transactions, split off at block 961632 but the enforcing chain produced only two blocks before grinding to a halt. With miner signaling stuck around two to three percent and the minority chain dozens of blocks behind due to full difficulty and tiny hashrate, it has no realistic path to lock-in. Traders should care because it removes a major near-term chain-split and replay-attack overhang, though residual confusion or wallet risks linger while the main chain powers ahead unimpeded.",
           "sentiment": "Neutral",
-          "impact": "Keeps regulatory catalyst alive but delays clarity, limiting near-term upside conviction",
+          "impact": "Reduces fork uncertainty, supportive for stability near 65k",
           "sources": [
-            "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-            "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-            "https://www.investors.com/news/clarity-act-senate-vote-recess-deadline-cryptocurrency-market-structure-bitcoin/"
+            "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+            "https://cryptoslate.com/bitcoin-split-into-two-chains-overnight-but-a-silent-miner-boycott-just-halted-the-enforcing-chain/",
+            "https://news.bitcoin.com/"
           ]
         },
         {
-          "title": "BTCPay Exploit Drains Lightning Nodes; Urgent Patch Out",
-          "summary": "Attackers exploited a critical BTCPay Server vulnerability to steal LND macaroon credentials and empty Lightning channels on merchant and payment nodes. Victims including Foundation Devices and Citadel21 reported overnight drains; the project rushed version 2.4.2 and told operators to patch immediately or take servers offline and refresh credentials. This hits bitcoin payment infrastructure right after the Coldcard hardware issues, raising self-custody and software risk awareness even if spot Bitcoin price barely reacted.",
-          "sentiment": "Bearish",
-          "impact": "Erodes confidence in Lightning and self-hosted tools, potential short-term risk-off for bitcoin ecosystem plays",
-          "sources": [
-            "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-            "https://en.cryptonomist.ch/2026/08/08/btcpay-server-vulnerability/"
-          ]
-        },
-        {
-          "title": "Weak Jobs Report Lifts Bitcoin Toward $65K as Hike Odds Fall",
-          "summary": "July nonfarm payrolls dropped 23,000 against expectations of 80,000-plus gains, with big downward revisions to prior months. Bitcoin pushed above 65,000 as markets slashed September Fed hike odds and raised chances of rates staying on hold. Traders care because softer labor data supports easier liquidity conditions that have historically favored risk assets like crypto, though geopolitics and energy prices could still keep the Fed cautious ahead of CPI.",
+          "title": "Bitcoin ETFs Pull 853 Million in Five-Day Inflow Streak",
+          "summary": "U.S. spot Bitcoin ETFs recorded approximately 853.5 million dollars in net inflows across five consecutive sessions from August 3 to 7, with BlackRock's IBIT taking the lion's share around 80 percent or nearly 700 million. August flows are already several times July's total and reverse prior outflows, while Ethereum ETFs added another 245 million. This is pure institutional demand that traders watch closely because it absorbs supply and has historically underpinned price floors even when spot action looks choppy around 65k.",
           "sentiment": "Bullish",
-          "impact": "Macro tailwind that reduces rate-hike pressure and supports tests of resistance near 65k",
+          "impact": "Strong buying pressure and institutional floor under BTC",
           "sources": [
-            "https://crypto.news/bitcoin-tops-65k-dollars-as-us-payrolls-fall-by-23000/",
-            "https://www.coindesk.com/"
+            "https://crypto.news/bitcoin-etfs-draw-853-5m-in-five-day-inflow-streak/",
+            "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million"
           ]
         },
         {
-          "title": "Whales Buy $1.2B BTC, ETFs Take $750M Amid Coldcard Moves",
-          "summary": "Wallets holding 10 to 10,000 BTC accumulated over 20,000 coins worth about 1.2 billion dollars since late July while spot Bitcoin ETFs pulled in roughly 755 million for the week. Separately, long-term holder supply dropped as around 210,000 BTC left older wallets, largely seen as custody rotation after the Coldcard firmware exploit rather than pure dumping. This combination of large-holder accumulation and institutional inflows provides a demand floor even as price chops below 65k.",
+          "title": "MARA Pledges 18750 BTC as Collateral for 600 Million Loans",
+          "summary": "Bitcoin miner MARA Holdings pledged 18,750 BTC worth roughly 1.2 billion dollars to secure 600 million in new Bitcoin-backed loans from Coinbase Credit and Two Prime, partly to fund its Long Ridge energy and AI infrastructure push. The collateral represents over half its reported holdings, and the facilities carry around 7.5 percent rates maturing in 2028. Traders care because large miners locking up rather than dumping BTC is constructive, yet it adds leverage and potential forced-sale risk if price drops sharply and triggers margin calls.",
+          "sentiment": "Neutral",
+          "impact": "Collateral use avoids immediate sell pressure but raises leverage risk",
+          "sources": [
+            "https://crypto.news/mara-pledges-18750-btc-for-600m-in-new-loans/",
+            "https://news.bitcoin.com/"
+          ]
+        },
+        {
+          "title": "Whales Accumulate Over 1.2 Billion in Bitcoin This Week",
+          "summary": "On-chain data shows wallets holding 10 to 10,000 BTC added more than 20,000 coins, roughly 1.2 billion dollars, since late July while price chopped below 65k. This stealth accumulation ran alongside the strong ETF inflows and occurred with little retail conviction. For traders it signals smart money building positions in the current range, often a precursor to larger moves once catalysts align, providing a potential support wall around recent levels.",
           "sentiment": "Bullish",
-          "impact": "Strong on-chain and ETF bid that cushions downside and favors eventual break higher",
+          "impact": "Builds on-chain support and reduces available supply",
           "sources": [
             "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-            "https://www.coindesk.com/",
-            "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-see-98-8m-net-inflow-on-august-7-marking-fifth-consecutive-day-of-inflows"
+            "https://cryptorank.io/news/feed/7ff9e-bitcoin-whales-accumulate-over-1-2b-in-btc-as-etf-inflows-hit-750m-this-week"
           ]
         },
         {
-          "title": "Treasury Sanctions More Iran-Linked Crypto Exchanges",
-          "summary": "OFAC expanded its crackdown by designating additional Iranian digital-asset exchanges including Shelbit and Aban Tether for allegedly helping the IRGC evade sanctions and move funds. This continues the administration's Economic Fury campaign targeting crypto rails used by Tehran. Traders should note it reinforces U.S. willingness to police crypto for national security, which can tighten compliance for global platforms while having limited direct effect on Bitcoin spot flows.",
-          "sentiment": "Neutral",
-          "impact": "Heightens regulatory and compliance scrutiny on exchanges without broad market sell pressure",
+          "title": "Senate Pushes CLARITY Act Vote into September",
+          "summary": "U.S. Senate leadership delayed a floor vote on the landmark crypto market structure CLARITY Act until after the August recess, targeting a procedural window in mid-September. The bill had already faced tight timelines and limited Democratic support. Traders should note that prolonged regulatory uncertainty can cap upside and keep institutions cautious, even as ETF flows show demand is not waiting for perfect clarity.",
+          "sentiment": "Bearish",
+          "impact": "Extends regulatory overhang into fall",
           "sources": [
-            "https://www.coindesk.com/",
-            "https://www.cryptopolitan.com/us-iran-standoff-crypto-treasury-exchanges/"
+            "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+            "https://finance.yahoo.com/markets/crypto/articles/senate-pushes-clarity-act-crowded-140333473.html"
           ]
         },
         {
-          "title": "Trump Media Scraps Crypto.com CRO Treasury Deals",
-          "summary": "Trump Media and Technology Group mutually terminated its planned CRO treasury company and related services deals with Crypto.com and Yorkville, citing saturated digital-asset treasury markets and a pivot toward media and a fusion-energy merger. CRO sold off hard on the news. For Bitcoin traders this is mostly altcoin and narrative noise, but it shows cooling enthusiasm for celebrity or political token treasury vehicles after the boom.",
+          "title": "Coldcard Flaw Continues Fueling Self-Custody Concerns",
+          "summary": "The ongoing fallout from a multi-year firmware entropy bug in Coldcard hardware wallets, which enabled thieves to drain over 100 million dollars across waves of attacks, remains a hot topic. Users rushed to move funds and some confidence in pure self-custody took a hit, correlating with heavier ETF inflows as capital sought perceived safer institutional wrappers. Traders care because it highlights operational risks that can drive short-term flows into ETFs and exchanges while underscoring the need for rigorous key management.",
           "sentiment": "Neutral",
-          "impact": "Negative for CRO and related tokens; minimal direct Bitcoin price impact",
+          "impact": "Boosts ETF demand amid lingering confidence hit",
           "sources": [
-            "https://www.axios.com/2026/08/07/trump-media-crypto-treasury-deals",
-            "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-            "https://cryptobriefing.com/trump-media-and-crypto-com-terminate-planned-cro-treasury-deal/"
+            "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+            "https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack"
           ]
         }
       ]
@@ -83,68 +81,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US July Payrolls Plunge 23k, Far Below Forecasts",
-          "summary": "The Labor Department reported nonfarm payrolls fell by 23,000 in July versus expectations of around plus 80,000. Prior months were revised down by a combined 103,000, unemployment edged to 4.1 percent, and wage growth slowed to 0.1 percent month-over-month or 3.2 percent year-over-year. Traders should care because this cools the labor market narrative and sharply reduces odds of a near-term Fed rate hike, supporting risk assets including Bitcoin.",
+          "title": "US July Jobs Report Shocks with 23k Loss",
+          "summary": "The July nonfarm payrolls came in at a decline of 23,000 jobs, far below the roughly 80,000 gain expected, with prior months revised sharply lower. Unemployment edged to 4.1 percent mainly because people left the labor force, and wage growth slowed to 3.2 percent year-over-year. This soft print has cut the odds of a September Fed rate hike and highlights labor market risks alongside sticky inflation. Crypto traders should watch closely as it reduces near-term tightening pressure and supports risk assets.",
           "sentiment": "Bullish",
-          "impact": "Lower rate-hike odds boost liquidity-sensitive assets",
+          "impact": "Lowers rate-hike odds, supportive for Bitcoin and risk assets",
           "sources": [
+            "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
             "https://www.bls.gov/news.release/empsit.nr0.htm",
-            "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026",
-            "https://tradingeconomics.com/united-states/non-farm-payrolls"
+            "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138"
           ]
         },
         {
-          "title": "Treasury Yields Drop as Jobs Data Cools Hike Bets",
-          "summary": "The 10-year Treasury yield fell several basis points to around 4.60-4.65 percent and the 2-year dropped more after the weak payrolls print. Markets scaled back September Fed hike probability from near 55-58 percent to about 40-42 percent. Bond traders and crypto desks watch this closely because falling yields ease financial conditions and historically support Bitcoin prices.",
+          "title": "Yields Drop and Dollar Softens on Soft Payrolls",
+          "summary": "Ten-year Treasury yields fell to around 4.65 percent and the US dollar index eased after the weak jobs data scaled back Fed hike expectations. Stocks rallied with the S&P 500 hitting a record as markets priced a more patient central bank. Front-end yields dropped more sharply, reflecting lower odds of September action. For crypto traders this easing in financial conditions is typically a positive backdrop unless inflation data flips the script next week.",
           "sentiment": "Bullish",
-          "impact": "Easier financial conditions aid risk assets",
+          "impact": "Easier financial conditions lift risk appetite",
           "sources": [
-            "https://tradingeconomics.com/united-states/government-bond-yield",
             "https://www.cnbc.com/2026/08/07/treasury-yields-steady-ahead-of-key-nonfarm-payrolls-jobless-data.html",
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-07/"
-          ]
-        },
-        {
-          "title": "US Dollar Index Slides After Soft Labor Report",
-          "summary": "The DXY fell roughly 0.3 to 0.5 percent toward the mid-99s, nearing recent lows, as rate differentials narrowed on reduced hike expectations. A weaker dollar typically lifts dollar-priced commodities and crypto by improving global liquidity and risk appetite. Crypto traders monitor DXY closely as a key inverse correlation driver in the short term.",
-          "sentiment": "Bullish",
-          "impact": "Weaker dollar supportive for Bitcoin and risk",
-          "sources": [
-            "https://tradingeconomics.com/united-states/currency/news/573807",
-            "https://www.marketwatch.com/investing/index/dxy",
-            "https://finance.yahoo.com/quote/DX-Y.NYB/history/"
-          ]
-        },
-        {
-          "title": "S&P 500 Hits Fresh Record on Faded Rate-Hike Fears",
-          "summary": "Equities rallied with the S&P 500 closing at a new record, up about 0.6 percent, Nasdaq gaining over 1 percent, after the jobs miss reduced pressure for tighter policy. This risk-on move reflects relief that the Fed under Chair Warsh may stay on hold longer. Equity strength often spills into crypto via improved sentiment and liquidity.",
-          "sentiment": "Bullish",
-          "impact": "Risk-on flow supportive across markets",
-          "sources": [
-            "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
-            "https://www.reuters.com/business/sp-500-dow-futures-muted-ahead-jobs-data-chips-software-stocks-rise-2026-08-07/",
+            "https://tradingeconomics.com/united-states/government-bond-yield",
             "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026"
           ]
         },
         {
-          "title": "NY Fed Nowcast Cut to 2.2 Percent for Q3 GDP",
-          "summary": "The New York Fed staff nowcast for third-quarter growth dropped to 2.2 percent after the weak payrolls and related data more than offset other positives. This signals softer momentum heading into the back half of the year. Growth concerns can create two-way risk for markets, though the rate relief currently dominates trader focus.",
+          "title": "Trump Revives Push to Fire Fed's Lisa Cook",
+          "summary": "The White House sent Fed Governor Lisa Cook a letter stating it is considering her removal over unproven mortgage fraud allegations and gave her 21 days to respond. This follows a Supreme Court setback earlier this year that kept her in place. The move reignites debates over Federal Reserve independence under Chair Kevin Warsh. Traders should note potential volatility or perceptions of political pressure that could influence policy expectations and market confidence in the central bank.",
           "sentiment": "Neutral",
-          "impact": "Softer growth offset by lower rate pressure",
+          "impact": "Adds uncertainty around Fed independence and policy path",
           "sources": [
-            "https://www.newyorkfed.org/research/policy/nowcast",
-            "https://www.mtsinsights.com/events/4213/"
+            "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
+            "https://abcnews.com/US/trump-moving-forward-attempt-fire-lisa-cook-after/story?id=135428517",
+            "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve"
           ]
         },
         {
-          "title": "Markets Test Warsh Fed as Hike Odds Plunge",
-          "summary": "The weak jobs data challenges new Fed Chair Kevin Warsh's less-forward-guidance approach and market-led tightening preference, with September hike odds falling sharply. Inflation data next week including CPI will be pivotal for whether rates stay on hold. Crypto traders need to watch the evolving reaction function closely as policy uncertainty remains elevated.",
+          "title": "Weak Jobs Complicate Fed Inflation Fight",
+          "summary": "Weekend analysis highlights how the soft July payrolls create a tougher balancing act for Chair Warsh, with a cooling labor market colliding against still-elevated inflation. Some officials had been leaning hawkish, but the data buys time and may favor patience into the September meeting. Bond markets had been doing some of the tightening work via higher yields, which eased after the print. Crypto traders care because it keeps the door open for a prolonged pause rather than immediate hikes.",
           "sentiment": "Neutral",
-          "impact": "Policy uncertainty until next inflation prints",
+          "impact": "Increases odds of Fed pause, data-dependent path ahead",
           "sources": [
-            "https://www.reuters.com/business/jobs-report-will-offer-fresh-test-fed-chairman-warshs-less-guidance-stance-2026-08-07/",
-            "https://www.cbsnews.com/news/federal-reserve-september-rate-decision-jobs-report-kevin-warsh/",
+            "https://www.cnn.com/2026/08/08/business/jobs-report-fed-warsh-inflation",
+            "https://www.axios.com/2026/08/07/bls-jobs-report-rates-july"
+          ]
+        },
+        {
+          "title": "Focus Shifts to July CPI Release Wednesday",
+          "summary": "With no major US data due this Sunday, markets are already positioning for the July Consumer Price Index on August 12, followed by PPI. The weak jobs report makes the inflation numbers even more pivotal for whether the Fed can stay on hold or feels forced to hike. Consensus eyes modest monthly gains but sticky year-over-year readings remain a risk amid earlier energy pressures. Traders should prepare for volatility as this will heavily shape September FOMC odds and risk asset direction.",
+          "sentiment": "Neutral",
+          "impact": "Key catalyst for near-term Fed pricing and market moves",
+          "sources": [
+            "https://www.bls.gov/schedule/2026/home.htm",
+            "https://www.marketwatch.com/economy-politics/calendar",
             "https://www.kiplinger.com/investing/economy/jobs-report-july-2026-what-to-expect"
+          ]
+        },
+        {
+          "title": "Fed Hike Odds Fall Sharply After Jobs Miss",
+          "summary": "Futures markets slashed the probability of a September rate increase to the low-to-mid 40 percent range from over 50 percent before the report, with year-end hike expectations also trimmed. Several Fed voices had recently argued for tighter policy to tackle inflation still above target. The data shift gives doves more ammunition while keeping the path highly dependent on incoming prices. For Bitcoin this reduces an immediate headwind from higher rates.",
+          "sentiment": "Bullish",
+          "impact": "Reduced tightening premium supports crypto and equities",
+          "sources": [
+            "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+            "https://think.ing.com/articles/us-rate-hike-talk-cools-on-softer-jobs-data/",
+            "https://www.reuters.com/markets/us/federal-reserve/"
           ]
         }
       ]
@@ -153,69 +151,67 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Eyes Imminent Iran-Oman Deal to Reopen Strait of Hormuz",
-          "summary": "A US official reported progress between Iran and Oman that could soon reopen the Strait of Hormuz, potentially restoring oil flows disrupted by the five-month US-Iran war. Temporary shipping lanes are under discussion without tolls, though full details and US approval remain pending. Traders should care because this waterway handles a huge share of global oil and LNG; reopening would ease the energy shock, lower oil prices, and support risk assets by cooling inflation fears.",
-          "sentiment": "Bullish",
-          "impact": "Potential drop in oil prices and risk-on relief for markets",
-          "sources": [
-            "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
-            "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz",
-            "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231"
-          ]
-        },
-        {
-          "title": "Senate Passes Sweeping Russia Energy Sanctions Bill",
-          "summary": "The US Senate voted 86-11 on Friday to pass the Lindsey Graham Sanctioning Russia and Iran Act, authorizing up to 100 percent tariffs on the top importers of Russian oil and gas such as China and India, plus measures against the shadow fleet. It now heads to the House after summer recess. This matters for traders because it threatens secondary sanctions that could disrupt global energy trade, raise costs, or pressure Moscow's war funding, adding volatility to oil and risk assets depending on enforcement.",
-          "sentiment": "Neutral",
-          "impact": "Heightened trade and energy market uncertainty pending House action",
-          "sources": [
-            "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war",
-            "https://kyivindependent.com/us-senate-begins-floor-debate-on-russia-sanctions-bill-vote-possible-aug-7/",
-            "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum"
-          ]
-        },
-        {
-          "title": "Saudi Arabia, Turkey, Pakistan Sign Mutual Defense Pact",
-          "summary": "Leaders of Saudi Arabia, Turkey, and Pakistan signed the Mecca Joint Defence Agreement on Friday, pledging that an armed attack on one counts as an attack on all. It comes amid the Iran war and Houthi threats to Gulf energy infrastructure. Crypto traders should watch this as it reshapes Middle East alliances among key US partners, potentially stabilizing oil producers or heightening regional confrontation risks that feed into energy prices and global risk sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Possible shift in regional deterrence affecting oil supply security",
-          "sources": [
-            "https://www.reuters.com/world/asia-pacific/saudi-arabia-turkey-pakistan-sign-joint-defence-deal-amid-regional-turmoil-2026-08-07/",
-            "https://www.bbc.com/news/articles/c30418m4mj4o",
-            "https://geopoliticalfutures.com/daily-memo-turkey-pakistan-and-saudi-arabia-agree-to-mutual-defense-pact/"
-          ]
-        },
-        {
-          "title": "Houthis Escalate Attacks on Saudi-Backed Forces and Threaten Kingdom",
-          "summary": "Iran-backed Houthis launched fresh missile and drone strikes on Yemeni government positions in Marib and Hadramout, killing dozens, while intelligence warns of imminent coordinated attacks with Iraqi militias on Saudi energy sites, ports, and airports. This widens the Iran-related conflict. Traders care because strikes on Saudi infrastructure or shipping could spike oil prices further and hit risk assets through higher energy costs and geopolitical premium.",
+          "title": "Iran Demands US Concessions Before Reopening Hormuz",
+          "summary": "Iran says a deal with Oman on new shipping lanes through the Strait of Hormuz is in the final stages, but the waterway stays closed until the US meets sweeping demands. Those include lifting the naval blockade and sanctions, paying reparations, ending military action, and withdrawing forces. Another ADNOC vessel was hit by a missile in the strait. Traders should care because this chokepoint handles about a fifth of global oil and LNG; delayed reopening keeps energy prices elevated and supports a risk-off tone across markets including crypto.",
           "sentiment": "Bearish",
-          "impact": "Elevated oil price risk and broader Middle East escalation fears",
+          "impact": "Prolongs oil supply shock and inflation pressure, weighing on risk assets",
           "sources": [
-            "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
-            "https://understandingwar.org/research/middle-east/iran-update-special-report-august-7-2026/",
-            "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece"
+            "https://www.reuters.com/world/asia-pacific/iran-says-oman-deal-is-final-stages-us-must-act-open-hormuz-2026-08-09/",
+            "https://www.economist.com/the-world-in-brief",
+            "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2"
           ]
         },
         {
-          "title": "Russia Suffers Record July Casualties as Ukraine Hits Refineries",
-          "summary": "Ukraine claimed Russia took about 43,000 casualties in July, its highest monthly toll this year, while Moscow dropped a record number of glide bombs and ballistic missiles that are depleting Ukrainian air defenses. Ukraine continued deep drone strikes on major Russian oil refineries. This ongoing attrition war keeps energy and geopolitical risks elevated for markets, with potential further Russian oil disruptions adding to supply tightness already strained by the Iran conflict.",
-          "sentiment": "Neutral",
-          "impact": "Sustained energy supply risks and prolonged conflict drag",
+          "title": "Houthis Strike Saudi Aramco Jazan Refinery",
+          "summary": "Yemen's Houthis claimed a drone attack on Saudi Aramco's Jazan refinery on the Red Sea coast, sparking a fire that was later extinguished with no injuries reported. The strike came days after Saudi Arabia signed a mutual defense pact with Turkey and Pakistan and follows earlier Houthi hits that previously forced a temporary shutdown. This expands the energy war beyond Hormuz into another critical oil infrastructure and shipping zone, raising the odds of further supply disruptions that keep oil supported and risk appetite suppressed.",
+          "sentiment": "Bearish",
+          "impact": "Heightens Middle East energy risk premium and volatility",
           "sources": [
-            "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine",
-            "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
-            "https://kyivindependent.com/ukraine-attacks-one-of-russias-largest-refineries-for-2nd-night-in-a-row-locals-report/"
+            "https://www.reuters.com/business/energy/fire-extinguished-aramco-facility-jizan-saudi-arabia-says-2026-08-09/",
+            "https://www.reuters.com/world/asia-pacific/iran-says-oman-deal-is-final-stages-us-must-act-open-hormuz-2026-08-09/"
           ]
         },
         {
-          "title": "DRC Bans Copper and Cobalt Concentrate Exports",
-          "summary": "The Democratic Republic of Congo announced a ban on exporting copper and cobalt concentrates to force more domestic processing, with the order publicized around August 6 after taking effect earlier. Copper prices jumped nearly two percent on the news. This hits global battery and electronics supply chains hard since the DRC dominates cobalt and is a top copper producer, raising input costs for tech hardware including mining gear and potentially feeding into broader inflation or commodity volatility relevant to risk assets.",
-          "sentiment": "Neutral",
-          "impact": "Upward pressure on industrial metals prices and supply-chain costs",
+          "title": "Netanyahu Rejects Trump's 15-Point Gaza Plan",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu said Israel rejects President Trump's Board of Peace 15-point plan for Gaza and will not withdraw forces until Hamas is fully disarmed. The rejection comes amid continued fighting and complicates US-brokered efforts to move the conflict into a longer-term stabilization phase. For traders this keeps a major regional flashpoint unresolved, sustaining geopolitical risk premium that can spill into oil, safe-havens, and broader risk assets.",
+          "sentiment": "Bearish",
+          "impact": "Extends Middle East uncertainty and risk-off pressure",
           "sources": [
-            "https://cryptobriefing.com/congo-bans-copper-cobalt-concentrate-exports/",
-            "https://www.riotimesonline.com/dr-congo-cobalt-export-quotas-2026/",
-            "https://geopoliticalfutures.com/daily-memo-russia-leans-on-belarus-drc-restricts-cobalt-and-copper-exports/"
+            "https://www.reuters.com/world/middle-east/israel-rejects-trumps-15-point-plan-gaza-pm-netanyahu-says-2026-08-09/",
+            "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
+          ]
+        },
+        {
+          "title": "Saudi, Turkey, Pakistan Sign Mutual Defense Pact",
+          "summary": "Leaders of Saudi Arabia, Turkey and Pakistan signed the Mecca Joint Defense Agreement, pledging that an attack on one will be treated as an attack on all, similar to a NATO-style clause. The pact was struck amid the ongoing Iran conflict and Houthi threats, as Gulf states seek extra security guarantees. Markets will watch whether this new Sunni alignment deters further escalation or draws more players into regional fights, with knock-on effects for energy security and alliance dynamics.",
+          "sentiment": "Neutral",
+          "impact": "New alliance could stabilize or further polarize the region",
+          "sources": [
+            "https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c",
+            "https://www.atlanticcouncil.org/dispatches/why-saudi-arabia-pakistan-and-turkey-just-signed-a-defense-pact/",
+            "https://www.bbc.com/news/articles/c30418m4mj4o"
+          ]
+        },
+        {
+          "title": "US Senate Passes Sweeping Russia Energy Sanctions Bill",
+          "summary": "The US Senate voted 86-11 to pass the Lindsey Graham Sanctioning Russia and Iran Act, targeting Russian energy revenues, officials, financial institutions and the shadow fleet while authorizing tariffs of up to 100 percent on major buyers of Russian oil and gas. The bill now heads to the House. If enacted it could squeeze Russian export flows, force buyers like China and India to adjust, and add another layer of trade and energy market friction that markets will price as growth and inflation risk.",
+          "sentiment": "Bearish",
+          "impact": "Potential new tariffs and energy disruptions hit global growth outlook",
+          "sources": [
+            "https://www.reuters.com/legal/government/sweeping-russia-energy-sanctions-head-toward-us-senate-passage-2026-08-07/",
+            "https://www.washingtonpost.com/national-security/2026/08/07/senate-approves-tough-russia-sanctions-bill/",
+            "https://en.wikipedia.org/wiki/Portal:Current_events"
+          ]
+        },
+        {
+          "title": "Ukraine and Russia Exchange Drone Strikes on Energy and Cities",
+          "summary": "Russian authorities reported five killed in a Ukrainian drone attack on Belgorod, while Ukraine said Russian strikes damaged Odesa port infrastructure and fuel facilities. Both sides continue targeting energy and logistics sites. Persistent Black Sea and energy infrastructure attacks keep grain and fuel export risks alive and remind markets that the war remains a chronic source of commodity and risk-asset volatility with no near-term resolution in sight.",
+          "sentiment": "Neutral",
+          "impact": "Sustains background geopolitical and commodity volatility",
+          "sources": [
+            "https://www.reuters.com/world/europe/three-killed-ukrainian-drone-attack-belgorod-russian-authorities-say-2026-08-09/",
+            "https://www.reuters.com/business/aerospace-defense/ukraines-odesa-port-sustains-damage-russian-attack-zelenskiy-says-2026-08-09/",
+            "https://en.wikipedia.org/wiki/Portal:Current_events"
           ]
         }
       ]
