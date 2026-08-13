@@ -1,79 +1,78 @@
 {
-  "generated_at": "2026-08-12T12:05:20+00:00",
+  "generated_at": "2026-08-13T12:05:33+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is holding near sixty-four thousand as traders wait on today's critical CPI print, keeping the tape in a clear risk-off hold. Crypto has mixed catalysts with SEC regulation talks and Fidelity ether staking support offset by miner selling and a Harmony exploit. Softer yields and small-business optimism help, but Middle East tensions and Fed political noise cap conviction until inflation data lands.",
+  "overall_summary": "Crypto is digesting mixed signals today with solid institutional headlines offset by a modest ETF outflow and heavy geopolitical noise. Cooler CPI and softer yields offer some macro support, yet unresolved oil-shipping risks and upcoming data keep the tone cautious. Bitcoin holding near sixty-three five leaves the near-term direction still unconfirmed.",
   "key_points": [
-    "Markets brace for today's pivotal US CPI print",
-    "SEC Aug 14 meeting eyes crypto regulation proposal",
-    "Public miners sold $1.78B BTC year-to-date",
-    "Fidelity adds staking to nearly $900M ether ETF",
-    "Yields ease; Red Sea and Hormuz risks linger"
+    "Goldman enters Bitcoin income ETFs via NEOS deal",
+    "Modest spot Bitcoin ETF net outflow printed",
+    "CPI in-line; yields ease, dovish Fed tone lingers",
+    "Multiple Hormuz and Red Sea oil-shipping risks",
+    "PPI, claims, and SEC crypto meeting still ahead"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Holds Near $64K Ahead of Critical US CPI Print",
-          "summary": "Bitcoin is stuck in a tight range around sixty-three to sixty-four thousand dollars with volatility crushed to multi-year lows. Traders are bracing for today's July CPI data, expected to show headline inflation easing to about three point four percent. A soft print could ease rate-hike fears and spark a breakout, while a hot one risks more pressure. This is the clearest near-term catalyst that could finally resolve the multi-week stalemate.",
-          "sentiment": "Neutral",
-          "impact": "Binary catalyst likely to drive the next directional move in BTC",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-            "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-            "https://crypto.news/bitcoin-price-holds-near-64k-as-doge-gains/"
-          ]
-        },
-        {
-          "title": "SEC Schedules Aug 14 Meeting to Propose Regulation Crypto",
-          "summary": "The Securities and Exchange Commission will hold an open meeting this Friday to propose its first major formal crypto rulemaking, called Regulation Crypto. It aims to create a tailored offering regime for certain digital asset investment contracts, giving startups a clearer legal path to raise capital. This comes after the Senate failed to advance the Clarity Act before recess. Traders should care because durable rules reduce regulatory overhang and could unlock more institutional participation.",
+          "title": "Goldman Buys NEOS for $2.25B, Enters Bitcoin Income ETFs",
+          "summary": "Goldman Sachs agreed to acquire NEOS Investments in a deal valued at up to 2.25 billion dollars, gaining control of the roughly 1.1 billion dollar BTCI Bitcoin high-income ETF that uses covered calls for about 27 percent yields. The move gives Goldman immediate scale in crypto derivative income products instead of building from scratch, and expands its overall ETF platform past 130 billion dollars. Traders should care because a top bank is buying ready-made Bitcoin yield infrastructure, signaling deeper Wall Street commitment beyond plain spot exposure.",
           "sentiment": "Bullish",
-          "impact": "Positive regulatory clarity catalyst for broader crypto markets",
+          "impact": "Supports longer-term institutional demand and product innovation around Bitcoin",
           "sources": [
-            "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-            "https://crypto.news/sec-sets-aug-14-meeting-on-crypto-offering-rules/",
-            "https://bitcoinfoundation.org/news/regulation/sec-moves-toward-landmark-regulation-crypto-framework-for-digital-asset-offerings/"
+            "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+            "https://bitbo.io/news/goldman-sachs-neos-bitcoin-etf/"
           ]
         },
         {
-          "title": "Harmony Exploit Mints 4 Billion ONE Tokens, Price Crashes 40%",
-          "summary": "An apparent attacker minted roughly four billion unauthorized ONE tokens, equal to more than a quarter of the existing supply, sending the token down about forty percent. Harmony is working with exchanges to freeze funds, rolling out a patch, and considering a blockchain rollback. This is the latest major security incident on a layer-one chain and rattles broader altcoin sentiment. Traders should watch for contagion risk and any spillover selling into majors.",
-          "sentiment": "Bearish",
-          "impact": "Negative for altcoin risk appetite and crypto security perception",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-            "https://crypto.news/harmony-probes-reported-4b-one-mint/",
-            "https://cryptopotato.com/one-dumps-to-atl-as-harmony-exploited-in-unauthorized-mint-of-4b-tokens/"
-          ]
-        },
-        {
-          "title": "Metaplanet Moves 3,881 BTC Internally Amid $1.4B Paper Loss",
-          "summary": "Japan's Metaplanet transferred three thousand eight hundred eighty-one bitcoin worth about two hundred forty-seven million dollars between wallets it controls. On-chain data shows no deposit to exchanges, so this is not a sale despite the firm sitting on roughly one point four billion dollars in unrealized losses. Large treasury moves like this often spark sell rumors and temporary volatility. Watch the destination wallets closely for any follow-through distribution.",
+          "title": "SEC Meets Friday on Landmark Regulation Crypto Proposal",
+          "summary": "The SEC holds an open meeting tomorrow, August 14 at 10 a.m. Eastern, to consider proposing new rules for a tailored offering regime covering certain investment contracts that involve crypto assets. This would start formal rulemaking under Chairman Atkins, potentially easing fundraising paths for crypto firms with exemptions and clearer status once projects mature. Traders need to watch because a yes vote opens public comment and could reduce regulatory overhang, while any surprises or delays may hit risk sentiment hard in the short term.",
           "sentiment": "Neutral",
-          "impact": "Temporary sentiment pressure but no confirmed new supply",
+          "impact": "Major near-term catalyst; resolution could drive volatility either way",
           "sources": [
-            "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-            "https://crypto.news/metaplanet-moves-3881-btc-as-paper-loss-nears-1-4b/",
-            "https://cryptopotato.com/metaplanet-moves-250m-in-bitcoin-as-paper-loss-swells-to-1-4b/"
+            "https://www.sec.gov/newsroom/meetings-events/sunshine-act-notice-open-081426",
+            "https://finance.yahoo.com/markets/crypto/articles/sec-could-deliver-two-major-212456564.html",
+            "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings"
           ]
         },
         {
-          "title": "Public Miners Sold $1.78 Billion of Bitcoin This Year",
-          "summary": "Publicly listed bitcoin miners have reduced holdings by about twenty-eight thousand BTC, injecting roughly one point seven eight billion dollars of selling pressure into the market. This has been an underappreciated source of supply alongside ETF outflows and treasury sales. Many miners are pivoting toward AI compute as production costs sit above current prices. The selling helps explain bitcoin's weak year-to-date performance and could ease if remaining miners benefit from lower difficulty.",
-          "sentiment": "Bearish",
-          "impact": "Ongoing marginal supply pressure capping upside",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market"
-          ]
-        },
-        {
-          "title": "Fidelity to Add Staking and Payouts to Nearly $900M Ether ETF",
-          "summary": "Fidelity is amending its Ethereum Fund to enable staking of up to one hundred percent of holdings and quarterly cash distributions from rewards. The fund would keep eighty-five percent of gross staking rewards after service fees. This follows similar moves by other issuers and an IRS safe harbor. It makes the product more competitive and attractive to yield-seeking institutions, supporting ether demand and broader crypto ETF innovation.",
+          "title": "Metaplanet Denies $320M BTC Sale, Launches BitBonds",
+          "summary": "Metaplanet CEO Simon Gerovich confirmed the firm did not sell any Bitcoin after on-chain trackers flagged a 5,014 BTC transfer worth about 320 million dollars; it was a routine move between its own custodial wallets and holdings stay at 43,000 BTC. The same day the Japanese treasury company unveiled its BitBonds program, completing an inaugural private placement of about 1.3 million dollars in unsecured bonds yielding up to 4.3 percent. Traders should care because it kills fresh corporate selling FUD from a major public holder and shows continued creative financing to support the Bitcoin treasury model.",
           "sentiment": "Bullish",
-          "impact": "Supportive for ETH and institutional crypto product adoption",
+          "impact": "Removes near-term supply overhang fears from a top corporate holder",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
+            "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+            "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
+            "https://bitcoinfoundation.org/news/bitcoin/metaplanets-322m-bitcoin-transfer-sparks-sale-fears-ceo-says-no-btc-was-sold/"
+          ]
+        },
+        {
+          "title": "Bitcoin Holds Near $63.5K After In-Line CPI Print",
+          "summary": "July US CPI came in exactly as expected at 3.4 percent year-over-year with core at 2.5 percent, removing a downside inflation surprise risk but giving Bitcoin little reason to rally. Price slipped toward 63,500 dollars as traders looked past the data toward Jackson Hole, jobs numbers, and the next CPI. Markets should note the muted reaction shows Bitcoin is less sensitive to in-line prints right now and is waiting for clearer Fed path signals or bigger catalysts.",
+          "sentiment": "Neutral",
+          "impact": "Keeps range-bound price action until next macro tests resolve",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+            "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected"
+          ]
+        },
+        {
+          "title": "Brazil Treasury Firm Plans ETF Heavy on Strategy STRC",
+          "summary": "OranjeBTC, Brazil’s largest Bitcoin treasury company, is preparing to list the DIGY11 monthly income ETF that would initially allocate 95 percent to Strategy’s STRC preferred shares and 5 percent to Strive’s SATA. The product targets distributions around Brazil’s interbank rate plus 3 to 5 points after costs, with dollar hedges and a planned early September start. This matters because it creates fresh demand channels for Bitcoin treasury preferreds and shows the yield products built on corporate BTC balance sheets are going global.",
+          "sentiment": "Bullish",
+          "impact": "Adds structural bid for Strategy preferreds and validates BTC treasury yield model",
+          "sources": [
+            "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs Post $61M Net Outflow on August 12",
+          "summary": "US spot Bitcoin ETFs recorded roughly 61 million dollars in net outflows on August 12, led by Fidelity’s FBTC and BlackRock’s IBIT, according to flow trackers. This follows stronger weekly inflows earlier in the month and comes as price churned near 64,000. Traders watch daily flows closely because sustained outflows can remove a key bid, while a quick reversal would signal institutions still accumulating on dips.",
+          "sentiment": "Bearish",
+          "impact": "Mild near-term pressure if outflows continue; monitors institutional demand",
+          "sources": [
+            "https://financefeeds.com/crypto-etf-flows-diverge-on-august-12-as-bitcoin-loses-61-1-million-while-ether-and-solana-attract-capital/",
+            "https://www.kucoin.com/news/flash/bitcoin-spot-etfs-see-61-16m-net-outflow-on-august-12-fidelity-s-fbtc-leads"
           ]
         }
       ]
@@ -82,66 +81,66 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "July CPI Due Today: Markets Brace for Inflation Print",
-          "summary": "The Bureau of Labor Statistics releases July Consumer Price Index data at 8:30 a.m. Eastern. Economists expect headline CPI up 0.1 percent month-over-month and 3.4 percent year-over-year, with core at plus 0.2 percent and 2.5 percent. After last week's surprise jobs decline and June's unexpected drop, a cool print could further cut odds of a September Fed hike under Chair Kevin Warsh, while a hot one would revive tightening fears. Crypto and risk assets will react sharply to any surprise on the path of rates and the dollar.",
-          "sentiment": "Neutral",
-          "impact": "High volatility catalyst for BTC, yields, DXY and equities on the print",
+          "title": "July CPI Cools to 3.4% YoY, Matches Forecasts",
+          "summary": "US consumer prices rose just 0.1 percent month-over-month in July, bringing the annual rate down to 3.4 percent from 3.5 percent. Core CPI, excluding food and energy, came in at 0.2 percent monthly and 2.5 percent yearly, right in line with expectations. Energy prices fell again, helping ease the overall print even as shelter still contributed most of the gain. Traders should care because this takes some pressure off the Fed for an immediate hike, with September odds dropping toward 40 percent, supporting risk assets including Bitcoin.",
+          "sentiment": "Bullish",
+          "impact": "Lowers near-term rate-hike odds, supportive for risk assets and crypto",
           "sources": [
-            "https://www.reuters.com/business/us-consumer-prices-likely-increased-moderately-july-gasoline-prices-eased-2026-08-12/",
-            "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
-            "https://www.marketwatch.com/economy-politics/calendar"
+            "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+            "https://www.bls.gov/news.release/cpi.nr0.htm",
+            "https://tradingeconomics.com/united-states/inflation-cpi"
           ]
         },
         {
-          "title": "10-Year Yield Eases to Near 4.67% Ahead of CPI",
-          "summary": "The US 10-year Treasury yield slipped toward 4.67-4.68 percent as investors positioned for today's inflation data after earlier climbs driven by oil and hike speculation. Softer energy prices and diplomatic noise around the Middle East helped cool some pressure. For traders, lower yields ease financial conditions and historically support Bitcoin and growth assets if the move holds post-CPI.",
+          "title": "10-Year Treasury Yield Eases to Around 4.67%",
+          "summary": "The US 10-year Treasury yield pulled back to roughly 4.67 or 4.68 percent on Thursday after the cooler CPI data. Markets are now pricing a lower chance of a September rate hike compared with a day earlier. The government auctioned 10-year notes at elevated yields amid ongoing deficit and inflation concerns. Bond traders and crypto desks watch this closely because lower yields ease financial conditions and often lift risk appetite.",
           "sentiment": "Bullish",
-          "impact": "Easier financial conditions supportive for risk assets if sustained",
+          "impact": "Easier financial conditions support equities and Bitcoin",
           "sources": [
             "https://tradingeconomics.com/united-states/government-bond-yield",
-            "https://www.cnbc.com/quotes/US10Y",
             "https://fred.stlouisfed.org/series/DGS10"
           ]
         },
         {
-          "title": "Trump Renews Push to Oust Fed Governor Lisa Cook",
-          "summary": "The White House has revived efforts to remove Federal Reserve Governor Lisa Cook over disputed mortgage fraud allegations, sending a letter giving her time to respond. This follows a prior Supreme Court setback protecting Fed independence. Markets watch closely because any successful political pressure on the Board could raise long-term inflation risk premiums, push yields higher, and weaken confidence in the dollar and policy stability.",
-          "sentiment": "Bearish",
-          "impact": "Threat to Fed independence could lift term premiums and volatility",
+          "title": "Markets Brace for Today's PPI and Jobless Claims",
+          "summary": "July Producer Price Index and weekly initial jobless claims are due at 8:30 AM Eastern today. Consensus looks for PPI up 0.2 percent month-over-month and about 4.9 percent yearly, with claims around 202,000 versus 199,000 prior. These follow yesterday's in-line CPI and will shape views on pipeline inflation and labor market health ahead of the September FOMC. Volatility is likely around the release as traders fine-tune Fed pricing.",
+          "sentiment": "Neutral",
+          "impact": "Could shift September hike odds and drive short-term market moves",
           "sources": [
-            "https://www.reuters.com/commentary/reuters-open-interest/trump-reopens-fed-battle-critical-time-bond-markets-2026-08-11/",
-            "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
+            "https://www.bls.gov/schedule/2026/home.htm",
+            "https://tradingeconomics.com/united-states/calendar",
+            "https://www.marketwatch.com/economy-politics/calendar"
           ]
         },
         {
-          "title": "NFIB Small Business Optimism Jumps to 99.8",
-          "summary": "The NFIB Small Business Optimism Index rose 2.4 points in July to 99.8, beating forecasts near 97 and hitting the highest level in nearly a year. Hiring plans surged and price-increase intentions eased. This points to residual economic resilience even after the weak July payrolls number, which could keep the Fed cautious about cutting too soon but also supports growth narratives for equities and crypto risk appetite.",
+          "title": "US Dollar Index Hovers Near 100 After CPI",
+          "summary": "The DXY is trading around 99.9, showing mild weakness following the softer inflation print. It has been range-bound near the 100 level amid mixed Fed expectations and energy volatility. A softer dollar typically helps commodities and crypto by improving global liquidity conditions. Watch for further direction once PPI hits.",
+          "sentiment": "Neutral",
+          "impact": "Mild dollar softness offers modest tailwind for Bitcoin",
+          "sources": [
+            "https://tradingeconomics.com/united-states/currency",
+            "https://www.cnbc.com/quotes/.DXY"
+          ]
+        },
+        {
+          "title": "July Jobs Report Softness Still Weighs on Fed Outlook",
+          "summary": "Last week's report showed the economy unexpectedly lost 23,000 nonfarm payrolls in July, with prior months revised lower, while unemployment edged to 4.1 percent. Combined with cooler CPI, this has reduced urgency for rate hikes and kept the door open for the Fed to stay on hold. Labor market cooling remains a key offset to sticky inflation from energy shocks. Crypto traders note that weaker jobs data often supports looser policy bets.",
           "sentiment": "Bullish",
-          "impact": "Signals underlying strength that may limit dovish Fed shifts",
+          "impact": "Reinforces hold bias, reducing tightening risk for risk assets",
           "sources": [
-            "https://www.nfib.com/news/press-release/new-nfib-survey-small-business-optimism-continues-to-rise-11/",
-            "https://tradingeconomics.com/united-states/nfib-business-optimism-index"
+            "https://www.reuters.com/business/us-nonfarm-payrolls-fall-july-unemployment-rate-eases-41-2026-08-07/",
+            "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+            "https://tradingeconomics.com/united-states/non-farm-payrolls"
           ]
         },
         {
-          "title": "Existing Home Sales Slip Slightly in July",
-          "summary": "Existing-home sales fell about 1.7 percent in July to a 4.06 million annualized rate, roughly in line with expectations after prior declines. Inventory tightened a bit and median prices edged higher year-over-year amid still-elevated mortgage rates near 6.8 percent. Housing remains a drag, but the data is not collapsing, so it is unlikely to force an immediate Fed pivot on its own while inflation stays elevated.",
+          "title": "Cleveland Fed's Hammack Speaks Amid Policy Debate",
+          "summary": "Cleveland Fed President Beth Hammack is scheduled to speak today, offering potential insight into the divided FOMC after three members dissented for a hike in July. Officials remain split between inflation concerns tied to energy and signs of labor cooling. Any comments on the data path or September decision could move yields and Fed funds futures. Markets will parse her tone for clues on how patient the center of the Committee remains.",
           "sentiment": "Neutral",
-          "impact": "Mild growth headwind but limited near-term market shock",
+          "impact": "Speech risk could tweak rate expectations short-term",
           "sources": [
-            "https://tradingeconomics.com/united-states/existing-home-sales",
-            "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales"
-          ]
-        },
-        {
-          "title": "Dollar Steady Near 99.8 as Futures Await Inflation Data",
-          "summary": "The US Dollar Index hovered around 99.8 to 99.85 with stock futures mixed to modestly higher, led by Nasdaq strength on AI-related earnings. Markets are in wait-and-see mode after last week's payrolls drop and before CPI and Thursday's PPI. A softer inflation number would likely pressure the dollar and yields further, which is typically constructive for Bitcoin, while anything sticky keeps the greenback bid and risk assets on the defensive.",
-          "sentiment": "Neutral",
-          "impact": "Range-bound DXY until CPI resolves Fed path bets",
-          "sources": [
-            "https://www.marketwatch.com/investing/index/dxy",
-            "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-            "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates"
+            "https://www.clevelandfed.org/president-and-ceo",
+            "https://www.marketwatch.com/economy-politics/calendar"
           ]
         }
       ]
@@ -150,64 +149,68 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Fires on Ship Breaking Iran Blockade as Hormuz Deal Falters",
-          "summary": "US forces fired Hellfire missiles from a helicopter at a Panama-flagged container ship trying to run the naval blockade of Iranian ports in the Gulf of Oman. At the same time Trump hardened his stance, demanding reparations from Iran, while Pakistan's defense minister still claims a deal on the Strait of Hormuz is close. Shipping traffic has dropped sharply. Traders should care because this waterway handles a huge share of global oil; prolonged disruption or fresh escalation keeps energy prices elevated and risk appetite suppressed.",
+          "title": "Hormuz Talks Stall as Trump Claims Control, IEA Warns of Oil Shock",
+          "summary": "President Trump insists the US has total control of the Strait of Hormuz and that Iran would get blown away if it acts up, while Tehran says the waterway stays closed until sanctions are lifted, the blockade ends, and reparations are paid. Vessel traffic remains tiny, just a handful a day versus over a hundred normally. The IEA just flagged that global oil inventories plunged hard in July and buffers are depleting fast, raising the urgency for a reopening. Traders should care because this keeps a major supply premium in oil, fuels inflation fears, and sustains risk-off pressure across markets including crypto.",
           "sentiment": "Bearish",
-          "impact": "Higher oil prices and risk-off pressure on crypto and equities",
+          "impact": "Prolonged high oil prices and energy uncertainty weigh on risk assets",
           "sources": [
-            "https://www.wsj.com/world/middle-east/u-s-fires-on-ship-breaking-its-blockade-of-iran-d8b99456",
+            "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump",
+            "https://www.iea.org/reports/oil-market-report-august-2026",
+            "https://www.reuters.com/business/energy/oil-rises-doubts-over-us-iran-deal-heighten-supply-concerns-2026-08-12/"
+          ]
+        },
+        {
+          "title": "Oil Holds Near Multi-Week Highs on Hormuz and Red Sea Attacks",
+          "summary": "Brent crude settled near eighty-nine dollars and WTI around eighty-three as markets digested continued attacks on shipping plus the stalled US-Iran diplomacy. Forecasts from both the IEA and OPEC cut demand outlooks, but supply losses from the Gulf still dominate the balance and point to a sizable deficit this quarter. A surprise US crude inventory build limited the upside, yet the structural disruption remains. Crypto traders watch this closely because sticky energy prices can keep financial conditions tighter and curb risk appetite.",
+          "sentiment": "Bearish",
+          "impact": "Elevated oil supports inflation and pressures growth-sensitive assets",
+          "sources": [
+            "https://www.reuters.com/business/energy/oil-rises-doubts-over-us-iran-deal-heighten-supply-concerns-2026-08-12/",
+            "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening",
+            "https://www.iea.org/reports/oil-market-report-august-2026"
+          ]
+        },
+        {
+          "title": "Houthi Strike Kills Crew in Red Sea, Escalates Shipping Risks",
+          "summary": "Yemen's Houthis attacked a commercial vessel in the Bab el-Mandeb, killing at least six people including three Pakistanis, the first fatalities there in some time. Pakistan condemned the strike while the incident adds another layer of threat to already strained Middle East shipping lanes alongside Hormuz. Insurance costs and rerouting pressures keep rising. This matters for markets because dual chokepoint risks amplify the energy and trade disruption premium that hits global growth and risk assets.",
+          "sentiment": "Bearish",
+          "impact": "Further shipping disruption tightens energy and trade flows",
+          "sources": [
+            "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump",
+            "https://kuwaittimes.com/article/47993/world/pakistan-says-3-citizens-killed-in-houthi-strike-in-red-sea/",
+            "https://en.wikipedia.org/wiki/Portal:Current_events"
+          ]
+        },
+        {
+          "title": "Black Sea Attacks Squeeze Grain and Oil Exports",
+          "summary": "Russia and Ukraine have ramped up strikes on each other's ports, vessels, and export terminals, turning the Black Sea into another major commodity chokepoint. Ukrainian hits on Russian-linked oil tankers and Russian attacks on grain infrastructure are disrupting wheat and energy flows, with Russian August grain exports at risk of decade lows. Insurance rates have jumped. Food and energy inflation risks rise again, which can cool risk appetite and keep central banks cautious, relevant for Bitcoin and broader markets.",
+          "sentiment": "Bearish",
+          "impact": "Commodity supply shocks add to inflation and risk-off pressures",
+          "sources": [
+            "https://www.wsj.com/world/europe/war-is-squeezing-another-global-chokepoint-the-black-sea-ce08b232",
+            "https://www.reuters.com/world/surge-black-sea-attacks-adds-strain-global-commodity-flows-2026-08-05/",
+            "https://farmpolicynews.illinois.edu/2026/08/russia-ukraine-war-surge-again-disrupting-black-sea-grain/"
+          ]
+        },
+        {
+          "title": "US Fires on Ship Breaking Iran Blockade in Gulf of Oman",
+          "summary": "A US military helicopter fired on the rudder of the Panama-flagged container ship Vela Nova after it allegedly ignored the reimposed naval blockade of Iranian ports. Crew are safe, but it marks another enforcement action in the ongoing Hormuz crisis. The incident underscores that the blockade remains actively enforced amid stalled diplomacy. Traders should note this as evidence the supply disruption is structural rather than temporary, supporting higher energy volatility.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces ongoing energy supply constraints and geopolitical risk premium",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Portal:Current_events",
             "https://www.reuters.com/world/americas/us-fired-panama-flagged-ship-that-tried-break-blockade-iranian-ports-wsj-reports-2026-08-11/",
-            "https://www.bloomberg.com/news/articles/2026-08-11/trump-hardens-stance-iran-clouding-hopes-hormuz-deal"
+            "https://insights.windward.ai/"
           ]
         },
         {
-          "title": "Houthis Kill Six in Deadly Missile Strike on Red Sea Ship",
-          "summary": "Iran-backed Houthi rebels fired ballistic missiles at a commercial vessel in the Bab el-Mandeb strait, killing at least six people including crew members. Yemeni authorities confirmed the attack and it marks one of the deadliest recent hits on shipping. This comes amid the broader Iran conflict. Crypto traders should watch because renewed Red Sea threats force more vessel rerouting around Africa, raising freight costs, delaying supply chains, and adding another layer of energy and inflation risk.",
-          "sentiment": "Bearish",
-          "impact": "Elevated shipping costs and broader Middle East risk premium",
-          "sources": [
-            "https://apnews.com/article/iran-us-strait-hormuz-august-11-2026-91e4efdfe1ac035b2065127550377289",
-            "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html"
-          ]
-        },
-        {
-          "title": "Ukraine Drone Strike Hits Russian Oil Refinery, Kills 13",
-          "summary": "Ukrainian long-range drones struck the TANECO oil refinery in Nizhnekamsk, Tatarstan, deep inside Russia, killing at least 13 people including a child and wounding dozens more. Ukraine confirmed targeting the facility and a fire was reported. This continues Kyiv's campaign against Russian energy infrastructure. For markets it matters because hits on refining capacity tighten global product supplies and keep pressure on Russian revenues even as broader energy markets stay volatile from the Middle East.",
+          "title": "Taiwan Militarizes Coast Guard, Runs Major Invasion Drills",
+          "summary": "Taiwan is fitting coast guard cutters with anti-ship missiles and integrating them into navy operations as part of its largest annual Han Kuang exercises simulating Chinese amphibious assault and blockade. President Lai oversaw coastal strike drills while China continues pressure including joint naval activity nearby. The moves signal rising preparedness on both sides of the strait. For markets this keeps a latent flashpoint alive that could spike risk premiums in Asia tech, semiconductors, and global risk assets if tensions escalate further.",
           "sentiment": "Neutral",
-          "impact": "Potential support for oil products prices; limited broad risk-asset move",
+          "impact": "Elevated Taiwan risk premium without immediate new catalyst",
           "sources": [
-            "https://www.reuters.com/world/europe/ukraine-kills-12-drone-strikes-russian-city-nizhnekamsk-state-media-reports-2026-08-10/",
-            "https://kyivindependent.com/ukrainian-forces-target-russian-oil-refinery-in-tatarstan-as-attacks-reported-in-occupied-crimea-donetsk-oblast/"
-          ]
-        },
-        {
-          "title": "Colombia 7.4 Quake Death Toll Tops 250, National Emergency",
-          "summary": "A powerful magnitude 7.4 earthquake struck western Colombia, killing more than 250 people with thousands still missing or injured and widespread damage to buildings and infrastructure. The new president declared a national state of emergency as rescue efforts continue. While primarily a humanitarian disaster, large quakes can briefly hit regional risk sentiment and insurance markets. Traders note any secondary effects on Latin American assets or commodity logistics, though direct global market impact looks limited so far.",
-          "sentiment": "Neutral",
-          "impact": "Localized risk; minor potential drag on regional sentiment",
-          "sources": [
-            "https://en.wikipedia.org/wiki/2026_Colombia_earthquake",
-            "https://www.reuters.com/world/earthquake-pacific-coast-shakes-colombian-capital-2026-08-10/",
-            "https://www.theguardian.com/world/2026/aug/11/colombia-earthquake-dead-amid-hunt-for-survivors"
-          ]
-        },
-        {
-          "title": "Hungary Elects New President in Post-Orban Power Shift",
-          "summary": "Hungary's parliament elected former Supreme Court head András Baka as president with a supermajority from the ruling Tisza party. It is a symbolic step by Prime Minister Péter Magyar to dismantle remaining structures from Viktor Orbán's long rule. Fidesz boycotted the vote. European political shifts like this can influence EU cohesion, rule-of-law debates, and ultimately the euro and risk assets if they signal broader alignment changes with Brussels or NATO.",
-          "sentiment": "Neutral",
-          "impact": "Potential longer-term positive for EU stability perception",
-          "sources": [
-            "https://www.reuters.com/world/hungary-parliament-elects-former-supreme-court-head-andras-baka-president-2026-08-11/",
-            "https://apnews.com/article/hungary-new-president-baka-orban-era-72a2e016dac053e0b2142ae63eec3b94"
-          ]
-        },
-        {
-          "title": "Syria Sentences Bashar al-Assad to Death in Absentia",
-          "summary": "A Damascus criminal court sentenced deposed Syrian president Bashar al-Assad and his brother to death in absentia for premeditated murder and crimes against humanity. International arrest warrants were issued. Assad remains in Russia. This is a landmark accountability move after his 2024 ouster. For markets it is mostly symbolic but reinforces the post-Assad transition narrative in the Middle East and could affect regional stability calculations alongside the Iran conflict.",
-          "sentiment": "Neutral",
-          "impact": "Limited direct market effect; symbolic regional political signal",
-          "sources": [
-            "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+            "https://www.reuters.com/world/china/taiwan-president-oversees-coastal-strike-drill-during-annual-war-games-2026-08-08/",
+            "https://globalnation.inquirer.net/334119/taiwan-military-coast-guard-hold-drill-to-repel-china-landing",
             "https://en.wikipedia.org/wiki/Portal:Current_events"
           ]
         }
