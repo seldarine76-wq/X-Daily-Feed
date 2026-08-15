@@ -1,78 +1,77 @@
 {
-  "generated_at": "2026-08-14T12:05:35+00:00",
+  "generated_at": "2026-08-15T12:04:52+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Crypto faces mixed pressure as Bitcoin slips on ETF outflows and regulatory uncertainty, while cooler U.S. inflation data eases yields and the dollar in a supportive macro backdrop. Geopolitical risks around Hormuz and oil supply are the main overhang, keeping risk appetite cautious. Near-term direction hinges on upcoming retail sales data and whether oil fears escalate.",
+  "overall_summary": "Crypto faces mixed catalysts today as Trump-linked bank and White House meeting headlines offer support, while ETF outflows and an SEC delay weigh on near-term sentiment. Soft US data and a weaker dollar are a mild tailwind, but escalating Hormuz and Middle East tensions keep risk appetite in check. Overall tone is balanced with no clear directional break yet.",
   "key_points": [
-    "Cooler PPI eases yields and softens dollar",
-    "Bitcoin ETF outflows and SEC vote cancel weigh",
-    "Hormuz standoff fuels oil supply risk-off",
-    "Tether full KPMG audit is a confidence positive",
-    "Retail sales and sentiment data due today"
+    "Trump crypto charter and CEO meeting lift sentiment",
+    "Bitcoin ETF multi-day outflows; price under 63K",
+    "SEC delays crypto rule proposal meeting",
+    "Soft US data; dollar slips, mixed yields",
+    "Hormuz shipping near standstill; geo risk elevated"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "SEC Abruptly Cancels Regulation Crypto Vote",
-          "summary": "The SEC canceled its Friday meeting that was set to propose Regulation Crypto, the first major formal crypto rulemaking under Chair Atkins. Officials blamed an unforeseen scheduling issue and gave no new date. With the Clarity Act already stalled in the Senate, traders lose a near-term catalyst for clearer token fundraising rules. This keeps regulatory uncertainty elevated and removes a potential bullish tailwind.",
+          "title": "SEC Cancels Reg Crypto Meeting, Delays Rule Proposal",
+          "summary": "The SEC abruptly canceled its Friday open meeting that was set to propose Regulation Crypto, a tailored offering regime for certain digital asset investment contracts. Officials cited an unforeseen scheduling issue and gave no new date. Traders should care because this stalls hoped-for regulatory clarity right as the Clarity Act remains stuck in the Senate, leaving the industry in limbo and weighing on sentiment.",
           "sentiment": "Bearish",
-          "impact": "Removes near-term regulatory clarity catalyst, weighing on risk appetite",
+          "impact": "Adds near-term uncertainty and pressure on crypto prices and related stocks",
           "sources": [
-            "https://www.reuters.com/world/us-securities-regulator-cancels-meeting-vote-crypto-rules-2026-08-13/",
-            "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date"
+            "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+            "https://www.bloomberg.com/news/articles/2026-08-13/sec-delays-crypto-regulation-meeting-in-latest-industry-setback"
           ]
         },
         {
-          "title": "Bitcoin Slips Below $63K as Oil and Yields Climb",
-          "summary": "Bitcoin dropped below sixty-three thousand dollars, briefly tagging near sixty-two nine hundred before a partial bounce, as WTI crude pushed above eighty-two and bond yields rose. Soft U.S. inflation data failed to spark the expected risk-on move. Crypto is diverging from equities that hit records, so traders should watch whether sixty-three thousand holds as support amid macro headwinds from energy and rates.",
-          "sentiment": "Neutral",
-          "impact": "Tests key support; unresolved level keeps short-term direction open",
-          "sources": [
-            "https://www.coindesk.com/",
-            "https://news.bitcoin.com/market-updates/btc-dips-below-63000-as-122m-in-long-bets-get-liquidated/"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs See $131M Outflow, Two-Day Drawdown",
-          "summary": "U.S. spot Bitcoin ETFs recorded about one hundred thirty-one million dollars in net outflows on August thirteenth, marking August's first back-to-back daily withdrawals. ARK ARKB and Fidelity FBTC led the redemptions while a couple of smaller products saw inflows. After earlier August strength, the flip removes a key institutional bid and adds selling pressure right as price tests support.",
-          "sentiment": "Bearish",
-          "impact": "Weakens institutional demand support and pressures BTC near-term",
-          "sources": [
-            "https://farside.co.uk/btc/",
-            "https://cryptorank.io/news/feed/d8f5c-bitcoin-etf-outflows-august-13",
-            "https://www.coindesk.com/"
-          ]
-        },
-        {
-          "title": "Tether Completes First Full KPMG Audit of USDT",
-          "summary": "Tether announced KPMG U.S. issued an unqualified opinion on its full twenty twenty-five financial statements, the long-promised first Big Four audit. Reserves exceeded liabilities by roughly six point eight billion dollars, and auditors even physically inspected gold holdings. This should reduce persistent FUD around the largest stablecoin and support broader market confidence in crypto plumbing.",
+          "title": "Trump-Backed World Liberty Wins Conditional Bank Charter",
+          "summary": "The OCC granted preliminary conditional approval for World Liberty Trust Company, the Trump family-linked firm, to operate as a national trust bank. This clears a path for it to issue and custody its USD1 stablecoin under federal oversight. Traders should watch this as a signal of friendlier banking access for crypto firms and potential growth in regulated stablecoin infrastructure, despite political controversy.",
           "sentiment": "Bullish",
-          "impact": "Boosts stablecoin credibility and reduces systemic FUD risk",
+          "impact": "Supports stablecoin expansion and crypto-banking integration narrative",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-            "https://tether.io/news/tether-completes-the-largest-inaugural-financial-audit-in-history/"
+            "https://www.reuters.com/world/us-regulator-approves-bank-charter-trump-backed-crypto-company-world-liberty-2026-08-14/",
+            "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator"
           ]
         },
         {
-          "title": "MSCI Proposal Could Drop Strategy and Metaplanet",
-          "summary": "Index giant MSCI opened a consultation on excluding non-operating companies from its global indexes. A simulation using May data would delete Strategy and Metaplanet, the two largest public Bitcoin treasury firms. Feedback runs through late September with any changes possible in the November review. Forced passive outflows from index trackers could hit these stocks and the corporate Bitcoin accumulation narrative.",
+          "title": "Trump Expected at White House Crypto CEOs Meeting",
+          "summary": "President Trump is expected to attend a White House gathering next Wednesday with crypto, prediction market, and AI executives, including leaders from Coinbase, Ripple, Gemini, and others. It precedes a CFTC Innovation Advisory Committee meeting. This matters for traders as direct presidential engagement could accelerate policy momentum or Clarity Act talks amid ongoing regulatory delays.",
+          "sentiment": "Bullish",
+          "impact": "Positive policy signal that could lift sentiment into next week",
+          "sources": [
+            "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+            "https://news.bloomberglaw.com/crypto/trump-to-attend-meeting-with-crypto-prediction-markets-execs"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs See Multi-Day Outflows as Price Slips Below $63K",
+          "summary": "Spot Bitcoin ETFs recorded roughly 192 million dollars in back-to-back outflows, the first such streak in weeks, reversing strong prior inflows. Bitcoin dropped below 63,000 dollars, erasing last week's gains even as cooler inflation data lifted stocks. Traders care because ETF flows have become a key marginal bid; sustained redemptions remove support and signal cooling institutional demand.",
           "sentiment": "Bearish",
-          "impact": "Risk of index-driven selling pressure on major BTC treasury proxies",
+          "impact": "Near-term downside pressure and weaker institutional bid",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-            "https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html"
+            "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Longs Liquidated as Crypto Sees $227M Flush",
-          "summary": "As Bitcoin sliced under sixty-three thousand, total crypto liquidations hit about two hundred twenty-seven million dollars, with roughly one hundred twenty-two million coming from long positions. The flush accompanied the failed CPI bounce and rising macro pressure. Traders should note the leverage cleanout may reduce immediate downside fuel but also signals crowded positioning that broke on the dip.",
-          "sentiment": "Neutral",
-          "impact": "Short-term leverage washout; potential relief if selling exhausts",
+          "title": "Cboe Files for First US 3x Leveraged Bitcoin and Ether ETFs",
+          "summary": "Cboe BZX submitted a filing to list 3x leveraged Bitcoin and Ether ETFs, along with similar products for commodities, primarily using CME futures. This would mark the first such triple-leveraged crypto products in the US. Traders should note the potential for amplified retail and tactical flows, higher volatility products, and broader market access if approved.",
+          "sentiment": "Bullish",
+          "impact": "Expands product suite and could boost trading volumes longer-term",
           "sources": [
-            "https://news.bitcoin.com/market-updates/btc-dips-below-63000-as-122m-in-long-bets-get-liquidated/",
-            "https://www.coindesk.com/"
+            "https://cryptobriefing.com/cboe-3x-leverage-bitcoin-etf/",
+            "https://cryptorank.io/news/feed/14d12-cboe-3x-bitcoin-ethereum-etf-sec-filing"
+          ]
+        },
+        {
+          "title": "Israel's Bank Leumi to Offer Crypto Trading via Galaxy",
+          "summary": "Israel's largest bank, Bank Leumi, partnered with Galaxy Digital to let customers buy, hold, and sell Bitcoin, Ether, and Solana directly in its banking apps starting early 2027. It becomes the first Israeli bank to provide this. This is adoption news traders should track as traditional banks continue integrating crypto for retail clients in new markets.",
+          "sentiment": "Bullish",
+          "impact": "Incremental positive for global banking adoption and Galaxy",
+          "sources": [
+            "https://www.galaxy.com/newsroom/bank-leumi-partners-with-galaxy-to-be-the-first-bank-in-israel-to-offer-digital-asset-trading",
+            "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading"
           ]
         }
       ]
@@ -81,66 +80,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "July PPI Flat, Cooler Than Expected at 4.7% YoY",
-          "summary": "US producer prices were unchanged month-over-month in July, missing the 0.2 percent forecast, with the yearly rate cooling to 4.7 percent from 5.5 percent. Core PPI also came in soft at plus 0.2 percent. Goods prices dropped hard on energy while services edged up. Traders should care because this reinforces the disinflation trend after a tame CPI and lowers the odds of an immediate Fed hike, supporting risk assets including Bitcoin.",
-          "sentiment": "Bullish",
-          "impact": "Eases near-term rate-hike pressure, supportive for risk assets",
-          "sources": [
-            "https://www.bls.gov/news.release/ppi.nr0.htm",
-            "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-            "https://tradingeconomics.com/united-states/producer-prices-change"
-          ]
-        },
-        {
-          "title": "Cooler Data May Force Divided Fed Under Warsh to Hold",
-          "summary": "Soft CPI and PPI readings plus a weak July jobs report are reducing pressure on Chair Kevin Warsh's Federal Reserve to hike in September despite three earlier dissents favoring tighter policy. Markets now heavily favor a hold next month even as year-end hike odds remain. Crypto traders should watch this closely as lower near-term rate risk improves liquidity conditions and risk appetite.",
-          "sentiment": "Bullish",
-          "impact": "Boosts odds of prolonged pause, positive for Bitcoin and equities",
-          "sources": [
-            "https://www.reuters.com/business/cooler-inflation-data-may-force-warshs-divided-fed-hold-line-rates-2026-08-14/",
-            "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
-          ]
-        },
-        {
-          "title": "Treasury Yields Ease After Soft Wholesale Inflation",
-          "summary": "The 10-year Treasury yield fell more than four basis points to around 4.645 percent and the 2-year dropped over five basis points after the cooler PPI print. Bond markets are dialing back September hike bets. Lower yields matter for crypto because they reduce the opportunity cost of holding non-yielding assets and often coincide with stronger risk-on flows.",
-          "sentiment": "Bullish",
-          "impact": "Lower yields support valuations and risk appetite",
-          "sources": [
-            "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
-            "https://www.cnbc.com/quotes/US10Y"
-          ]
-        },
-        {
-          "title": "US Dollar Softens as Rate-Hike Prospects Dim",
-          "summary": "The DXY slipped toward the mid-99s after the soft PPI, extending pressure from cooler inflation data that has reduced September Fed hike odds. A weaker dollar historically provides a tailwind for Bitcoin and other risk assets priced in USD. Traders should monitor whether the move holds through today's retail sales release.",
-          "sentiment": "Bullish",
-          "impact": "Weaker DXY typically lifts crypto and commodities",
-          "sources": [
-            "https://tradingeconomics.com/united-states/currency",
-            "https://finance.yahoo.com/quote/DX-Y.NYB/",
-            "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
-          ]
-        },
-        {
-          "title": "Retail Sales and Michigan Sentiment Due Today",
-          "summary": "July retail sales and the preliminary August University of Michigan consumer sentiment index are the main US data releases on Friday. Consensus looks for modest sales growth around 0.1 to 0.2 percent and sentiment near 54.5. These will test consumer resilience after weak jobs and soft inflation; a soft print could further cement Fed pause bets while a strong one might revive hike talk.",
+          "title": "US Retail Sales Plunge 0.6% in July",
+          "summary": "July retail sales dropped 0.6 percent month-over-month, the largest decline in over a year and the first in nine months, missing forecasts for a small gain. The pullback was broad, led by autos and online, with the control group that feeds into GDP also falling. Traders should care because consumer spending is roughly two-thirds of the economy; this soft print raises growth concerns but also lowers odds of a near-term Fed hike.",
           "sentiment": "Neutral",
-          "impact": "Key unresolved catalyst for rate-path pricing and risk sentiment",
+          "impact": "Mixed: dovish for rates yet risk-off for growth assets near-term",
           "sources": [
-            "https://tradingeconomics.com/calendar",
-            "https://blog.kraken.com/economic-brief/august-12-2026",
-            "https://www.census.gov/retail/index.html"
+            "https://www.census.gov/retail/sales.html",
+            "https://www.reuters.com/business/us-retail-sales-unexpectedly-fall-july-2026-08-14/",
+            "https://www.bloomberg.com/news/articles/2026-08-14/us-retail-sales-fall-by-most-in-more-than-a-year"
           ]
         },
         {
-          "title": "AI Capex and Bond Supply Flag Longer-Term Yield Risks",
-          "summary": "Analysis highlights that heavy bond issuance by AI companies and governments is driving inflation-adjusted borrowing costs higher and could pressure markets and growth. Real yields have climbed notably. While near-term data is cooling inflation, this structural supply dynamic remains a medium-term headwind that crypto traders should track for broader risk-off potential.",
+          "title": "UMich Sentiment Crashes to 51 in August",
+          "summary": "Preliminary University of Michigan consumer sentiment fell sharply to 51.0 from 55.2 in July, well below the 54.5 expectation and ending two months of gains. Expectations and current conditions both weakened, while one-year inflation expectations ticked up to 4.3 percent. Only 8 percent of consumers now expect incomes to outpace inflation. This matters for traders as it signals fading household confidence that could further pressure spending and complicate Fed decisions.",
           "sentiment": "Bearish",
-          "impact": "Sustained higher long yields could weigh on risk assets over time",
+          "impact": "Heightens stagflation risks and growth slowdown fears",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
-            "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary"
+            "https://www.sca.isr.umich.edu/",
+            "https://tradingeconomics.com/united-states/consumer-confidence",
+            "https://www.fxstreet.com/news/uom-consumer-sentiment-index-set-to-ease-as-inflation-labour-market-worries-loom-202608141000"
+          ]
+        },
+        {
+          "title": "US Dollar Index Slips on Soft Data",
+          "summary": "The DXY fell about 0.3 percent on Friday to around 99.64-99.67 as weak retail sales and sentiment data hit the greenback. It remains near multi-month levels after earlier strength. Crypto traders watch the dollar closely because a softer DXY often supports risk assets including Bitcoin by easing financial conditions and boosting dollar-denominated commodity and crypto bids.",
+          "sentiment": "Bullish",
+          "impact": "Weaker dollar typically lifts BTC and risk assets",
+          "sources": [
+            "https://finance.yahoo.com/quote/DX-Y.NYB/history/",
+            "https://tradingeconomics.com/united-states/currency",
+            "https://www.marketwatch.com/investing/index/dxy"
+          ]
+        },
+        {
+          "title": "10-Year Yields Rise Despite Weak Spending",
+          "summary": "The US 10-year Treasury yield climbed to around 4.70 percent on Friday even as retail sales and sentiment disappointed, highlighting term-premium and supply pressures over pure growth fears. Yields had eased earlier in the week on cooler inflation prints. Bond moves drive discount rates and risk appetite; rising long yields can pressure equities and crypto even if the Fed stays on hold.",
+          "sentiment": "Bearish",
+          "impact": "Higher yields tighten financial conditions for risk assets",
+          "sources": [
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://www.cnbc.com/quotes/US10Y",
+            "https://www.federalreserve.gov/releases/h15/"
+          ]
+        },
+        {
+          "title": "July PPI Flat, Below Expectations",
+          "summary": "Producer prices were unchanged in July versus a 0.2 percent rise expected, with core PPI up just 0.2 percent. Goods prices fell on energy while services rose modestly; the annual rate stood at 4.7 percent. Released Thursday but still dominating weekend discussion alongside Friday data, it reinforces cooling pipeline pressures after the mild CPI. Traders care because softer wholesale inflation reduces near-term hike pressure on a divided Fed.",
+          "sentiment": "Bullish",
+          "impact": "Supports lower September hike odds and easier policy path",
+          "sources": [
+            "https://www.bls.gov/news.release/archives/ppi_08132026.htm",
+            "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+            "https://www.bls.gov/ppi/"
+          ]
+        },
+        {
+          "title": "Cooler CPI Caps Week of Mixed Inflation Signals",
+          "summary": "July CPI rose a mild 0.1 percent month-over-month with the annual rate easing to 3.4 percent and core at 2.5 percent, as expected. Combined with flat PPI it shows some cooling after earlier tariff and energy spikes, though levels remain above the Fed's 2 percent target. With the next FOMC in September and Jackson Hole later this month, these prints shape the debate between hawks who dissented for hikes and those preferring patience. Crypto markets trade the shifting odds of policy easing versus sticky prices.",
+          "sentiment": "Neutral",
+          "impact": "Balances growth risks against still-elevated inflation for Fed path",
+          "sources": [
+            "https://www.bls.gov/news.release/cpi.nr0.htm",
+            "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+            "https://blog.kraken.com/economic-brief/august-12-2026"
           ]
         }
       ]
@@ -149,69 +151,66 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Vows Indefinite Iran Blockade as Hormuz Ships Attacked",
-          "summary": "The United States says it can maintain its naval blockade of Iran indefinitely and plans even tougher economic measures next week, while two more vessels, including UAE oil company ships, were attacked in the Strait of Hormuz. Shipping traffic has nearly halted compared to pre-war levels of over 130 ships a day, and oil prices are climbing toward weekly gains near 4-5 percent with Brent around 87 dollars. Traders should care because prolonged disruption to a fifth of global oil and LNG flows fuels inflation fears, hits growth forecasts, and keeps risk assets under pressure as the war drags on with no peace deal progress.",
+          "title": "Trump Vows to Claim Hormuz as US Territory; Iran Defiant",
+          "summary": "President Trump said he plans to declare the Strait of Hormuz a US territory pretty soon after defeating Iran, while telling Americans to accept higher gas prices as the cost of the war. Iran shot back that the strait will remain Iranian and it will keep enforcing its own blockade until Washington accepts defeat. Shipping through the critical oil chokepoint has nearly stopped, with almost no crude tankers transiting and fresh vessel attacks reported. Traders should care because this keeps oil elevated, stokes inflation fears, and weighs on risk assets including Bitcoin until there's a clear de-escalation path.",
           "sentiment": "Bearish",
-          "impact": "Higher oil and energy risk premium weighs on risk appetite and equities",
+          "impact": "Sustained oil shock and risk-off pressure on crypto and equities",
+          "sources": [
+            "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
+            "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon",
+            "https://www.cnn.com/2026/08/14/world/live-news/iran-war-trump"
+          ]
+        },
+        {
+          "title": "US Says Iran Naval Blockade Can Last Indefinitely",
+          "summary": "Defense Secretary Pete Hegseth stated the US Navy can maintain its blockade of Iranian ports indefinitely by rotating ships, while Treasury officials signaled even harsher economic measures next week. Hormuz traffic has slowed to a crawl after additional ship attacks, and no meaningful peace talks are advancing. This locks in supply disruption from a waterway that previously carried a fifth of global oil. For markets it means prolonged energy tightness, sticky inflation, and continued headwinds for risk appetite.",
+          "sentiment": "Bearish",
+          "impact": "Extended energy disruption and tighter financial conditions",
           "sources": [
             "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/",
-            "https://www.reuters.com/business/energy/oil-set-weekly-gains-after-us-threatens-indefinite-blockade-iran-2026-08-14/",
-            "https://www.reuters.com/world/middle-east/us-eyes-indefinite-iran-naval-blockade-oil-supply-shortfall-deepens-2026-08-13/"
+            "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last",
+            "https://www.usnews.com/news/world/articles/2026-08-13/us-can-keep-naval-blockade-on-iranian-ports-indefinitely-pentagon-chief-says"
           ]
         },
         {
-          "title": "Russia Rejects Black Sea Ceasefire After Ukraine Port Strikes",
-          "summary": "Russia dismissed Turkish-brokered ideas for a Black Sea ceasefire or moratorium on attacks, calling them half-measures that would only give Ukraine breathing room. This follows recent major Ukrainian drone and missile strikes on the Russian port of Novorossiysk that hit warships and forced grain terminals to halt operations, with tit-for-tat attacks raising world grain prices. Crypto and risk traders should watch because ongoing disruption to two major grain exporters threatens food inflation and keeps the broader Russia-Ukraine war as a persistent geopolitical overhang on markets.",
+          "title": "Israeli Strike Kills Seven in Southern Lebanon",
+          "summary": "An Israeli airstrike hit a house in the village of Ansar in south Lebanon, killing seven people including civilians and injuring others, according to Lebanese state media. Israel said it targeted Hezbollah infrastructure in response to actions against its soldiers; Lebanon called it a violation that complicates US-mediated talks. This is one of the deadlier incidents since the recent framework agreement and keeps the northern front hot alongside the Iran conflict. Escalation risk here can spill into broader Middle East instability and oil risk premiums.",
           "sentiment": "Bearish",
-          "impact": "Elevated grain and commodity volatility plus prolonged war risk",
+          "impact": "Heightened regional war risk supporting oil and pressuring risk assets",
           "sources": [
-            "https://www.reuters.com/world/europe/russia-dismisses-idea-black-sea-ceasefire-2026-08-14/",
-            "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
-            "https://www.reuters.com/world/drones-hit-residential-buildings-russias-black-sea-port-novorossiysk-mayor-says-2026-08-12/"
+            "https://www.reuters.com/world/middle-east/israeli-strike-kills-seven-south-lebanon-state-news-reports-2026-08-15/",
+            "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon"
           ]
         },
         {
-          "title": "Putin Visits Disputed Kuril Islands, Japan Strongly Protests",
-          "summary": "Russian President Vladimir Putin made his first visit to the disputed Kuril Islands, claimed by Japan as the Northern Territories, touring facilities on Iturup and drawing sharp condemnation from Tokyo as absolutely unacceptable. The move comes amid Russian naval activity and heightens tensions between Moscow and a key US ally in the Pacific. For markets this adds another layer of great-power friction that could complicate energy or trade routes in Asia and reinforce a broader risk-off backdrop from multiple flashpoints.",
+          "title": "Hormuz Shipping Near Standstill After Fresh Attacks",
+          "summary": "Transit through the Strait of Hormuz ground nearly to a halt with only a couple of non-crude vessels tracked on Friday after UAE-linked ships and others came under attack. Iran continues restricting traffic while the US blockade bites on Iranian ports; Brent was tracking weekly gains on the uncertainty. Pre-war daily volumes of over a hundred ships are a distant memory. Crypto traders watch this closely because oil spikes historically correlate with risk-off moves and higher discount rates.",
+          "sentiment": "Bearish",
+          "impact": "Immediate upward pressure on oil prices and volatility in risk markets",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/",
+            "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/"
+          ]
+        },
+        {
+          "title": "US-Canada 50% Tariff Deadline Looms as Talks Intensify",
+          "summary": "With new 50 percent US tariffs on a broad range of Canadian goods set for August 19, negotiators held further meetings and both sides say they want a deal before the deadline. The tariffs would hit even some USMCA-compliant products and cover billions in trade, with Canadian firms already considering relocation. Officials described talks as constructive but unresolved. A hard hit would add another layer of trade-war friction on top of energy shocks, negative for global growth and risk assets.",
           "sentiment": "Neutral",
-          "impact": "Regional diplomatic escalation with limited immediate price catalyst",
+          "impact": "Binary risk into Aug 19; deal would ease pressure, failure adds growth drag",
           "sources": [
-            "https://www.reuters.com/world/russias-putin-visits-disputed-kuril-islands-samples-fish-roe-media-say-2026-08-13/",
-            "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-            "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands"
+            "https://www.cbc.ca/news/politics/greer-retaliation-trade-deal-tariffs-9.7307407",
+            "https://www.reuters.com/world/canada-government-source-says-us-also-keen-trade-deal-before-aug-19-deadline-2026-08-13/",
+            "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html"
           ]
         },
         {
-          "title": "US Sanctions Bill on Russia Risks Broad Secondary Tariffs",
-          "summary": "A sweeping US bill named for the late Senator Lindsey Graham, already passed by the Senate, would impose harsh sanctions on Russian leaders and allow tariffs of up to 100 percent or more on major buyers of Russian oil and gas such as India and China, plus measures on Iran. The Economist warned it hands excessive tariff power to President Trump and could wallop the global trading system. Traders need to track this because secondary tariffs risk fresh trade wars, higher costs for energy importers, and further pressure on global growth just as oil markets are already strained.",
+          "title": "Houthis Fire Missiles at Yemen Port, Target Saudi Sites",
+          "summary": "Yemen's Houthis launched ballistic missiles at the Red Sea port of Mocha, killing civilians according to the recognized government, and claimed a drone strike on a Saudi Aramco-linked facility. These moves come as Iran-related tensions run high and threaten another key shipping lane. It raises the chance of a wider regional energy conflict beyond Hormuz. Markets price this as additive geopolitical risk that can keep oil supported and sentiment cautious.",
           "sentiment": "Bearish",
-          "impact": "Potential new tariffs on major economies hit trade and risk assets",
+          "impact": "Extra supply-risk premium on energy and broader risk-off tone",
           "sources": [
-            "https://www.economist.com/leaders/2026/08/13/a-bill-to-punish-putin-gives-too-much-power-to-donald-trump",
-            "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
-            "https://apnews.com/article/senate-russia-sanctions-graham-tariffs-8d37498c3f27d96cae7da147250ebe9f"
-          ]
-        },
-        {
-          "title": "Nigel Farage Regains UK Seat in Clacton By-Election",
-          "summary": "Reform UK leader Nigel Farage comfortably won the Clacton by-election he triggered by resigning his seat, defeating joke candidate Count Binface and others after main parties boycotted the contest. He polled over 22,000 votes or about 63 percent. This keeps a high-profile populist voice in Parliament and signals ongoing UK political fragmentation, which markets watch for any implications on future policy stability or Brexit-related trade dynamics, though the immediate market reaction is muted.",
-          "sentiment": "Neutral",
-          "impact": "Domestic UK political signal with limited near-term market move",
-          "sources": [
-            "https://www.reuters.com/world/uk/nigel-farage-regains-uk-parliamentary-seat-fights-off-count-binface-challenge-2026-08-14/",
-            "https://www.parliament.uk/business/news/2026/august-2026/nigel-farage-re-elected-as-member-of-parliament-for-clacton/",
-            "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat"
-          ]
-        },
-        {
-          "title": "Oil Supply Fears Mount as Hormuz Standoff Deepens",
-          "summary": "With the US-Iran deadlock locking down the Strait of Hormuz and global oil supply forecasts already cut by the IEA for a multi-million barrel daily shortfall this year, Asian refiners are snapping up more US crude while India's Russian oil imports hit records. Wall Street futures turned cautious as higher crude prices tempered risk appetite after recent equity records. Crypto traders should note that sustained high energy prices feed inflation concerns that can delay rate cuts and suppress broader risk asset performance.",
-          "sentiment": "Bearish",
-          "impact": "Persistent energy inflation risk dampens equities and crypto sentiment",
-          "sources": [
-            "https://www.reuters.com/business/energy/oil-set-weekly-gains-after-us-threatens-indefinite-blockade-iran-2026-08-14/",
-            "https://www.reuters.com/business/wall-st-futures-muted-higher-oil-prices-temper-risk-appetite-after-sp-record-2026-08-14/",
-            "https://www.reuters.com/business/energy/russian-share-indias-oil-imports-surges-record-high-july-2026-08-14/"
+            "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
+            "https://www.reuters.com/world/middle-east/yemen-government-says-houthi-missiles-kill-least-four-civilians-port-city-2026-08-14/"
           ]
         }
       ]
