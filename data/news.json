@@ -1,77 +1,78 @@
 {
-  "generated_at": "2026-08-20T12:07:36+00:00",
+  "generated_at": "2026-08-21T12:03:59+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bullish",
-  "overall_summary": "Bitcoin and majors are riding a clear risk-on wave after the seventy-two thousand break, heavy ETF inflows, and softer yields with a weaker dollar. Crypto-specific catalysts and Treasury buybacks are outweighing hawkish Fed minutes and geopolitical noise for now. Near-term tone stays constructive unless inflation data or Middle East escalation flips the script.",
+  "overall_summary": "Bitcoin is firmly bullish after topping $79,500 on heavy short liquidations and strong ETF inflows. Regulatory tailwinds from the Clarity Act plus treasury buybacks are lifting hard assets, outweighing mixed macro signals. Geopolitical noise around Iran exists but is not derailing the crypto upside tone.",
   "key_points": [
-    "Bitcoin breaks $72K, squeezes $3B shorts",
-    "Spot Bitcoin ETFs post $517M inflows",
-    "Treasury buybacks drive yields down, risk-on",
-    "Dollar weakens; Ether jumps 18 percent",
-    "Iran tensions and hawkish FOMC remain overhangs"
+    "Bitcoin above $79.5k on squeeze and ETF inflows",
+    "Clarity Act and CFTC rules add regulatory optimism",
+    "Treasury buybacks support hard assets",
+    "FOMC minutes flag possible rate-hike risks",
+    "Iran tensions lift oil but crypto stays bid"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Breaks $72K, Wipes $3B in Shorts",
-          "summary": "Bitcoin smashed out of a six-week range and hit as high as seventy-two thousand dollars, its strongest level since June. The move triggered roughly three billion dollars in short liquidations in twenty-four hours, the largest such flush in years, as forced buying accelerated the squeeze. Traders should care because open interest is rebuilding fast, funding stays contained, and the break reclaims key technical and on-chain levels like the two-hundred-day moving average.",
+          "title": "Bitcoin Tops $79,500 in Strongest Week Since 2023",
+          "summary": "Bitcoin blasted as high as about seventy-nine thousand five hundred dollars on Friday, up roughly eight percent in twenty-four hours and nearly twenty-four percent since Monday for its best weekly performance since March twenty twenty-three. The move cleared key technical targets from an inverse head-and-shoulders pattern and lifted the market cap past one point five trillion. Traders should care because open interest is rebuilding, many accounts remain net short, and spot demand metrics are turning, which could extend the squeeze if buying holds into the weekend.",
           "sentiment": "Bullish",
-          "impact": "Confirmed breakout and short squeeze likely extend upside momentum short-term",
+          "impact": "Sustained momentum and further short covering toward eighty thousand",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-            "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally"
+            "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+            "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+            "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out"
           ]
         },
         {
-          "title": "Spot Bitcoin ETFs Pull in $517M, Biggest Haul in Months",
-          "summary": "U.S. spot bitcoin ETFs recorded five hundred seventeen million dollars in net inflows on August nineteenth, the strongest single day in months, while ether ETFs added another one hundred eighty-nine million. That brings August net inflows well into positive territory and shows institutions buying into the rally rather than fading it. For traders this is key demand confirmation behind the price move, not just leveraged speculation.",
+          "title": "Four Billion in Shorts Liquidated Fueling the Squeeze",
+          "summary": "More than four billion dollars in crypto short positions were wiped out over two days, including about one point two billion in the latest twenty-four hours after Thursday's record three billion wipeout since twenty twenty-one. Forced covering created a cascade that amplified Bitcoin's climb past seventy-seven thousand, with Ether and Solana also rising sharply. This matters for traders because crowded shorts provided mechanical fuel, and with long-short ratios still skewed bearish, residual squeeze risk remains even as liquidations cool.",
           "sentiment": "Bullish",
-          "impact": "Strong institutional buying supports higher prices and reduces downside supply pressure",
+          "impact": "Continued forced buying pressure while shorts stay crowded",
           "sources": [
-            "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-            "https://www.tftc.io/bitcoin-etf-flows/august-2026"
+            "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+            "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride"
           ]
         },
         {
-          "title": "Treasury Doubles Long-Bond Buybacks, Sparks Risk-On Rally",
-          "summary": "The U.S. Treasury said it will at least double the size of its long-dated bond buyback operations to four billion dollars per go, starting in September. That pulled the thirty-year yield down sharply from multi-year highs and lit a bid across risk assets including bitcoin and ether. Traders care because lower long-end yields and improved liquidity often free up capital for crypto and other high-beta plays.",
+          "title": "Bitcoin ETFs Pull Six Hundred Six Million on August Twentieth",
+          "summary": "United States spot Bitcoin ETFs recorded six hundred six million dollars in net inflows on August twentieth, up from five hundred seventeen million the prior day, while Ether ETFs took in two hundred twenty-one million for a combined eight hundred million plus. Every major product saw positive flows, confirming institutional demand behind the breakout. Traders should watch this closely because persistent ETF buying is the real demand that can turn a short squeeze into a durable advance rather than a one-day pop.",
           "sentiment": "Bullish",
-          "impact": "Macro liquidity tailwind that catalyzed the crypto breakout and supports further gains",
+          "impact": "Institutional bid supporting higher prices if flows continue",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
-            "https://beincrypto.com/treasury-buybacks-30-year-yield-bitcoin/"
+            "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day"
           ]
         },
         {
-          "title": "Trump Pushes Clarity Act, Eyes U.S. Path for Hyperliquid",
-          "summary": "At a White House crypto event President Trump urged Congress to pass a fair version of the Clarity Act market-structure bill and said the CFTC is working hard to bring Hyperliquid into the U.S. under compliant rules. He also floated the idea of sizable U.S. bitcoin purchases. The comments gave the rally a second leg and sent HYPE token higher; traders should watch because legislative progress or actual government buying would be major structural positives, though the bill still faces Senate hurdles.",
+          "title": "Treasury Doubles Long-Bond Buybacks, Lifting Hard Assets",
+          "summary": "The United States Treasury said it will double long-duration bond buybacks to at least four billion dollars per operation starting in September, using short-term issuance in a move resembling Operation Twist rather than full quantitative easing. The signal of concern over elevated yields and possible future yield-curve control has driven Bitcoin, gold, and silver higher while the dollar softens. This is key for crypto traders because it improves liquidity conditions and risk appetite for scarce assets even if the immediate size is modest.",
           "sentiment": "Bullish",
-          "impact": "Positive regulatory and adoption catalyst that reinforces risk-on sentiment",
+          "impact": "Improved macro liquidity and risk-on tailwind for Bitcoin",
           "sources": [
-            "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-            "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s"
+            "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+            "https://www.reuters.com/legal/government/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-2026-08-20/"
           ]
         },
         {
-          "title": "Ether Surges 18% to $2,250 as Majors Rally Broadly",
-          "summary": "Ethereum jumped roughly eighteen percent in twenty-four hours to above twenty-two hundred fifty dollars, outpacing bitcoin and posting about a twenty percent weekly gain. Solana, XRP and most other majors also logged double-digit moves while crypto equities like Strategy and Coinbase extended their rallies. Traders should note the breadth: capital is rotating into risk across the board after the Treasury and policy catalysts, though such fast moves can mean partial give-backs.",
+          "title": "Trump Pushes Clarity Act as CFTC Preps Backup Rules",
+          "summary": "President Trump hosted crypto executives at the White House and urged Congress to pass the Clarity Act for clear digital-asset market structure, while CFTC Chair Michael Selig told staff to prepare regulations using existing authorities if the bill stalls in the Senate. The dual track reduces the chance of prolonged regulatory limbo ahead of a potential mid-September vote window. Traders care because concrete progress or even agency action would unlock more institutional capital and reduce overhang that has capped the market.",
           "sentiment": "Bullish",
-          "impact": "Broad market strength signals risk appetite returning beyond just bitcoin",
+          "impact": "Reduced regulatory uncertainty supporting further allocation",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-            "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally"
+            "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+            "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+            "https://crypto.news/cftc-plans-crypto-rules-regardless-of-clarity-act/"
           ]
         },
         {
-          "title": "BitGo Wins First Direct South Korea VASP License",
-          "summary": "BitGo Korea became the first newly established foreign crypto firm to secure Virtual Asset Service Provider registration directly from South Korean regulators, backed by Hana Financial and SK Telecom. The license covers custody and transfer services for institutional clients. This matters for traders as another sign of traditional finance infrastructure expanding into regulated Asian markets, potentially unlocking more institutional flows over time.",
-          "sentiment": "Neutral",
-          "impact": "Positive longer-term institutional infrastructure development with limited immediate price effect",
+          "title": "Strategy Back to One Point Four Billion Unrealized Profit",
+          "summary": "Strategy, the largest corporate Bitcoin holder formerly known as MicroStrategy, swung to roughly one point four billion dollars in unrealized gains on its eight hundred forty thousand Bitcoin as the price reclaimed seventy-seven thousand. Its stock jumped about ten percent in pre-market to multi-month highs. This is relevant because it validates the treasury strategy, boosts crypto equity sentiment, and may encourage other corporates to accumulate or hold through volatility.",
+          "sentiment": "Bullish",
+          "impact": "Positive feedback loop for corporate Bitcoin adoption and MSTR beta",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-            "https://www.koreaherald.com/article/10846857"
+            "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
+            "https://bitcointreasuries.net/news/strategy-back-in-profit-as-bitcoin-surges-above-dollar77000"
           ]
         }
       ]
@@ -80,69 +81,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "FOMC Minutes Show Broadening Hawkish Push on Inflation",
-          "summary": "Minutes from the Fed's July meeting released Wednesday revealed several officials favored a rate hike then and many more said tightening would likely be needed if inflation stays elevated. The 9-3 hold vote featured three dissents for a hike, the most same-direction since 2016, with inflation still over target due to tariffs, the Middle East conflict, and AI-related demand. Traders should care because this keeps September or later hike odds alive even after softer recent data, raising the bar for easy money. Markets saw limited immediate reaction as the Treasury buyback news dominated.",
-          "sentiment": "Bearish",
-          "impact": "Supports higher rate path, pressuring risk assets including Bitcoin",
-          "sources": [
-            "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-            "https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/",
-            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
-          ]
-        },
-        {
-          "title": "Treasury Doubles Long-End Buybacks, Yields Plunge",
-          "summary": "The US Treasury announced it will at least double the maximum size of liquidity support buybacks for 10-to-30-year securities to 4 billion dollars or more starting September 9. This came right after the 30-year yield hit its highest level since 2007 amid deficit and inflation worries. Long-term yields dropped sharply, with the 30-year falling nearly 9 basis points and the 10-year also retreating. Crypto traders should watch this closely as lower yields ease financial conditions and historically support risk assets.",
-          "sentiment": "Bullish",
-          "impact": "Lower yields and liquidity support favor equities and Bitcoin",
-          "sources": [
-            "https://home.treasury.gov/news/press-releases/sb0607",
-            "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-            "https://www.reuters.com/business/us-yields-head-lower-after-treasury-offers-liquidity-support-2026-08-19/"
-          ]
-        },
-        {
-          "title": "US Dollar Index Slides Toward Three-Month Lows",
-          "summary": "The DXY dropped below 99 and hovered near 98.6 on Thursday, its weakest in about three months, after the Treasury buyback plan and the pullback in yields. The greenback had been under pressure as markets digested the Fed minutes alongside the fiscal support for bonds. A softer dollar typically boosts dollar-priced assets like Bitcoin and commodities. Traders should note the combination of policy signals and Treasury action is driving the move rather than pure data.",
-          "sentiment": "Bullish",
-          "impact": "Weaker DXY supportive for crypto and risk assets",
-          "sources": [
-            "https://tradingeconomics.com/united-states/currency",
-            "https://finance.yahoo.com/quote/DX-Y.NYB/",
-            "https://www.marketwatch.com/investing/index/dxy"
-          ]
-        },
-        {
-          "title": "Key US Data Due Today: Claims, Philly Fed, LEI",
-          "summary": "Thursday's calendar features Initial Jobless Claims for the week ending August 15, expected around 210 thousand after 209 thousand prior, plus the Philadelphia Fed Manufacturing Index forecast near 25 after a strong 41.4 in July, and the Conference Board Leading Economic Index. Continuing claims are also out. These releases will update the labor and manufacturing picture just as markets parse the hawkish Fed minutes. Crypto traders care because hotter data could reinforce rate-hike bets while softer numbers ease them and support risk-on moves.",
+          "title": "Treasury Boosts Long-Bond Buybacks as Yields Spike",
+          "summary": "Treasury Secretary Scott Bessent said the department will expand buybacks of longer-dated debt, potentially beyond four billion dollars per operation, after the 30-year yield hit multi-year highs near 5.3 percent. The move briefly eased yields before they rebounded, with the 10-year around 4.71 percent. Traders should care because elevated long-term yields raise borrowing costs across the economy and compete with risk assets like Bitcoin for capital, while the intervention signals official concern over market functioning and the 40-trillion-dollar debt load.",
           "sentiment": "Neutral",
-          "impact": "Event risk that could swing rate expectations and volatility",
+          "impact": "Temporary bond relief but persistent yield pressure may cap risk appetite",
+          "sources": [
+            "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
+            "https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/",
+            "https://tradingeconomics.com/united-states/government-bond-yield"
+          ]
+        },
+        {
+          "title": "US National Debt Crosses Historic 40 Trillion Mark",
+          "summary": "US gross national debt surpassed 40 trillion dollars for the first time, according to Treasury data, after rapid deficit accumulation. This comes as long-term yields remain elevated and Bessent discusses fiscal consolidation. Crypto traders should watch closely because higher debt servicing costs and term premiums can keep interest rates sticky, pressure the dollar over time, and influence liquidity conditions that drive Bitcoin flows.",
+          "sentiment": "Bearish",
+          "impact": "Raises long-term rate and fiscal risk premium concerns for markets",
+          "sources": [
+            "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+            "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
+            "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter"
+          ]
+        },
+        {
+          "title": "FOMC Minutes Show Many Officials Eye Rate Hikes",
+          "summary": "Minutes from the July FOMC meeting, released midweek and still driving discussion, showed a 9-3 vote to hold rates at 3.50 to 3.75 percent, with three regional presidents dissenting for an immediate hike. Many participants said tightening would likely be needed if inflation fails to decline further, and Chair Warsh floated fewer meetings per year. This keeps a hawkish bias alive heading into Jackson Hole and the September meeting, which matters for Bitcoin as higher-for-longer rates typically tighten financial conditions.",
+          "sentiment": "Bearish",
+          "impact": "Supports higher rate expectations and potential USD strength",
+          "sources": [
+            "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+            "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+            "https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/"
+          ]
+        },
+        {
+          "title": "Philly Fed Manufacturing Jumps to Multi-Year High",
+          "summary": "The Philadelphia Fed Manufacturing Index surged to 47.4 in August from 41.4, far above the consensus near 25 and marking its strongest reading in years. Future activity expectations also jumped sharply. Strong regional manufacturing data supports the soft-landing narrative but reduces odds of near-term Fed easing, which traders must weigh for risk assets sensitive to growth versus rate paths.",
+          "sentiment": "Neutral",
+          "impact": "Growth-positive but may reinforce no-cut or hike watch",
+          "sources": [
+            "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey",
+            "https://tradingeconomics.com/united-states/philadelphia-fed-manufacturing-index",
+            "https://tradingeconomics.com/united-states/calendar"
+          ]
+        },
+        {
+          "title": "Jobless Claims Drop and LEI Edges Higher",
+          "summary": "Initial jobless claims fell to 206,000 last week, below the 210,000 forecast and prior reading, while the Conference Board Leading Economic Index rose 0.2 percent in July, turning its six-month growth positive. These point to a still-resilient labor market and moderate forward growth. For crypto traders this mix is mixed: solid data limits rate-cut hopes but also reduces recession fears that could spark risk-off moves.",
+          "sentiment": "Neutral",
+          "impact": "Supports growth outlook without clear dovish catalyst",
           "sources": [
             "https://tradingeconomics.com/united-states/calendar",
-            "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey",
-            "https://www.conference-board.org/topics/us-leading-indicators/"
+            "https://www.conference-board.org/topics/us-leading-indicators/",
+            "https://www.prnewswire.com/news-releases/the-conference-board-leading-economic-index-lei-for-the-us-edged-up-in-july-302856410.html"
           ]
         },
         {
-          "title": "Long Bond Yields Hit Multi-Decade Highs Then Reverse",
-          "summary": "The 30-year Treasury yield briefly topped 5.33 percent earlier this week, its highest since 2007, driven by fiscal concerns, heavy issuance, AI-related borrowing, and sticky inflation. The Treasury buyback announcement triggered a sharp reversal with yields falling back toward 5.2 percent. Mortgage rates remain elevated near 6.5 percent. This volatility in the long end matters for crypto because higher yields compete with risk assets while a sustained pullback improves liquidity conditions.",
+          "title": "Flash PMIs Due Today; Dollar Softens Near 98.7",
+          "summary": "S&P Global flash Manufacturing, Services, and Composite PMIs for August are scheduled for release today and will give the first look at private-sector momentum this month. The dollar index has eased toward the 98.7 area recently amid yield volatility. Traders should monitor the PMIs closely as upside surprises could firm the dollar and yields further, while soft numbers might ease financial conditions and support Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "Yield volatility creates cross-asset uncertainty until direction clears",
+          "impact": "Key data risk for rates, DXY, and risk sentiment today",
           "sources": [
-            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
-            "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08192026-12063119",
-            "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html"
-          ]
-        },
-        {
-          "title": "Inflation Risks Persist from Conflict, Tariffs, AI Buildout",
-          "summary": "Fed minutes highlighted ongoing upside risks to inflation from the Middle East conflict constraining energy flows, prior tariffs, and surging AI-related demand and investment. Core measures remain well above the 2 percent target even as some recent prints softened. Officials noted price pressures look broad-based. For traders this keeps the Fed on a cautious-to-hawkish footing and limits aggressive easing hopes, which can cap upside for Bitcoin until clearer disinflation arrives.",
-          "sentiment": "Bearish",
-          "impact": "Elevated inflation path supports higher-for-longer rates",
-          "sources": [
-            "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
-            "https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/",
-            "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"
+            "https://tradingeconomics.com/united-states/calendar",
+            "https://www.pmi.spglobal.com/Public/Release/ReleaseDates",
+            "https://tradingeconomics.com/united-states/currency"
           ]
         }
       ]
@@ -151,67 +152,66 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump Launches Crushing Economic Warfare on Iran",
-          "summary": "President Trump announced the most crushing economic operation ever against Iran, vowing isolation on an unprecedented scale and tremendous consequences for any country giving Tehran a financial or trade lifeline. Talks remain stalled, the Strait of Hormuz stays contested, and oil prices jumped over one and a half percent on the rhetoric. Crypto traders should watch this closely because higher energy prices and renewed Middle East risk tend to pressure risk assets and fuel inflation worries.",
+          "title": "US Vows Toughest Sanctions Ever on Iran; Tehran Threatens Devastating Response",
+          "summary": "Treasury Secretary Scott Bessent pledged the toughest financial penalties in history aimed at collapsing the Iranian regime, with details Monday, while Trump warned any country giving Iran a lifeline faces economic consequences. Iran's military chief said the response would be crushing across land, sea, air and cyber. Traders should care because this escalates the six-month war disrupting Hormuz shipping, which handles a fifth of global oil, and keeps supply risks elevated with more details coming soon.",
           "sentiment": "Bearish",
-          "impact": "Oil spike and risk-off pressure on equities and crypto",
+          "impact": "Higher oil prices and risk-off pressure on equities and crypto from inflation and escalation fears",
           "sources": [
-            "https://www.reuters.com/world/middle-east/trump-warns-economic-consequences-any-country-that-supports-iran-2026-08-20/",
+            "https://www.reuters.com/world/middle-east/us-says-it-will-impose-toughest-sanctions-history-iran-2026-08-20/",
             "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-            "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions"
+            "https://abcnews.com/video/135800532/"
           ]
         },
         {
-          "title": "UAE Suspends All Trade and Finance With Iran",
-          "summary": "The United Arab Emirates halted all trade, commercial exchanges, and financial transactions with Iran until further notice after detecting missiles launched toward its territory. Iran denied the strikes. This further isolates Tehran already under heavy U.S. pressure and contributed to the oil price bounce. For markets it tightens the energy supply narrative and raises the odds of broader Gulf escalation that can hit global risk appetite.",
+          "title": "Iranian Oil Offers to China Plunge as US Blockade Bites",
+          "summary": "Offers of Iranian crude to Chinese buyers have dropped sharply with prices jumping to premiums over Brent as the reimposed US naval blockade cuts shipments, and floating storage declines. China's independent refiners, big buyers of discounted Iranian oil, are scrambling for alternatives like Brazilian or Iraqi barrels. This directly tightens global supply further while US max-pressure sanctions loom, supporting elevated oil prices that feed into broader inflation and risk-asset volatility.",
           "sentiment": "Bearish",
-          "impact": "Adds to oil tightness and Middle East risk premium",
+          "impact": "Sustained oil support near multi-week highs, pressuring risk assets via energy costs",
           "sources": [
-            "https://apnews.com/article/iran-united-arab-emirates-trade-august-19-2026-47c95fe382c49289ab0419310b6d8057",
-            "https://www.reuters.com/world/middle-east/trump-warns-economic-consequences-any-country-that-supports-iran-2026-08-20/",
-            "https://qz.com/uae-iran-trade-suspension-oil-prices-081926"
+            "https://www.reuters.com/business/energy/iranian-oil-offers-chinese-buyers-fall-us-blockade-bites-sources-say-2026-08-21/",
+            "https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/"
           ]
         },
         {
-          "title": "Russian Missiles Kill 12 in Kyiv Strikes",
-          "summary": "Russian ballistic missiles struck the Ukrainian capital, killing at least twelve people and injuring more than thirty while sparking fires. This comes amid ongoing large-scale drone exchanges on both sides. Persistent escalation in Europe keeps defense spending elevated and can weigh on broader risk sentiment whenever headlines intensify.",
+          "title": "Oil Hits Multi-Week Highs on US-Iran Pressure and Hormuz Risks",
+          "summary": "Brent settled above ninety-three dollars and WTI near eighty-eight after Trump's threats against Iran supporters and Bessent's economic warfare comments, putting prices on track for a second weekly gain. The nearly six-month conflict has stranded Middle East barrels and kept Hormuz flows disrupted despite prior ceasefire attempts. Crypto traders watch this closely as energy shocks historically tighten financial conditions and raise rate-cut doubts.",
           "sentiment": "Bearish",
-          "impact": "Sustains European geopolitical risk and risk-off bias",
+          "impact": "Energy inflation risk elevates yields and weighs on risk appetite",
           "sources": [
-            "https://www.reuters.com/pictures/russian-ballistic-missiles-kill-12-ukraines-kyiv-spark-fires-2026-08-20/",
-            "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital"
+            "https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/",
+            "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+            "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html"
           ]
         },
         {
-          "title": "North Korea Fires Barrage of Ballistic Missiles",
-          "summary": "North Korea launched more than ten short-range ballistic missiles toward the sea, prompting an emergency security meeting in South Korea. The launches come right after Trump confirmed plans to meet Kim Jong Un later this year and after the U.S. and South Korea shortened joint drills. It injects fresh Asia tension even as diplomacy is floated, leaving markets uncertain on the Korean peninsula outlook.",
+          "title": "Trump Seeks Kim Jong Un Meeting; North Korea Fires Missiles and Cools",
+          "summary": "Trump said he expects to meet Kim later this year, possibly around the APEC summit, after scaling back US-South Korea drills, but Kim's sister gave a frosty response stressing limits to personal ties and ongoing hostility. North Korea then launched about ten short-range ballistic missiles. This matters for markets as any breakthrough could ease Asia tensions while missiles and cool reception keep Korean Peninsula risk alive amid the Iran focus.",
           "sentiment": "Neutral",
-          "impact": "Short-term Asia risk spike; longer-term diplomacy unclear",
+          "impact": "Mixed Asia risk signals with diplomacy hopes offset by missile tests",
           "sources": [
+            "https://www.reuters.com/business/aerospace-defense/trump-wants-new-meeting-with-kim-jong-un-north-korea-says-not-so-fast-2026-08-21/",
             "https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/",
-            "https://www.reuters.com/world/china/trump-says-he-plans-meet-with-north-koreas-kim-jong-un-2026-08-19/"
+            "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end"
           ]
         },
         {
-          "title": "Trump Pauses 50 Percent Canada Tariffs Citing Deal",
-          "summary": "President Trump paused looming fifty percent tariffs on Canadian goods for three days, saying the two countries have a deal subject to final documents. Reports suggest lower duties on metals and autos could be part of it, and he even floated reviving Keystone XL. Easing North American trade friction is a modest positive for growth expectations and risk assets if the deal sticks.",
-          "sentiment": "Bullish",
-          "impact": "Reduces trade-war drag on North American growth outlook",
-          "sources": [
-            "https://www.reuters.com/world/americas/carney-trump-speak-ahead-50-us-tariff-deadline-2026-08-18/",
-            "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariffs-rcna593176",
-            "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-          ]
-        },
-        {
-          "title": "US Sanctions ICC President in Escalation",
-          "summary": "The United States sanctioned the International Criminal Court president and a senior trial lawyer, part of a broader campaign against the court over cases involving Israel and others. The ICC called it a flagrant attack on its independence. This is more diplomatic friction than an immediate market mover, but it underscores ongoing U.S. unilateral pressure that can complicate global alliances.",
+          "title": "China and Indonesia Boost Military Ties Plus Minerals and Energy",
+          "summary": "Chinese and Indonesian foreign and defence ministers agreed to deepen military cooperation including exercises and defence industry links, while advancing work on critical minerals, energy and tech. Jakarta balances Beijing and Washington amid South China Sea frictions and trade tensions. Critical minerals and nickel supply chains matter for EVs, batteries and tech, so closer China-Indonesia alignment can influence global commodity and supply-chain risks for risk assets.",
           "sentiment": "Neutral",
-          "impact": "Limited direct market effect; signals continued U.S. assertiveness",
+          "impact": "Potential shifts in critical minerals supply and Indo-Pacific alignment",
           "sources": [
-            "https://www.icc-cpi.int/news/icc-strongly-rejects-new-us-sanctions-designations",
-            "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence",
-            "https://www.reuters.com/world/asia-pacific/us-sanctions-international-criminal-court-president-treasury-department-website-2026-08-18/"
+            "https://www.reuters.com/world/china/china-indonesia-ministers-meet-friday-discuss-security-economic-issues-2026-08-20/",
+            "https://sg.news.yahoo.com/china-indonesia-agree-boost-military-082736617.html"
+          ]
+        },
+        {
+          "title": "US Hits Hezbollah with Fresh Sanctions Tied to Iranian Regime",
+          "summary": "The Treasury redesignated Hezbollah for serving the Iranian government under IRGC-Quds Force command and sanctioned individuals accused of cash smuggling for the group. This expands the economic pressure campaign linked to the broader Iran conflict. It reinforces the max-pressure approach and could heighten regional proxy risks that keep energy and geopolitical premia elevated for markets.",
+          "sentiment": "Bearish",
+          "impact": "Adds to Middle East escalation premium and sanctions spillover risk",
+          "sources": [
+            "https://www.usnews.com/news/world/articles/2026-08-20/u-s-targets-hezbollah-with-fresh-sanctions-emphasizes-ties-to-iranian-government",
+            "https://www.reuters.com/world/middle-east/us-targets-hezbollah-with-fresh-sanctions-emphasizes-ties-iranian-government-2026-08-20/"
           ]
         }
       ]
