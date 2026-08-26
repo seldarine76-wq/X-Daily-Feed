@@ -1,82 +1,81 @@
 {
-  "generated_at": "2026-08-25T12:05:27+00:00",
+  "generated_at": "2026-08-26T12:06:10+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Crypto is firmly in risk-on mode today as Bitcoin reclaims eighty thousand on heavy ETF inflows and a massive short squeeze. Fresh institutional buys in Bitcoin and Ethereum plus constructive Solana governance add fuel. Macro data is mixed-to-firm while geopolitics stays noisy, but the clear near-term catalyst stack still favors upside for Bitcoin.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is pausing near seventy-nine thousand after a sharp weekly surge, with heavy options expiry and a full US data slate keeping traders in wait-and-see mode. Crypto-specific support from BlackRock easing IBIT access and Strategy’s strong cash position is offset by softer consumer and housing numbers plus fresh tariff and Iran tensions. Tone stays cautious until the data and Jackson Hole clarity arrive.",
   "key_points": [
-    "Bitcoin breaks $80k with sixth day of ETF inflows",
-    "Short squeeze wipes out billions in bearish bets",
-    "Large corporate buys hit Bitcoin and Ethereum",
-    "Solana rises on burn and inflation-cut vote",
-    "Tariff and China risks linger but secondary for now"
+    "Bitcoin pauses near $79K after strong weekly run",
+    "BlackRock eases IBIT access; Strategy cash-rich",
+    "Weak consumer confidence and home sales data",
+    "US-Canada tariffs and Iran sanctions add friction",
+    "Key GDP, PCE data and options expiry ahead"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin tops $80,000 first time since May",
-          "summary": "Bitcoin punched through eighty thousand dollars for the first time since mid-May, briefly tagging eighty-one thousand before pulling back near the fifty-week moving average. The move extends a more than twenty-five percent weekly surge after the Treasury expanded bond buybacks, reigniting the debasement trade and forcing a massive short squeeze. Traders should care because this is the clearest macro-plus-technical breakout in months, though overbought readings and resistance near eighty-one thousand mean the next hold or failure will set the tone.",
-          "sentiment": "Bullish",
-          "impact": "Supports further upside if eighty thousand holds with continued demand",
+          "title": "Bitcoin pauses near $79K after 23% weekly surge",
+          "summary": "Bitcoin is consolidating around seventy-nine thousand dollars after a twenty-three percent rally over seven days that briefly pushed it above eighty thousand. Spot Bitcoin ETFs still saw three hundred fourteen million in net inflows on Tuesday, pushing August totals above three billion, showing institutional demand remains firm even as traders lock in gains. Broader alts slipped harder while CryptoQuant's Bull Score hit eighty. Traders should care because this tests whether ETF buying can absorb profit-taking ahead of PCE data and Jackson Hole.",
+          "sentiment": "Neutral",
+          "impact": "Likely range-bound or mild consolidation pending macro data",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-            "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad",
-            "https://www.forbes.com/sites/siladityaray/2026/08/25/bitcoin-crosses-80000-for-the-first-time-since-may-amid-crypto-bounce-back/"
+            "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+            "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+            "https://bykaranteli.com/etf"
           ]
         },
         {
-          "title": "Bitcoin ETFs post sixth straight day of inflows",
-          "summary": "U.S. spot Bitcoin ETFs took in three hundred thirty-seven point five six million dollars on August twenty-fourth, extending an unbroken six-day streak with BlackRock's IBIT leading. Ether, Solana, and XRP funds also saw inflows the same day, putting real institutional money behind the rally after the short squeeze. This matters because sustained spot demand can outlast forced covering and provides structural support above eighty thousand.",
-          "sentiment": "Bullish",
-          "impact": "Adds durable bid; continued streak would confirm institutional chase",
+          "title": "$6.4 billion Bitcoin options expire Friday",
+          "summary": "Roughly eighty-one thousand seven hundred Bitcoin options worth about six point four billion dollars expire on Deribit this Friday. Calls outnumber puts with heavy open interest clustered at the seventy-five and eighty thousand strikes, and more than half a billion notional sits within five percent of spot. Market makers will gamma-hedge into the event, which can pin price or amplify a breakout either way after the recent surge from sixty-two thousand. This is a key near-term volatility catalyst traders must watch.",
+          "sentiment": "Neutral",
+          "impact": "Elevated short-term volatility risk around key strikes",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-            "https://farside.co.uk/btc/",
-            "https://finance.yahoo.com/markets/crypto/articles/blackrock-adds-over-60-bitcoins-073142199.html"
+            "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+            "https://crypto.news/bitcoin-braces-for-6-4b-options-expiry-friday/"
           ]
         },
         {
-          "title": "Massive short squeeze liquidates billions in crypto bets",
-          "summary": "The Treasury-driven rally triggered one of the largest short liquidations on record, with reports of over three billion dollars in shorts wiped out and futures open interest collapsing. Roughly ninety-two percent of recent liquidations were shorts, creating forced buying that accelerated Bitcoin higher. Traders need to watch because the squeeze fuel is largely spent, so the market now depends on fresh spot and ETF demand rather than covering.",
+          "title": "BlackRock cuts IBIT swap minimum to $1 million",
+          "summary": "BlackRock has lowered the minimum for in-kind Bitcoin-to-IBIT ETF swaps from twenty-five million to one million dollars, with Bitwise also cutting its threshold. Whales have already moved more than five billion dollars of Bitcoin into IBIT this way, allowing tax-deferred shifts out of self-custody without selling. Security concerns like hacks and kidnappings are accelerating the trend. This deepens institutional hold and reduces liquid supply, supporting longer-term demand structure.",
           "sentiment": "Bullish",
-          "impact": "Clears leveraged downside overhang; reduces immediate selling pressure",
+          "impact": "Supports sticky institutional ownership and tighter float",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-            "https://finance.yahoo.com/markets/crypto/articles/short-squeeze-sends-bitcoin-72-184201085.html",
-            "https://fortune.com/2026/08/23/bitcoin-squeeze-treasury-buyback-shorts-blown-up/"
+            "https://www.coindesk.com/markets/2026/08/26/E",
+            "https://coingape.com/bitcoin-whales-have-moved-into-blackrock-etfs-tax-deferred-swaps/",
+            "https://cryptobriefing.com/wall-street-bitcoin-whales-self-custody-shift/"
           ]
         },
         {
-          "title": "Strive buys 1,110 Bitcoin for eighty-one million",
-          "summary": "Bitcoin treasury firm Strive disclosed purchasing one thousand one hundred ten BTC last week for about eighty-one point five million dollars at an average near seventy-three thousand four hundred, lifting total holdings to twenty-one thousand three hundred fifty-six coins. The buy was funded via equity and preferred offerings and comes as the CEO declared the bear market over. This is pure corporate demand adding to the bid while prices recover.",
+          "title": "Strategy net leverage near zero with $6.7B cash",
+          "summary": "Michael Saylor's Strategy has cut net leverage almost to zero as its six point six nine billion dollars in dollar liquidity nearly matches outstanding convertible debt. The firm built a five point one billion USD reserve plus a flexible one point five nine billion cash pool while holding steady at roughly eight hundred forty thousand Bitcoin. Holdings stay unchanged and preferred-stock coverage is strong. Lower forced-sale risk from the biggest corporate holder is a structural positive for Bitcoin.",
           "sentiment": "Bullish",
-          "impact": "Signals ongoing treasury accumulation supporting the recovery",
+          "impact": "Reduces corporate selling overhang and balance-sheet risk",
           "sources": [
-            "https://beincrypto.com/strive-bitcoin-purchase-paper-loss/",
-            "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
-            "https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/asst-20260824.htm"
+            "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+            "https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570"
           ]
         },
         {
-          "title": "Tom Lee's Bitmine buys eighty-one million in Ethereum",
-          "summary": "Ethereum treasury company Bitmine Immersion Technologies added thirty-two thousand four hundred forty-seven ETH last week worth roughly eighty-one million dollars, its largest weekly haul since early July. Holdings now sit near five point eight five million ETH, approaching the firm's five percent supply target, with most staked. Tom Lee noted that prior thirty percent weekly ETH rallies preceded much larger moves, making this a clear institutional vote of confidence in ether.",
-          "sentiment": "Bullish",
-          "impact": "Strengthens ETH bid and broader major-crypto risk appetite",
+          "title": "New whales book record $1.2B profits; Bull Score hits 80",
+          "summary": "Short-term holder whales realized a record one point two billion dollars in profits over three days after Bitcoin reclaimed their cost basis near sixty-nine thousand. CryptoQuant's Bull Score jumped to eighty, its highest since October twenty twenty-five, with eight of ten indicators bullish on spot and futures demand. About fifty-three thousand Bitcoin also moved to exchanges. Strong structural signals meet short-term distribution risk, so watch whether new demand absorbs the selling.",
+          "sentiment": "Neutral",
+          "impact": "Tests absorption of supply; constructive if price holds",
           "sources": [
-            "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-            "https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-81m-ethereum-154336690.html"
+            "https://cryptoquant.com/insights/quicktake/6a8c2b6ca21b2842b8f234de-New-Whales-Just-Realized-a-Record-12B-as-Bitcoin-Reclaimed-Their-Cost-Basis",
+            "https://crypto.news/bitcoin-bull-score-hits-80-but-83k-dollar-close-is-key/",
+            "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms"
           ]
         },
         {
-          "title": "Solana jumps as validators vote on burn and inflation cuts",
-          "summary": "Solana led majors higher with gains near eight percent while validators vote on proposals that would sharply raise daily SOL burns and accelerate disinflation to cut future supply. Spot Solana ETFs also posted strong inflows of about thirty-three point five million dollars on August twenty-fourth. Traders should watch the vote outcome because tighter tokenomics plus ETF demand could extend SOL's outperformance if the changes pass.",
-          "sentiment": "Bullish",
-          "impact": "Potential supply squeeze plus ETF flows favor continued SOL strength",
+          "title": "Grayscale Zcash ETF goes live; ZEC sells the news",
+          "summary": "Grayscale's spot Zcash ETF, ticker ZCSH, began trading on NYSE Arca after converting its trust, the first U.S. spot privacy-coin product. ZEC had rallied roughly sixty percent to multi-year highs on anticipation but pulled back six to eight percent as the product launched with a two point five percent fee. The trust already held hundreds of millions in ZEC. This expands regulated access beyond Bitcoin and Ether but shows classic sell-the-news dynamics for the underlying token.",
+          "sentiment": "Neutral",
+          "impact": "Positive product milestone; short-term pressure on ZEC",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-            "https://www.kucoin.com/news/flash/sol-spot-etfs-see-33-49m-net-inflow-on-august-24",
-            "https://news.bitcoin.com/crypto-news/solana-governance-vote-constitution-disinflation-fee-reform/"
+            "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+            "https://unchainedcrypto.com/grayscale-launches-first-spot-zcash-etf-after-zec-hits-eight-year-high-unchained/",
+            "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654"
           ]
         }
       ]
@@ -85,69 +84,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "German Ifo Jumps to 88.8, Beating Forecasts",
-          "summary": "Germany's Ifo business climate index rose to 88.8 in August from a revised 86.7, well above the 87.2 expectation and marking a fourth straight gain to a one-year high. Current conditions and expectations both improved despite energy prices. Traders should care because it reinforces European recovery momentum after Q2 GDP was revised up to 0.3 percent quarter-on-quarter, supporting global risk appetite.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk assets via stronger global growth signals",
-          "sources": [
-            "https://www.reuters.com/world/europe/german-business-sentiment-rises-more-than-expected-august-ifo-survey-finds-2026-08-25/",
-            "https://www.bloomberg.com/news/articles/2026-08-25/german-outlook-improves-as-public-spending-boost-bolsters-growth",
-            "https://www.ifo.de/pressemitteilung/2026-08-25/ifo-geschaeftsklimaindex-gestiegen-august-2026"
-          ]
-        },
-        {
-          "title": "Bessent Confirms Buybacks Start Sept, Auctions Unchanged",
-          "summary": "Treasury Secretary Scott Bessent said Monday the department will stick to its regular long-bond auction schedule while enlarged buybacks of 10- to 30-year securities begin around September 10, potentially using part of the nearly one-trillion-dollar TGA cash balance. This follows last week's surprise doubling of buyback sizes after 30-year yields hit multi-decade highs and debt topped 40 trillion. Crypto traders watch because it aims to cap long yields and ease financial conditions, though markets remain skeptical it solves fiscal pressures.",
+          "title": "Key US Data Dump: Q2 GDP, July PCE, Durables Today",
+          "summary": "Markets are laser-focused on this morning's 8:30 ET package from the BEA and Census: the second estimate of Q2 GDP, expected unrevised at 1.5 percent annualized, July Personal Income and Outlays including the Fed's preferred core PCE inflation gauge, plus durable goods orders. Consensus looks for core PCE holding at 3.3 percent year-over-year and rising 0.2 percent month-over-month, with headline PCE easing to 3.6 percent. Traders should care because any surprise here directly feeds September FOMC odds and sets the tone into Friday's Jackson Hole speech. A hot print keeps hike risks alive; a cool one eases pressure on risk assets including crypto.",
           "sentiment": "Neutral",
-          "impact": "Potential temporary relief for yields and dollar; fiscal risk premium lingers",
+          "impact": "High volatility catalyst for rates, dollar, and Bitcoin ahead of Warsh",
           "sources": [
-            "https://www.reuters.com/world/china/us-treasury-stick-debt-auction-schedule-despite-bigger-buybacks-bessent-says-2026-08-24/",
-            "https://www.foxbusiness.com/economy/scott-bessent-says-treasury-auctions-continue-usual-despite-expanded-buyback-program",
-            "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html"
+            "https://fedratecalc.com/us-economic-calendar/",
+            "https://www.morningstar.com/news/dow-jones/202608254728/gdp-revision-and-pce-prices-on-tap-data-week-ahead",
+            "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800"
           ]
         },
         {
-          "title": "Chicago Fed Activity Index Slips to -0.08 in July",
-          "summary": "The Chicago Fed National Activity Index fell to minus 0.08 in July from a revised plus 0.06 in June, signaling growth below historical trend. Personal consumption and housing dragged hardest while production and employment contributions were mixed. This sub-trend reading gives the Fed more reason to stay patient ahead of key inflation data, though it is nowhere near recession thresholds.",
+          "title": "Warsh Jackson Hole Debut Friday Draws Intense Scrutiny",
+          "summary": "Fed Chair Kevin Warsh delivers his first major keynote as chair at the Kansas City Fed's Jackson Hole symposium on Friday. Markets want clarity on inflation stickiness, the path of policy after the July hold at 3.5 to 3.75 percent, and whether his less-is-more communications style will continue. With bond yields still elevated and Treasury buybacks in play, any signal on further tightening or framework changes could move the dollar and equities hard. Crypto traders watch closely because a hawkish tone pressures liquidity while a patient message supports risk-on flows.",
           "sentiment": "Neutral",
-          "impact": "Mildly supports lower rate-hike odds if confirmed by other soft data",
+          "impact": "Major potential swing factor for rates expectations and risk assets",
           "sources": [
-            "https://tradingeconomics.com/united-states/chicago-fed-national-activity-index",
-            "https://www.morningstar.com/news/dow-jones/202608243635/chicago-fed-index-shows-declining-growth-in-july",
-            "https://fred.stlouisfed.org/series/CFNAI"
+            "https://www.reuters.com/business/bond-market-anxiety-raises-stakes-warshs-debut-jackson-hole-speech-2026-08-24/",
+            "https://www.bloomberg.com/news/articles/2026-08-25/jackson-hole-offers-warsh-high-profile-slot-to-rebut-his-critics",
+            "https://www.usbank.com/corporate-and-commercial-banking/insights/economy/outlook/weekly.html"
           ]
         },
         {
-          "title": "Treasury Yields Steady Near Highs Ahead of Data and Warsh",
-          "summary": "The 10-year Treasury yield held around 4.70 percent and the 30-year near 5.23 percent on Tuesday as markets digest Treasury buyback plans and await Wednesday PCE plus Friday's Jackson Hole speech by Chair Kevin Warsh. The dollar index hovered near 99 after recent weakness. Elevated long yields keep pressure on risk assets and valuations while any Warsh comments on inflation or fiscal-monetary coordination will be market-moving.",
+          "title": "Treasury Yields Edge Higher Ahead of PCE; Oil Slide Helps",
+          "summary": "The 10-year Treasury yield stabilized and ticked up slightly Wednesday morning near 4.64 to 4.65 percent after a sharp drop the prior session, while remaining well off recent highs. Falling oil prices, driven by Middle East developments and Iran isolation talk, provided some relief to global yields. Longer-end buyback efforts by Treasury have had mixed lasting impact. For crypto traders this matters because lower yields and softer energy costs support liquidity and risk appetite, while any post-data spike in yields would tighten financial conditions.",
+          "sentiment": "Neutral",
+          "impact": "Supports risk assets if yields stay contained; reverse if data hot",
+          "sources": [
+            "https://www.morningstar.com/news/dow-jones/202608262403/us-treasury-yields-edge-up-after-recent-falls-european-yields-decline-as-oil-falls",
+            "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4",
+            "https://countryeconomy.com/bonds/usa"
+          ]
+        },
+        {
+          "title": "Dollar Index Hovers Near 99 Ahead of Inflation Data",
+          "summary": "The DXY dollar index traded around 99.0 to 99.02 early Wednesday, up modestly on the day after recent softness linked to fiscal concerns and Treasury buybacks. It remains well off highs but has reclaimed some ground. Positioners note that data surprises and Warsh comments will decide the next leg. A stronger dollar typically weighs on Bitcoin and other risk assets via tighter global liquidity, while a break lower would be friendlier for crypto.",
+          "sentiment": "Neutral",
+          "impact": "Range-bound dollar keeps crypto sensitive to data outcome",
+          "sources": [
+            "https://www.marketwatch.com/investing/index/dxy/charts",
+            "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasury-market-1c64c2f4",
+            "https://fr.investing.com/indices/usdollar-historical-data"
+          ]
+        },
+        {
+          "title": "Consumer Confidence Falls to Seven-Month Low in August",
+          "summary": "The Conference Board's consumer confidence index slipped to 89.4 in August from a revised 90.2 in July, missing expectations and hitting the lowest since January. Expectations darkened on jobs and inflation while the present-situation component improved slightly. Soft confidence can signal weaker future spending, which feeds into growth and inflation outlooks the Fed watches. For markets it adds to the dovish lean if spending cools, potentially supporting rate-cut hopes and risk assets later.",
           "sentiment": "Bearish",
-          "impact": "Higher-for-longer rates and tight financial conditions weigh on Bitcoin and equities",
+          "impact": "Soft demand signal may ease rate-hike pressure over time",
           "sources": [
-            "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
-            "https://www.barrons.com/market-data/bonds",
-            "https://www.marketwatch.com/investing/index/dxy/download-data"
+            "https://www.reuters.com/world/us/new-us-single-family-home-sales-slide-july-2026-08-25/",
+            "https://finance.yahoo.com/economy/articles/us-consumer-confidence-falls-august-144138345.html",
+            "https://www.prnewswire.com/news-releases/us-consumer-confidence-edged-down-slightly-in-august-302859371.html"
           ]
         },
         {
-          "title": "US Flash PMI Hits Multi-Year High on Services Surge",
-          "summary": "S&P Global's August flash composite PMI jumped to 56.0, the strongest since April 2022, driven by services at 56.8 while manufacturing eased to 53.2. The data point to roughly 3 percent annualized third-quarter growth with some cooling in selling-price inflation. Strong activity reduces near-term recession fears but keeps the Fed vigilant on inflation persistence heading into PCE and Jackson Hole.",
-          "sentiment": "Neutral",
-          "impact": "Growth positive for risk but may cement higher-for-longer policy stance",
+          "title": "New Home Sales Plunge 10.5 Percent in July to Six-Month Low",
+          "summary": "Sales of new single-family homes dropped 10.5 percent to a seasonally adjusted annual rate of 607,000 in July, the lowest since January and below forecasts. Median prices fell to a multi-year low near 393,800 dollars as high mortgage rates continue to sideline buyers despite builder incentives. Housing weakness is a classic late-cycle signal that can slow growth and cool inflation. Crypto traders note that softer housing often coincides with easier financial conditions down the road.",
+          "sentiment": "Bearish",
+          "impact": "Adds to evidence of rate-sensitive sector stress, mild dovish tilt",
           "sources": [
-            "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/us-flash-pmi-signals-welcome-mix-of-hotter-output-growth-cooler-inflation",
-            "https://www.morningstar.com/news/dow-jones/202608215128/us-business-activity-expands-in-august",
-            "https://seekingalpha.com/news/4635866-pmi-composite-flash-climbs-in-augusts-initial-print-on-strong-services-reading"
-          ]
-        },
-        {
-          "title": "Today's US Data: Confidence, New Homes, Case-Shiller Due",
-          "summary": "Tuesday's calendar features Conference Board Consumer Confidence for August, July New Home Sales, June Case-Shiller and FHFA house prices, plus Richmond Fed manufacturing and a speech by Richmond Fed President Barkin. These housing and sentiment prints land just before Wednesday's critical PCE inflation and GDP revision. Traders should care because soft housing or confidence could ease rate-hike bets while any surprise strength would reinforce the resilient-growth, sticky-inflation narrative.",
-          "sentiment": "Neutral",
-          "impact": "Data-dependent swing factor for yields and risk ahead of PCE",
-          "sources": [
-            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--august-2026-.html",
-            "https://www.tipranks.com/calendars/economic",
-            "https://tradingeconomics.com/calendar"
+            "https://www.reuters.com/world/us/new-us-single-family-home-sales-slide-july-2026-08-25/",
+            "https://tradingeconomics.com/united-states/new-home-sales",
+            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026/card/consumer-confidence-home-prices-and-sales-econ-data-recap-7UUPx7KSqljIiJaJohCm"
           ]
         }
       ]
@@ -156,67 +155,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Unveils 'Economic D-Day' Iran Sanctions; Iran Vows Retaliation",
-          "summary": "Treasury Secretary Scott Bessent launched Operation Economic Outcast, expanding secondary sanctions and threatening to cut off countries and firms still dealing with Iran, though holding back the harshest measures on Chinese banks for now. Iran's economy minister said Tehran is ready and enemies should expect attacks, while a tanker was struck by a projectile near the Strait of Hormuz entrance. Traders should care because the nearly six-month war has already slashed Hormuz oil flows and keeps a major inflation and supply risk premium hanging over energy and risk assets. Markets initially shrugged with oil sliding, but retaliation threats keep volatility elevated.",
-          "sentiment": "Neutral",
-          "impact": "Sustained oil/energy risk premium and risk-off pressure if escalation resumes",
-          "sources": [
-            "https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25/",
-            "https://www.reuters.com/business/energy/oil-prices-steady-investors-weigh-impact-expanded-us-sanctions-against-iran-2026-08-25/",
-            "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/"
-          ]
-        },
-        {
-          "title": "Trump Threatens 50% Tariffs on All Canadian Autos and Steel",
-          "summary": "After earlier 50 percent tariffs on select Canadian goods took effect following failed talks, President Trump on Monday vowed to hike tariffs on all Canadian cars, trucks, parts and steel to 50 percent starting January 2027 and told Canadian leaders to fall in line. Canada is preparing dollar-for-dollar retaliatory tariffs set for early September. This escalates a full trade war between the closest North American partners and hits integrated auto supply chains hard. Crypto and risk traders should watch for growth drag, higher input costs, and broader protectionism spillover that can dampen risk appetite.",
+          "title": "US Launches Operation Economic Outcast Sanctions on Iran",
+          "summary": "Treasury Secretary Scott Bessent rolled out an unprecedented campaign to cut every remaining economic lifeline to Iran, expanding secondary sanctions to digital assets, shipping, gold, aviation and technology while hitting about 60 entities and vessels. China and other buyers of Iranian oil face clear threats of isolation if they do not cut ties. Traders should care because this directly targets crypto pathways Iran uses for evasion, keeps Middle East oil risk elevated even as prices eased on de-escalation hopes, and raises broader secondary-sanctions spillover for global finance and risk assets.",
           "sentiment": "Bearish",
-          "impact": "Growth headwinds and trade uncertainty weighing on equities and risk assets",
+          "impact": "Heightened risk-off pressure and crypto compliance scrutiny from secondary sanctions",
           "sources": [
-            "https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-all-cars-trucks-50-amid-canada-trade-spat-2026-08-24/",
-            "https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425",
-            "https://www.foxbusiness.com/politics/canada-plans-tariff-retaliation-after-trump-warns-its-leaders-fall-line"
+            "https://home.treasury.gov/news/press-releases/sb0614",
+            "https://www.whitehouse.gov/releases/2026/08/operation-economic-outcast-total-isolation-of-the-iranian-regime/",
+            "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran"
           ]
         },
         {
-          "title": "China Accelerates South China Sea Build-Up with New Installations",
-          "summary": "Satellite imagery shows new structures appearing on Yagong Islet near Antelope Reef in the Paracels, where China has completed the first phase of what analysts call its largest potential naval base in the disputed waters, possibly including radar or early-warning facilities. This follows rapid artificial island construction and comes amid broader US-China rivalry. Traders should note the rising chance of friction in a critical trade route that carries massive shipping volumes and sits near Taiwan flashpoints. Heightened militarization raises the baseline for Indo-Pacific geopolitical risk.",
+          "title": "Canada Hits Back with $20 Billion Retaliatory Tariffs on US",
+          "summary": "Ottawa announced matching dollar-for-dollar counter-tariffs of up to 50 percent on roughly 700 US products worth about 20 billion dollars, covering steel, aluminum, dairy, appliances, furniture and more, effective September 8. This follows the collapse of trade talks and new US 50 percent duties on Canadian goods. North American supply-chain disruption and higher costs feed inflation fears and hit risk assets including crypto that thrive on growth and easy liquidity.",
           "sentiment": "Bearish",
-          "impact": "Elevated US-China tensions and shipping/chokepoint risk premium",
+          "impact": "Trade-war escalation weighs on North American growth and risk sentiment",
           "sources": [
-            "https://www.reuters.com/world/china/new-installations-emerge-islet-china-accelerates-south-china-sea-build-up-2026-08-25/",
-            "https://www.reuters.com/world/china/china-completes-first-stage-work-disputed-south-china-sea-reef-images-show-2026-08-19/"
+            "https://www.reuters.com/business/canada-announces-20-bln-retaliatory-tariffs-us-goods-unveils-support-measures-2026-08-25/",
+            "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o",
+            "https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html"
           ]
         },
         {
-          "title": "Zelenskiy Sees US Mediation Window Open Until Summer 2027",
-          "summary": "Ukrainian President Zelenskiy said there is a viable window for US-brokered talks to end the war running from the December G20 through summer 2027 before the next US presidential campaign complicates things. Kyiv has drafted a short proposal with US and European input covering a ceasefire and a free economic zone concept for parts of Donbas. Russia says it will listen only if ideas match realities on the ground. Any credible path to de-escalation would ease European energy and defense spending pressures and support risk assets, though immediate breakthroughs remain unlikely.",
+          "title": "CIA Director Ratcliffe Makes Unannounced Moscow Visit",
+          "summary": "CIA chief John Ratcliffe flew to Moscow for talks with Russian intelligence counterparts, the first such trip by a US spy chief in years, without meeting Putin. The US asked Ukraine to pause strikes on Moscow-area targets during the visit. Any credible progress toward Ukraine de-escalation would ease a major source of European energy and food risk that has kept global markets on edge.",
           "sentiment": "Neutral",
-          "impact": "Modest relief bid possible on peace progress; status quo keeps European risk elevated",
+          "impact": "Potential Ukraine diplomacy catalyst unresolved; watch for follow-through",
           "sources": [
-            "https://www.reuters.com/world/europe/ukraines-zelenskiy-sees-window-us-mediation-until-summer-2027-2026-08-25/",
-            "https://english.aawsat.com/world/5310866-ukraine%E2%80%99s-zelenskiy-sees-window-us-mediation-until-summer-2027"
+            "https://www.cnn.com/2026/08/25/politics/cia-director-visits-moscow",
+            "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/",
+            "https://www.bbc.co.uk/news/articles/c87vg9x5d7do"
           ]
         },
         {
-          "title": "Supreme Court Clears Path for Trump Mail-In Ballot Curbs",
-          "summary": "The US Supreme Court on Monday lifted a lower-court block, allowing the Trump administration to advance key parts of an executive order restricting mail-in voting ahead of the November midterms, affecting rules in multiple states. The 6-3-leaning decision is an interim win but practical and further legal hurdles remain before full implementation. Political uncertainty around election integrity and midterm outcomes can drive short-term volatility in US assets. Crypto traders often see election-related noise as a catalyst for positioning around policy continuity or shifts.",
-          "sentiment": "Neutral",
-          "impact": "Heightened US political and midterm uncertainty; limited immediate macro move",
-          "sources": [
-            "https://www.reuters.com/world/us-supreme-court-lifts-judicial-hurdle-trumps-mail-in-ballot-curbs-2026-08-24/",
-            "https://www.scotusblog.com/2026/08/supreme-court-allows-trump-administration-to-move-forward-with-order-imposing-restrictions-on-ma/",
-            "https://www.pbs.org/newshour/politics/supreme-court-clears-the-way-for-trump-mail-voting-order-ahead-of-midterms"
-          ]
-        },
-        {
-          "title": "Pakistan Reports Progress in Iran Mediation Talks on Hormuz",
-          "summary": "Pakistan's interior minister and army chief visit yielded significant progress on de-escalation and reopening the Strait of Hormuz, according to Pakistani officials, with an Iranian presidential office aide calling the results highly valuable and soon to be revealed. This comes as the US prepares to return some diplomats to Middle East posts evacuated during the war. Any credible path to easing Hormuz restrictions would be a major positive for global oil supply, inflation expectations, and risk assets after months of severe disruption. Markets will watch closely for concrete follow-through.",
+          "title": "US Begins Returning Diplomats to Middle East Posts",
+          "summary": "The State Department is restoring staffing at embassies across Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq and Kuwait that were thinned or evacuated during the Iran war, with some family returns allowed. The move signals Washington sees reduced near-term risk of full-scale renewed hostilities. Lower kinetic risk in the Gulf supports a modest risk-on tone for equities and crypto after months of oil-driven volatility.",
           "sentiment": "Bullish",
-          "impact": "Potential oil supply relief and risk-on bid if Hormuz access improves",
+          "impact": "De-escalation signal reduces geopolitical risk premium",
           "sources": [
-            "https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25/",
-            "https://www.reuters.com/world/asia-pacific/pakistan-iran-made-significant-progress-talks-conflict-minister-says-2026-08-25/",
-            "https://www.reuters.com/world/middle-east/us-prepares-send-diplomats-back-middle-east-embassies-after-iran-war-evacuations-2026-08-25/"
+            "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
+            "https://www.reuters.com/world/middle-east/us-prepares-send-diplomats-back-middle-east-embassies-after-iran-war-evacuations-2026-08-25/",
+            "https://www.scmp.com/news/world/middle-east/article/3365259/us-starts-returning-staff-middle-east-missions-after-iran-war-evacuations-sources-say"
+          ]
+        },
+        {
+          "title": "Iranian State Media Airs Threat and Bounty on Barron Trump",
+          "summary": "Iranian state television broadcast a video claiming to track Barron Trump’s movements and locations while referencing a 10 million dollar bounty for killing the president’s son. The Secret Service confirmed it is aware and investigating. Fresh personal threats against the first family raise the odds of sharper US retaliation and keep Middle East escalation risk alive for oil and risk markets.",
+          "sentiment": "Bearish",
+          "impact": "Rhetorical escalation increases chance of kinetic response and volatility",
+          "sources": [
+            "https://www.politico.com/news/2026/08/25/secret-service-iran-barron-trump-threat-01049014",
+            "https://www.jpost.com/middle-east/iran-news/article-906386",
+            "https://www.washingtonpost.com/politics/2026/08/25/secret-service-says-it-is-aware-iranian-state-media-video-threatening-barron-trump/"
+          ]
+        },
+        {
+          "title": "US Removes Syria from State Sponsors of Terrorism List",
+          "summary": "The Trump administration formally rescinded Syria’s decades-old designation as a state sponsor of terrorism and delisted related groups, clearing the last major US barrier to private investment and reconstruction. The new Syrian government has been distancing itself from prior terror ties. Reduced isolation for Syria is a modest positive for regional stability and energy logistics after years of civil-war disruption.",
+          "sentiment": "Bullish",
+          "impact": "Sanctions relief supports reconstruction and lowers regional risk premium",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/",
+            "https://www.bbc.co.uk/news/articles/c33knmyl0y5o",
+            "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism"
           ]
         }
       ]
