@@ -1,81 +1,82 @@
 {
-  "generated_at": "2026-08-29T12:04:55+00:00",
+  "generated_at": "2026-08-30T12:05:52+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Hawkish Jackson Hole signals and jumping rate-hike bets are driving yields and the dollar higher, pressuring Bitcoin after ETF outflows ended a nine-day inflow streak. Soft data like contracting PMI offers little offset while inflation concerns and geopolitical tensions keep risk appetite muted. Crypto-specific positives remain secondary to the macro headwind.",
+  "overall_summary": "Hawkish Jackson Hole remarks and sticky inflation repriced rate-hike odds higher, lifting the dollar and yields and pressuring Bitcoin after ETF outflows and liquidations. Institutional rails still advanced with bank collateral and stablecoin talk, but near-term macro headwinds dominate. Focus now shifts to next week’s jobs report while BTC holds near seventy-eight thousand with rebounding on-chain liquidity.",
   "key_points": [
-    "Hawkish Fed speeches spark BTC selloff",
-    "Bitcoin ETFs post 202M outflow",
-    "Rate-hike bets jump; yields surge",
-    "Geopolitical conflicts and trade wars weigh",
-    "Minor Solana and BTC accumulation offsets"
+    "Hawkish Warsh speech lifts hike odds and dollar",
+    "BTC ETF streak ends with two hundred million outflows",
+    "Sticky PCE and yield spike keep risk appetite weak",
+    "Banks advance crypto collateral and stablecoin plans",
+    "Markets await August jobs report as next catalyst"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Warsh Hawkish Jackson Hole Speech Sparks BTC Selloff",
-          "summary": "Fed Chair Kevin Warsh told the Jackson Hole symposium the Fed still has work to do on inflation, with PCE at 3.7 percent. Bitcoin tumbled from an overnight three-month high near 81,500 dollars to below 78,000 and briefly under 77,000. The move triggered roughly 488 million dollars in crypto liquidations, mostly longs. Traders should care because it lifted September rate-hike odds toward 55-60 percent and hit risk assets hard heading into the weekend.",
+          "title": "Bitcoin ETFs Snap 9-Day Inflow Streak With $202M Outflows",
+          "summary": "US spot Bitcoin ETFs recorded about 202 million dollars in net outflows on Friday August 28, ending a nine-session streak that had pulled in over 3 billion dollars. ARK 21Shares led the redemptions with nearly 115 million, followed by Bitwise and BlackRock's IBIT, while total assets slipped back below 100 billion. Ether and some altcoin ETFs kept seeing inflows the same day. Traders should care because ETF flows have been the clearest institutional demand signal powering the recent rally, so a flip to outflows removes a key bid and raises the risk of further pressure if it continues into the new week.",
           "sentiment": "Bearish",
-          "impact": "Near-term pressure on BTC and risk assets from higher rate expectations",
+          "impact": "Removes near-term institutional buying support and could weigh on BTC near 78k",
           "sources": [
-            "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise/",
-            "https://www.coindesk.com/latest-crypto-news",
-            "https://coinmarketcap.com/academy/article/bitcoin-falls-below-77k-warsh-hawkish-jackson-hole-speech"
+            "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
+            "https://bitbo.io/news/bitcoin-etfs-snap-inflow-streak/",
+            "https://www.vietnam.vn/en/gia-bitcoin-hom-nay-30-8-2026-cham-dut-chuoi-9-ngay-dong-tien-do-vao-quy-etf-bitcoin"
           ]
         },
         {
-          "title": "Bitcoin ETFs See 202 Million Outflow, End Nine-Day Streak",
-          "summary": "US spot Bitcoin ETFs recorded about 202 million dollars in net outflows on August 28, snapping a nine-day inflow run that had pulled in over 3 billion dollars. ARKB led the redemptions with roughly 115 million dollars out, followed by BITB and IBIT. Total assets slipped back below 100 billion dollars. This matters for traders as it signals a pause in the strong institutional bid that powered the recent rally, even as some altcoin ETFs stayed positive.",
+          "title": "Warsh Hawkish Jackson Hole Speech Triggers BTC Drop and Liquidations",
+          "summary": "Federal Reserve Chair Kevin Warsh delivered a hawkish keynote at Jackson Hole on Friday, stressing inflation remains a problem and financial conditions may not be restrictive enough. Bitcoin fell from highs above 81,000 to briefly under 77,000 before stabilizing near 78,000, while rate-hike odds for September jumped and crypto liquidations hit hundreds of millions, mostly longs. The speech also coincided with a large Bitcoin options expiry. Traders need to watch this because it shifts the macro backdrop away from easy liquidity and debasement narratives that fueled the August rebound, keeping risk assets on edge into upcoming data.",
           "sentiment": "Bearish",
-          "impact": "Weakens short-term institutional demand signal for BTC",
+          "impact": "Higher rate expectations pressure risk assets and could cap BTC rallies",
           "sources": [
-            "https://en.bloomingbit.io/feed/news/119343",
-            "https://www.tradingview.com/news/cointelegraph:442eb20cb094b:0-bitcoin-etfs-end-9-day-inflow-streak-as-btc-dips-below-78k/",
-            "https://www.satsintel.io/en/etfs/flows"
+            "https://coinmarketcap.com/academy/article/bitcoin-falls-below-77k-warsh-hawkish-jackson-hole-speech",
+            "https://www.techtimes.com/articles/325937/20260828/warsh-pushed-bitcoins-100-billion-etf-milestone-out-reach-one-jackson-hole-speech.htm",
+            "https://financefeeds.com/warsh-turns-hawkish-at-jackson-hole-dollar-jumps-stocks-wobble-bitcoin-slips/"
           ]
         },
         {
-          "title": "Solana Narrowly Passes Double Disinflation Vote",
-          "summary": "Solana validators approved SGP-0002 to double the annual disinflation rate from 15 to 30 percent, clearing the two-thirds threshold by a hair at about 67 percent after last-minute flips by Kraken and Galaxy-linked validators. The change is projected to cut roughly 18.9 million SOL in future issuance over six years and reach the 1.5 percent terminal inflation floor years earlier. A fee-burn proposal failed. Traders should watch this because lower future supply is a structural bullish catalyst for SOL even if staking yields compress.",
-          "sentiment": "Bullish",
-          "impact": "Reduces long-term SOL supply pressure, supportive for price",
-          "sources": [
-            "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-            "https://thedefiant.io/news/blockchains/solana-validators-approve-doubling-disinflation-in-first-governance-vote-with-kraken-reversing",
-            "https://www.cryptopolitan.com/solana-sgp-0002-disinflation-vote-passes/"
-          ]
-        },
-        {
-          "title": "Cardone Capital Adds 1,200 BTC via Real Estate Cash Flow",
-          "summary": "Grant Cardone’s Cardone Capital announced it added about 1,200 Bitcoin while expanding its multifamily portfolio by roughly 2,000 units. The firm funds ongoing BTC purchases with rental income through a dollar-cost-averaging approach inside private vehicles targeting up to 10,000 BTC longer term. No exact purchase prices or dates were detailed. This is notable for traders as another large-scale real-estate-linked institutional buyer adding spot exposure amid the pullback.",
-          "sentiment": "Bullish",
-          "impact": "Adds steady institutional spot demand and treasury accumulation narrative",
-          "sources": [
-            "https://crypto.news/cardone-capital-adds-1200-btc-using-rental-income/",
-            "https://www.cryptotimes.io/2026/08/29/cardone-capital-adds-1200-btc-through-real-estate-strategy/",
-            "https://x.com/GrantCardone/status/2093386365366886623"
-          ]
-        },
-        {
-          "title": "Decade-Old Bitcoin Wallets Move 40 Million Dollars",
-          "summary": "Six Bitcoin wallets inactive since 2011 to 2014 transferred a combined 553.59 BTC worth about 40 million dollars between mid and late August. Five of the six sent coins to addresses with no known exchange links; only one went to a German custodian. Galaxy Research notes overall dormant coin movement is at multi-year lows and 2026 is tracking far below last year. Traders care because large old-wallet moves can spark sell fears, yet the lack of exchange deposits reduces immediate dump risk.",
+          "title": "Metaplanet Moves 3,000 BTC Worth 237 Million to Coinbase Prime",
+          "summary": "Japanese Bitcoin treasury firm Metaplanet transferred 3,000 BTC valued at roughly 237 million dollars to Coinbase Prime on August 29, part of a series of large custody moves this month totaling thousands more coins. The company has previously insisted these are operational shifts between its own custodial addresses and not sales, with holdings still reported around 43,000 BTC. Price barely reacted during the transfers. Traders should note it because Metaplanet is one of the largest corporate holders, so any confirmed selling would add supply overhang, but so far it looks like infrastructure repositioning rather than distribution.",
           "sentiment": "Neutral",
-          "impact": "Limited immediate sell pressure; monitors for any later exchange inflows",
+          "impact": "Watched closely for potential selling signal but currently no confirmed market impact",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-            "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m"
+            "https://cryptobriefing.com/metaplanet-transfers-bitcoin-coinbase-prime/",
+            "https://u.today/metaplanet-offloads-bitcoin-in-latest-237-million-move"
           ]
         },
         {
-          "title": "North Korea Lazarus Group Moves 19.4 Million in Bitcoin",
-          "summary": "Wallets linked to the Lazarus Group transferred roughly 244 BTC worth about 19.4 million dollars, according to on-chain trackers. The group still holds a larger multi-asset portfolio after the move. Such transfers often precede laundering or cash-out attempts. While the size is modest versus daily BTC volume, traders monitor these for potential future selling pressure or compliance headlines that can weigh on sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Minor potential overhang if funds reach exchanges; watch for follow-on flows",
+          "title": "Sberbank Plans BTC, ETH and USDT as Loan Collateral",
+          "summary": "Russia's largest bank Sberbank said it will expand crypto-backed corporate lending to accept Bitcoin as collateral and later add Ethereum and USDT once the Central Bank approves public circulation. The move aligns with Russia's new digital asset framework taking effect September 1, following an earlier Bitcoin pilot loan with a mining firm. The bank is also building custody and wallet services. This matters for traders as it signals major traditional banks treating crypto as legitimate collateral, potentially unlocking more institutional demand and utility in a large economy even with payment restrictions remaining.",
+          "sentiment": "Bullish",
+          "impact": "Supports longer-term institutional adoption and utility narrative for majors",
           "sources": [
-            "https://crypto.news/lazarus-group-resurfaces-with-19-4m-bitcoin-move/",
-            "https://u.today/north-korea-hackers-break-silence-with-194-million-bitcoin-btc-move-time-to-worry"
+            "https://crypto.news/sberbank-plans-btc-eth-and-usdt-backed-loans/",
+            "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
+            "https://cryptobriefing.com/sberbank-usdt-loan-collateral-russia/"
+          ]
+        },
+        {
+          "title": "JPMorgan Weighs Public Stablecoin as Banks Push Blockchain Rails",
+          "summary": "JPMorgan is exploring a public stablecoin separate from its existing JPM Coin deposit token, according to reports, while 39 state banking associations launch the BankChain Alliance for tokenized deposits and bank-issued stablecoins targeting 2027. This comes amid broader Wall Street moves into on-chain settlement and tokenization. The bank already processes billions daily on its Kinexys platform. Traders should care because the biggest banks shifting from resistance to building stablecoin and blockchain infrastructure validates crypto rails and could accelerate institutional capital and real-world use cases over time.",
+          "sentiment": "Bullish",
+          "impact": "Positive long-term for crypto infrastructure and institutional legitimacy",
+          "sources": [
+            "https://crypto.news/jpmorgan-stablecoin-bank-fraud-bitcoin-reasons-wait/",
+            "https://www.blockhead.co/2026/08/27/jpmorgan-is-weighing-a-stablecoin-the-bank-that-called-bitcoin-a-fraud-just-ran-out-of-reasons-to-wait/",
+            "https://cryptobriefing.com/jpmorgan-stablecoin-evaluation/"
+          ]
+        },
+        {
+          "title": "BTC Holds Near 78k After Dip as On-Chain Liquidity Rebounds",
+          "summary": "Bitcoin stabilized and recovered slightly above 78,000 over the weekend after the Friday selloff, with reports of realized cap adding more than 4.6 billion dollars in a week signaling early on-chain liquidity recovery. Long liquidations dominated the drop while short covering had powered the prior rally. Support around 77,000 to 78,000 is being tested heading into Monday ETF flow data. Traders care because a confirmed hold here after the macro and flow shocks would keep the August rebound structure intact, while a break lower opens deeper supports and more deleveraging risk.",
+          "sentiment": "Neutral",
+          "impact": "Key support test; hold is constructive, break would turn more bearish near-term",
+          "sources": [
+            "https://crypto.news/tag/bitcoin/",
+            "https://www.vietnam.vn/en/gia-bitcoin-hom-nay-30-8-2026-cham-dut-chuoi-9-ngay-dong-tien-do-vao-quy-etf-bitcoin",
+            "https://coinstats.app/ai/a/latest-news-for-bitcoin"
           ]
         }
       ]
@@ -84,68 +85,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Warsh Jackson Hole Speech Signals Possible Rate Hikes",
-          "summary": "Fed Chair Kevin Warsh told the Jackson Hole symposium that recent softer inflation prints do not show underlying trends have meaningfully improved and that the Fed will have work to do if it lacks confidence inflation is heading clearly and quickly to the fixed two percent target. He described financial conditions as not particularly restrictive and labor markets as consistent with full employment. Traders should care because this is the clearest hawkish signal yet from the new chair ahead of the September FOMC, directly shaping rate expectations that drive liquidity for crypto and risk assets.",
+          "title": "Warsh Hawkish at Jackson Hole, Hike Odds Jump",
+          "summary": "Fed Chair Kevin Warsh told the Jackson Hole symposium that recent inflation readings do not show underlying trends improving enough and that the Fed will have work to do if prices are not clearly heading back to the two percent target. He said the labor market looks stable at full employment, financial conditions do not appear restrictive, and the focus must stay on prices. Traders quickly lifted the probability of a September rate hike from about thirty-five percent to the mid-fifties or higher. Crypto traders should care because a more hawkish Fed path typically tightens liquidity and pressures risk assets including Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Higher rate-hike odds pressure Bitcoin and equities via tighter financial conditions",
+          "impact": "Higher near-term rate-hike odds and tighter financial conditions",
           "sources": [
             "https://www.reuters.com/business/will-warshs-jackson-hole-speech-be-course-correction-or-detour-2026-08-28/",
-            "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026",
-            "https://www.bloomberg.com/news/articles/2026-08-28/key-takeaways-from-fed-chairman-warsh-s-jackson-hole-speech"
+            "https://www.forbes.com/sites/tylerroush/2026/08/28/fed-chair-kevin-warsh-says-inflation-still-too-high-in-first-jackson-hole-speech/",
+            "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
           ]
         },
         {
-          "title": "Rate Hike Bets Jump; Yields and Dollar Surge",
-          "summary": "After Warsh's remarks, CME FedWatch odds of a September quarter-point hike climbed from around thirty-five percent to over fifty-five percent. The two-year Treasury yield jumped as much as thirteen basis points to about four point three six percent, the ten-year rose to near four point seven three percent, and the dollar index gained over half a percent to around ninety-nine point seven. Crypto traders need to watch this because a stronger dollar and higher short-term yields typically drain liquidity and weigh on Bitcoin and other risk assets.",
+          "title": "Short-Term Yields Spike After Warsh Remarks",
+          "summary": "The two-year Treasury yield jumped more than ten basis points on Friday to around four point three five or four point three six percent, its biggest one-day move in months, while the ten-year rose to near four point seven three percent. Markets read Warsh’s comments as opening the door to tighter policy sooner. Longer bonds also firmed but less dramatically. Rising short rates raise discount rates and borrowing costs, which historically weigh on crypto and growth-sensitive assets.",
           "sentiment": "Bearish",
-          "impact": "Stronger DXY and rising front-end yields headwinds for crypto prices",
+          "impact": "Tighter liquidity and higher discount rates for risk assets",
           "sources": [
-            "https://live.euronext.com/en/financial-news/stocks-fall-while-dollar-bond-yields-rise-warsh-prompts-rate-hike-bets",
             "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-28/"
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-28/",
+            "https://www.manilatimes.net/2026/08/29/business/foreign-business/the-bond-market-prepares-for-a-hike-to-interest-rates-while-us-stocks-drift-lower/2414445"
           ]
         },
         {
-          "title": "Chicago PMI Crashes into Contraction at 47.1",
-          "summary": "The Chicago Business Barometer plunged more than ten points to forty-seven point one in August, far below expectations near fifty-eight and the first sub-fifty reading in months. New orders led the drop while prices paid rose sharply. This regional gauge is watched as a timely read on manufacturing and services activity; a surprise contraction raises growth concerns even as inflation remains sticky, creating mixed signals for the Fed path that crypto markets must navigate.",
-          "sentiment": "Neutral",
-          "impact": "Soft activity data may temper hike bets but adds growth uncertainty",
-          "sources": [
-            "https://www.tftc.io/chicago-pmi-august-2026-umich-consumer-sentiment-stagflation",
-            "https://tradingeconomics.com/united-states/chicago-pmi",
-            "https://www.cmegroup.com/education/events/econoday/671155"
-          ]
-        },
-        {
-          "title": "Michigan Sentiment Final at 51.7; Inflation Expectations Stay Elevated",
-          "summary": "The University of Michigan final August consumer sentiment index came in at fifty-one point seven, a touch above the preliminary but still down sharply from July's fifty-five point two. One-year inflation expectations eased only slightly to four percent while longer-term held at three point three percent. Weak household mood alongside sticky inflation expectations keeps the stagflation risk narrative alive, which tends to keep the Fed cautious and limits aggressive risk-on moves in Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "Soft sentiment with sticky inflation expectations supports cautious Fed stance",
-          "sources": [
-            "https://www.tradingview.com/news/dpa_afx:ce99271c0a458:0-u-s-consumer-sentiment-deteriorates-slightly-less-than-estimated-in-august/",
-            "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/michigan-sentiment-ticked-up-in-august-still-below-july/",
-            "https://www.tftc.io/chicago-pmi-august-2026-umich-consumer-sentiment-stagflation"
-          ]
-        },
-        {
-          "title": "BLS Preliminary Benchmark Revises Payrolls Down 79,000",
-          "summary": "The Bureau of Labor Statistics said Friday that total nonfarm employment for the year through March was about seventy-nine thousand jobs lower than previously estimated, a modest zero point one percent downward revision, with private payrolls down more. This is far smaller than last year's big markdowns and still preliminary. Traders care because it paints a slightly softer labor-market picture than thought heading into the next jobs report and September Fed meeting, though the scale is too small to dominate the hawkish Warsh narrative.",
-          "sentiment": "Neutral",
-          "impact": "Slightly weaker historical jobs data adds modest dovish nuance",
-          "sources": [
-            "https://www.reuters.com/business/world-at-work/us-added-79000-fewer-jobs-12-months-through-march-bls-says-2026-08-28/",
-            "https://www.bls.gov/news.release/prebmk.nr0.htm",
-            "https://www.nytimes.com/2026/08/28/business/economy/jobs-labor-numbers.html"
-          ]
-        },
-        {
-          "title": "Other Fed Officials Echo Inflation Concerns at Jackson Hole",
-          "summary": "Alongside Warsh, several regional presidents including Hammack, Schmid and others reiterated that inflation remains sticky and that more work may be needed to return to two percent. Markets digested a cluster of hawkish commentary over the Jackson Hole weekend. For crypto traders this reinforces the message that the Fed is not pivoting toward ease anytime soon, keeping real yields and the dollar supported.",
+          "title": "Dollar Index Posts Strongest Daily Gain in Months",
+          "summary": "The US dollar index climbed roughly half a percent to around ninety-nine point seven on Friday, its biggest daily advance in about two and a half months, as rate-hike bets rebuilt. The euro and other majors weakened against the greenback. A stronger dollar tends to tighten global financial conditions and can act as a headwind for Bitcoin and other dollar-priced risk assets.",
           "sentiment": "Bearish",
-          "impact": "Broader hawkish chorus sustains higher-for-longer rate pricing",
+          "impact": "Stronger DXY tightens global liquidity and pressures crypto",
           "sources": [
-            "https://www.reuters.com/markets/us/federal-reserve/",
-            "https://www.morningstar.com/news/dow-jones/202608288940/dow-jones-top-markets-headlines-at-5-pm-et-warsh-says-the-fed-may-not-be-done-fighting-inflation-the"
+            "https://www.investing.com/news/economy-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-4881939",
+            "https://www.wsj.com/market-data/quotes/index/US/IFUS/DXY",
+            "http://www.daily-sun.com/business-print/894914"
+          ]
+        },
+        {
+          "title": "July PCE Stays Sticky Above Fed Target",
+          "summary": "The Fed’s preferred inflation gauge showed headline PCE up zero point two percent month-over-month and three point seven percent year-over-year in July, with core also at zero point two percent and three point three percent. Both held steadier than some hoped and remain well above the two percent goal. Combined with Warsh’s speech, the data keeps the inflation fight front and center and supports the case for possible further tightening rather than cuts.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces hawkish Fed bias and delays any easing narrative",
+          "sources": [
+            "https://www.bea.gov/news/2026/personal-income-and-outlays-july-2026",
+            "https://www.reuters.com/business/us-inflation-remains-sticky-july-2nd-quarter-gdp-unrevised-15-2026-08-26/",
+            "https://tradingeconomics.com/united-states/pce-price-index-monthly-change"
+          ]
+        },
+        {
+          "title": "Markets Pivot to August Jobs Report Next Week",
+          "summary": "With no major US data out over the weekend, attention turns to the August employment report due Friday September fourth, plus JOLTS on Tuesday. Economists expect a rebound in payrolls after July’s decline, with unemployment near four point one or four point two percent. Warsh already described the labor market as consistent with full employment, so a firm print would further support hike odds while a soft one could temper them. Crypto traders need to watch this closely as the next key catalyst for rates and dollar direction.",
+          "sentiment": "Neutral",
+          "impact": "Data-dependent pivot for September FOMC pricing",
+          "sources": [
+            "https://www.swissinfo.ch/eng/us-jobs-report-seen-backing-warsh-view-of-labor-market/91974985",
+            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-august-30",
+            "https://fedratecalc.com/us-economic-calendar/"
+          ]
+        },
+        {
+          "title": "Treasury Expands Long-Bond Buybacks Amid Yield Spike",
+          "summary": "Treasury Secretary Scott Bessent’s plan to at least double long-end buybacks to four billion dollars or more per operation starting early September remains in focus after the thirty-year yield recently hit multi-year highs near five point three percent. The move aims to support liquidity and curb borrowing costs as US debt tops forty trillion, though auctions of new long bonds continue. Intervention risk and fiscal concerns can keep volatility elevated in bonds and the dollar, indirectly affecting crypto risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Potential temporary relief for long yields but fiscal and credibility questions linger",
+          "sources": [
+            "https://www.reuters.com/world/china/us-treasury-stick-debt-auction-schedule-despite-bigger-buybacks-bessent-says-2026-08-24/",
+            "https://www.reuters.com/business/treasurys-bessent-says-upsized-bond-buybacks-could-increase-further-2026-08-20/",
+            "https://www.deloitte.com/us/en/insights/about/publishing_projects/weekly_test_b.html"
           ]
         }
       ]
@@ -154,69 +156,68 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump Hails Historic Venezuela Oil Deal for 65 Billion Barrels",
-          "summary": "President Trump announced a deal giving the US majority control of more than 65 billion barrels of Venezuelan proven oil reserves through a private partnership, at no cost to taxpayers. He said it more than doubles American oil reserves and will lower gas prices. Interim Venezuelan leaders welcomed the investment, which could bring a hundred billion dollars and boost production. Traders should watch this closely because extra long-term supply from the world's largest reserves could ease energy prices and support risk assets if it materializes.",
+          "title": "Trump Seals Massive Venezuela Oil Deal for 65bn Barrels",
+          "summary": "President Trump announced the United States has secured majority control of more than 65 billion barrels of Venezuelan proven oil reserves through a partnership with private business and interim leader Delcy Rodriguez. The deal aims to more than double US oil reserves, bring nearly 100 billion dollars in investment, boost production toward 1.5 million barrels per day, and lower American gas prices. Traders should watch this closely because extra heavy crude supply could ease global energy tightness from the Iran conflict and support risk assets if prices fall.",
           "sentiment": "Bullish",
-          "impact": "Potential lower oil and inflation pressures supporting risk appetite",
+          "impact": "Potential lower oil prices and reduced energy inflation supporting risk-on moves",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
-            "https://apnews.com/article/trump-venezuela-oil-reserves-eb0ed5a1e99602c21a7f690c3368020e",
+            "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+            "https://www.reuters.com/business/energy/us-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28/",
             "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela"
           ]
         },
         {
-          "title": "Iran War Hits Six Months as Trump Says Not in a Hurry",
-          "summary": "The US-Israel conflict with Iran reached its six-month mark with no end in sight. Trump said he is not in a hurry to negotiate and is focusing on economic pressure instead of talks. Iran continues setting conditions for reopening the Strait of Hormuz while traffic remains heavily restricted. This keeps a risk premium in oil markets and uncertainty over global energy flows that crypto traders monitor for broader risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Sustained oil supply risk and geopolitical premium weigh on risk assets",
-          "sources": [
-            "https://www.scmp.com/news/world/middle-east/article/3365663/iran-war-hits-six-month-mark-trump-says-hes-not-hurry",
-            "https://www.usnews.com/news/politics/articles/2026-08-28/trump-used-to-say-he-saw-a-quick-end-to-his-iran-war-six-months-later-he-claims-hes-in-no-hurry",
-            "https://straits.live/report"
-          ]
-        },
-        {
-          "title": "Russian Drone Strike on Kyiv Warehouse Kills at Least 27",
-          "summary": "A Russian drone hit a warehouse near Kyiv storing explosive materials, triggering massive detonations that killed at least 27 people and injured dozens more. Hundreds were evacuated as the blast damaged homes and a care facility. Ukraine opened a negligence probe over storage near civilians while Russia claimed it targeted an arms depot. Escalating strikes in the Ukraine war add to global conflict risk that can pressure risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Heightened European conflict risk and potential energy or defense spillover",
-          "sources": [
-            "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27",
-            "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
-            "https://www.scmp.com/news/world/europe/article/3365705/russian-drone-strike-near-kyiv-kills-least-27"
-          ]
-        },
-        {
-          "title": "Iran Admits 35 Percent Trade Collapse Under US Economic Pressure",
-          "summary": "Iranian leaders acknowledged the war's heavy economic cost, with the president saying foreign trade has dropped 35 percent due to sanctions and the US naval blockade. Inflation remains elevated and the administration continues Operation Economic Outcast targeting remaining lifelines. Secondary sanctions threats hang over trading partners. Persistent pressure on a major oil producer reinforces supply concerns that traders price into energy and risk markets.",
-          "sentiment": "Bearish",
-          "impact": "Confirms lasting disruption to Iranian oil and trade flows",
-          "sources": [
-            "https://www.geo.tv/latest/679702-iran-grapples-with-35-drop-in-trade-as-middle-east-war-drags-on-and-us-sanctions-tighten",
-            "https://m.economictimes.com/news/international/world-news/irans-foreign-trade-plunges-35-as-us-sanctions-deepen-wars-economic-toll/articleshow/133602320.cms",
-            "https://www.scmp.com/news/world"
-          ]
-        },
-        {
-          "title": "US-Canada Trade War Deepens with 50 Percent Tariffs and Retaliation",
-          "summary": "US 50 percent tariffs on about 20 billion dollars of Canadian goods remain in force after talks collapsed, and Canada is set to impose matching retaliatory tariffs starting September 8 on US steel, dairy, appliances and more. Threats of further auto and metals hikes loom. The dispute between the two large economies raises costs and uncertainty for North American trade and growth. That kind of friction typically dampens risk appetite across markets including crypto.",
-          "sentiment": "Bearish",
-          "impact": "Trade friction and higher costs hit growth expectations",
-          "sources": [
-            "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-            "https://apnews.com/article/trump-tariffs-canada-us-trade-war-293908564c7a381ea58a61db6e9a8517",
-            "https://www.congress.gov/crs-product/IF12595"
-          ]
-        },
-        {
-          "title": "Iceland Votes Today on Restarting EU Membership Talks",
-          "summary": "Icelanders are casting ballots in a closely watched referendum on whether to resume accession negotiations with the European Union. Polls show a near split over sovereignty, fishing rights, cost of living and security. A yes vote would only restart talks, with any actual membership needing a later referendum. While not a direct market mover, the result signals European political shifts and alliance preferences amid broader geopolitical uncertainty.",
+          "title": "Iran-Oman Hormuz Corridor Agreed but US Conditions Block Reopening",
+          "summary": "Iranian President Pezeshkian said Tehran and Oman have agreed a shipping route through the Strait of Hormuz and will reopen it only if the US meets commitments from a prior memorandum including ending the blockade and sanctions. Trump administration officials say no talks are underway and the economic pressure campaign continues. This keeps a key oil chokepoint restricted after six months of war, so energy markets stay jumpy and any breakthrough or breakdown will swing risk assets hard.",
           "sentiment": "Neutral",
-          "impact": "Limited immediate market effect pending outcome and follow-through",
+          "impact": "Unresolved oil supply risk keeps volatility elevated pending US response",
           "sources": [
-            "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
+            "https://en.tempo.co/read/2118506/iran-oman-agree-on-hormuz-shipping-route-await-us-commitments",
+            "https://www.justsecurity.org/155508/early-edition-august-28-2026/",
+            "https://voi.id/en/news/591760"
+          ]
+        },
+        {
+          "title": "Russian Strike Sparks Ammo Depot Blasts Killing 37 Near Kyiv",
+          "summary": "A Russian drone hit a warehouse storing munitions in the Bucha district west of Kyiv, triggering massive explosions and fires that killed at least 37 people including many in a care home and damaged dozens of homes. President Zelensky blamed negligence for storing ammo near civilians and ordered investigations while Russia claimed it targeted drone components. This is one of the deadliest single strikes this year and signals intensified long-range attacks that could prolong the war and keep European energy and defense risks elevated.",
+          "sentiment": "Bearish",
+          "impact": "Heightened Ukraine escalation risk weighing on European equities and risk appetite",
+          "sources": [
+            "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf",
+            "https://www.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl",
+            "https://www.rferl.org/a/death-toll-from-russian-strike-on-kyiv-region-rises-to-27/33843071.html"
+          ]
+        },
+        {
+          "title": "Iran Faces Deep Fuel Shortages and Long Gas Lines from Blockade",
+          "summary": "Long queues have formed at gas stations across Tehran and other Iranian cities as the US naval blockade and war damage cut off gasoline imports and reduced refining output, creating a daily shortfall of around 15 million liters. Officials are wary of cutting subsidies that could spark unrest while reserves are drawn down. The squeeze shows economic pressure is biting hard inside Iran and raises the chance of internal instability or a forced diplomatic shift that would move oil markets.",
+          "sentiment": "Neutral",
+          "impact": "Pressure on Iran could eventually ease Hormuz restrictions or trigger unrest volatility",
+          "sources": [
+            "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+            "https://www.washingtonpost.com/business/2026/08/25/iran-us-war-sanctions-blockade-fuel-economy/4f8368ca-a0a2-11f1-8606-1d40ad00172e_story.html"
+          ]
+        },
+        {
+          "title": "Niger Soldiers Mutiny Attacks Airport and Palace in Coup Bid",
+          "summary": "Mutinous soldiers attacked the presidential palace, main airport and air base in Niamey overnight into Saturday in an apparent coup attempt against the junta that seized power in 2023. Gunfire and explosions lasted hours; the defense ministry said forces were retaking sites with reports of Russian Africa Corps support and dozens of mutineers killed or detained. Niger is a major uranium producer so any prolonged instability adds another layer of resource and Sahel security risk for global markets.",
+          "sentiment": "Bearish",
+          "impact": "Sahel instability and uranium supply concerns adding to geopolitical risk premium",
+          "sources": [
+            "https://www.reuters.com/world/gunfire-blasts-heard-several-areas-niger-capital-niamey-witness-says-2026-08-29/",
+            "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey",
+            "https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt"
+          ]
+        },
+        {
+          "title": "Iceland Voters Reject Restarting EU Membership Talks",
+          "summary": "Icelanders voted 52.8 percent to 47.2 percent against resuming accession negotiations with the European Union in a high-turnout referendum, ending a long debate driven partly by fishing rights and security worries including US moves on Greenland. The no vote keeps the island outside the bloc while it remains in the EEA and Schengen. This is a minor political shift with limited direct market impact but underscores European fragmentation and Arctic geopolitical frictions.",
+          "sentiment": "Neutral",
+          "impact": "Limited direct market effect; signals continued EU enlargement challenges",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
             "https://www.reuters.com/world/europe/iceland-votes-whether-start-eu-membership-talks-2026-08-29/",
-            "https://www.bbc.com/news/articles/cn45vdxyvvlo"
+            "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum"
           ]
         }
       ]
