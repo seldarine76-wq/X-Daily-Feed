@@ -1,83 +1,83 @@
 {
-  "generated_at": "2026-08-31T12:05:28+00:00",
+  "generated_at": "2026-09-01T12:04:41+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is holding near 78k through US-Iran strikes and oil spikes, with Saylor hinting at fresh buys for support. Hawkish Fed signals, rising yields, a firmer dollar, and ETF outflows still point to near-term pressure on risk assets. Geopolitical noise and a crypto hack add to the cautious tone ahead of key data.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is seeing clear institutional demand with large corporate buys, whale accumulation, and ETF inflows providing a firm bid. At the same time, rising global yields, a stronger dollar, oil spikes, and renewed US-Iran tensions are feeding risk-off pressure across markets. The tone for crypto is supported underneath but capped by macro and geopolitical headwinds until data and yields clarify direction.",
   "key_points": [
-    "BTC holds $78K amid Iran strikes",
-    "ETF outflows end inflow streak",
-    "Hawkish Warsh lifts hike odds",
-    "Yields and dollar firm higher",
-    "Saylor signals possible BTC buys"
+    "Heavy BTC buys by Strategy, Strive, and whales",
+    "Bitcoin ETFs post solid $217M inflows",
+    "Bond yields surge and dollar firms on hike odds",
+    "Oil spikes above $90 on US-Iran clashes",
+    "Key US ISM, JOLTS data due today"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak With $202M Outflows",
-          "summary": "U.S. spot Bitcoin ETFs posted about two hundred two million dollars in net outflows on Friday, ending a nine-day run that had pulled in over three billion. Bitcoin pulled back from recent highs near eighty-one thousand and is holding around seventy-seven to seventy-eight thousand. Traders should watch whether this is just profit-taking after a strong month or the start of softer institutional demand, especially with Fed hike odds rising and the jobs report ahead.",
-          "sentiment": "Neutral",
-          "impact": "Near-term pause in bid; tests support after strong August inflows",
-          "sources": [
-            "https://financefeeds.com/bitcoin-etfs-snap-nine-day-inflow-streak-with-202-million-in-outflows/",
-            "https://www.cryptotimes.io/2026/08/29/bitcoin-rally-pushback-from-81k-as-spot-etfs-record-first-outflow-in-9-days/",
-            "https://bykaranteli.com/etf/btc"
-          ]
-        },
-        {
-          "title": "Bitcoin Holds Near $78K as U.S. Strikes Iran, Oil Surges",
-          "summary": "U.S. forces struck Iranian rocket launchers on Larak Island near the Strait of Hormuz, sending oil higher and pressuring stocks and gold. Bitcoin barely reacted and held near seventy-eight thousand, staying on track for its strongest month since late twenty twenty-four with gains around twenty-three percent. This resilience versus traditional risk assets matters for traders viewing Bitcoin as a macro hedge amid geopolitical and rate uncertainty.",
+          "title": "Strategy Resumes BTC Buys With $370M Purchase",
+          "summary": "Strategy, the largest corporate Bitcoin holder, bought 4,603 BTC for about 370 million dollars last week at an average of roughly 80,300 dollars. It was the first purchase in about two months, lifting total holdings to 845,050 BTC. The firm funded it mainly through common stock sales and also did preferred share buybacks. Traders should care because it restarts a major ongoing buyer that has historically supported spot demand and sentiment around corporate treasuries.",
           "sentiment": "Bullish",
-          "impact": "Supports decoupling narrative and monthly strength",
+          "impact": "Adds steady institutional bid and signals renewed corporate confidence",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
-            "https://news.bitcoin.com/featured/us-strikes-iran-brent-cracks-90-as-hormuz-risk-explodes-again/",
-            "https://crypto.news/bitcoin-price-holds-78k-as-u-s-iran-clash-lifts-oil/"
+            "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
+            "https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087",
+            "https://cryptovalleyjournal.com/hot-topics/news/strategy-buys-bitcoin-for-usd-370-million-after-summer-pause/"
           ]
         },
         {
-          "title": "Saylor Posts 'We're Back,' Hints Strategy Resuming BTC Buys",
-          "summary": "Michael Saylor posted 'We're Back' alongside Strategy's Bitcoin holdings tracker, a signal that has often preceded new purchases after a two-month pause. The firm holds over eight hundred forty thousand Bitcoin now sitting roughly two point eight billion in profit at current prices. Traders care because Strategy remains one of the largest and most consistent corporate buyers, and a return to accumulation could add meaningful demand.",
+          "title": "Bitcoin ETFs Rebound With $217M Inflows Led by IBIT",
+          "summary": "US spot Bitcoin ETFs flipped back to net inflows of 216.7 million dollars on Monday after Friday's 202 million outflow that ended a nine-day streak. BlackRock's IBIT accounted for about 95 percent of the inflows. Ether ETFs extended their inflow streak to 11 days while XRP and Solana funds also stayed positive. This matters because ETF flows remain a primary driver of spot demand and can quickly reverse or reinforce recent price consolidation near 78,000.",
           "sentiment": "Bullish",
-          "impact": "Potential fresh corporate buying pressure",
+          "impact": "Restores institutional flow support after brief outflow pause",
           "sources": [
-            "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
-            "https://coinmarketcap.com/academy/article/saylor-were-back-post-signals-strategy-resuming-bitcoin-buys",
-            "https://coinpedia.org/news/michael-saylors-were-%e2%82%bfack-post-sends-strategy-bitcoin-buy-odds-to-96/"
+            "https://coinnews.com/news/bitcoin-etf-inflows-rebound/",
+            "https://bykaranteli.com/etf/btc",
+            "https://farside.co.uk/btc/"
           ]
         },
         {
-          "title": "Metaplanet Moves Hundreds of Millions in BTC to Coinbase",
-          "summary": "Japanese Bitcoin treasury firm Metaplanet transferred thousands of Bitcoin worth well over one hundred eighty-eight million dollars, and more in subsequent moves, to Coinbase Prime. CEO confirmed the shifts are for custody, not sales, as the company holds about forty-three thousand Bitcoin. Large on-chain moves like this can spark sell rumors and short-term volatility even when clarified as non-selling.",
+          "title": "Whales Add 60,000 BTC in August as Retail Sells",
+          "summary": "CryptoQuant data shows wallets holding 100 or more BTC accumulated about 60,000 Bitcoin from August 1 to 30 while smaller holders sold tens of thousands. Whale buying accelerated after the mid-month breakout from the 62 to 65 thousand range. The coins largely stayed off exchanges. Traders should watch this because it indicates strong hands absorbed the rally supply, which can reduce downside pressure if the holdings are not quickly distributed.",
+          "sentiment": "Bullish",
+          "impact": "Improves ownership structure and supports higher support levels",
+          "sources": [
+            "https://bitcoinworld.co.in/bitcoin-whales-accumulated-60000-btc-august-rally/",
+            "https://cryptoquant.com/insights/quicktake/6a952e96335e66073ad6d3f0-August-in-one-chart-only-large-wallets-added-coins",
+            "https://en.bitcoinsistemi.com/the-hidden-movement-behind-the-bitcoin-rally-detected-60-000-btc-accumulated-here-are-the-details/"
+          ]
+        },
+        {
+          "title": "Strive Buys $143M BTC, Rises to Fifth-Largest Holder",
+          "summary": "Strive purchased 1,800 Bitcoin for approximately 143 million dollars last week at an average near 79,400 dollars, bringing its holdings to 23,156 BTC. That moved it past Bullish into the fifth spot among public corporate holders. Other treasury firms are also adding. This reinforces the trend of listed companies treating Bitcoin as a core balance-sheet asset and provides another source of spot buying pressure alongside Strategy.",
+          "sentiment": "Bullish",
+          "impact": "Broadens corporate demand and validates treasury strategy trend",
+          "sources": [
+            "https://financefeeds.com/strive-buys-1800-bitcoin-for-143-million-expanding-treasury-holdings/",
+            "https://coincentral.com/strive-asst-stock-rises-6-after-bitcoin-buy-makes-it-fifth-largest-corporate-holder/",
+            "https://coinnews.com/news/strive-bitcoin-holdings-23156/"
+          ]
+        },
+        {
+          "title": "Singapore Proposes 100% Reserves and Yield Ban for Stablecoins",
+          "summary": "The Monetary Authority of Singapore opened a consultation on amendments requiring licensed stablecoin issuers to hold full 100 percent reserves in segregated accounts at licensed institutions and banning interest or yield payments to holders. The rules align with US GENIUS Act and EU MiCA approaches and allow limited recognition of some foreign stablecoins. Traders should care because clearer, tighter global stablecoin standards reduce depeg and run risks that can spill into broader crypto liquidity and Bitcoin markets.",
           "sentiment": "Neutral",
-          "impact": "Whale flow watch; limited confirmed selling pressure",
+          "impact": "Supports long-term stability but limits yield products short-term",
           "sources": [
-            "https://crypto.news/metaplanet-moves-108m-in-bitcoin-to-coinbase-prime/",
-            "https://coincentral.com/metaplanet-stock-why-the-company-moved-480m-in-bitcoin-to-coinbase-prime/",
-            "https://cryptobriefing.com/metaplanet-deposits-bitcoin-coinbase-prime/"
+            "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+            "https://www.mas.gov.sg/news/media-releases/2026/mas-consults-on-legislative-amendments-to-implement-stablecoin-regulatory-framework",
+            "https://www.blockhead.co/2026/09/01/singapore-proposes-stablecoin-license-with-100-reserves-no-holder-interest/"
           ]
         },
         {
-          "title": "Cronos Halts After $75M Tectonic Oracle Manipulation Hack",
-          "summary": "The Crypto.com-linked Cronos chain halted block production after an attacker manipulated the illiquid TONIC token roughly one hundred times and drained an estimated seventy-five million from the Tectonic lending protocol. Only about six million escaped to Ethereum before the freeze. This is a major DeFi and ecosystem hit that can weigh on broader crypto risk appetite even if Bitcoin itself is less directly exposed.",
-          "sentiment": "Bearish",
-          "impact": "Negative for crypto sentiment and altcoin liquidity",
-          "sources": [
-            "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
-            "https://www.cryptotimes.io/2026/08/31/cronos-halts-entire-blockchain-after-75m-tectonic-exploit-only-6m-escapes/",
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-43/"
-          ]
-        },
-        {
-          "title": "Luke Dashjr Exits Ocean Mining Pool Over Vision Split",
-          "summary": "Longtime Bitcoin developer Luke Dashjr has left Ocean mining pool by mutual agreement, resigning leadership roles as the parent company bought back his equity. He plans a new venture called Convoy focused on decentralizing mining after differences over Bitcoin mining's future and recent protocol issues. Mining pool shifts matter for hashrate distribution and long-term network health though immediate price impact is limited.",
+          "title": "Strategy Calls MSCI Proposal Discriminatory to Bitcoin Firms",
+          "summary": "Strategy formally opposed an MSCI consultation that could exclude companies with large non-operating asset holdings, including Bitcoin treasury firms, from global investable indexes. In a letter signed by Michael Saylor and the CEO, the firm called the plan a pretext targeting digital asset treasuries and inconsistent with accounting standards. Index exclusion would matter for passive flows into MSTR and peers, so the outcome could affect correlated Bitcoin exposure vehicles even if direct BTC holdings stay intact.",
           "sentiment": "Neutral",
-          "impact": "Mining governance and decentralization signal",
+          "impact": "Unresolved index risk for treasury stocks; limited direct BTC effect yet",
           "sources": [
-            "https://cryptoslate.com/veteran-bitcoin-developer-luke-dashjr-exits-ocean-pool-will-hash-power-follow-him-to-new-pool/",
-            "https://bitcoinethereumnews.com/bitcoin/luke-dashjr-exits-ocean-after-bip-110-fallout-as-bitcoin-pool-buys-back-his-equity/",
-            "https://crypto.news/bitcoin-mining-divide-pushes-luke-dashjr-out-of-ocean/"
+            "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
+            "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-opposes-msci",
+            "https://www.strategy.com/msci"
           ]
         }
       ]
@@ -86,69 +86,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Warsh Hawkish Jackson Hole Lifts September Hike Odds",
-          "summary": "Fed Chair Kevin Warsh's Friday Jackson Hole speech stressed that inflation remains sticky and financial conditions are not restrictive enough, with rates as the main tool. Markets priced September rate-hike odds up near 55 to 60 percent from around 35 percent. Two-year yields jumped over 10 basis points and the dollar strengthened, pressuring risk assets including Bitcoin. Traders should watch for any follow-through or fade in these higher-for-longer expectations ahead of next week's jobs data and the September FOMC.",
+          "title": "Global Bond Selloff Intensifies as Yields Hit Multi-Year Highs",
+          "summary": "US 10-year Treasury yields climbed to around 4.78 to 4.79 percent, their highest since early 2025, while Japan's 10-year yield touched 3 percent for the first time since 1996 and European yields also surged. The move stems from Fed Chair Kevin Warsh's hawkish Jackson Hole remarks plus rising oil prices from renewed Middle East fighting. Traders should care because higher yields raise discount rates, pressure equities and crypto, and signal tighter financial conditions heading into the September FOMC.",
           "sentiment": "Bearish",
-          "impact": "Higher rates and stronger dollar headwinds for crypto and equities",
+          "impact": "Higher yields and tighter conditions weigh on risk assets including Bitcoin",
           "sources": [
-            "https://www.reuters.com/world/china/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets-2026-08-28/",
-            "https://www.home.saxo/content/articles/macro/market-quick-take---warsh-turns-hawkish-as-hormuz-risk-returns---31-august-2026-31082026",
-            "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026"
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-01/",
+            "https://www.reuters.com/business/wall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01/",
+            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026"
           ]
         },
         {
-          "title": "China August Manufacturing PMI Rises to 49.8",
-          "summary": "Official Chinese manufacturing PMI climbed to 49.8 in August from 49.2, beating forecasts around 49.5 and showing slower contraction. Production and new orders both moved back above 50, with large firms expanding. This offers a modest positive signal for global growth and commodities demand even as the reading stays below the expansion threshold. Crypto traders should note any lift to risk sentiment or China-related assets from the improving momentum.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk appetite and commodity-linked markets",
-          "sources": [
-            "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
-            "https://www.globaltimes.cn/page/202608/1369444.shtml",
-            "https://www.news.cn/20260831/06461b6889654cb4834bbddcc1aaaf56/c.html"
-          ]
-        },
-        {
-          "title": "German August CPI Edges Higher to 2.9 Percent",
-          "summary": "Preliminary German consumer price inflation rose to 2.9 percent year-over-year in August from 2.8 percent in July, with state-level data confirming the uptick. The reading keeps Eurozone inflation sticky and may reinforce ECB caution. Combined with US hawkishness it sustains higher global rate expectations. Watch for any euro weakness or bond market reaction that spills into dollar strength and crypto pressure.",
+          "title": "Markets Now Price 65 Percent Chance of September Fed Hike",
+          "summary": "Following Warsh's Jackson Hole speech stressing the need to get inflation back to 2 percent and that current policy is not very restrictive, futures markets have lifted the probability of a 25-basis-point hike at the mid-September FOMC to about 65 percent. Core PCE remains elevated near 3.3 percent. This shifts the rate path higher and supports the dollar while challenging leveraged and growth-sensitive assets.",
           "sentiment": "Bearish",
-          "impact": "Supports tighter policy pricing and stronger dollar bias",
+          "impact": "Increased hike odds tighten liquidity expectations and pressure crypto",
           "sources": [
-            "https://breakingthenews.net/Article/German-inflation-up-from-2.8-to-2.9-in-August/67013667",
-            "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
-            "https://de.marketscreener.com/boerse-nachrichten/de-verbraucherpreise-august-vorlaeufig-31-8-14-00-ce7858dfdf8df326"
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-01/",
+            "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-ongoing-mideast-tensions-ace4cdfb",
+            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-09-01/"
           ]
         },
         {
-          "title": "Treasury Yields Hold Elevated After Warsh Spike",
-          "summary": "US 10-year yields hovered near 4.71 to 4.73 percent early Monday after Friday's jump on the Warsh speech, while two-year yields stayed elevated on higher hike odds. The curve showed some bear flattening. Elevated yields raise discount rates and borrowing costs, typically weighing on growth assets. Crypto traders need to monitor whether yields break higher toward 4.75 percent resistance or stabilize into the week’s data.",
+          "title": "Eurozone Inflation Jumps to 3.3 Percent on Energy Surge",
+          "summary": "Preliminary August Eurozone HICP inflation rose to 3.3 percent year-over-year from 2.9 percent in July, matching forecasts, with energy inflation spiking to 14.3 percent amid Middle East tensions. Core inflation eased slightly to 2.4 percent. The print locks in market expectations for an ECB rate hike next week and adds to the global inflation and bond-yield pressure.",
           "sentiment": "Bearish",
-          "impact": "Higher yields pressure valuations across risk assets",
+          "impact": "Supports further central-bank tightening and higher global yields",
           "sources": [
-            "https://www.gurufocus.com/economic_indicators/37/10-year-treasury-yield",
-            "https://ph.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
-            "https://www.home.saxo/content/articles/macro/market-quick-take---warsh-turns-hawkish-as-hormuz-risk-returns---31-august-2026-31082026"
+            "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876",
+            "https://tradingeconomics.com/euro-area/inflation-cpi",
+            "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area"
           ]
         },
         {
-          "title": "US Dollar Index Firms Near 99.6 on Rate Bets",
-          "summary": "The DXY held around 99.5 to 99.7 after Friday's sharp gains driven by Warsh's hawkish tone and higher September hike probabilities. It remains stronger than pre-speech levels even with slight Monday easing. A firmer dollar often coincides with tighter global financial conditions and softer crypto prices. Traders should track USDJPY near 160 and any intervention risks or further dollar upside if data stays hot.",
+          "title": "Oil Tops 90 Dollars as US-Iran Clashes Reignite Inflation Fears",
+          "summary": "Brent crude pushed above 91 to 92 dollars a barrel after renewed military exchanges between the US and Iran, the first major escalation in weeks. Higher energy costs feed directly into inflation readings and reinforce the case for central banks to stay hawkish or hike. Crypto traders watch this because sticky inflation delays any pivot to easier policy.",
           "sentiment": "Bearish",
-          "impact": "Stronger USD typically negative for Bitcoin and risk assets",
+          "impact": "Inflation impulse strengthens hawkish policy pricing and risk-off flows",
           "sources": [
-            "https://www.gurufocus.com/economic_indicators/5747/us-dollar-index-dxy",
-            "https://www.marketwatch.com/investing/index/dxy/download-data",
-            "https://live.euronext.com/en/financial-news/stocks-fall-while-dollar-bond-yields-rise-as-warsh-prompts-rate-hike-bets"
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-01/",
+            "https://www.dailyforex.com/forex-news/2026/09/forex-today-1-september-2026/249207",
+            "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-1-085900862.html"
           ]
         },
         {
-          "title": "Markets Eye Dallas Fed and Upcoming ISM, NFP",
-          "summary": "Today's Dallas Fed manufacturing survey is due, following Friday's surprisingly weak Chicago PMI drop to 47.1. ISM manufacturing arrives Tuesday and the August jobs report Friday, with expectations for a rebound in payrolls after July's decline. Soft manufacturing readings could temper rate-hike bets while a solid NFP would reinforce the hawkish Warsh message. Crypto traders should prepare for volatility around these releases as they shape Fed path pricing into September.",
+          "title": "US Dollar Firms as Yields Rise and Safe-Haven Demand Builds",
+          "summary": "The DXY dollar index climbed toward 99.6, gaining on higher Treasury yields, elevated Fed hike odds, and geopolitical safe-haven flows. A stronger dollar typically acts as a headwind for Bitcoin and other risk assets priced in dollars. Watch for further upside if today's US data or Barr comments reinforce the hawkish narrative.",
+          "sentiment": "Bearish",
+          "impact": "Stronger dollar pressures crypto and emerging-market risk assets",
+          "sources": [
+            "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-ongoing-mideast-tensions-ace4cdfb",
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-01/",
+            "https://nl.investing.com/indices/usdollar-historical-data"
+          ]
+        },
+        {
+          "title": "Key US Data Today: ISM Manufacturing, JOLTS and Construction",
+          "summary": "Markets await the August ISM Manufacturing PMI, expected near 55.2 after 55.6, July JOLTS job openings forecast around 7.3 million, and July construction spending. These land ahead of Friday's nonfarm payrolls and feed into September FOMC pricing. Soft prints could temper hike bets while strong ones, especially on prices or openings, would reinforce the hawkish shift. Fed Governor Barr is also due to speak.",
           "sentiment": "Neutral",
-          "impact": "Data-dependent swings in rate expectations and risk sentiment",
+          "impact": "Data will drive near-term rate-path and risk-asset volatility into NFP",
           "sources": [
-            "https://www.cmegroup.com/education/events/econoday/671167",
-            "https://tradingeconomics.com/united-states/chicago-pmi",
-            "https://www.xtb.com/int/market-analysis/news-and-research/economic-calendar-hawkish-fed-middle-east-tensions-set-the-pace-for-markets-31-08-2026"
+            "https://fedratecalc.com/us-economic-calendar/september-2026/",
+            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--september-2026-.html",
+            "https://www.fxstreet.com/news/us-jolts-job-openings-set-to-show-a-steady-labor-market-202609011000"
           ]
         }
       ]
@@ -157,69 +157,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Strikes Iran Hormuz Launchers; Tehran Hits Jordan Bases",
-          "summary": "US forces hit Iranian rocket launchers on Larak Island in the Strait of Hormuz after spotting IRGC prepping sea mines, the first direct military action in a month. Iran retaliated with missiles on US bases in Jordan. Oil jumped over two percent with Brent back above ninety dollars as shipping traffic stayed severely reduced. Traders should care because another flare-up in the six-month war keeps the energy risk premium alive, feeds inflation fears, and pressures risk assets including Bitcoin.",
+          "title": "US-Iran Strikes Resume; Hormuz Tankers Hit, Oil Spikes",
+          "summary": "After a month of relative calm, the US struck Iranian rocket launchers on Larak Island near the Strait of Hormuz to stop mine-laying, and Iran fired back at US bases in Jordan. Trump vowed to hit Iran hard, while reports came in of tankers struck by projectiles in the strait. Brent crude climbed back above 91 dollars a barrel on supply fears. Traders should care because this keeps energy prices elevated, feeds inflation worries, and keeps risk assets under pressure as the six-month war shows no quick end.",
           "sentiment": "Bearish",
-          "impact": "Oil spike and renewed Hormuz risk premium hit risk assets",
+          "impact": "Higher oil and risk-off pressure on crypto and equities",
           "sources": [
-            "https://www.pbs.org/newshour/world/ap-report-u-s-forces-strike-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks",
-            "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/",
-            "https://www.nytimes.com/section/world/middleeast"
+            "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
+            "https://thesoufancenter.org/intelbrief-2026-september-1/",
+            "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation"
           ]
         },
         {
-          "title": "Trump Venezuela Oil Deal Aims to Refill SPR and Cut Prices",
-          "summary": "The Trump administration is advancing a deal giving the US majority effective control of more than sixty-five billion barrels of Venezuelan proven reserves through a private joint venture covering seventeen fields. Interim Venezuelan leadership welcomed it as bringing roughly one hundred billion dollars in investment. Trump has tied the barrels to restocking the Strategic Petroleum Reserve drawn down in the Iran war and lowering US gasoline prices. For crypto traders this is a potential medium-term supply offset to Middle East disruption if production can actually ramp.",
+          "title": "White House Details Historic Venezuela Oil Control Deal",
+          "summary": "The Trump administration released a fact sheet on its deal giving the US majority influence over more than 65 billion barrels of Venezuelan reserves through a private partner, North American Blue Energy Partners. The US gets a 35 percent equity stake via the Pentagon, rights to buy 20 percent of output at cost for the Strategic Petroleum Reserve, and board veto power. Trump said the US will take all of that oil. This matters for traders as it signals potential long-term boost to Western Hemisphere supply that could eventually ease oil prices and energy inflation.",
           "sentiment": "Bullish",
-          "impact": "Longer-term energy supply relief could ease inflation and support risk assets",
+          "impact": "Potential medium-term oil supply increase supporting risk assets",
           "sources": [
-            "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-            "https://www.reuters.com/business/energy/us-enters-into-oil-agreement-with-venezuela-trump-says-2026-08-28/",
-            "https://www.cnn.com/2026/08/28/politics/trump-venezuela-oil-deal"
+            "https://www.bloomberg.com/news/articles/2026-09-01/us-gets-board-veto-right-of-first-refusal-in-venezuela-oil-deal",
+            "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
+            "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal"
           ]
         },
         {
-          "title": "US Escalates Iran Sanctions, Targets UAE Bank Channels",
-          "summary": "Treasury is pressing Operation Economic Outcast, proposing to cut Banque Misr’s UAE branches from the US financial system over alleged Iranian shadow-banking flows and sanctioning related facilitators. Secretary Bessent is pushing G20 counterparts to isolate Tehran further while China remains defiant as the top buyer of Iranian oil. The campaign aims to choke remaining revenue after the naval blockade. Markets watch whether secondary sanctions spread to bigger players and raise global financial friction.",
+          "title": "Trump Brings Russia Back to G20; Europe Snubs Photo",
+          "summary": "Russian Finance Minister Anton Siluanov attended the US-hosted G20 finance ministers meeting in Asheville for the first time in person since the Ukraine invasion, meeting Treasury Secretary Bessent. European officials refused the traditional family photo with him and voiced strong objections. Trump defended it saying he likes getting along with everybody, while Bessent stressed no economic relief until the war ends. Crypto traders should watch this as a signal of shifting US-Russia diplomacy that could affect sanctions, energy markets, and broader geopolitical risk premiums.",
           "sentiment": "Neutral",
-          "impact": "Tighter pressure on Iran could shorten conflict or spark China retaliation",
+          "impact": "Diplomatic thaw signal but Europe friction keeps uncertainty high",
           "sources": [
-            "https://home.treasury.gov/news/press-releases/sb0617",
-            "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
-            "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31"
+            "https://www.politico.com/news/2026/08/31/bessent-welcomes-russia-back-to-g20-as-europe-pushes-back-01058296",
+            "https://www.independent.co.uk/news/world/europe/trump-russia-finance-minister-exile-b3042610.html",
+            "https://www.cnbctv18.com/world/us-irks-g20-ministers-by-bringing-back-russia-barring-journalists-19980961.htm"
           ]
         },
         {
-          "title": "Putin, Xi and Iran’s President Meet at SCO Summit",
-          "summary": "Leaders including Vladimir Putin, Xi Jinping, Iran’s Masoud Pezeshkian, India’s Modi and others gather in Bishkek for the Shanghai Cooperation Organisation summit. Bilateral talks are expected on energy, the Ukraine war and the Iran conflict amid heavy sanctions on Moscow and Tehran. The meeting underscores a tightening non-Western bloc. Crypto and risk traders note any signals of deeper energy or financial coordination that could blunt US sanctions leverage.",
-          "sentiment": "Neutral",
-          "impact": "Axis coordination may prolong sanctions resistance without immediate market shock",
-          "sources": [
-            "https://www.euractiv.com/news/russias-putin-and-chinas-xi-to-attend-summit-in-kyrgyzstan/",
-            "https://en.wikipedia.org/wiki/Portal:Current_events",
-            "https://asia.nikkei.com/politics/rest-of-the-world"
-          ]
-        },
-        {
-          "title": "Russia Strike Kills 38 Near Kyiv; Energy Attacks Threatened",
-          "summary": "A Russian strike on an ammunition warehouse west of Kyiv killed at least thirty-eight people in the deadliest attack of the year there, with secondary blasts devastating nearby homes and a care facility. Russia signaled preparation for massive strikes on Ukrainian energy infrastructure. The war continues to grind with heavy drone and missile use. Persistent European conflict remains a background drag on risk sentiment and energy security.",
+          "title": "Russia's Sixth Night of Strikes Kills Dozen in Kyiv Area",
+          "summary": "Russian missiles and drones pounded Kyiv and surrounding areas overnight, killing at least 12 people including railway workers and injuring others, with fires across multiple districts. It marked the sixth straight night of attacks on the capital as Ukraine struggles with air defense shortages. Zelenskyy called for more interceptors from allies. This keeps the Ukraine war hot and could pressure European energy and defense spending, feeding into broader risk sentiment for markets.",
           "sentiment": "Bearish",
-          "impact": "Ongoing war and energy targeting sustain risk-off undertone",
+          "impact": "Sustained European security risk and potential energy volatility",
           "sources": [
-            "https://www.reuters.com/world/europe/kyiv-region-strike-death-toll-rises-38-zelenskiy-says-2026-08-30/",
-            "https://www.washingtonpost.com/world/2026/08/30/russia-ukraine-war-strikes-attacks-energy-oil-gas-drones-warehouse/784232c2-a44f-11f1-9e38-f705d048bd5a_story.html",
-            "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html"
+            "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv",
+            "https://meduza.io/en/news/2026/09/01/russia-strikes-kyiv-and-surrounding-region-killing-more-than-10-people",
+            "https://www.reuters.com/world/europe/explosions-heard-ukraines-kyiv-four-people-injured-2026-09-01/"
           ]
         },
         {
-          "title": "US Generals Warn Prolonged Iran War Drains Readiness",
-          "summary": "A classified assessment and Washington Post reporting show senior military leaders formally warning Defense Secretary Hegseth that extended large-scale Iran operations are unsustainable. Stocks of interceptors and precision munitions are heavily depleted and Navy readiness is strained, weakening deterrence elsewhere including the Pacific. The administration is shifting emphasis toward economic pressure and the blockade. This caps the probability of unlimited escalation and keeps the conflict in a war-of-attrition mode that markets have partially priced.",
+          "title": "Xi, Putin, Modi Deepen Ties at SCO Summit in Bishkek",
+          "summary": "Leaders including China's Xi Jinping, Russia's Putin, India's Modi, and Iran's president gathered in Kyrgyzstan for the Shanghai Cooperation Organization summit marking 25 years. Xi and Putin pledged deeper coordination amid global uncertainty, framing the group as a multipolar counterweight. The meeting comes as both Russia and Iran face Western pressure from ongoing wars. Traders note this as a potential strengthening of non-Western economic and energy alignments that could influence sanctions evasion and commodity flows.",
           "sentiment": "Neutral",
-          "impact": "Limits to kinetic campaign may stabilize but not remove the risk premium",
+          "impact": "Longer-term multipolar shift with mixed effects on sanctions and trade",
           "sources": [
-            "https://www.washingtonpost.com/world/",
-            "https://oilprice.com/Geopolitics/",
-            "https://www.justsecurity.org/155508/early-edition-august-28-2026/"
+            "https://www.caixinglobal.com/2026-09-01/xi-and-putin-pledge-deeper-coordination-at-sco-summit-in-bishkek-102480473.html",
+            "https://www.japantimes.co.jp/news/2026/09/01/world/politics/putin-xi-kyrgyzstan-regional-summit/",
+            "http://en.kremlin.ru/events/president/news/copy/80652"
+          ]
+        },
+        {
+          "title": "US Army Secretary Resigns Amid Hegseth Tensions, Two Wars",
+          "summary": "Army Secretary Dan Driscoll submitted his resignation after clashing with Defense Secretary Pete Hegseth over leadership firings and transformation efforts. The Army now lacks confirmed top civilian and military leaders while engaged in the Iran conflict and supporting Ukraine. The White House praised his work but the exit adds to a string of Pentagon shakeups. Markets watch military leadership stability as a signal of US capacity to manage simultaneous conflicts without further escalation or readiness gaps.",
+          "sentiment": "Neutral",
+          "impact": "Political-military uncertainty with limited immediate price catalyst",
+          "sources": [
+            "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
+            "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
+            "https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth"
           ]
         }
       ]
