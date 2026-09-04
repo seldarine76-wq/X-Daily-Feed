@@ -1,78 +1,82 @@
 {
-  "generated_at": "2026-09-03T12:05:07+00:00",
+  "generated_at": "2026-09-04T12:05:32+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bullish",
-  "overall_summary": "Bitcoin looks constructive after reclaiming seventy-seven five and posting fresh ETF inflows, helped by softer jobs data and new institutional product launches. Geopolitical heat around Iran and oil near ninety-five plus higher rate-hike odds keep macro risk elevated, so the tone is cautiously risk-on rather than runaway bullish. Near-term crypto catalysts still outweigh the noise heading into Friday’s NFP.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is holding strong momentum from heavy ETF inflows and a short squeeze above eighty-one thousand, backed by dovish Fed signals. At the same time, Iran striking U.S. bases and rising oil prices inject clear geopolitical and inflation risk. The upcoming jobs report leaves the near-term path finely balanced for crypto.",
   "key_points": [
-    "BTC reclaims $77.5K off key support",
-    "ETF inflows return at $101M",
-    "New institutional spot and futures access",
-    "Soft ADP supports risk-on setup",
-    "Oil spike and Iran tensions cap upside"
+    "Bitcoin ETFs see $731M inflows",
+    "Short squeeze lifts BTC through $81K",
+    "Iran-U.S. strikes drive oil higher",
+    "Waller leans toward holding rates",
+    "NFP report eyed for Fed clues"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Reclaims $77.5K After Defending Key Cost-Basis Support",
-          "summary": "Bitcoin bounced roughly one and a half percent to trade above seventy-seven thousand six hundred dollars after dipping to about seventy-six thousand four hundred. Buyers stepped in right at the average cost basis of active on-chain investors near seventy-six thousand three hundred fifty, absorbing breakeven sellers. The rebound came despite higher oil from renewed Middle East tensions, ten-year yields near four point eight percent, and elevated Fed hike odds, though those odds eased a bit. Traders should watch Friday's jobs report, which could swing rate expectations and decide whether eighty thousand comes back into play.",
+          "title": "Bitcoin ETFs See $731M Inflows, Biggest Day Since January",
+          "summary": "US spot Bitcoin ETFs pulled in roughly seven hundred thirty-one million dollars on September third, the strongest single session since mid-January. BlackRock's IBIT alone took in about four hundred fifty-four million, with ARK and Fidelity also strong, lifting total ETF net assets above one hundred three billion dollars. Traders should care because this is fresh institutional demand hitting the market right as price reclaimed eighty thousand, and sticky inflows can keep dips bought.",
           "sentiment": "Bullish",
-          "impact": "Confirmed hold of key support reduces downside risk short-term",
+          "impact": "Supports higher prices via steady spot buying pressure",
           "sources": [
-            "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-            "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-77-000-as-oil-surge-geopolitical-risks-pressure-crypto-can-it-reclaim-78-000-14021611.html"
+            "https://en.cryptonomist.ch/2026/09/04/us-bitcoin-etf-inflows-surge/",
+            "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+            "https://thriveinmarkets.com/etf-flows/"
           ]
         },
         {
-          "title": "Standard Chartered Launches Institutional BTC ETH Spot in UAE",
-          "summary": "Standard Chartered became the first global systemically important bank to offer institutional spot Bitcoin and Ether trading in the UAE through its DIFC entity. Eligible clients can execute deliverable trades via the bank's existing electronic FX platforms and settle with their chosen custodian, including the bank's own. This expands the bank's earlier UK offering and custody services into a major Middle East hub. It signals deeper traditional bank integration and easier on-ramps for regional institutional capital into crypto.",
+          "title": "Bitcoin Clears $81K as Fed Hike Odds Fade on Waller Comments",
+          "summary": "Bitcoin pushed through the eighty-one thousand level that capped it in late August and briefly tagged above eighty-two thousand, up roughly four to five percent over twenty-four hours. Fed Governor Christopher Waller said he leans toward holding rates steady in September if inflation keeps cooling, and markets slashed September hike odds toward a coin flip from over sixty percent. This is classic risk-on fuel: lower yields and a softer dollar lift Bitcoin and the whole complex, so watch whether it holds the break for follow-through.",
           "sentiment": "Bullish",
-          "impact": "Expands regulated institutional access and potential Middle East inflows",
+          "impact": "Macro tailwind that can extend the rebound if data cooperates",
           "sources": [
-            "https://www.sc.com/en/press-release/standard-chartered-becomes-first-global-systemically-important-bank-g-sib-to-launch-institutional-bitcoin-and-ether-spot-trading-in-the-uae/",
-            "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
-            "https://crypto.news/standard-chartered-brings-institutional-bitcoin-ether-trading-to-uae/"
+            "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+            "https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-past-81k-as-rate-hike-fears-cool-regulatory-hopes-grow-4888849",
+            "https://dailycoin.com/bitcoin-jumps-6-8-to-four-month-high-as-waller-eases-fed-rate-hike-fears/"
           ]
         },
         {
-          "title": "Bitcoin ETFs Rebound With $101M Inflow After $236M Outflow",
-          "summary": "US spot Bitcoin ETFs flipped back to a net one hundred one million dollar inflow on September second after a two hundred thirty-six million dollar outflow the prior session, led by BlackRock's IBIT. The swing comes after a strong August of multi-billion inflows that pushed assets near one hundred billion. Ethereum products saw outflows in the latest session while some altcoin funds had mixed results. Flow volatility like this often precedes sharper price moves, so sustained positive prints would support the bid.",
+          "title": "Hundreds of Millions in Shorts Liquidated in Bitcoin Squeeze",
+          "summary": "The rally forced large short covering, with reports of four hundred to five hundred million dollars or more in crypto liquidations over twenty-four hours, the bulk from shorts, plus tens of millions specifically on Zcash. Bitcoin and majors did most of the damage as price ripped higher. For traders this matters because a short squeeze can overshoot levels fast, but once the forced buying fades the move can stall without fresh spot demand.",
           "sentiment": "Bullish",
-          "impact": "Renewed institutional demand supports price after brief selling pressure",
+          "impact": "Near-term upside acceleration that may fade without new buyers",
           "sources": [
-            "https://bykaranteli.com/etf/btc",
-            "https://farside.co.uk/btc/",
-            "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow"
+            "https://tass.com/economy/2182451",
+            "https://www.bitget.com/news/detail/12560605785353",
+            "https://bykaranteli.com/liquidations"
           ]
         },
         {
-          "title": "Bitcoin Nears Golden Cross as USDT Dominance Signals Risk-On",
-          "summary": "Bitcoin is approaching a classic golden cross where its fifty-day moving average crosses above the two-hundred-day average, a signal with mixed but often positive three-month history averaging nearly twenty-five percent gains. At the same time, USDT market dominance is nearing a death cross, which historically points to capital rotating out of stablecoins into crypto. The combination is getting attention as a potential longer-term bullish setup even if lagging indicators. Traders should treat it as confirmatory rather than a precise timing tool until the crosses actually print.",
+          "title": "Zcash Hits $1,000 as Privacy Coins Lead Broad Rally",
+          "summary": "Zcash surged about fifteen to twenty percent, briefly clearing one thousand dollars and triggering roughly thirty-four million in short liquidations, while Dash jumped near twenty percent and Monero also rose. The move came with no single new catalyst beyond the broader risk-on tape and lingering interest around the Grayscale Zcash ETF product. Traders should note privacy coins leading often signals risk appetite expanding beyond Bitcoin, which can spill into alts if Bitcoin holds its levels.",
+          "sentiment": "Bullish",
+          "impact": "Altcoin risk-on signal that can broaden market breadth",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+            "https://news.finst.com/en",
+            "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million"
+          ]
+        },
+        {
+          "title": "House Calendar Cut Makes Clarity Act Pre-Midterm Passage Unlikely",
+          "summary": "House Republicans canceled the last two weeks of September votes, moving departure to around September seventeenth right after the Senate's planned September fifteenth procedural vote on the Clarity market-structure bill. That leaves almost no time to reconcile any Senate changes with the House-passed version before lawmakers leave for the midterms. This is a real overhang for the industry: regulatory clarity delays can keep institutions cautious even when price is rising, and odds of a 2026 law now lean more toward a lame-duck scramble.",
+          "sentiment": "Bearish",
+          "impact": "Regulatory overhang that may cap institutional enthusiasm",
+          "sources": [
+            "https://cryptoslate.com/clarity-act-may-be-heading-for-lame-duck-after-house-republicans-slash-the-calendar/",
+            "https://beincrypto.com/clarity-act-house-cancels-voting-days/"
+          ]
+        },
+        {
+          "title": "IMF Confirms El Salvador Bitcoin Adds Came From Private Donations",
+          "summary": "The IMF verified that Bitcoin added to El Salvador's holdings since the first program review came from private donations, not public funds, and said no further accumulation beyond those gifts is expected. The staff-level deal on loan reviews could unlock about one hundred forty million dollars if the board approves. For markets this mostly removes a fiscal FUD overhang and shows sovereign Bitcoin holdings can persist under IMF programs, but it also ends active public-sector buying as a narrative driver.",
           "sentiment": "Neutral",
-          "impact": "Upcoming technical signals could reinforce upside if confirmed",
+          "impact": "Removes sovereign-buying FUD without adding new demand",
           "sources": [
-            "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time"
-          ]
-        },
-        {
-          "title": "CFTC Seeks Dismissal of CME Lawsuit Over Crypto Perpetuals",
-          "summary": "The CFTC asked a court to throw out CME Group's lawsuit challenging the agency's approval of Bitcoin perpetual futures, calling the suit frivolous and arguing CME lacks standing. The regulator defends classifying true perpetuals as futures rather than swaps, which keeps a lighter path for listings. This fight will shape how quickly more US-regulated crypto perps can launch after Kalshi's earlier approval. A win for the CFTC would accelerate onshore derivatives innovation and competition.",
-          "sentiment": "Bullish",
-          "impact": "Clears path for more regulated US crypto perpetual products",
-          "sources": [
-            "https://cryptobriefing.com/cftc-dismiss-cme-kalshi-bitcoin-futures/",
-            "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures"
-          ]
-        },
-        {
-          "title": "Coinbase Rolls Out BTC ETH SOL Futures for Canadian Traders",
-          "summary": "Coinbase launched twenty-three regulated perpetual and dated crypto futures for eligible sophisticated and institutional Canadian clients, covering Bitcoin, Ether, Solana and others with up to ten times leverage plus nano contracts. Commodity and index futures were also added. It is the first major crypto-native platform offering native crypto futures directly in Canada, giving locals a regulated alternative to offshore venues. More accessible leveraged products can boost volume and hedging but also raise liquidation risk in volatile sessions.",
-          "sentiment": "Bullish",
-          "impact": "Increases regulated derivatives access and potential trading volume",
-          "sources": [
-            "https://cryptobriefing.com/coinbase-canada-leveraged-bitcoin-contracts/",
-            "https://crypto.news/coinbase-launches-10x-crypto-futures-in-canada/"
+            "https://blockonomi.com/el-salvador-bitcoin-purchases-came-from-private-donations-imf-confirms/",
+            "https://cryptobriefing.com/imf-el-salvador-140m-agreement/",
+            "https://en.cryptonomist.ch/2026/09/04/el-salvador-bitcoin-growth/"
           ]
         }
       ]
@@ -81,67 +85,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Soft ADP Jobs Data Ahead of Critical Friday NFP",
-          "summary": "Private payrolls rose just 38,000 in August, the slowest since January and well below the roughly 47,000 expected. Strength in education, health, leisure and construction was offset by losses in manufacturing and professional services. Traders should care because this soft print raises the stakes for tomorrow's official nonfarm payrolls report, which will heavily influence September Fed rate-hike odds and risk appetite including Bitcoin.",
+          "title": "US August Jobs Report Due; NFP Eyed for Fed Path",
+          "summary": "The August employment situation lands at eight thirty Eastern this morning. Economists look for a rebound of about fifty five to fifty six thousand nonfarm payrolls after July's surprise drop of twenty three thousand, with the unemployment rate holding at four point one percent and average hourly earnings up zero point three percent. This print is the last major labor reading before the mid September FOMC and will shape the coin flip odds on a rate hike. Traders should care because a hot number could revive hike bets and tighten financial conditions while a soft one supports the hold case and keeps risk assets supported.",
+          "sentiment": "Neutral",
+          "impact": "High volatility for yields, dollar, and risk assets including Bitcoin depending on surprise",
+          "sources": [
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
+            "https://fedratecalc.com/us-economic-calendar/september-2026/",
+            "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates"
+          ]
+        },
+        {
+          "title": "Fed's Waller Inclined to Hold Rates if Disinflation Holds",
+          "summary": "Governor Christopher Waller said recent data show signs of disinflation and he would be inclined to keep the federal funds rate unchanged at the September meeting if the trend continues, though a hot August inflation print could still justify a hike. Markets immediately cut the odds of a September hike from around sixty three percent to roughly fifty percent. Yields fell, the dollar weakened, and stocks rallied on the remarks. Crypto traders should watch this because it lowers near term policy tightening risk and has already eased financial conditions.",
           "sentiment": "Bullish",
-          "impact": "Weaker labor data could ease hike pressure and support risk assets",
+          "impact": "Reduced hike odds support risk assets and lower yields",
           "sources": [
-            "https://www.usnews.com/news/national-news/articles/2026-09-02/adp-38k-jobs-created-in-august-fewer-than-expected",
-            "https://www.reuters.com/business/us-private-payrolls-growth-slows-august-adp-says-2026-09-02/",
-            "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html"
+            "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
+            "https://www.ft.com/content/0a332e3c-e596-4f64-976a-d7746f91a9a9"
           ]
         },
         {
-          "title": "NY Fed's Williams: Yields Reflect Strong Economy, Wait-and-See on Rates",
-          "summary": "New York Fed President John Williams said the recent rise in long-term Treasury yields stems from a solid US economy and heavy AI and data-center investment rather than inflation fears or dysfunction. He remains data-dependent and did not commit on a September hike, noting recent inflation readings have been encouraging. Crypto traders should watch this closely as it tempers some of the hawkish momentum while leaving the door open, keeping rate volatility high into the jobs report and FOMC.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signal leaves Sep hike odds elevated but not locked in",
-          "sources": [
-            "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-            "https://www.reuters.com/business/finance/feds-williams-ties-rising-bond-yields-strong-economy-cnbc-reports-2026-09-02/",
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/"
-          ]
-        },
-        {
-          "title": "Markets Price 60% Odds of September Fed Rate Hike",
-          "summary": "Money markets now assign roughly a 60 percent chance the Federal Reserve raises rates this month, up sharply from under 40 percent a week earlier, as inflation concerns from oil and geopolitics persist. Ten-year yields eased a few basis points to around 4.77 percent and the dollar index slipped toward 99.25 as traders positioned ahead of data. For Bitcoin and risk assets this keeps a hawkish overhang that can pressure prices until clearer labor or inflation signals arrive.",
+          "title": "ISM Services PMI Hits 55.4 as Prices Paid Surge",
+          "summary": "The August ISM Services PMI rose to fifty five point four from fifty four point one, beating forecasts, with strong gains in business activity and new orders. Employment stayed in contraction at forty seven point eight while the prices paid index jumped to seventy two point six, a multi year high. This shows solid demand in the dominant sector of the economy but persistent cost pressures. For traders it reinforces the inflation watch ahead of CPI and the FOMC, potentially keeping the Fed cautious about easing or even open to hikes.",
           "sentiment": "Bearish",
-          "impact": "Elevated hike probability weighs on risk appetite and crypto",
+          "impact": "Heightens inflation concerns and supports higher-for-longer rate narrative",
           "sources": [
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/",
-            "https://www.reuters.com/world/china/global-markets-view-europe-2026-09-03/"
+            "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/august/",
+            "https://www.reuters.com/business/strong-demand-boosts-us-services-sector-activity-august-2026-09-03/",
+            "https://tradingeconomics.com/united-states/non-manufacturing-pmi"
           ]
         },
         {
-          "title": "Fed Beige Book Shows Modest Growth Amid Uncertainty",
-          "summary": "The latest Beige Book reported economic activity increased modestly since early July, with employment rising only slightly and prices climbing moderately. Contacts flagged heightened uncertainty from elevated energy prices, policy and international conflict, while data-center demand provided some support. Traders care because this qualitative snapshot feeds into the September FOMC decision and underscores that growth is holding but inflation risks remain live.",
+          "title": "Treasury Yields Ease After Volatile Week Ahead of Payrolls",
+          "summary": "The ten year yield settled near four point seven five to four point seven six percent after hitting multi year highs earlier in the week on inflation and fiscal worries plus hawkish Fed comments. Waller's remarks sparked a rally that pulled yields lower, with the two year also retreating. Markets are now calm but focused on whether today's jobs data revives the climb. Bond moves matter for crypto because rising yields tighten liquidity while falling ones ease it and often lift Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "Supports steady policy stance but highlights ongoing inflation risks",
+          "impact": "Yield direction post-NFP will drive risk appetite and dollar moves",
           "sources": [
-            "https://www.minneapolisfed.org/beige-book-reports/2026/2026-09-su",
-            "https://www.bloomberg.com/news/articles/2026-09-02/fed-s-beige-book-shows-economic-activity-up-modestly-since-july",
-            "https://www.reuters.com/de/wirtschaft/fed-bericht-us-wirtschaft-wchst-leicht-preise-steigen-moderat-2026-09-03/"
+            "https://www.bloomberg.com/news/articles/2026-09-04/us-yield-swings-abate-before-jobs-data-after-volatile-week",
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
+            "https://www.gurufocus.com/economic_indicators/37/10-year-treasury-yield"
           ]
         },
         {
-          "title": "Key US Data Today: Claims, Trade, ISM Services, Waller",
-          "summary": "Thursday brings initial jobless claims, the July trade balance, Q2 productivity and unit labor costs, final services PMIs, and the ISM Services index, plus a speech from Fed Governor Christopher Waller. The trade deficit is expected to widen sharply after the goods advance already showed a large gap, while ISM is eyed near 54. Crypto desks should monitor these for any surprise that shifts Friday NFP expectations or rate-hike pricing in the final stretch before the FOMC.",
-          "sentiment": "Neutral",
-          "impact": "Data dump will set tone for NFP and near-term Fed bets",
+          "title": "US Dollar Softens Then Stabilizes Near 99 on Dovish Shift",
+          "summary": "The dollar index dropped roughly zero point six percent overnight after Waller's comments cooled rate hike bets and yields fell, trading around ninety nine against major peers. It has since stabilized ahead of the jobs report while the yen gained sharply for the week. A weaker dollar typically helps Bitcoin and other risk assets by improving global liquidity conditions. Traders need to watch whether a strong NFP reverses the soft tone or a soft print extends the dollar's decline.",
+          "sentiment": "Bullish",
+          "impact": "Weaker DXY supportive for crypto and commodities if sustained",
           "sources": [
-            "https://www.tipranks.com/calendars/economic",
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/",
-            "https://finance.yahoo.com/calendar/economic/"
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
+            "https://www.bloomberg.com/quote/DXY:CUR",
+            "https://www.wsj.com/market-data/quotes/index/US/IFUS/DXY"
           ]
         },
         {
-          "title": "Oil Near $95 and Geopolitics Fuel Inflation Fears",
-          "summary": "Brent crude hovered near 95 dollars amid renewed US-Iran military exchanges, keeping energy-driven inflation risks elevated even as prices eased slightly on the day. This backdrop has helped lift odds of tighter Fed policy and supported higher long-term yields recently. Bitcoin traders need to track it because sticky energy costs can keep the Fed hawkish longer, strengthening the dollar and weighing on crypto risk appetite.",
+          "title": "Oil Near Multi-Week Highs Adds Inflation Pressure",
+          "summary": "Brent crude held near ninety five to ninety six dollars a barrel and is up about seven percent on the week amid ongoing US Iran tensions and supply concerns. Elevated energy prices are feeding into services price pressures already flagged by ISM and remain a key upside risk for inflation readings. This keeps the Fed on alert even as some officials see broader disinflation. Crypto traders should note that sticky energy driven inflation can sustain higher rates and weigh on risk assets if it forces a more hawkish policy path.",
           "sentiment": "Bearish",
-          "impact": "Sustained high oil supports higher-for-longer rates narrative",
+          "impact": "Sustains inflation risks that could limit Fed patience and pressure liquidity",
           "sources": [
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/",
-            "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html"
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
+            "https://www.bloomberg.com/news/articles/2026-09-04/us-yield-swings-abate-before-jobs-data-after-volatile-week",
+            "https://www.home.saxo/content/articles/macro/market-quick-take---markets-rally-as-waller-turns-dovish-jobs-report-takes-centre-stage-04092026"
           ]
         }
       ]
@@ -150,69 +156,67 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US-Iran Strikes Escalate Near Hormuz; Oil Near $95",
-          "summary": "The United States and Iran exchanged their heaviest fire in weeks, with US forces hitting dozens of IRGC radar, missile and mine-laying sites around the Strait of Hormuz while escorting oil tankers. Iran retaliated against US bases in the Gulf region and blacklisted more vessels. Shipping traffic remains well below normal and oil is holding near multi-week highs around ninety-five dollars Brent after a sharp rally. Traders should care because prolonged Hormuz disruption keeps energy prices elevated, feeds inflation fears, and supports a risk-off tone that has already pressured Bitcoin.",
+          "title": "Iran Strikes US Bases in Kuwait, UAE After Deadly Exchange",
+          "summary": "Iran launched missile and drone attacks on US facilities in Kuwait and the UAE, claiming hits on air bases in retaliation for recent American strikes that killed Iranian personnel and civilians, including a reported wedding party strike under investigation. The US has been pounding IRGC targets near the Strait of Hormuz while Iran keeps pressure on Gulf shipping and allies. This is the fiercest flare-up in weeks in a seven-month war. Traders should care because it keeps energy risk elevated and can trigger broader risk-off moves across equities and crypto.",
           "sentiment": "Bearish",
-          "impact": "Elevated oil and geopolitical risk premium weigh on risk assets and crypto",
+          "impact": "Heightened Middle East risk premium and potential further oil spikes",
           "sources": [
-            "https://finance.yahoo.com/markets/commodities/articles/oil-edges-down-investors-weigh-004930087.html",
-            "https://www.scmp.com/news/world",
-            "https://m.economictimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms"
+            "https://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
+            "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
+            "http://www.china.org.cn/world/Off_the_Wire/2026-09/03/content_118679583.shtml"
           ]
         },
         {
-          "title": "Zelensky Warns Russian Skies Unsafe; Flights Cancelled",
-          "summary": "Ukrainian President Zelensky declared Russian airspace effectively closing and unsafe for civilian aviation due to expanding Ukrainian drone operations, formally notifying ICAO. Moscow airports saw dozens of cancellations and hundreds of delays, with several foreign carriers suspending flights. Russia called the warning state terrorism and vowed no major disruption. This raises the economic cost of the war for Russia and keeps European security risk elevated for markets.",
+          "title": "Oil Heads for Strong Weekly Gain on US-Iran Hostilities",
+          "summary": "Brent crude is set for roughly a 6.5 percent weekly rise and WTI even stronger gains even after a mild Friday pullback, with prices around 95 and 91 dollars respectively. Reduced tanker traffic through the Strait of Hormuz and the latest US-Iran strikes are driving the risk premium higher, while US diesel hit record levels. Analysts have raised near-term forecasts on supply fears. Crypto traders watch this closely because sustained high energy prices feed inflation worries and often pressure risk assets.",
           "sentiment": "Bearish",
-          "impact": "Heightened war escalation risk supports defensive positioning and volatility",
+          "impact": "Energy shock risk-off pressure on equities and crypto",
           "sources": [
-            "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-uk-germany-b3043169.html",
-            "https://www.kyivpost.com/post/83614",
-            "https://www.usnews.com/news/world/articles/2026-09-02/moscow-vows-to-avoid-airspace-disruption-despite-zelenskiys-aviation-warning"
+            "https://www.reuters.com/business/energy/oil-set-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions-2026-09-04/",
+            "https://www.reuters.com/business/energy/oil-prices-rise-escalation-middle-east-2026-09-03/"
           ]
         },
         {
-          "title": "Norway Seizes Russian Ship Over $4.2 Billion Naftogaz Claim",
-          "summary": "Norwegian authorities arrested the Russian vessel Professor Molchanov in Svalbard to enforce a Hague arbitral award of about 4.2 billion dollars won by Ukraine's Naftogaz for assets seized after the 2014 Crimea annexation. Russia labelled the action piracy. This is part of a broader global effort by Naftogaz to seize Russian assets. It adds another flashpoint in Europe-Russia relations and underscores ongoing sanctions and asset-enforcement pressure.",
+          "title": "China Rare Earth Firms Halt Some US Shipments",
+          "summary": "Multiple Chinese rare earth suppliers are refusing or delaying shipments to US customers over fear of Beijing backlash, even with export licenses in some cases, sources told Reuters. The issue sits on the agenda ahead of Xi Jinping’s planned late-September visit to Washington and follows earlier sanctions and truce frictions. Rare earths are critical for defense, semiconductors, aerospace and energy tech. This keeps supply-chain uncertainty alive and can hit industrial and tech names that crypto markets often track as risk proxies.",
           "sentiment": "Neutral",
-          "impact": "Incremental Russia-West tension; limited immediate market move but signals enforcement escalation",
+          "impact": "Ongoing critical-minerals friction ahead of Trump-Xi summit",
           "sources": [
-            "https://www.reuters.com/world/norway-seizes-russian-ship-over-naftogaz-award-company-says-2026-09-02/",
-            "https://www.kyivpost.com/post/83612",
-            "https://www.naftogaz.com/en/news/norway-seizes-russian-vessel-following-naftogaz-application-to-enforce-4-22-billion-award"
+            "https://www.reuters.com/business/aerospace-defense/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-2026-09-04/",
+            "https://www.firstpost.com/business/china-rare-earth-suppliers-hold-back-us-shipments-14043255.html"
           ]
         },
         {
-          "title": "Dutch Central Bank Shifts Gold from US and Canada to London",
-          "summary": "De Nederlandsche Bank moved roughly 86 tonnes of gold, worth over 10 billion euros, out of New York and Ottawa vaults to the Bank of England, citing increasing geopolitical unrest and the need for better crisis liquidity. London now holds the largest share of Dutch reserves. The move highlights European concerns over US reliability amid trade tensions and could encourage similar shifts if other central banks follow.",
+          "title": "Putin Sees Chance of Ukraine Peace as US Envoys Eye Visits",
+          "summary": "Russian President Vladimir Putin said there is a chance of a peace agreement with Ukraine, stressing Moscow and Kyiv must ultimately settle it themselves while noting US and Chinese support readiness. Ukrainian President Zelenskiy said preliminary dates are set for US negotiators to visit both Kyiv and Moscow. Contacts continue through security channels amid ongoing fighting. Any credible de-escalation path would be a clear positive for risk appetite and European energy and growth outlooks that matter for global markets.",
+          "sentiment": "Bullish",
+          "impact": "Potential risk-on relief if talks gain traction",
+          "sources": [
+            "https://www.reuters.com/world/europe/putin-cites-chance-peace-deal-zelenskiy-says-us-negotiators-visit-both-countries/",
+            "https://www.intellinews.com/putin-holds-out-a-ukraine-deal-while-russia-braces-for-a-longer-war-465785/",
+            "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html"
+          ]
+        },
+        {
+          "title": "Norway Seizes Russian Ship in Arctic Over Crimea Claim",
+          "summary": "Norwegian authorities seized the Russian research vessel Professor Molchanov in Svalbard to enforce a multi-billion-dollar arbitration award won by Ukraine’s Naftogaz for assets Russia took in Crimea. Moscow called it piracy, summoned Norway’s ambassador, and vowed to challenge the move. It is one of the first Western seizures under the Hague ruling and tests Arctic access rules under the Svalbard Treaty. This adds another layer of Russia-West confrontation that can keep geopolitical risk elevated.",
           "sentiment": "Neutral",
-          "impact": "Mildly supportive for gold; subtle signal of reduced confidence in US-held assets",
+          "impact": "Fresh Russia-West friction with limited direct market spillover",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cvgy51xlz39o",
-            "https://www.dnb.nl/en/general-news/press-release-2026/dnb-improves-tradability-of-gold-reserves/",
-            "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest"
+            "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+            "https://apnews.com/article/norway-russia-vessel-seizure-arbitration-ukraine-crimea-19fe5d3ed43bf6d892be450e357d9e35",
+            "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim"
           ]
         },
         {
-          "title": "SCO Summit Condemns US Strikes on Iran, Pushes Multipolar Order",
-          "summary": "Leaders including Xi, Putin and Iran's Pezeshkian wrapped the SCO summit in Bishkek with a declaration condemning military strikes on Iran and Western sanctions while calling for multipolar governance and greater use of national currencies. Putin pledged support to Iran and trade among members was highlighted as rising. The gathering reinforces an alternative bloc to Western institutions at a time of active US-Iran fighting.",
+          "title": "Dutch Central Bank Shifts Gold Out of US Citing Unrest",
+          "summary": "The Netherlands moved roughly 86 tonnes of gold out of US and Canadian vaults toward London and home storage, citing increasing geopolitical unrest and the need for better crisis readiness and tradability. It is the second European central bank this year to reduce New York holdings after France. The move reflects broader caution about assets held in the United States amid wars and sanctions risks. Gold strength and central-bank diversification can signal underlying safe-haven demand that sometimes coincides with risk-asset caution.",
           "sentiment": "Neutral",
-          "impact": "Longer-term challenge to dollar-centric order; limited short-term price catalyst",
+          "impact": "Supports gold; mild signal of Western reserve diversification",
           "sources": [
-            "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit",
-            "https://www.fmprc.gov.cn/eng/xw/zyxw/202609/t20260902_12014278.html",
-            "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
-          ]
-        },
-        {
-          "title": "Russia Intensifies Strikes on Kyiv and Odesa Amid Air Campaign",
-          "summary": "Russian drones and missiles continued pounding Ukrainian cities including a seventh straight day of pressure on Kyiv and strikes wounding civilians in Odesa, damaging power and residential infrastructure. Ukraine downed large numbers of drones but frontline fighting remains intense. Putin has ordered preparation for more massive strikes. Persistent energy and logistics disruption in the Black Sea region keeps grain and broader commodity risk elevated.",
-          "sentiment": "Bearish",
-          "impact": "Sustains European energy and food-supply uncertainty supporting risk-off flows",
-          "sources": [
-            "https://www.reuters.com/world/europe/russian-attacks-damage-infrastructure-ukraines-odesa-official-says-2026-09-02/",
-            "https://kyivindependent.com/news-archive/",
-            "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-uk-germany-b3043169.html"
+            "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
+            "https://www.axios.com/2026/09/04/moving-gold-out-of-us-dutch-central-bank",
+            "https://finance.yahoo.com/markets/commodities/articles/dutch-bank-moves-11-6b-101500368.html"
           ]
         }
       ]
