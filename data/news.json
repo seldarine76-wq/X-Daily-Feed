@@ -1,81 +1,83 @@
 {
-  "generated_at": "2026-09-11T12:04:55+00:00",
+  "generated_at": "2026-09-12T12:04:32+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin faces heavy pressure today as hot inflation data and climbing Fed hike odds drive yields higher and keep risk assets on the defensive. ETF outflows and leveraged long liquidations add to the selling, while elevated oil prices and fresh geopolitical shocks reinforce the risk-off tone. Regulatory progress offers a modest bright spot but is unlikely to offset the macro headwinds near term.",
+  "overall_summary": "Hotter-than-expected inflation has pushed Fed hike odds near ninety percent, spiking yields and the dollar while Bitcoin ETFs see heavy outflows and price whipsaws. Elevated oil and fresh pipeline and shipping disruptions add more inflation pressure. The tape stays risk-off for crypto until these macro headwinds ease.",
   "key_points": [
-    "Fed hike odds above 70% after hot PPI",
-    "Bitcoin ETFs see multi-day outflows",
-    "Oil above $108 on ongoing Middle East conflict",
-    "Treasury yields near 5% pressure risk assets",
-    "Clarity Act revision provides limited regulatory offset"
+    "Hot CPI lifts Fed hike odds near 90%",
+    "Bitcoin ETFs bleed hundreds of millions",
+    "US 10-year yield nears 5% in selloff",
+    "Oil stays elevated on pipeline and Red Sea risks",
+    "Stronger dollar and risk-off weigh on BTC"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Tests $77K as Hot PPI Lifts Fed Hike Odds",
-          "summary": "Bitcoin slipped below seventy-seven thousand dollars after hotter-than-expected August producer prices and a surge in oil and Treasury yields. Traders now price roughly a seventy percent chance of a Fed rate hike at the mid-September meeting, with the key consumer price index print due today. Price is probing the seventy-six two seventy support zone that has held since the August rally. Traders should watch whether that level holds into the CPI reaction, because a clean break opens more downside while a bounce would signal the macro scare is priced.",
-          "sentiment": "Neutral",
-          "impact": "Elevated volatility around CPI and the $76.3K support test",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
-            "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-            "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-sinks-below-77-000-for-fourth-straight-session-as-inflation-oil-and-fed-fears-mount-14027638.html"
-          ]
-        },
-        {
-          "title": "Bitcoin ETFs Bleed $283M, $449M Over Three Sessions",
-          "summary": "U.S. spot Bitcoin ETFs recorded about two hundred eighty-three million dollars in net outflows on September tenth, led by ARK twenty-one Shares with over one hundred sixty-four million. That extends a three-day streak totaling roughly four hundred forty-nine million dollars leaving the funds, pulling total net assets back under ninety-eight billion. The selling comes right as Bitcoin tests support and ahead of CPI, removing a key institutional bid. Traders care because sustained outflows have historically amplified downside moves when macro data disappoints.",
+          "title": "Hot Core CPI Lifts Fed Hike Odds Near 90%, BTC Whipsaws",
+          "summary": "August core CPI came in at 0.3 percent month-over-month versus the 0.2 percent forecast, even as the annual rate matched expectations. That pushed market pricing for a September 16 Fed rate hike toward 85 to 90 percent. Bitcoin flash-crashed near 76,000 then rebounded toward 77,000 to 80,000 briefly, with total crypto liquidations hitting roughly 684 to 745 million dollars, shorts taking the bulk of the pain. Traders should care because higher-for-longer rates remain a headwind for risk assets and the next catalyst is the FOMC itself.",
           "sentiment": "Bearish",
-          "impact": "Weakens near-term institutional demand and adds selling pressure",
+          "impact": "Near-term pressure on BTC and risk assets until Fed clarity",
           "sources": [
-            "https://www.tftc.io/bitcoin-etf-flows/september-2026",
-            "https://www.kucoin.com/news/flash/bitcoin-etfs-record-283m-outflows-as-btc-price-drops-toward-77k",
-            "https://bykaranteli.com/etf"
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-53/",
+            "https://cryptobriefing.com/bitcoin-liquidations-684m-shorts-crushed/",
+            "https://beincrypto.com/us-cpi-gold-bitcoin-reaction/"
           ]
         },
         {
-          "title": "Lummis Releases Revised Clarity Act Ahead of Sept 15 Vote",
-          "summary": "Senator Cynthia Lummis dropped an updated six-hundred-thirty-page Clarity Act text incorporating more than one hundred changes requested by Democrats. The rewrite tightens rules for non-decentralized DeFi protocols that must register with the CFTC, narrows some DeFi safe harbors, and clarifies credit-union powers, while leaving ethics and stablecoin-yield language largely unchanged. A procedural cloture vote is set for September fifteenth and needs sixty votes to advance. Traders should care because passage would deliver long-sought market-structure clarity that has historically been a bullish regulatory catalyst for Bitcoin and the broader complex.",
-          "sentiment": "Bullish",
-          "impact": "Positive regulatory catalyst if cloture succeeds next week",
-          "sources": [
-            "https://www.cryptotimes.io/2026/09/11/lummis-unveils-revised-clarity-act-with-new-defi-rules-ahead-of-sept-15-vote/",
-            "https://beincrypto.com/clarity-act-september-text-changes/",
-            "https://www.marketsmedia.com/lummis-releases-updated-digital-asset-market-clarity-act/"
-          ]
-        },
-        {
-          "title": "Hundreds of Millions in Longs Liquidated; Zcash Unwinds",
-          "summary": "Crypto futures saw two hundred fifty to over five hundred million dollars in liquidations in the recent window, with longs taking the bulk of the pain after the PPI shock. Bitcoin and ether accounted for large shares, while Zcash open interest plunged about twenty percent as the token dropped double digits and leverage flushed out. Aggregate open interest fell toward fifty-nine point five billion dollars. For traders this washout reduces crowded positioning and can set up cleaner bounces, but it also shows how quickly leverage amplifies macro moves.",
-          "sentiment": "Neutral",
-          "impact": "Clears leverage and raises short-term volatility risk",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-            "https://www.kucoin.com/news/flash/crypto-liquidations-reach-556m-in-24-hours-longs-hit-hardest",
-            "https://en.cryptonomist.ch/2026/09/11/crypto-market-decline-bitcoin/"
-          ]
-        },
-        {
-          "title": "Hyperliquid Whale $70M 40x Bitcoin Long Nears Liquidation",
-          "summary": "A high-win-rate Hyperliquid trader opened a roughly seventy-million-dollar forty-times leveraged long on more than nine hundred eleven Bitcoin near seventy-seven seven hundred. The liquidation price sits around seventy-six three hundred, leaving little room if Bitcoin dips further into support. The position opened just as markets absorbed the PPI-driven selloff and heavy liquidations. Traders should monitor this cluster because a forced close could add mechanical selling and spark a wider cascade in thin conditions.",
+          "title": "Bitcoin ETFs Bleed Hundreds of Millions; ETH ETFs Surge",
+          "summary": "US spot Bitcoin ETFs recorded roughly 450 million dollars in net outflows over three to four sessions, including a 282 million dollar day, before slowing to about 13 million on September 11. At the same time Ethereum spot ETFs pulled in 216 million dollars in a single day, led by BlackRock's ETHA with nearly 149 million. This rotation signals selective institutional demand and weakens the bid under Bitcoin. Watch whether BTC flows stabilize next week as the key tell for sustained support.",
           "sentiment": "Bearish",
-          "impact": "Potential cascade selling if Bitcoin loses $76.3K",
+          "impact": "Reduced institutional bid for BTC, relative strength for ETH",
           "sources": [
-            "https://news.bitcoin.com/crypto-news/hyperliquid-whale-70m-bitcoin-long-400-from-liquidation/",
-            "https://blockchain.news/flashnews/btc-whale-70m-long-nears-liquidation"
+            "https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-september/",
+            "https://bykaranteli.com/etf/btc",
+            "https://cryptobriefing.com/blackrock-etf-ethereum-149m-inflows/"
           ]
         },
         {
-          "title": "Strategy Builds $6.5B Cash Fortress for S&P Upgrade Push",
-          "summary": "Michael Saylor’s Strategy reported about six point five billion dollars in dollar liquidity and slashed net debt sharply, addressing the exact concerns S&P flagged for its junk rating. The firm is nearing the end of the rating agency’s twelve-month upgrade window after raising large sums through the Bitcoin drawdown. This balance-sheet fortification aims to keep the company from forced Bitcoin sales. Traders care because a stronger credit profile for the largest corporate Bitcoin holder reduces overhang risk and reinforces the institutional treasury narrative.",
-          "sentiment": "Bullish",
-          "impact": "Supports long-term institutional Bitcoin holding confidence",
+          "title": "Blockstream Rejects Ransom for Remaining Liquid BTC",
+          "summary": "After hackers returned about 3,400 of roughly 4,000 BTC stolen from the Liquid Network sidechain, Blockstream refused a demand for a roughly 600 BTC or 50 million dollar bounty on the rest. The company called it theft, not white-hat activity, and said it will pursue law enforcement and forensics while covering the peg. Peg-outs remain suspended and reserves sit around 85 percent. This matters because unresolved shortfalls or precedent fights can weigh on Bitcoin sidechain confidence and related liquidity.",
+          "sentiment": "Neutral",
+          "impact": "Lingering sidechain risk and potential confidence drag",
           "sources": [
-            "https://cryptoslate.com/strategy-erased-nearly-8-billion-of-net-debt-in-11-months-and-put-sps-junk-rating-on-the-clock/",
-            "https://cryptoslate.com/news/bitcoin/"
+            "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
+            "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+            "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247"
+          ]
+        },
+        {
+          "title": "Revised CLARITY Act Teed for September 15 Senate Vote",
+          "summary": "Senate Republicans released an updated 630-page version of the CLARITY Act market-structure bill incorporating Democratic requests, setting up a critical procedural vote around September 15 that needs 60 votes. The text adds rules for certain controlled DeFi protocols under the CFTC while ethics and other sticking points linger. Passage would deliver long-sought regulatory clarity for US crypto; failure keeps uncertainty alive. Traders should track Democratic support closely as a potential medium-term catalyst for the whole sector.",
+          "sentiment": "Neutral",
+          "impact": "Binary regulatory catalyst next week for crypto markets",
+          "sources": [
+            "https://coinnews.com/news/clarity-act-september-vote/",
+            "https://www.investors.com/news/clarity-act-update-senate-vote-changes-bitcoin-cryptocurrency/",
+            "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators"
+          ]
+        },
+        {
+          "title": "Revolut Hands Over Passports and Bitcoin Records to Fakers",
+          "summary": "Revolut confirmed it was tricked by a sophisticated fake government-agency email that used a real domain and passed authentication checks. The firm released customer passports, selfies, addresses, account details and full Bitcoin transaction histories before catching the fraud. No funds were lost and the incident appears limited, possibly targeting high-net-worth users, but it highlights custodial KYC risks. Crypto holders on fintech platforms should review notifications and tighten personal security.",
+          "sentiment": "Neutral",
+          "impact": "Trust hit for crypto-linked fintechs, limited direct price effect",
+          "sources": [
+            "https://beincrypto.com/revolut-data-breach-fake-government-request/",
+            "https://www.coindesk.com/latest-crypto-news",
+            "https://cryptobriefing.com/revolut-reportedly-disclosed-customer-data-including-bitcoin-records-after-unauthorized-government-request/"
+          ]
+        },
+        {
+          "title": "Whale $70M Long Liquidated in CPI Flash Crash to $76K",
+          "summary": "A large Bitcoin long worth about 70 million dollars was liquidated as price briefly crashed to around 76,046 dollars after the CPI print, according to on-chain watchers. The same whale later reopened a smaller long higher up. Broader liquidations ran into the hundreds of millions with shorts ultimately hit harder on the rebound. This shows how crowded leverage amplifies macro moves and why position sizing matters into the FOMC week.",
+          "sentiment": "Neutral",
+          "impact": "Leverage flush complete; support test around 76k watched",
+          "sources": [
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-53/",
+            "https://news.bitcoin.com/market-updates/bitcoin-price-spikes-near-80k-as-cpi-matches-forecasts/",
+            "https://cryptobriefing.com/bitcoin-liquidations-684m-shorts-crushed/"
           ]
         }
       ]
@@ -84,69 +86,67 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "August US CPI Drops Today Ahead of Fed Decision",
-          "summary": "The Bureau of Labor Statistics releases August consumer price index data this morning at 8:30 Eastern. Economists expect headline CPI up 0.4 percent month-over-month and 3.4 percent year-over-year, with core at 0.2 percent and 2.4 percent. This is the last major inflation print before next week's FOMC meeting, where markets already price a high chance of a rate hike. Crypto traders should watch closely because a hot number locks in tighter policy and pressure on risk assets, while a soft print could ease yields and support Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "High volatility; outcome will drive rate odds and risk appetite into FOMC",
+          "title": "Hotter Core CPI Cements Fed Hike Odds Near 90%",
+          "summary": "August US CPI showed headline prices up 0.4 percent month over month and 3.4 percent year over year, matching forecasts, but core CPI rose 0.3 percent monthly versus 0.2 percent expected, with the annual core rate at 2.4 percent. Energy prices, especially gasoline, drove much of the headline move after prior declines. This was the last major inflation print before next week's FOMC, and futures now price roughly a 90 percent chance of a 25 basis point hike. Crypto traders should care because tighter policy raises the discount rate on risk assets and often pressures Bitcoin liquidity and valuations.",
+          "sentiment": "Bearish",
+          "impact": "Higher odds of September rate hike tighten financial conditions and weigh on risk assets",
           "sources": [
-            "https://fedratecalc.com/us-economic-calendar/september-2026/",
-            "https://www.reuters.com/business/gasoline-likely-boost-us-consumer-prices-august-2026-09-11/",
-            "https://www.businessinsider.com/cpi-inflation-august-consumer-price-index-2026-9"
+            "https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/",
+            "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+            "https://forex.tradingcharts.com/economic_calendar/2026-09-11.html?code=USD"
           ]
         },
         {
-          "title": "10-Year Treasury Yields Near 5% on Bond Selloff",
-          "summary": "The US 10-year yield climbed toward the psychologically important 5 percent level, hitting multi-year highs around 4.94 to 4.98 percent amid the global bond selloff. Drivers include surging oil prices, sticky inflation signals, and rising bets on a Federal Reserve hike next week. Higher yields raise borrowing costs across the economy and make equities and crypto less attractive on a relative basis. Traders need to monitor whether CPI pushes it through 5 percent, which could intensify risk-off flows.",
+          "title": "UMich Sentiment Plunges as Inflation Expectations Jump",
+          "summary": "University of Michigan preliminary September consumer sentiment fell sharply to 47.8 from 51.7, well below expectations around 51 to 52. One-year inflation expectations rose to 4.6 percent from 4.0 percent, the highest since June, while five-year edged up to 3.4 percent. Consumers cited higher fuel prices and trade tensions. Soft confidence and sticky inflation expectations raise the risk of weaker spending ahead while still supporting a hawkish Fed stance, creating a mixed but challenging backdrop for crypto risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Tighter financial conditions pressuring equities, crypto, and growth assets",
+          "impact": "Weaker consumer backdrop plus higher inflation fears support tighter policy and risk-off moves",
           "sources": [
-            "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5",
+            "https://www.sca.isr.umich.edu/",
+            "https://tradingeconomics.com/united-states/consumer-confidence",
+            "https://www.detroitnews.com/story/business/2026/09/11/university-of-michigan-survey-shows-drop-in-consumer-confidence/91709687007/"
+          ]
+        },
+        {
+          "title": "US 10-Year Yield Nears 5% in Global Bond Selloff",
+          "summary": "The US 10-year Treasury yield traded near 4.97 percent and briefly approached 5 percent, multi-year highs, while the 2-year also rose amid oil-driven inflation fears and rising Fed hike odds. Global bonds sold off hard this week as energy costs climbed and central banks turned more hawkish. Elevated yields increase borrowing costs across the economy and compete with Bitcoin for capital; sustained moves above key levels often coincide with pressure on crypto prices.",
+          "sentiment": "Bearish",
+          "impact": "Higher real yields raise opportunity cost of holding non-yielding assets like Bitcoin",
+          "sources": [
             "https://www.reuters.com/world/europe/global-bond-selloff-pushes-10-year-us-yield-toward-5-oil-rate-hike-fears-2026-09-11/",
-            "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html"
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5"
           ]
         },
         {
-          "title": "August PPI Rises 0.4% as Energy Costs Surge",
-          "summary": "Producer prices rose 0.4 percent month-over-month in August, matching forecasts, while the year-over-year rate hit 5.4 percent. Energy jumped 4.2 percent, led by a 24 percent surge in diesel, with goods overall up 1.1 percent. Core PPI came in a touch softer at 0.2 percent. This pipeline pressure feeds into consumer inflation and strengthens the case for the Fed to hike next week, keeping liquidity tighter for Bitcoin and risk markets.",
+          "title": "ECB Hikes 25bp to 2.5% on Oil-Driven Inflation",
+          "summary": "On Thursday the European Central Bank raised its deposit rate by 25 basis points to 2.50 percent, citing Middle East conflict pressures that keep inflation above target for longer. Staff projections left 2026 headline inflation at 3.0 percent but raised later years, with growth seen resilient yet risks tilted to higher prices and softer activity. The move adds to a global hawkish tilt just as the Fed faces its own decision, reducing global liquidity and supporting the dollar, both typically headwinds for crypto.",
           "sentiment": "Bearish",
-          "impact": "Reinforces hike bets and inflation stickiness heading into CPI and FOMC",
-          "sources": [
-            "https://www.bls.gov/news.release/ppi.nr0.htm",
-            "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-            "https://www.reuters.com/business/us-producer-prices-increase-expected-august-2026-09-10/"
-          ]
-        },
-        {
-          "title": "Fed September Hike Odds Climb Above 70 Percent",
-          "summary": "CME FedWatch now prices roughly 68 to 71 percent odds of a 25 basis point rate hike at the September 16 FOMC meeting, up sharply from earlier levels. Current funds target remains 3.50 to 3.75 percent under Chair Kevin Warsh. Stronger jobs, hot PPI, oil spikes, and bond yields have driven the shift. For crypto, higher-for-longer or rising rates typically mean tighter dollar liquidity and headwinds until the data clearly cools.",
-          "sentiment": "Bearish",
-          "impact": "Elevates policy tightness expectations and USD support near-term",
-          "sources": [
-            "https://www.panews.io/articles/01a08dc6-bdd1-77c1-a267-ad0bf9c7b71e",
-            "https://www.federalreserve.gov/",
-            "https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/"
-          ]
-        },
-        {
-          "title": "US Diesel Hits Record Above $6 a Gallon",
-          "summary": "The national average diesel price crossed $6 per gallon for the first time ever, reaching about $6.06 according to AAA, with California near $8. The spike stems from Middle East conflict disruptions, Strait of Hormuz issues, and refining constraints, on top of oil above $100. Diesel powers trucking, farming, and freight, so costs will pass through to goods prices and keep inflation elevated. This adds another layer of pressure for the Fed and keeps energy-driven inflation risks front and center for markets.",
-          "sentiment": "Bearish",
-          "impact": "Broad cost-push inflation risk that sustains higher-rate narrative",
-          "sources": [
-            "https://www.bloomberg.com/news/articles/2026-09-11/us-diesel-prices-rise-past-6-a-gallon-for-first-time-ever",
-            "https://www.cnn.com/2026/09/11/business/6-dollar-diesel-effects",
-            "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html"
-          ]
-        },
-        {
-          "title": "ECB Hikes Rates 25 Basis Points on Energy Inflation",
-          "summary": "The European Central Bank raised its key rates by a quarter point on Thursday, lifting the deposit facility to 2.50 percent. Officials cited ongoing Middle East conflict generating inflation pressures that will keep prices above target for an extended period, even as growth remains resilient. Projections show inflation at 3.0 percent this year. The synchronized global tightening signal from major central banks adds to the higher-for-longer backdrop weighing on crypto risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Global policy coordination toward tighter conditions supports USD and yields",
+          "impact": "Synchronized tightening reduces global liquidity and supports stronger USD",
           "sources": [
             "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-            "https://www.reuters.com/business/ecb-raises-interest-rates-fight-off-inflation-jump-2026-09-10/",
-            "https://www.reuters.com/markets/us/lagarde-comments-ecb-press-conference-2026-09-10/"
+            "https://www.reuters.com/business/ecb-raises-interest-rates-fight-off-inflation-jump-2026-09-10/"
+          ]
+        },
+        {
+          "title": "Dollar Firms as Yields and Hike Bets Climb",
+          "summary": "The US dollar index held firm near 99 after the CPI data and bond yield surge, building on gains from higher rate expectations and oil-linked inflation concerns. A stronger greenback makes dollar-denominated assets more expensive for foreign buyers and historically correlates inversely with Bitcoin. Traders watch DXY for confirmation of risk appetite shifts heading into the FOMC.",
+          "sentiment": "Bearish",
+          "impact": "Stronger DXY typically pressures crypto and other risk assets",
+          "sources": [
+            "https://www.fxstreet.com/news/us-dollar-strength-builds-on-yields-ing-202609111205",
+            "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852"
+          ]
+        },
+        {
+          "title": "Brent Oil Stays Elevated Above $100 After Surge",
+          "summary": "Brent crude settled around 104 to 105 dollars after hitting higher levels earlier, still up sharply on the week amid Middle East tensions and supply disruption fears including the Strait of Hormuz. The energy spike is feeding directly into US and European inflation readings and central bank hawkishness. Sustained high oil keeps the inflation narrative alive and raises the odds of further monetary tightening, which crypto markets tend to dislike.",
+          "sentiment": "Bearish",
+          "impact": "Persistent energy inflation supports higher-for-longer rates globally",
+          "sources": [
+            "https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/",
+            "https://tradingeconomics.com/commodity/brent-crude-oil",
+            "https://markets.businessinsider.com/commodities/oil-price"
           ]
         }
       ]
@@ -155,68 +155,66 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Oil Tops $108 as Iran War Drags On",
-          "summary": "Brent crude surged past one hundred eight dollars a barrel this week on escalating US-Iran fighting, tanker strikes, and Hormuz disruptions, before easing slightly Friday while still set for a big weekly gain. US diesel hit a record over six dollars a gallon. President Trump said he has no regrets and expects the war to run past the midterms. Traders should care because sticky high energy prices fuel inflation fears, push bond yields higher, and raise odds of tighter Fed policy that hits risk assets hard.",
+          "title": "Saudi shuts East-West oil pipeline after Iraq drones",
+          "summary": "Saudi Arabia has temporarily shut its critical East-West crude pipeline after drone strikes launched from Iraq hit facilities in the Riyadh and Medina regions, causing injuries and damage. The line carries four to five million barrels a day and has been the main way for Riyadh to bypass the blocked Strait of Hormuz during the US-Iran war. Traders should care because this removes another four to five percent of global supply just as oil already sits above one hundred dollars and US diesel has hit a record six dollars a gallon, raising fresh inflation and rate fears for risk assets.",
           "sentiment": "Bearish",
-          "impact": "Higher inflation and rates pressure Bitcoin and equities",
+          "impact": "Higher oil and inflation pressure on equities and crypto risk appetite",
           "sources": [
-            "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-09-11/",
-            "https://www.reuters.com/world/trump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-midterm-2026-09-11/"
+            "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/",
+            "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+            "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened"
           ]
         },
         {
-          "title": "Houthis Seize Key Red Sea Port Mokha",
-          "summary": "Iran-backed Houthis captured Yemen's strategic Red Sea port of Mokha and advanced toward islands near the Bab el-Mandeb Strait. This puts them closer to controlling a second major shipping chokepoint after Hormuz disruptions already cut Gulf oil flows. Saudi Arabia relies more on Red Sea routes now. Crypto traders need to watch because another energy and trade artery under threat keeps oil elevated and global supply chains stressed, amplifying risk-off moves.",
+          "title": "Houthis seize Perim Island controlling Bab el-Mandeb",
+          "summary": "Yemen's Iran-aligned Houthis have seized strategic Perim Island at the mouth of the Bab el-Mandeb Strait after Saudi-backed forces withdrew, completing a rapid coastal advance that also took the port of Mocha. This gives them direct leverage over a chokepoint that handles a large share of global seaborne trade and the Red Sea oil route Saudi Arabia has relied on since Hormuz disruptions began. Crypto traders need to watch this because dual threats to Hormuz and Bab el-Mandeb tighten energy markets further and amplify the risk-off move already underway from elevated crude prices.",
           "sentiment": "Bearish",
-          "impact": "Further oil supply risk and shipping costs",
+          "impact": "Threatens second major oil shipping lane, sustaining high energy prices",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo",
-            "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha",
-            "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html"
+            "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/",
+            "https://news.cgtn.com/news/2026-09-12/Houthis-seize-Perim-Island-tightening-grip-on-Bab-al-Mandab-Strait-1Qn4p1IIpyw/p.html",
+            "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_11"
           ]
         },
         {
-          "title": "Israel Destroys Massive Hezbollah Tunnel Network",
-          "summary": "Israeli forces detonated over eleven hundred tons of explosives under the Ali al-Taher ridge in southern Lebanon, wiping out a multi-kilometer Hezbollah tunnel complex and triggering a four-point-one magnitude tremor. Officials called it a key command and staging site built with Iranian support. The move solidifies Israel's buffer zone but risks wider northern front escalation. Markets care as any broadening of Middle East fighting adds to the oil and geopolitical risk premium already weighing on risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Heightens regional war premium on energy and risk",
-          "sources": [
-            "https://www.timesofisrael.com/idf-blows-up-hezbollahs-strategic-complex-beneath-south-lebanons-ali-taher-ridge/",
-            "https://www.scmp.com/news/world",
-            "https://www.thehindu.com/news/international/tremor-recorded-as-israel-says-hezbollah-tunnels-destroyed-in-south-lebanon/article71454953.ece"
-          ]
-        },
-        {
-          "title": "Putin Arrives for BRICS Summit in India",
-          "summary": "Russian President Putin landed in New Delhi for the BRICS summit, set to meet Modi, with Xi Jinping and Iran's president also attending. Talks will cover energy, trade, Ukraine, and Middle East wars as the group pushes Global South resilience and alternatives to Western systems. For traders this matters because stronger BRICS coordination on energy or payments could shift long-term commodity and currency dynamics amid ongoing supply shocks.",
+          "title": "BRICS summit opens in Delhi with Xi, Putin, Iran",
+          "summary": "Leaders including China's Xi Jinping, Russia's Vladimir Putin and Iran's Masoud Pezeshkian gathered in New Delhi for the BRICS summit, adopting a joint declaration and with Xi urging the bloc to play a peacemaking role in the Middle East war. The meeting highlights the expanded group's push for greater Global South influence amid ongoing conflicts and Western sanctions. For markets this matters as it signals continued multipolar realignment and potential alternative trade and payment channels while oil remains elevated and Iran sits at the table.",
           "sentiment": "Neutral",
-          "impact": "Potential de-dollarization talk but near-term limited",
+          "impact": "Diplomatic counterweight narrative with limited near-term price catalyst",
           "sources": [
-            "https://www.theguardian.com/business/2026/sep/11/putin-india-visit-brics-summit",
-            "https://www.indiatoday.in/india/story/modi-putin-brics-meeting-india-russia-energy-defence-trade-ukraine-2992411-2026-09-11",
-            "https://www.nytimes.com/topic/subject/international-relations"
+            "https://www.reuters.com/business/aerospace-defense/brics-agrees-joint-declaration-before-new-delhi-summit-sources-say-2026-09-12/",
+            "https://www.business-standard.com/external-affairs-defence-security/news/pm-modi-welcomes-putin-xi-as-two-day-brics-summit-begins-in-new-delhi-126091200441_1.html",
+            "https://www.livemint.com/economy/brics-summit-2026-xi-jinping-putin-pezeshkian-among-global-leaders-attending-new-delhi-meet-modi-full-list-11789035556311.html"
           ]
         },
         {
-          "title": "NATO Foils Russian Undersea Cable Sabotage",
-          "summary": "NATO allies including the US, UK and Norway intercepted Russian vessels near Svalbard testing a secret deep-sea weapon designed to disable undersea cables without traces. The spring exercise by Russia's GUGI unit was stopped before completion. No cables were cut but it highlights hybrid threats to critical infrastructure. Crypto and markets should note rising sabotage risks to global data and finance links that underpin everything from trading to communications.",
+          "title": "North Korea fires short-range ballistic missiles",
+          "summary": "North Korea launched several short-range ballistic missiles from the Wonsan area into the East Sea, flying about two hundred fifty kilometers, just one day after the US, South Korea and Japan ended their Freedom Edge drills. Seoul and Washington are analyzing the launches and say they pose no immediate threat, while South Korea convened an emergency security meeting. Traders should note it as a routine but persistent regional flashpoint that keeps Asian risk sentiment cautious without yet triggering a broader selloff.",
           "sentiment": "Neutral",
-          "impact": "Elevates hybrid warfare and infrastructure risk premium",
+          "impact": "Routine provocation; limited spillover unless further escalation",
           "sources": [
-            "https://www.reuters.com/world/europe/nato-allies-foil-russian-subsea-cable-sabotage-plot-2026-09-10/",
-            "https://www.theguardian.com/world/2026/sep/11/ukraine-war-briefing-nato-foils-russian-undersea-cable-sabotage-drill"
+            "https://www.reuters.com/world/asia-pacific/north-korea-launches-unidentified-projectile-toward-east-sea-yonhap-reports-2026-09-11/",
+            "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260912/n-korea-fires-multiple-short-range-ballistic-missiles-toward-east-sea-jcs"
           ]
         },
         {
-          "title": "US-Canada Tariff War Escalates Further",
-          "summary": "After US fifty percent tariffs on Canadian goods, Canada imposed matching counter-tariffs effective recently, and the US responded with import bans on some Canadian products starting late September plus list tweaks. The tit-for-tat covers dairy, alcohol, metals and more. Traders care because North American trade friction adds to inflation pressures already stoked by energy shocks and could slow growth in key economies supporting risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Adds trade friction and inflationary pressure",
+          "title": "Israel destroys vast Hezbollah tunnel network in Lebanon",
+          "summary": "Israel detonated a massive underground Hezbollah complex under the Ali al-Taher ridge in southern Lebanon using over a thousand tons of explosives, producing a blast that registered as a four-point-one magnitude tremor. The tunnels held rockets, drones and command facilities built with Iranian support; Israel says it is ready for further strikes. This keeps the northern front hot inside the wider Middle East war and adds to the background of military risk that can quickly reprice energy and defense-related assets.",
+          "sentiment": "Neutral",
+          "impact": "Localized escalation risk within broader Iran-axis conflict",
           "sources": [
-            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-09-11/",
-            "https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html",
-            "https://economics.td.com/ca-counter-tariffs"
+            "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+            "https://www.thejc.com/news/israel/idf-uses-1-100-tons-of-explosive-to-blow-up-huge-hezbollah-tunnel-network-cp8du2c0"
+          ]
+        },
+        {
+          "title": "Trump ties Iran war end to midterms, blames Iran for pipeline",
+          "summary": "President Trump, speaking while in Ireland, said Iran was probably behind the Saudi pipeline attack and repeated that the US-Iran war would likely end shortly after the November midterms, at which point oil prices would tumble. He confirmed talks with Saudi's crown prince but indicated no direct US strikes on Houthis for now. Markets will parse this for de-escalation hopes versus the reality of continued shipping threats and supply cuts that have already driven crude higher this week.",
+          "sentiment": "Neutral",
+          "impact": "Potential de-escalation talk offsets immediate supply shocks",
+          "sources": [
+            "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/",
+            "https://www.reuters.com/business/energy/trump-says-iran-probably-responsible-attack-saudi-pipeline-2026-09-12/"
           ]
         }
       ]
