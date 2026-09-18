@@ -1,83 +1,82 @@
 {
-  "generated_at": "2026-09-17T12:04:45+00:00",
+  "generated_at": "2026-09-18T12:04:52+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto faces a clearly risk-off tone after a hawkish Fed hike, heavy spot Bitcoin ETF outflows, and weak on-chain demand. Regulatory progress is mixed while geopolitics, tariffs, and surging oil add further pressure on risk assets. Near-term catalysts lean negative for Bitcoin until demand or policy clarity improves.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is holding gains near the high seventies with ETF inflows flipping positive and a fresh SEC innovation exemption offering a constructive regulatory signal. That support is offset by a strong dollar, resilient U.S. jobs data, and the Bank of Japan hike, while Iran-linked strikes and oil-route risks add macro caution. Net tone for crypto is balanced rather than clearly directional.",
   "key_points": [
-    "Hawkish Fed hike and strong dollar weigh on crypto",
-    "Nearly $750M Bitcoin ETF outflows signal weak demand",
-    "Senate rejects CLARITY Act; reserve bill advances",
-    "Oil spike and tariff threats fuel risk-off mood",
-    "BTC slips below True Market Mean on soft flows"
+    "SEC innovation exemption lifts tokenized-asset outlook",
+    "BTC ETFs post $159M inflows near $78K",
+    "BoJ hike and firm dollar cap risk appetite",
+    "Corporate treasury BTC buying stays very light",
+    "Hormuz tanker strike and sanctions raise oil risk"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Fed Delivers First Rate Hike Since 2023; Bitcoin Holds Near $76.6K",
-          "summary": "The Federal Reserve raised rates 25 basis points to 3.75-4.00 percent, its first increase since 2023, with projections pointing to limited further tightening. Bitcoin absorbed the news and traded higher around 76,600 dollars, outperforming equities in the immediate aftermath. Traders should watch whether this resilience holds as higher rates and yields pressure risk assets, or if the dovish-leaning dots spark a relief bid.",
+          "title": "SEC Unveils Five-Year Innovation Exemption for Tokenized Stocks",
+          "summary": "The SEC just granted a temporary five-year Innovation Exemption letting approved tokenized securities venues trade real tokenized NMS stocks onchain via permissioned automated market makers, without full exchange registration. Chair Atkins framed it as bringing US capital markets into the digital age right after the Clarity Act stalled in the Senate. Tokenized shares must carry full rights like dividends and voting; synthetics are out. Traders should care because this is a concrete onramp for traditional equities onto crypto rails and a clear regulatory green light that helped lift the broader market.",
+          "sentiment": "Bullish",
+          "impact": "Supports risk appetite and long-term crypto-tradfi convergence",
+          "sources": [
+            "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+            "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+            "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-for-tokenized-stock-trading-2026-09-17/"
+          ]
+        },
+        {
+          "title": "Bitcoin ETFs Flip to $159.5M Inflows as BTC Reclaims $78K",
+          "summary": "US spot Bitcoin ETFs recorded about $159.5 million in net inflows on September 17, led by BlackRock’s IBIT taking in roughly $184 million, snapping two prior days of heavy outflows totaling around $746 million. Bitcoin climbed to the $77,000 to $78,000 area for a third session of gains, helped by tech stock strength and short covering. This matters because ETF flows are the cleanest daily read on institutional demand; the rebound shows buyers stepped back in after the Clarity setback and Fed hike, supporting the price recovery.",
+          "sentiment": "Bullish",
+          "impact": "Positive institutional bid reduces near-term downside pressure",
+          "sources": [
+            "https://farside.co.uk/btc/",
+            "https://coinpaper.com/35889/bitcoin-etf-inflows-surge-to-1595m-as-btc-reclaims-77000",
+            "https://www.morningstar.com/news/dow-jones/202609182079/bitcoin-clocks-third-day-of-gains-after-tech-fuelled-relief-rally"
+          ]
+        },
+        {
+          "title": "BOJ Hikes Rates to 1.25%; Bitcoin Still Tops $77K",
+          "summary": "The Bank of Japan raised its policy rate 25 basis points to 1.25 percent, the highest in about 31 years, in a 7-2 vote as it fights sticky inflation. The yen actually weakened afterward and Bitcoin pushed above $77,400 instead of selling off hard. Traders should watch this because tighter Japanese policy can unwind yen carry trades and hit risk assets, yet crypto shrugged it off alongside the recent Fed hike, signaling resilience for now.",
           "sentiment": "Neutral",
-          "impact": "Short-term volatility with potential support if further hikes stay limited",
+          "impact": "Macro headwind absorbed without major BTC breakdown",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+            "https://crypto.news/bitcoin-price-tops-77k-after-boj-lifts-rates/",
+            "https://www.tokenpost.com/news/investing/23146"
+          ]
+        },
+        {
+          "title": "Corporate Treasuries Buy Just 5,900 BTC in Three Months",
+          "summary": "Public companies added only about 5,900 Bitcoin over the past three months according to Glassnode, a sharp slowdown from more than 100,000 BTC in a comparable period last year. Most of the recent buying came from Strategy, and the group’s average cost basis sits near $80,500, leaving them underwater at current prices. This is important for traders because corporate treasury demand was a major 2024-25 bull driver; its absence leaves more of the heavy lifting to ETFs and other buyers.",
+          "sentiment": "Bearish",
+          "impact": "Removes a key structural demand source and caps upside conviction",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+            "https://blockonomi.com/corporate-treasuries-retreat-as-bitcoin-tests-80k/"
+          ]
+        },
+        {
+          "title": "US Treasury Sanctions Iranian Exchange BitBank Over IRGC Bitcoin",
+          "summary": "OFAC sanctioned Iranian crypto exchange BitBank, its developer, and associates tied to financier Babak Zanjani, alleging the platform moved hundreds of millions of dollars in Bitcoin to the IRGC and processed Hormuz-related payments. The action is part of Operation Economic Outcast targeting Iran’s digital asset networks. Traders should note it because enforcement actions reinforce the narrative around illicit crypto use and can tighten compliance pressure on exchanges, even if the direct market impact is limited.",
+          "sentiment": "Neutral",
+          "impact": "Heightens compliance focus with limited immediate price effect",
+          "sources": [
+            "https://home.treasury.gov/news/press-releases/sb0632",
+            "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
+            "https://crypto.news/bitbank-faces-u-s-sanctions/"
+          ]
+        },
+        {
+          "title": "Bitcoin Holds Gains as Layer-2 and DeFi Tokens Lead Advance",
+          "summary": "Bitcoin is on a third day of gains above $77,000 to $78,000 while Layer-2 names like Starknet and Arbitrum plus broader DeFi tokens posted double-digit moves as post-Fed nerves faded and yields eased. Short liquidations helped fuel the bounce and Glassnode noted Bitcoin reclaimed its True Market Mean. For traders this shows risk appetite rotating into higher-beta crypto even after the rate hikes and Clarity setback, but sustainability still hinges on whether ETF inflows continue and key levels hold.",
+          "sentiment": "Bullish",
+          "impact": "Broadens market participation and supports near-term momentum",
           "sources": [
             "https://www.coindesk.com/markets",
-            "https://www.tradingview.com/news/DJN_DN20260917002081:0/",
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-56/"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs See Nearly $750M Outflows Over Two Days",
-          "summary": "US spot Bitcoin ETFs recorded about 450 million dollars in net outflows on September 15 followed by another 296 million on the 16th, led by BlackRock IBIT and others. This marks heavy consecutive redemptions and brings recent multi-day totals well into the hundreds of millions. Persistent outflows signal cooling institutional demand and can weigh on spot prices until flows reverse.",
-          "sentiment": "Bearish",
-          "impact": "Adds selling pressure and caps near-term upside for BTC",
-          "sources": [
-            "https://www.dimsumdaily.hk/us-spot-bitcoin-etfs-see-continued-net-outflows-with-295-9-million-withdrawn-on-second-consecutive-trading-day/",
-            "https://thriveinmarkets.com/etf-flows/",
-            "https://farside.co.uk/btc/"
-          ]
-        },
-        {
-          "title": "Senate Rejects CLARITY Act Cloture in 49-50 Vote",
-          "summary": "The Digital Asset Market Clarity Act failed a key Senate procedural vote 49-50, falling short of the 60 needed to advance comprehensive crypto market structure rules. The setback followed last-minute negotiations over ethics and stablecoin issues and triggered liquidations plus a sharp dip in Bitcoin and crypto stocks. Delayed regulatory clarity keeps uncertainty high and removes a potential near-term catalyst for broader institutional participation.",
-          "sentiment": "Bearish",
-          "impact": "Removes regulatory tailwind and heightens policy overhang",
-          "sources": [
-            "https://www.axios.com/2026/09/15/clarity-act-senate-no",
-            "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
-            "https://decrypt.co/378283/clarity-act-fails-senate-hurdle"
-          ]
-        },
-        {
-          "title": "House Committee Advances Strategic Bitcoin Reserve Bill",
-          "summary": "The House Financial Services Committee approved the American Reserve Modernization Act 28-21 on a party-line vote, moving to codify a Strategic Bitcoin Reserve with a 20-year minimum hold on government BTC. The bill centralizes forfeited Bitcoin under Treasury custody and requires reporting, though it still needs full House and Senate passage. This is a concrete step toward long-term US government Bitcoin holdings and signals bipartisan friction but Republican support for BTC as a reserve asset.",
-          "sentiment": "Bullish",
-          "impact": "Positive long-term adoption signal if it advances further",
-          "sources": [
-            "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-            "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
-            "https://dailycoin.com/bitcoin-reserve-bill-house-committee-28-21-vote/"
-          ]
-        },
-        {
-          "title": "Circle Launches Arc Mainnet with BlackRock and Visa Validators",
-          "summary": "Circle went live with the public mainnet of its Arc Layer-1 blockchain, featuring USDC gas fees, sub-second finality, and founding validators including BlackRock, Visa, Mastercard, DTCC and others. Over 100 applications and institutional builders joined at launch, with a 10 billion ARC token mint completed as a technical step. This deepens TradFi on-chain rails and USDC utility, potentially boosting stablecoin demand and broader crypto infrastructure credibility.",
-          "sentiment": "Bullish",
-          "impact": "Supports stablecoin growth and institutional blockchain adoption",
-          "sources": [
-            "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
-            "https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet",
-            "https://unchainedcrypto.com/circle-switches-on-arc-blockchain-and-mints-10-billion-tokens-it-has-not-promised-to-sell/"
-          ]
-        },
-        {
-          "title": "Bitcoin Slips Below Glassnode True Market Mean on Weak Demand",
-          "summary": "Glassnode reported Bitcoin closed below its True Market Mean near 76,700 dollars, the average cost basis for active investors, after Realized Cap inflows stalled and ETF flows turned negative. Next key support sits around the short-term holder cost basis near 71,300 dollars. Softening on-chain demand and capital inflows raise the risk of further downside testing if buyers do not step in at current levels.",
-          "sentiment": "Bearish",
-          "impact": "Warns of potential deeper correction if demand stays weak",
-          "sources": [
-            "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-slips-below-767k-true-market-mean-amid-weak-demand-glassnode-202609170306",
-            "https://www.cryptotimes.io/2026/09/16/bitcoin-falls-below-76-7k-true-market-mean-as-demand-weakens/",
-            "https://research.glassnode.com/"
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-57/",
+            "https://www.morningstar.com/news/dow-jones/202609182079/bitcoin-clocks-third-day-of-gains-after-tech-fuelled-relief-rally"
           ]
         }
       ]
@@ -86,65 +85,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Hikes 25bp to 3.75-4%, Signals More Tightening",
-          "summary": "The Federal Reserve raised the federal funds rate by a quarter point to a 3.75 to 4 percent range, its first hike since 2023, in a unanimous decision under new Chair Kevin Warsh. The statement said inflation remains elevated and the move supports a timelier return to the 2 percent goal, while the dot plot showed most officials expect at least one more hike this year. Warsh called it removing a dose of accommodation amid solid growth and resilient spending. Crypto traders should care because higher rates and a hawkish path tighten financial conditions and typically pressure risk assets like Bitcoin.",
+          "title": "BoJ Hikes Rates to 31-Year High of 1.25%",
+          "summary": "The Bank of Japan raised its policy rate by 25 basis points to 1.25 percent in a 7-2 vote, the highest level since 1995 and the shortest interval between hikes under Governor Ueda. Two dissenters pushed for no change, and the yen weakened as markets saw the guidance as less hawkish than hoped amid oil-driven inflation risks. Crypto traders should watch because a higher Japanese rates environment can unwind yen carry trades, tighten global liquidity, and pressure risk assets including Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Higher rates and stronger dollar headwinds for crypto and risk assets",
+          "impact": "Tighter global liquidity and possible carry-trade unwind weighing on crypto",
           "sources": [
-            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-            "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/",
-            "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html"
+            "https://www.reuters.com/world/asia-pacific/boj-raises-interest-rates-31-year-high-widely-expected-move-2026-09-18/",
+            "https://www.nippon.com/en/news/yjj2026091800484/",
+            "https://www.bloomberg.com/news/newsletters/2026-09-18/bank-of-japan-hikes-interest-rates-in-a-split-vote-yen-drops"
           ]
         },
         {
-          "title": "Dollar Hits Seven-Week High After Hawkish Fed",
-          "summary": "The US dollar index climbed to around 100.3, its strongest since late July, as markets digested the Fed hike and Warsh's hawkish comments signaling further tightening. Short-term Treasury yields jumped while the greenback gained against the euro and yen. Oil prices eased somewhat, offering limited offset. Traders watch DXY closely because a stronger dollar often correlates with weaker Bitcoin and other risk assets by reducing global liquidity and making dollar-denominated crypto more expensive.",
+          "title": "Fed Hike Aftermath Keeps Dollar Strong Near Highs",
+          "summary": "Following the Federal Reserve's first rate increase in years to 3.75-4.00 percent and dots signaling another hike this year, the US Dollar Index holds firmly above 100 and tests multi-week highs around 100.3 to 100.4. Markets are pricing elevated odds of further tightening into year-end. A stronger dollar and higher US rates typically act as a headwind for Bitcoin and other risk assets by raising the opportunity cost of holding non-yielding crypto.",
           "sentiment": "Bearish",
-          "impact": "Stronger DXY pressures BTC and emerging-market risk assets",
+          "impact": "Stronger USD and higher rate path pressure risk assets like Bitcoin",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/hawkish-fed-lifts-dollar-seven-week-high-focus-turn-boj-2026-09-17/",
-            "https://finance.yahoo.com/markets/currencies/articles/hawkish-fed-lifts-dollar-seven-055941455.html"
+            "https://www.fxstreet.com/news/united-states-dollar-index-tests-late-july-high-near-10035-on-hawkish-fed-stance-202609180854",
+            "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+            "https://www.reuters.com/business/fed-forecasts-see-latest-hike-followed-by-another-before-end-year-2026-09-16/"
           ]
         },
         {
-          "title": "August Retail Sales Rebound Strongly at +1.2%",
-          "summary": "US retail sales jumped 1.2 percent month-over-month in August, beating the 0.8 percent forecast and reversing July's decline, with the control group used for GDP rising a robust 1.4 percent. Gains were broad-based including nonstore retailers and gasoline stations, pointing to resilient consumer spending even amid higher prices. This data helped justify the Fed's hike by showing economic strength. For crypto, solid consumption supports growth narratives but also keeps the Fed hawkish, creating mixed near-term pressure on risk assets.",
+          "title": "Jobless Claims Drop to 196k, Labor Market Resilient",
+          "summary": "Initial US jobless claims fell 10,000 to 196,000 last week, well below the 208,000 forecast and near multi-month lows, while continuing claims also declined to 1.73 million. The solid reading, even with holiday noise, reinforces a tight labor market that supports the Fed's hawkish stance. Traders should care because resilient jobs data reduces odds of quick Fed pivots and keeps higher-for-longer rates in play, which is generally negative for crypto liquidity and valuations.",
+          "sentiment": "Bearish",
+          "impact": "Supports further Fed tightening, negative for risk assets",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-09-17/us-jobless-claims-fall-to-196-000-continuing-applications-drop",
+            "https://www.reuters.com/business/us-weekly-jobless-claims-unexpectedly-fall-2026-09-17/",
+            "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-196k-last-week-202609171234"
+          ]
+        },
+        {
+          "title": "Treasury Yields Ease After Post-Fed Spike",
+          "summary": "US Treasury yields retreated after the initial hawkish Fed reaction, with the 10-year falling back below 5 percent toward 4.93-4.96 percent and the 2-year also pulling back from highs. Softening oil prices and profit-taking helped the move even as the dollar stayed firm. For crypto, moderating yields can provide some relief to risk assets, but the overall higher rate backdrop from the Fed still dominates the medium-term picture.",
           "sentiment": "Neutral",
-          "impact": "Confirms growth but reinforces higher-for-longer rates",
+          "impact": "Short-term relief for risk assets but higher-for-longer backdrop remains",
           "sources": [
-            "https://www.census.gov/retail/sales.html",
-            "https://tradingeconomics.com/united-states/retail-sales",
-            "https://economics.td.com/us-retail-sales"
+            "https://www.home.saxo/content/articles/macro/market-quick-take---chips-lead-a-rebound-as-treasury-yields-retreat---18-september-2026-18092026",
+            "https://www.livemint.com/market/us-yields-ease-with-oil-prices-profittaking-11789671806169.html",
+            "https://countryeconomy.com/bonds/usa"
           ]
         },
         {
-          "title": "BoE Holds at 3.75% but Warns of Inflation Risks",
-          "summary": "The Bank of England kept Bank Rate at 3.75 percent in a 6-3 vote, with three members preferring a hike, while warning that Middle East-driven energy prices could push UK inflation above 4 percent early next year. Governor Bailey said prolonged volatility raises the chance of future tightening. The committee also advanced plans to unwind gilt holdings. This adds to the global hawkish central-bank tone after the Fed move and can weigh on risk sentiment including crypto through tighter global conditions.",
-          "sentiment": "Bearish",
-          "impact": "Global policy tightness adds downside bias for risk assets",
-          "sources": [
-            "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
-            "https://www.reuters.com/business/finance/bank-england-sounds-inflation-alarm-it-holds-interest-rates-2026-09-17/"
-          ]
-        },
-        {
-          "title": "Jobless Claims Steady; Housing Starts Rebound Softly",
-          "summary": "Initial jobless claims came in at 208,000 for the week, roughly in line with expectations and near recent lows, signaling a still-tight labor market. Housing starts rose to 1.300 million annualized from 1.239 million but missed the higher consensus, while building permits fell to 1.390 million. Philly Fed manufacturing cooled to 33.0 from 47.4. These mixed readings keep the soft-landing debate alive but do little to reverse the Fed's hawkish tilt. Traders note labor resilience supports rates staying higher, which is a headwind for Bitcoin.",
+          "title": "US Housing Starts Soften, Permits Signal Caution",
+          "summary": "August housing starts came in at 1.275 million annualized, below expectations, while building permits also eased. Single-family starts showed some resilience but overall data points to ongoing pressure from higher mortgage rates. Crypto traders watch housing as a key rate-sensitive sector; weakness can reinforce Fed concerns about growth while still leaving room for inflation-focused policy, creating mixed signals for risk appetite.",
           "sentiment": "Neutral",
-          "impact": "In-line labor data sustains higher-rate pricing",
+          "impact": "Mixed growth signal; limited immediate directional catalyst for crypto",
           "sources": [
-            "http://hosting.briefing.com/cschwab/Calendars/EconomicCalendar.htm",
-            "https://fred.stlouisfed.org/releases/calendar"
+            "https://www.reuters.com/business/us-weekly-jobless-claims-unexpectedly-fall-2026-09-17/",
+            "https://forex.tradingcharts.com/economic_calendar/2026-09-17.html?code=USD",
+            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--september-2026-.html"
           ]
         },
         {
-          "title": "Treasury Curve Flattens as Long Yields Ease Post-Hike",
-          "summary": "Two-year yields rose toward multi-year highs near 4.72 percent on the Fed hike while the 10-year hovered around or just under 5 percent and longer bonds pared some losses, producing curve flattening. Markets interpreted the decisive action as boosting Fed credibility on inflation without a disorderly long-end selloff. This calms some recession fears but keeps real rates elevated. For crypto markets, stable-to-higher yields raise the opportunity cost of holding non-yielding assets like Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Elevated real yields compete with crypto returns",
+          "title": "US Industrial Production Data Due Today",
+          "summary": "August industrial production and capacity utilization are scheduled for release this morning, with expectations around a 0.3 percent monthly rise and utilization near 76.4 percent. This is a key real-economy gauge following the Fed hike and strong jobs data. Traders should monitor the print closely because a hot number would reinforce the hawkish case and dollar strength, while a miss could ease some rate fears and support risk assets including Bitcoin.",
+          "sentiment": "Neutral",
+          "impact": "Data-dependent; strong print would add to hawkish pressure on crypto",
           "sources": [
-            "https://www.swissinfo.ch/eng/treasuries-pare-losses-from-fed-hike%2c-dollar-gains%3a-markets-wrap/92071875",
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-17/"
+            "https://www.tradingview.com/news/DJN_DN20260918002259:0/",
+            "https://fedratecalc.com/us-economic-calendar/september-2026/",
+            "https://tradingeconomics.com/united-states/industrial-production-mom"
           ]
         }
       ]
@@ -153,69 +156,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US House Passes Russia Sanctions Bill with 100% Tariff Powers",
-          "summary": "The House cleared the Lindsey Graham Sanctioning Russia and Iran Act by 262 to 159, sending it to President Trump. It lets him hit the top buyers of Russian oil and gas, mainly China and India, with tariffs up to 100 percent, plus shadow-fleet and other sanctions. India has already pushed back on energy security grounds. Traders should watch this closely because secondary sanctions and tariff threats raise trade-war risk and could further scramble global energy flows just as oil markets stay tight.",
+          "title": "Trump Weighs Annihilating Iran or Pushing Deal at UN",
+          "summary": "President Trump told Axios he faces a big decision soon on whether to resume massive strikes to annihilate the Iranian regime or hold back, with anything possible. He plans to consult Gulf leaders next week at the UN General Assembly as the seven-month war grinds on in a stalemate. Traders should care because a major escalation would spike oil further and crush risk assets, while any credible de-escalation path could ease the energy shock and lift markets.",
+          "sentiment": "Neutral",
+          "impact": "Binary catalyst for oil volatility and risk-on/off swings",
+          "sources": [
+            "https://www.axios.com",
+            "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
+            "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-threats-annihilate-un-b3052129.html"
+          ]
+        },
+        {
+          "title": "Iran Strikes Oil Tanker in Strait of Hormuz",
+          "summary": "Iran's Revolutionary Guard claimed it hit a Togo-flagged oil tanker attempting illegal passage through the Strait of Hormuz, with UK maritime reports confirming at least one tanker struck by a projectile and fire extinguished. Traffic remains heavily restricted in the chokepoint that normally carries a huge share of global oil. This keeps energy prices elevated and supply risks high, which feeds inflation and pressures risk assets including crypto.",
           "sentiment": "Bearish",
-          "impact": "Heightened trade and secondary-sanctions risk for major economies, potential energy and inflation volatility",
+          "impact": "Sustains oil risk premium and inflation pressure",
+          "sources": [
+            "https://apnews.com/article/mideast-roundup-news-september-18-2026-024350a0820dfc5dd433b4e13445fab5",
+            "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz",
+            "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/"
+          ]
+        },
+        {
+          "title": "Congress Sends Russia-Iran Sanctions Bill to Trump",
+          "summary": "The House passed the Lindsey Graham Sanctioning Russia and Iran Act allowing up to 100 percent tariffs on the top buyers of Russian oil and gas, targeting countries like China and India, plus more measures on shadow fleets and officials. It now heads to Trump who is expected to sign. This raises secondary sanctions and trade-war risks that could hit global growth and commodity flows while increasing uncertainty for risk markets.",
+          "sentiment": "Bearish",
+          "impact": "Heightens trade friction and secondary sanction fears",
           "sources": [
             "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html",
-            "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-            "https://www.reuters.com/legal/government/us-house-takes-up-russia-sanctions-bill-backed-by-late-senator-graham-2026-09-16/"
+            "https://www.politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210",
+            "https://oilprice.com/Energy/Energy-General/Congress-Sends-Sweeping-Russia-Iran-Sanctions-Bill-to-Trump.html"
           ]
         },
         {
-          "title": "Saudis Scramble for Defenses as Houthi Fighting Escalates",
-          "summary": "Saudi Arabia is running low on missile interceptors and has asked France, Britain, Pakistan and Egypt for help against Houthi drones and missiles, with US stocks also depleted after months of Iran-related fighting. Houthis claimed dozens of Saudi airstrikes and released footage of alleged F-15 wreckage while both sides trade attacks near the Red Sea. This keeps a key oil producer under pressure and extends the Middle East supply risk premium that has already pushed crude near or above 100 dollars.",
-          "sentiment": "Bearish",
-          "impact": "Sustained energy-supply risk and higher oil-price volatility for risk assets",
-          "sources": [
-            "https://apnews.com/article/yemen-saudi-houthis-shipping-oil-war-mecca-895320bde6dc589cebb628b63832c38a",
-            "https://www.reuters.com/world/middle-east/saudi-coalition-says-houthi-drone-destroyed-near-mecca-2026-09-16/",
-            "https://www.scmp.com/news/world"
-          ]
-        },
-        {
-          "title": "Trump Says Iran War Hopefully Nearing End, Claims Deal Talks",
-          "summary": "President Trump told reporters the United States is hopefully moving toward the end of the seven-month war with Iran and that Tehran wants a deal, saying he has had direct contact. He is also expected to meet Gulf leaders next week at the UN on postwar plans. Any credible de-escalation would ease the Hormuz and regional oil shock that has driven diesel and crude higher, but previous ceasefires have broken and fighting continues, so markets will treat this as talk until shipping and strikes actually improve.",
+          "title": "US Approves $24 Billion F-35 Sale to Saudi Arabia",
+          "summary": "The State Department notified Congress of a proposed sale of 48 F-35 jets and related gear to Saudi Arabia valued at about 24.3 billion dollars, despite intelligence warnings about possible Chinese technology access. The deal aims to bolster Saudi defenses amid Houthi and regional threats from the Iran war. It signals deeper US-Saudi military ties that could stabilize or further militarize the Gulf energy picture for markets.",
           "sentiment": "Neutral",
-          "impact": "Potential oil relief if followed by action; still unresolved catalyst",
+          "impact": "Supports defense equities; mixed signal on Gulf stability",
           "sources": [
-            "https://www.reuters.com/world/middle-east/trump-hold-talks-iran-with-gulf-leaders-next-week-axios-reports-2026-09-16/",
-            "https://www.ynetnews.com/category/4666",
-            "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html"
+            "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
+            "https://www.state.gov/releases/bureau-of-political-military-affairs/2026/09/kingdom-of-saudi-arabia-f-35-lightning-ii-joint-strike-fighter-aircraft",
+            "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko"
           ]
         },
         {
-          "title": "Trump Threatens Heavy Tariffs on EU Over Canada Membership Plan",
-          "summary": "After EU Commission President von der Leyen floated associate membership for Canada and Prime Minister Carney welcomed closer ties, Trump called the idea laughable and a possible hostile act. He warned of very serious or heavy tariffs and even cutting trade with Europe on many items if he judges the intention bad. This piles fresh transatlantic trade tension on top of existing US-Canada friction and adds another layer of policy uncertainty for global risk markets.",
+          "title": "Houthi Advances and Attacks Squeeze Saudi Oil Routes",
+          "summary": "Iran-backed Houthis have seized more Red Sea territory including approaches to Bab el-Mandeb and continued strikes on Saudi targets, compounding the earlier East-West pipeline shutdown that removed a key Hormuz bypass. Saudi defenses are strained and Riyadh is seeking more allied support. This dual-chokepoint pressure keeps global oil supply tight and prices elevated, weighing on growth and risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Fresh trade-war risk between US, EU and Canada",
+          "impact": "Adds to energy supply disruption and inflation risk",
           "sources": [
-            "https://apnews.com/article/canada-europe-trump-tariffs-4078e9549ff9caa5ded08f7dd2f99065",
-            "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
-            "https://www.euractiv.com/news/trump-threatens-to-cut-eu-trade-over-canada-association-plan/"
+            "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+            "https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html",
+            "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/"
           ]
         },
         {
-          "title": "Hundred-Dollar Oil Sparks Global Unrest and Fuel Shortages",
-          "summary": "With Brent still hovering near or above 100 dollars amid the Iran war spillover and Saudi pipeline disruptions, countries from Asia to Latin America and the Middle East are seeing protests, blackouts, rationing and docked fishing fleets. Governments face ugly choices between passing costs to consumers or running up more debt. For crypto and risk traders this is the classic late-cycle energy shock: sticky inflation, tighter financial conditions and weaker growth impulses that usually pressure risk assets until supply eases.",
+          "title": "Trump Threatens Heavy Tariffs on EU Over Canada Tie",
+          "summary": "Trump called the EU proposal to make Canada its first associate member laughable and warned of very serious tariffs or trade cuts if he sees it as a hostile act amid the existing US-Canada tariff war. European officials say the partnership is not aimed at anyone else. Fresh tariff threats between major economies add another layer of trade uncertainty that can dampen global risk sentiment.",
           "sentiment": "Bearish",
-          "impact": "Inflation and growth headwinds that weigh on risk appetite",
+          "impact": "Escalates trade-war overhang on equities and crypto",
           "sources": [
-            "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
-            "https://www.ynetnews.com/article/burning-tires-empty-pumps-100-oil",
-            "https://www.thenation.com/article/world/iran-war-oil-prices-global-energy-markets/"
-          ]
-        },
-        {
-          "title": "Saudi Pipeline Hit Forces Oil Reroutes; Supply Cushion Thinning",
-          "summary": "After drone attacks shut Saudi Arabia’s East-West pipeline, the kingdom has canceled some European cargoes, suspended Yanbu loadings and offered Asian buyers ship-to-ship transfers outside Hormuz while boosting Gulf loadings. The line had been moving millions of barrels a day as a Hormuz bypass. Even with talk of partial restarts in days, the episode shows how thin global buffers have become and keeps a risk premium in crude that feeds into broader market volatility.",
-          "sentiment": "Bearish",
-          "impact": "Ongoing crude supply uncertainty and elevated energy prices",
-          "sources": [
-            "https://egyptoil-gas.com/news/saudi-arabia-reroutes-crude-exports-after-east-west-pipeline-attack/",
-            "https://www.reuters.com/business/energy/us-energy-chief-says-saudi-arabia-oil-pipeline-should-be-back-within-days-2026-09-15/",
-            "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html"
+            "https://www.forbes.com/sites/siladityaray/2026/09/17/trump-threatens-eu-with-tariffs-over-canada-associate-member-offer/",
+            "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3",
+            "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html"
           ]
         }
       ]
