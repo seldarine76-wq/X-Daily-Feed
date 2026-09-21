@@ -1,83 +1,83 @@
 {
-  "generated_at": "2026-09-20T12:04:30+00:00",
+  "generated_at": "2026-09-21T12:05:08+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin caught a short-squeeze bounce above eighty thousand with solid ETF inflows, yet the broader tape stays heavy. Sticky high yields, a firm dollar, elevated oil, and fresh geopolitical strikes keep risk appetite capped heading into a data-heavy week. Crypto-specific regulatory steps offer some support, but macro and geo headwinds dominate the near-term setup.",
+  "overall_sentiment": "Bullish",
+  "overall_summary": "Bitcoin looks firmly constructive today, punching to eighty-five thousand on a short squeeze, reclaiming its fifty-week moving average, and pulling in solid ETF inflows. Regulatory tailwinds from CFTC rules and the strategic reserve bill plus softer oil are fueling a clear risk-on tone for crypto. Macro digestion of the Fed hike and scattered geopolitical noise remain, but they are secondary to the crypto-specific catalysts.",
   "key_points": [
-    "ETF inflows strong but rally conviction questioned",
-    "Yields near five percent and dollar firm pressure risk",
-    "Oil above one hundred feeds inflation concerns",
-    "Escalating drone, Houthi, and sanctions risks elevated",
-    "Quiet Sunday ahead of PMIs and durables data"
+    "Bitcoin hits $85K, reclaims 50-week MA",
+    "Spot Bitcoin ETFs post $433M inflows",
+    "Strategic reserve bill and CFTC rules advance",
+    "Falling oil lifts risk-on macro backdrop",
+    "Fed hike digestion and firm dollar linger"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Fidelity Leads $433M Bitcoin ETF Inflow Friday",
-          "summary": "U.S. spot Bitcoin ETFs pulled in four hundred thirty-three million dollars on Friday, the strongest day in weeks, with Fidelity's FBTC taking over three hundred ten million and BlackRock's IBIT adding about one hundred eight million. That flipped the week to a thin six million dollar net positive after heavy midweek outflows. Traders should care because this shows real institutional bid returning even after the Fed hike and regulatory setbacks, supporting the reclaim of eighty thousand.",
+          "title": "Bitcoin Hits $85K First Time Since January on Short Squeeze",
+          "summary": "Bitcoin blasted above eighty-five thousand dollars Monday for the first time since January, gaining over five percent in twenty-four hours. The move was powered by a massive short squeeze that liquidated roughly six hundred fifty to seven hundred fifty million dollars in positions, the vast majority shorts, including hundreds of millions in a single hour. Open interest actually rose as traders piled back in. Traders should care because forced buying can cascade higher and this clears key recent resistance, though it leaves the market vulnerable if the squeeze fades without fresh spot demand.",
           "sentiment": "Bullish",
-          "impact": "Sustains demand floor and cushions weekend pullbacks",
+          "impact": "Near-term upside momentum from forced covering and range break",
           "sources": [
-            "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-            "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
-            "https://bykaranteli.com/etf"
+            "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
+            "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+            "https://cryptoslate.com/bitcoin-just-broke-85000-but-the-rally-is-being-powered-by-traders-forced-to-buy/"
           ]
         },
         {
-          "title": "Short Squeeze Drives Bitcoin Back Above $80K",
-          "summary": "Bitcoin ripped from the mid seventy-six thousands to over eighty-one thousand on Friday as roughly one hundred eighty to two hundred thirty million dollars in short positions got liquidated in a tight window, mostly BTC. Forced covering added fuel after the Fed and Bank of Japan hikes plus the Clarity Act failure. Traders need to watch because squeezes can reverse fast if fresh longs do not step in, and price is now testing the eighty to eighty-two thousand zone on lighter weekend volume.",
-          "sentiment": "Neutral",
-          "impact": "Technical bounce that needs confirmation from spot flows",
+          "title": "Bitcoin Reclaims 50-Week Moving Average After 45 Weeks",
+          "summary": "Bitcoin closed the week above its fifty-week moving average for the first time in forty-five weeks, ending near eighty-one thousand one hundred fifty-nine dollars. Galaxy Research notes this reclaim has historically confirmed bear-market lows in most prior cases, with eleven of thirteen similar instances avoiding new cycle lows. The asset is now up nearly thirty percent over thirty-five days from its summer bottom. Traders should watch this closely as a potential regime shift signal that has preceded major bull runs in past cycles, though holding the level remains key.",
+          "sentiment": "Bullish",
+          "impact": "Supports case for cycle bottom and longer-term upside",
           "sources": [
-            "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-            "https://news.bitcoin.com/market-updates/bitcoins-price-rips-past-80k-as-short-sellers-get-steamrolled/",
-            "https://www.tradingview.com/news/cryptobriefing:f67e749d7094b:0-bitcoin-surges-above-80-000-triggering-183m-in-shorts-liquidated/"
+            "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+            "https://www.tradingview.com/news/cryptobriefing:18b6c23cc094b:0-bitcoin-closes-above-50-week-moving-average-for-first-time-since-november-2025/",
+            "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week"
           ]
         },
         {
-          "title": "CFTC Sends Crypto Market Rules to White House",
-          "summary": "After the Senate killed the Clarity Act forty-nine to fifty, the CFTC filed its Regulation Crypto Asset Transactions and Markets proposal with the White House Office of Management and Budget for review. Details stay private at the pre-rule stage, but it signals agencies will write the framework under existing authority. This matters for traders because it keeps regulatory momentum alive without waiting on Congress, potentially reducing uncertainty that has weighed on positioning.",
+          "title": "Spot Bitcoin ETFs Swing Positive With $433M Friday Inflows",
+          "summary": "US spot Bitcoin ETFs flipped back to net inflows after heavy mid-week outflows, pulling in four hundred thirty-three million dollars on Friday alone led by Fidelity and BlackRock. That left the week roughly flat to slightly positive at about six million dollars net. The buying helped propel Bitcoin back above eighty-one thousand and supported the weekend-into-Monday rally. Traders care because ETF flows are a clean read on institutional demand that must be matched by actual Bitcoin purchases, providing a structural bid under price.",
           "sentiment": "Bullish",
-          "impact": "Supports longer-term clarity and risk appetite",
+          "impact": "Reinforces institutional demand floor for further gains",
           "sources": [
-            "https://www.bloomberg.com/news/articles/2026-09-18/cftc-seeks-white-house-review-on-crypto-rules-after-bill-fails",
+            "https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000",
+            "https://coinpaper.com/36013/bitcoin-etf-flows-swing-back-positive-as-btc-jumps-above-81k",
+            "https://www.tradingview.com/news/cryptobriefing:6686c8658094b:0-us-spot-bitcoin-etfs-see-inflows-as-bitcoin-tops-81-000/"
+          ]
+        },
+        {
+          "title": "CFTC Submits Crypto Market Rules to White House Review",
+          "summary": "The Commodity Futures Trading Commission has sent proposed rules covering crypto asset transactions and markets to the White House Office of Information and Regulatory Affairs for review. This comes right after the Clarity Act stalled in the Senate, signaling agencies are moving ahead with their own frameworks under existing authority. Details remain under wraps at the prerule stage. Traders should monitor this because clearer CFTC rules could reduce uncertainty for derivatives and spot markets, potentially unlocking more institutional participation even without full legislation.",
+          "sentiment": "Bullish",
+          "impact": "Positive regulatory clarity catalyst over coming months",
+          "sources": [
+            "https://cryptobriefing.com/cftc-submits-crypto-market-rules-to-white-house-after-clarity-act-stalls/",
             "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
             "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
           ]
         },
         {
-          "title": "SEC Tokenized Stocks Exemption Draws Schiff Pushback",
-          "summary": "The SEC granted a five-year innovation exemption letting platforms trade fully backed tokenized NMS stocks with full rights. Bitcoin rallied on the news as blockchain validation, but Peter Schiff called it bearish, arguing tokenized equities offer the same convenience plus dividends and real backing. Traders should note the split: markets treated it as constructive for crypto infrastructure while critics see competition for capital.",
-          "sentiment": "Neutral",
-          "impact": "Mixed catalyst pending how liquidity actually shifts",
-          "sources": [
-            "https://cryptobriefing.com/sec-tokenized-stocks-bearish-bitcoin-schiff/",
-            "https://www.cryptotimes.io/2026/09/19/peter-schiff-calls-bitcoin-rally-after-sec-tokenized-stock-action-illogical/",
-            "https://news.bitcoin.com/"
-          ]
-        },
-        {
-          "title": "Saylor and Wood Rebuff Calacanis Dead-Cat Call",
-          "summary": "Jason Calacanis labeled Bitcoin's reclaim of eighty thousand a dead-cat bounce and said it has lost its edge after seventeen years. Michael Saylor replied that it is a one-point-six trillion success as digital capital and the orange tie stays, while Cathie Wood said it has many lives ahead. This high-profile exchange keeps bullish institutional voices loud and counters narrative fatigue just as price holds the key level.",
+          "title": "House Panel Advances Strategic Bitcoin Reserve Bill",
+          "summary": "The House Financial Services Committee advanced the American Reserve Modernization Act by a twenty-eight to twenty-one vote, moving to codify a Strategic Bitcoin Reserve into law with a mandatory twenty-year hold on government Bitcoin. It would centralize custody at Treasury, require audits and reporting, and study budget-neutral ways to acquire more. The bill still needs full House, Senate, and presidential approval. This matters for traders as it signals lasting US government commitment to holding Bitcoin as a reserve asset, reducing long-term supply overhang fears from seized coins.",
           "sentiment": "Bullish",
-          "impact": "Reinforces conviction narrative among large holders",
+          "impact": "Long-term positive structural demand and reduced sell pressure",
           "sources": [
-            "https://news.bitcoin.com/crypto-news/calacanis-bitcoin-dead-cat-saylor-cathie-wood/",
-            "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-            "https://u.today/cathie-wood-says-bitcoin-is-not-a-dead-cat"
+            "https://news.bitcoin.com/regulation-and-legal/house-panel-advances-us-bitcoin-reserve-bill-with-20-year-hold/",
+            "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
+            "https://unchainedcrypto.com/house-committee-advances-bill-to-write-trumps-strategic-bitcoin-reserve-into-law/"
           ]
         },
         {
-          "title": "Analysis Questions Institutional Backing for $80K Rally",
-          "summary": "CryptoSlate noted that Bitcoin's move above eighty thousand lacked strong institutional conviction, with leveraged funds cutting net shorts by over seven thousand BTC equivalent while asset-manager longs fell and weekly ETF demand stayed only barely positive. Traders should care because if the bounce was mostly squeeze-driven rather than fresh spot buying, the hold above eighty thousand becomes more fragile heading into the new week.",
-          "sentiment": "Neutral",
-          "impact": "Flags risk of fade if Monday flows disappoint",
+          "title": "Falling Oil and Risk-On Macro Lift Bitcoin Higher",
+          "summary": "Bitcoin's Monday surge came alongside a fourth straight day of sliding oil prices and firmer equity futures, boosting broader risk appetite. Brent crude weakness, tied partly to easing geopolitical tensions, helped pull capital into risk assets including crypto. Major alts followed with solid gains. Traders should note the macro linkage because sustained lower energy prices and softer yields can keep the risk-on environment intact, supporting crypto if no fresh shocks hit, though oil volatility remains a two-way risk.",
+          "sentiment": "Bullish",
+          "impact": "Supports continued risk-asset bid into the week",
           "sources": [
-            "https://cryptoslate.com/news/bitcoin/",
-            "https://public.com/crypto/btc/news",
-            "https://finobird.com/crypto/"
+            "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+            "https://en.bloomingbit.io/feed/news/120734",
+            "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-above-84000-after-regulatory-developments-boost-market-sentiment/articleshow/134386892.cms"
           ]
         }
       ]
@@ -86,69 +86,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Hike Digested; Markets Price 57% Odds of October Rise",
-          "summary": "The Federal Reserve under Chair Kevin Warsh delivered its first rate hike since 2023 last Wednesday, lifting the funds rate to 3.75-4 percent and stressing that inflation has stayed too high for too long. Over the weekend traders have raised the probability of another quarter-point move in October to around 57 percent according to FedWatch. Crypto traders should watch this closely because higher-for-longer rates raise the discount rate on risk assets and can tighten financial conditions that usually weigh on Bitcoin.",
+          "title": "Goolsbee Flags Demand-Driven Inflation Risks Post-Hike",
+          "summary": "Chicago Fed President Austan Goolsbee said US inflation may now be driven by strong demand, including AI investment spilling over, on top of persistent supply shocks from oil and tariffs. He stated there is no ambiguity the Fed would hike further if demand overheats, and the path back to two percent inflation will not be painless. Crypto traders should watch this closely as it locks in higher-for-longer rate expectations right after last week's first hike since twenty twenty-three.",
           "sentiment": "Bearish",
-          "impact": "Higher rates pressure risk assets and liquidity",
+          "impact": "Reinforces tighter policy, supporting yields and dollar while pressuring risk assets including Bitcoin",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-20",
-            "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
-            "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html"
+            "https://www.reuters.com/business/feds-goolsbee-strong-demand-may-be-adding-us-inflation-no-ambiguity-how-fed-2026-09-21/",
+            "https://www.bloomberg.com/news/videos/2026-09-21/fed-s-goolsbee-says-path-to-2-unlikely-to-be-painless-video",
+            "https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif"
           ]
         },
         {
-          "title": "10-Year Treasury Yield Holds Near 5 Percent Multi-Year High",
-          "summary": "The benchmark 10-year Treasury yield closed Friday around 5 percent after touching its highest level since 2007 earlier in the week. The move reflects the Fed's hawkish pivot plus sticky inflation fears from elevated oil. For crypto this matters because rising long-term yields increase competition for capital and often correlate with weaker risk appetite across markets.",
-          "sentiment": "Bearish",
-          "impact": "Elevated yields tighten conditions for Bitcoin",
+          "title": "Treasury Yields Ease as Oil Falls from Multi-Year Highs",
+          "summary": "US ten-year Treasury yields dropped about three basis points to around four point nine seven percent early Monday after hitting a nineteen-year high near five point zero four last week. The move tracked a global decline in borrowing costs helped by softer oil prices. For traders this offers some relief after the Fed hike pushed yields higher, potentially supporting equities and crypto if the pullback holds.",
+          "sentiment": "Bullish",
+          "impact": "Lower yields ease financial conditions and reduce pressure on risk assets",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-20",
-            "https://www.businesstoday.com.my/2026/09/19/wall-street-ends-volatile-week-mixed-as-yields-top-5-oil-fuels-inflation-worries/",
-            "https://ycharts.com/indicators/10_year_treasury_rate"
+            "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
+            "https://www.morningstar.com/news/dow-jones/202609211070/government-bond-yields-fall-as-risk-sentiment-tentatively-improves"
           ]
         },
         {
-          "title": "US Dollar Index Holds Gains Near 100.2 After Fed Move",
-          "summary": "The DXY closed Friday around 100.22, up roughly 1.1 percent on the week as the Fed hike and higher yields supported the greenback. It remains near multi-week highs even as oil eased slightly. A stronger dollar typically acts as a headwind for Bitcoin and other crypto priced in dollars by making them more expensive for foreign buyers and reinforcing risk-off flows.",
-          "sentiment": "Bearish",
-          "impact": "Stronger DXY historically weighs on crypto",
+          "title": "Oil Slips Below Key Levels on Saudi Export Recovery",
+          "summary": "Brent crude fell over two percent toward one hundred one dollars and WTI broke below one hundred as Saudi exports recovered above four million barrels per day via the Strait of Hormuz. Hopes for diplomacy at the UN General Assembly this week also trimmed the geopolitical premium despite ongoing Houthi attacks. Crypto traders care because cheaper oil can cool inflation expectations and reduce the case for aggressive further Fed hikes.",
+          "sentiment": "Bullish",
+          "impact": "Eases inflation fears and supports risk-on sentiment across markets",
           "sources": [
-            "https://www.gurufocus.com/economic_indicators/5747/us-dollar-index-dxy",
-            "https://www.riotimesonline.com/global-economy-briefing-september-19-2026/",
-            "https://tradingeconomics.com/dxy:cur"
+            "https://en.amwalalghad.com/oil-prices-fall-on-monday-6/",
+            "https://www.livemint.com/market/oil-slips-as-investors-assess-saudi-export-recovery-11789950982078.html",
+            "https://gulfnews.com/business/energy/oil-prices-ease-as-markets-weigh-saudi-supply-recovery-against-hormuz-risks-1.500681414"
           ]
         },
         {
-          "title": "Bank of Japan Hikes to 1.25 Percent, 31-Year High",
-          "summary": "On Friday the BoJ raised its policy rate by 25 basis points to 1.25 percent in a 7-2 split decision, the highest level in three decades, as Governor Ueda said the policy phase has changed to guard against inflation overshoot. The yen still weakened on the dissents. Global tightening from major central banks reduces excess liquidity that has often supported crypto rallies, so traders should monitor any further yen or carry-trade unwinds.",
+          "title": "Dollar Index Holds Firm Above 100 After Fed Hike",
+          "summary": "The US Dollar Index stayed elevated around one hundred point three, near recent highs, backed by the Federal Reserve's hawkish quarter-point hike last week and signals of more tightening. Safe-haven demand from Middle East tensions added support. A strong dollar typically weighs on Bitcoin and other risk assets by tightening global liquidity conditions.",
           "sentiment": "Bearish",
-          "impact": "Global rate hikes reduce excess liquidity",
+          "impact": "Stronger DXY pressures crypto and emerging-market assets",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/boj-raises-interest-rates-31-year-high-widely-expected-move-2026-09-18/",
-            "https://apnews.com/article/japan-economy-interest-rates-inflation-67e71246d3af41bcfc61aa788f9959c7",
-            "https://www.nippon.com/en/news/yjj2026091800484/"
+            "https://www.fxstreet.com/news/united-states-dollar-index-tests-late-july-high-near-10035-on-hawkish-fed-stance-202609180854",
+            "https://biquote.io/stocks/dxy",
+            "https://www.marketwatch.com/investing/index/dxy"
           ]
         },
         {
-          "title": "Oil Stays Above 100 Dollars, Feeding Inflation Worries",
-          "summary": "Crude held above 100 dollars a barrel into the weekend despite some Friday pullback, driven by Middle East tensions including Iran-related risks and earlier Saudi infrastructure concerns. Persistent high energy costs keep inflation sticky and support the case for further central-bank tightening. Crypto traders care because energy-driven inflation prolongs hawkish policy that has historically been negative for risk assets like Bitcoin.",
+          "title": "Markets Digest Fed's First Rate Hike Since 2023",
+          "summary": "Investors continue processing the Federal Reserve's unanimous twenty-five basis point hike to three point seven five to four percent under Chair Kevin Warsh, with the dot plot pointing to at least one more increase this year. Yields and the dollar spiked initially on the hawkish message aimed at sticky inflation. This sets the tone for the week as traders reassess the higher-for-longer path and its hit to risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Sticky inflation supports higher-for-longer rates",
+          "impact": "Elevates rate expectations and keeps financial conditions tight for Bitcoin",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-20",
-            "https://www.businesstoday.com.my/2026/09/19/wall-street-ends-volatile-week-mixed-as-yields-top-5-oil-fuels-inflation-worries/",
-            "https://english.news.cn/20260919/2104d75ce6ce438b8d517450e9c2fe4c/c.html"
+            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-16/",
+            "https://m.economictimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-hike-iran-war-inflation-brent-crude-oil-intel-conocophillips-chevron-ai-chip-energy-stock-price-news-16th-sep/liveblog/134287797.cms",
+            "https://www.usbank.com/corporate-and-commercial-banking/insights/economy/outlook/weekly.html"
           ]
         },
         {
-          "title": "Quiet Sunday; Week Ahead Brings PMIs and Durables Data",
-          "summary": "No major US economic releases are scheduled for Sunday September 20. The coming week features S&P Global flash PMIs on Wednesday, jobless claims and new home sales on Thursday, plus durable goods orders and final Michigan sentiment on Friday. Traders will also watch Fed speeches and the Trump-Xi meeting for any policy clues. These data points will shape rate expectations after the recent hike, so any surprises on growth or inflation could swing yields, the dollar and crypto sentiment.",
+          "title": "Quiet Data Day with Chicago Fed Index Due; Light Week Ahead",
+          "summary": "Monday features the Chicago Fed National Activity Index for August at eight thirty Eastern, a secondary growth gauge after no major releases scheduled. The week is light overall with jobless claims Thursday and durable goods Friday, plus Fed speakers including Williams. Traders should note the calendar vacuum keeps focus on oil, yields, and central bank rhetoric rather than fresh US data prints.",
           "sentiment": "Neutral",
-          "impact": "Upcoming data to refine rate-path pricing",
+          "impact": "Limited immediate volatility expected from data; markets driven by yields and geopolitics",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-20",
+            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--september-2026-.html",
             "https://finance.yahoo.com/calendar/economic/",
-            "https://fedratecalc.com/us-economic-calendar/september-2026/"
+            "https://www.tradingview.com/news/DJN_DN20260921001744:0/"
           ]
         }
       ]
@@ -157,69 +156,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Ukraine Launches Massive Drone Barrage on Moscow",
-          "summary": "Ukraine fired more than a thousand drones and missiles at the Moscow region overnight, damaging a major oil refinery, killing two people, and forcing evacuations on the final day of Russia's parliamentary elections. Moscow's mayor called it the largest ever attack on the capital, with hundreds of drones intercepted while some got through. Traders should watch this closely because hits on Russian energy infrastructure tighten global oil and diesel supplies already strained by the Middle East conflict, raising inflation risks and supporting risk-off moves in crypto and equities.",
+          "title": "Trump in 'deciding mode' on Iran war, threatens big action",
+          "summary": "President Trump told Fox News he is in deciding mode on the Iran conflict and that very big things will happen soon if Tehran does not behave. He outlined options including wiping Iran out, letting it rot economically under sanctions and blockade, or striking a deal, while saying he is open to meeting Iranian President Pezeshkian at the UN. Iran has set conditions including ending the war and lifting the naval blockade before reopening the Strait of Hormuz. Traders should watch closely because any escalation or breakthrough directly hits oil prices already near one hundred dollars a barrel and global risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Unresolved escalation risk keeps oil elevated and risk assets volatile pending UN diplomacy",
+          "sources": [
+            "https://www.hindustantimes.com/world-news/very-big-things-going-to-happen-trump-in-deciding-mode-on-iran-war-outlines-3-options-amid-deadlock-101789920061070.html",
+            "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-update-oil-houthis-riyadh-b3053306.html",
+            "https://economictimes.indiatimes.com/news/international/world-news"
+          ]
+        },
+        {
+          "title": "Houthis strike Riyadh airport and Aramco sites",
+          "summary": "Iran-backed Houthis claimed ballistic missile, cruise missile and drone attacks on sensitive sites in the Saudi capital Riyadh and Aramco facilities in Yanbu. Smoke and flames were seen near King Khalid International Airport with flight disruptions, and Saudi forces said they intercepted a missile. It was the first air-raid alert in Riyadh since the latest escalation. The US State Department warned of potential rapid escalation. This matters for traders because it threatens Saudi oil export routes and the Bab el-Mandeb shipping chokepoint, supporting elevated energy prices and risk-off pressure.",
           "sentiment": "Bearish",
-          "impact": "Heightens energy supply risks and war escalation premium",
+          "impact": "Heightens oil supply disruption fears and Middle East risk premium",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
+            "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh",
+            "https://www.timesofisrael.com/saudi-capital-issues-first-air-raid-alert-since-renewed-fighting-in-yemen/"
+          ]
+        },
+        {
+          "title": "Ukraine launches largest drone barrage on Moscow refinery",
+          "summary": "Ukraine fired well over one thousand drones and missiles at the Moscow region in its biggest attack on the capital, damaging the Moscow Oil Refinery and killing at least three people according to Russian officials. Zelenskyy confirmed hits on key oil and logistics sites using new domestic systems. Trump then pressed Zelenskyy in a phone call to halt refinery strikes, repeatedly citing diesel prices, and the two plan to meet at the UN. This is market-relevant because it tightens global diesel supplies already strained by the Iran war while raising escalation odds just as diplomacy tries to cool things.",
+          "sentiment": "Bearish",
+          "impact": "Adds to energy tightness and war escalation risk ahead of UN talks",
           "sources": [
             "https://www.reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20/",
-            "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-            "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says"
+            "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+            "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks"
           ]
         },
         {
-          "title": "Houthis Strike Toward Riyadh and Saudi Oil Sites",
-          "summary": "Yemen's Iran-backed Houthis claimed ballistic missile and drone attacks on sensitive sites in Riyadh and an Aramco facility in Yanbu, with smoke and flames seen near the capital's airport after the first air-raid alerts there in months. Saudi forces said they intercepted a missile headed for Riyadh and other attempts. This opens a fresh front threatening Red Sea shipping and Saudi exports on top of Hormuz disruptions, so oil prices stay elevated and risk assets face continued pressure from energy shocks.",
-          "sentiment": "Bearish",
-          "impact": "Raises oil spike and shipping disruption risks",
+          "title": "US-China talks called successful ahead of Trump-Xi summit",
+          "summary": "Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng held lengthy New York talks described as very successful, covering trade, tariffs on non-strategic goods, critical minerals and a new US-China AI dialogue with incident notification. Working groups continue as they prepare the ground for President Trump and President Xi to meet later this week in Washington. Markets liked the constructive tone. For crypto and risk assets this is a clear positive catalyst that could ease tariff fears and support risk-on flows if the summit delivers.",
+          "sentiment": "Bullish",
+          "impact": "Reduces trade-war overhang and boosts risk appetite into leaders' summit",
           "sources": [
-            "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh",
-            "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
-            "https://www.irishtimes.com/world/middle-east/2026/09/20/us-warns-of-rapid-middle-east-escalation-after-houthis-claim-attack-on-riyadh/"
+            "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
+            "https://asia.nikkei.com/politics/international-relations/bessent-and-china-s-he-launch-talks-on-ai-trade-and-critical-minerals",
+            "https://www.japantimes.co.jp/business/2026/09/21/bessent-china-talks-ai-trade/"
           ]
         },
         {
-          "title": "UNGA Opens Amid US-Iran War and Regional Escalation",
-          "summary": "World leaders gather in New York for the UN General Assembly as the US-Iran war grinds on, with Hormuz still disrupted, Houthi advances squeezing another chokepoint, and Trump set to address the body while Iranian President Pezeshkian also speaks. Trump has talked of a big decision on further action against Iran and is meeting Gulf leaders. Crypto traders care because prolonged Middle East fighting keeps oil high, fuels inflation, and sustains a risk-off backdrop that weighs on Bitcoin and other risk assets until any clear de-escalation path appears.",
+          "title": "Merz CDU suffers historic wipeout in German state votes",
+          "summary": "Chancellor Friedrich Merz's CDU posted its worst postwar result, falling below the five percent threshold in Mecklenburg-Western Pomerania and losing heavily in Berlin as the far-right AfD took first place and the far-left Die Linke surged. Merz called it a disaster but vowed to stay on. The results deepen questions about his leadership and German political stability. European traders care because political fragmentation in the EU's largest economy can weigh on the euro, growth outlook and broader risk sentiment.",
           "sentiment": "Bearish",
-          "impact": "Sustains geopolitical risk premium and energy inflation",
+          "impact": "Raises EU political instability premium and pressure on euro-area assets",
           "sources": [
-            "https://www.usnews.com/news/world/articles/2026-09-20/world-leaders-return-to-un-amid-wars-in-middle-east-and-ukraine",
-            "https://www.ynetnews.com/category/4666",
-            "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_19"
+            "https://www.reuters.com/world/merz-clings-after-german-election-disaster-2026-09-21/",
+            "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+            "https://www.telegraph.co.uk/world-news/2026/09/21/merz-cdu-suffers-total-wipeout-in-state-election/"
           ]
         },
         {
-          "title": "Trump Signs Sweeping Russia-Iran Sanctions Bill",
-          "summary": "President Trump signed the Lindsey Graham Sanctioning Russia and Iran Act, targeting Russian officials, banks, the shadow tanker fleet, and energy sector while authorizing up to 100 percent tariffs on top buyers of Russian oil and gas such as China and India. It also extends Iran-related measures. Russia warned it complicates peace efforts. This could hit global trade flows, raise costs for major economies, and add another layer of uncertainty for markets already dealing with oil shocks.",
-          "sentiment": "Bearish",
-          "impact": "Threatens secondary tariffs and tighter energy sanctions",
-          "sources": [
-            "https://apnews.com/article/donald-trump-russia-sanctions-ukraine-lindsey-graham-d1715ad5e8feccba76bfae51c5f28c45",
-            "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
-            "https://www.reuters.com/world/us/russia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-2026-09-18/"
-          ]
-        },
-        {
-          "title": "North Korea Fires Two Ballistic Missiles in Hours",
-          "summary": "North Korea launched a short-range ballistic missile toward the East Sea, then another projectile roughly three hours later, its second set of tests in about a week amid tensions over US-led drills. South Korea and Japan tracked the launches and convened security talks. While not an immediate direct hit on oil or major trade routes, serial provocations in a multi-front geopolitical environment add to the overall risk-off mood and keep Asia-Pacific defense concerns alive for global investors.",
+          "title": "United Russia wins wartime Duma election landslide",
+          "summary": "With over ninety-five percent of votes counted, Putin's United Russia party took roughly fifty-eight percent and is set for about three hundred fifty-five seats, retaining its constitutional majority in the first parliamentary election since the full-scale Ukraine invasion. Turnout was reported higher than previous cycles despite the Moscow drone attack on voting day. The result locks in the current war course with little domestic opposition. For markets it is mostly status-quo, reducing near-term surprise risk but confirming prolonged conflict and sanctions pressure.",
           "sentiment": "Neutral",
-          "impact": "Adds to multi-theater tension without immediate oil link",
+          "impact": "Entrenches war trajectory with limited immediate market shock",
           "sources": [
-            "https://en.yna.co.kr/view/AEN20260920002953315",
-            "https://www.scmp.com/news/asia/east-asia/article/3368160/north-korea-fires-two-missiles-three-hours-amid-tensions-over-us-drills",
-            "https://www.japantimes.co.jp/news/2026/09/20/japan/north-korea-missiles-september-20/"
-          ]
-        },
-        {
-          "title": "Trump-Xi Summit and UNGA Diplomacy Superweek Begins",
-          "summary": "Chinese President Xi Jinping skips the UN General Assembly to head straight for a White House meeting and state dinner with Trump on Thursday, while world leaders convene in New York against the backdrop of the Iran and Ukraine wars. Trump has softened public rhetoric toward Xi ahead of the talks. Markets will parse any signals on trade, tariffs, Taiwan, or Middle East coordination, as a constructive outcome could ease some risk premium while failure would reinforce the current elevated geopolitical backdrop.",
-          "sentiment": "Neutral",
-          "impact": "Key unresolved catalyst for trade and risk sentiment",
-          "sources": [
-            "https://en.fnnews.com/news/202609201326597031",
-            "https://www.indiatoday.in/world/story/trump-softens-tone-on-xi-ahead-of-state-dinner-amid-us-china-rivalry-ptag-2998688-2026-09-20",
-            "https://www.usnews.com/news/world/articles/2026-09-20/world-leaders-return-to-un-amid-wars-in-middle-east-and-ukraine"
+            "https://www.reuters.com/world/russias-ruling-pro-putin-party-wins-wartime-election-with-over-57-vote-near-2026-09-21/",
+            "https://meduza.io/en/news/2026/09/21/russia-s-election-commission-says-ruling-party-united-russia-leads-in-208-of-225-single-member-districts-and-has-57-82-of-the-party-list-vote",
+            "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know"
           ]
         }
       ]
