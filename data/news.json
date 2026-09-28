@@ -1,77 +1,81 @@
 {
-  "generated_at": "2026-09-27T12:04:54+00:00",
+  "generated_at": "2026-09-28T12:04:09+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is getting clear support from heavy ETF inflows and large exchange outflows, pointing to accumulation. That strength is offset by hawkish macro pressure from multi-decade-high yields, rising hike odds, and soft sentiment, plus lingering Iran-related geopolitical risk. With a heavy data week ahead, the near-term tone for crypto stays mixed and cautious rather than one-sided.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Bitcoin and crypto face clear near-term pressure from Iran tensions, oil spikes, multi-decade high yields, and a strong dollar, despite heavy spot ETF inflows. Macro rate-hike risks and unresolved geopolitical flashpoints keep the forward bias risk-off. Strong institutional buying offers a floor but is outweighed by the broader caution heading into key data.",
   "key_points": [
-    "Bitcoin ETFs log $2.4B weekly inflows",
-    "Over $2.5B BTC leaves exchanges",
-    "Yields near 5.2%; Fed hike odds climb",
-    "Iran tensions offset US-China tariff relief",
-    "PCE, GDP, and NFP data loom"
+    "Iran tensions and oil spike drive risk-off",
+    "Spot Bitcoin ETFs pull $2.4B, flows flip positive",
+    "Yields and dollar near multi-decade or multi-month highs",
+    "Fed signals more hikes possible; PCE and NFP loom",
+    "Solana ETFs hit record weekly inflows"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs Log $2.4B Weekly Inflows, Flip 2026 Positive",
-          "summary": "US spot Bitcoin ETFs took in roughly two point four billion dollars last week, the largest weekly total since October 2025, extending a seven-day inflow streak. That reversed earlier 2026 outflows and pushed year-to-date net flows back into positive territory after a multi-billion-dollar deficit in July. BlackRock's IBIT led with about one point two billion. Traders should care because sustained institutional buying absorbs supply and underpins price even with elevated Treasury yields.",
-          "sentiment": "Bullish",
-          "impact": "Supports BTC consolidation near 84k and potential further upside",
+          "title": "Bitcoin Falls to $83K as Iran Tensions and Oil Spike",
+          "summary": "Bitcoin dropped about 1.7 percent to around 83,000 dollars on Monday as President Trump rejected Iran's terms to reopen the Strait of Hormuz and left open the chance of more strikes before the midterms. Oil climbed back above 100 dollars a barrel, dragging risk assets lower including Nasdaq futures and altcoins. Traders should care because this is classic geo-driven risk-off that can amplify volatility ahead of this week's US jobs and inflation data.",
+          "sentiment": "Bearish",
+          "impact": "Short-term pressure on BTC and risk assets until oil or talks stabilize",
           "sources": [
+            "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
+            "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+            "https://www.blockhead.co/2026/09/28/bitcoin-holds-near-84-000-as-trump-rejects-iran-ceasefire-offer/"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs Pull $2.4B, Flip 2026 Flows Positive",
+          "summary": "US spot Bitcoin ETFs recorded 2.4 billion dollars in net inflows for the week ending September 25, the strongest weekly haul since October 2025. That flipped year-to-date flows positive to roughly 900 million dollars after a deep mid-year deficit near 5.8 billion. BlackRock IBIT led with about 1.2 billion. Traders should watch this as clear institutional demand that has supported price even through recent pullbacks.",
+          "sentiment": "Bullish",
+          "impact": "Supports downside and signals sustained institutional buying power",
+          "sources": [
+            "https://cryptobriefing.com/bitcoin-etfs-2b-largest-inflow-week/",
             "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-            "https://crypto.news/bitcoin-etfs-add-5-3b-after-treasury-buyback-plan/",
             "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green"
           ]
         },
         {
-          "title": "Bitget Raises Hack Losses to $387.5 Million",
-          "summary": "Bitget revised the size of its hot-and-warm wallet breach upward to about three hundred eighty-seven point five million dollars after tracing additional assets on Zcash, Tron and other chains. The exchange says its user protection fund covers customer balances and plans phased withdrawal restarts beginning with Bitcoin on September 28. This is the largest crypto theft reported in 2026 so far. Traders should watch for any spillover in exchange risk premiums and temporary liquidity effects.",
-          "sentiment": "Bearish",
-          "impact": "Weighs on short-term sector confidence and risk appetite",
-          "sources": [
-            "https://foreck.info/cryptocurrency/bitget-hack-loss-revised-to-usd387-5m-largest-crypto-theft-of-2026",
-            "https://cryptorank.io/news/feed/68a1f-bitget-raises-hack-estimate-to-387-5m-and-sets-withdrawal-restart-plan"
-          ]
-        },
-        {
-          "title": "Exchanges Record Over $2.5B in Bitcoin Outflows",
-          "summary": "Centralized exchanges saw net outflows of roughly thirty-one to thirty-two thousand Bitcoin, valued around two and a half billion dollars, over the past week, led by Binance. Persistent withdrawals often signal coins moving into self-custody or longer-term storage rather than immediate selling. Paired with strong ETF inflows, the flow picture points to accumulation while price holds near eighty-four thousand. Reduced exchange supply can amplify upside moves if demand continues.",
-          "sentiment": "Bullish",
-          "impact": "Tightens liquid supply and supports medium-term upside bias",
-          "sources": [
-            "https://zycrypto.com/why-bitcoins-2-52-billion-exchange-exodus-could-fuel-the-next-bullish-move/",
-            "https://www.lookonchain.com/feeds/74364"
-          ]
-        },
-        {
-          "title": "Riot Repays $200M Loan, Frees 5,821 BTC Collateral",
-          "summary": "Riot Platforms fully repaid and terminated its two hundred million dollar secured credit facility with Coinbase Credit ahead of the April 2027 maturity, without early-termination fees. The move released liens on previously pledged Bitcoin, USDC and cash; as of the last reported figure that included about five thousand eight hundred twenty-one BTC worth over three hundred forty million. It improves the miner's financial flexibility as it expands data-center and AI capacity. Lower leverage among large holders reduces forced-sale risk.",
-          "sentiment": "Bullish",
-          "impact": "Strengthens miner balance sheet and frees previously locked BTC",
-          "sources": [
-            "https://coinedition.com/crypto-live-news/riot-clears-200m-coinbase-loan-frees-341m-in-bitcoin/",
-            "https://www.tokenpost.com/news/business/24438"
-          ]
-        },
-        {
-          "title": "SEC Crypto Mom Hester Peirce Resigns October 2",
-          "summary": "Commissioner Hester Peirce, long nicknamed Crypto Mom for her advocacy of clearer digital-asset rules, submitted her resignation effective October 2. She will leave after more than eight years and head the Crypto Task Force exit, leaving the SEC with only two sitting commissioners and no named successor yet. The timing follows recent market-structure setbacks in Congress. Traders should monitor whether rulemaking momentum or enforcement tone shifts without her internal voice.",
+          "title": "Bitget Resumes BTC Withdrawals After $388M Hack",
+          "summary": "Bitget started phased withdrawal resumption on Monday with Bitcoin at 8 UTC after the September 24 exploit that drained roughly 388 million dollars. ETH follows Tuesday, USDT Wednesday, and remaining assets by October 2. The exchange says the vulnerability is patched and its protection fund covers losses with user balances intact. Traders care because exchange hacks hit confidence and liquidity; smooth resumption reduces contagion risk.",
           "sentiment": "Neutral",
-          "impact": "Removes key internal crypto advocate; effect hinges on successor and remaining leadership",
+          "impact": "Stabilizes exchange risk premium if withdrawals proceed cleanly",
           "sources": [
+            "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965",
+            "https://www.cryptotimes.io/2026/09/26/bitget-withdrawals-resume-september-28-full-schedule-after-387-5m-hack/",
+            "https://www.bitget.com/support/articles/12560603896110"
+          ]
+        },
+        {
+          "title": "Solana ETFs Hit Record $188M Weekly Inflows",
+          "summary": "US spot Solana ETFs drew a record 188 million dollars last week with every fund positive and Bitwise BSOL taking about two-thirds. Friday alone set a daily record near 87 million. This comes as Solana tests faster settlement upgrades. Traders should note the altcoin ETF rotation showing institutional appetite beyond Bitcoin even as majors consolidate.",
+          "sentiment": "Bullish",
+          "impact": "Positive for SOL and broader altcoin institutional flows",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+            "https://cryptobriefing.com/solana-etf-record-80m-inflow/"
+          ]
+        },
+        {
+          "title": "1,700 BTC Worth $142M Leaves Coinbase Institutional",
+          "summary": "Whale Alert flagged 1,700 Bitcoin valued at about 142 million dollars moving from Coinbase Institutional to an unknown wallet. Similar large outflows have occurred in recent months alongside inflows. This often signals custody shifts, cold storage, or OTC prep rather than immediate selling. Traders monitor these for clues on institutional positioning around the 83 to 85 thousand dollar range.",
+          "sentiment": "Neutral",
+          "impact": "Watch for follow-on moves; likely custody rebalancing not forced selling",
+          "sources": [
+            "https://www.tradingview.com/news/cryptobriefing:0ddcaa0c8094b:0-1-700-bitcoin-valued-at-142m-moved-off-coinbase-institutional-to-unknown-wallet/",
+            "https://cryptobriefing.com"
+          ]
+        },
+        {
+          "title": "SEC Crypto Mom Hester Peirce Resigns Effective Oct 2",
+          "summary": "Commissioner Hester Peirce, known as Crypto Mom for her pro-innovation stance and Crypto Task Force work, announced she leaves the SEC on October 2 to join Regent University law faculty. This leaves the Commission with only two members and no immediate successor named. Traders should care because it removes a key internal voice for clearer crypto rules right after the Clarity Act setback.",
+          "sentiment": "Neutral",
+          "impact": "Potential short-term uncertainty on SEC crypto rulemaking pace",
+          "sources": [
+            "https://news.bitcoin.com/crypto-news/crypto-mom-hester-peirce-resigns-from-sec-effective-oct-2/",
             "https://unchainedcrypto.com/crypto-is-losing-two-top-washington-voices-as-mersinger-and-peirce-set-their-exits/",
-            "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
-          ]
-        },
-        {
-          "title": "Bitcoin Hashrate Falls to Three-Week Low",
-          "summary": "Bitcoin's seven-day average hashrate dropped to roughly nine hundred sixteen exahashes per second, its lowest in three weeks, while miner reserves declined by about fifteen hundred thirty BTC. Some operators continue selling production or reallocating power toward AI and high-performance computing. The dip can ease immediate sell pressure if less-efficient machines go offline, yet it also flags ongoing miner economics pressure despite the price recovery. Network security and future difficulty adjustments are the longer-term watch items.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signal on miner selling versus temporary hash reduction",
-          "sources": [
-            "https://crypto.news/bitcoin-hashrate-falls-to-3-week-low-as-miners-cut-btc/"
+            "https://www.americanbanker.com/news/sec-commissioner-peirce-to-leave-agency"
           ]
         }
       ]
@@ -80,69 +84,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Treasury Yields Hit Multi-Decade Highs Near 5.2%",
-          "summary": "The 10-year Treasury yield closed the week around 5.17 percent, its highest level since 2007, while the 30-year touched levels not seen since 2004. Strong PMI data, sticky inflation worries tied to energy prices, and hawkish Fed signals drove the move. Crypto traders should care because elevated risk-free rates raise the opportunity cost of holding Bitcoin and other risk assets and tighten financial conditions across markets.",
+          "title": "US Treasury Yields Hit Multi-Decade Highs",
+          "summary": "The 10-year Treasury yield climbed above 5.2 percent and the 30-year topped 5.5 percent, levels not seen since 2007 and 2004. The move was driven by the recent Fed rate hike, strong PMI data, elevated oil prices from geopolitics, and markets pricing additional tightening. Crypto traders should watch this closely because higher real yields raise the opportunity cost of holding non-yielding assets like Bitcoin and typically pressure risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Higher discount rates pressure risk assets and BTC",
+          "impact": "Tighter financial conditions and stronger dollar headwinds for crypto",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-27",
             "https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/",
-            "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html"
+            "https://www.bloomberg.com/news/articles/2026-09-25/us-30-year-yield-tops-5-5-in-vacuum-after-sentiment-gauge",
+            "https://www.fxstreet.com/analysis/yields-rip-higher-as-focus-shifts-to-jobs-data-202609280622"
           ]
         },
         {
-          "title": "October Fed Hike Odds Climb After Hawkish Signals",
-          "summary": "Markets now price roughly 60 to 70 percent odds of another quarter-point rate increase at the Fed's October meeting following the September 16 hike to 3.75-4.00 percent. Multiple Fed speakers, including Barr and Williams, indicated further tightening may be needed to bring inflation down. This keeps the higher-for-longer narrative alive and reduces the chance of near-term liquidity relief that crypto often thrives on.",
+          "title": "Dollar Index Holds Near Multi-Month Highs",
+          "summary": "The DXY traded around 101 and near recent peaks after gaining last week on surging yields and bets for more Fed hikes. Strong US growth relative to peers and foreign demand for US assets are supporting the greenback. A firm dollar usually acts as a headwind for Bitcoin and other risk assets priced in dollars, so traders need to monitor whether it breaks higher toward the June high near 101.80.",
           "sentiment": "Bearish",
-          "impact": "Sustains tight policy and weighs on liquidity-sensitive assets",
+          "impact": "Stronger USD pressure on BTC and risk assets",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-27",
-            "https://www.theglobeandmail.com/investing/article-us-yields-extend-recent-run-higher-after-more-upbeat-economic-data/",
-            "https://www.mfs.com/en-us/individual-investor/insights/market-insights/week-in-review.html"
+            "https://www.mufgresearch.com/fx/fx-daily-snapshot-28-september-2026/",
+            "https://convera.com/blog/market-insights/fx-research/daily-market-updates/us-dollar-nears-18-month-highs-as-bond-yields-surge/",
+            "https://www.bloomberg.com/news/articles/2026-09-23/dollar-usd-notches-seasonal-end-of-september-gains-on-hawkish-fed"
           ]
         },
         {
-          "title": "30-Year Mortgage Rates Climb Above 7 Percent",
-          "summary": "The average 30-year fixed mortgage rate pushed above 7 percent, the highest since early 2025, tracking the surge in Treasury yields. Higher home borrowing costs deepen housing affordability problems and slow related economic activity. For traders this signals broader consumer pressure that could eventually cool growth and inflation, but near-term it reinforces restrictive financial conditions.",
-          "sentiment": "Bearish",
-          "impact": "Tighter credit hits housing and consumer spending",
-          "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-27",
-            "https://www.mpamag.com/us/mortgage-industry/market-updates/mortgage-rates-top-7-for-first-time-since-january-2025/591091",
-            "https://www.seattletimes.com/business/america-in-focus-money-pressures-climb-as-mortgage-rate-tops-7-bond-yields-rise/"
-          ]
-        },
-        {
-          "title": "Consumer Sentiment Hits Four-Month Low at 48.1",
-          "summary": "University of Michigan final September consumer sentiment came in at 48.1, down sharply from August and near historic lows, while one-year inflation expectations jumped to 4.6 percent. Households cited high prices and weaker personal finances. Soft sentiment can foreshadow slower spending, which matters for growth data and Fed policy path that drive crypto risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Weaker demand outlook may slow growth but keep inflation sticky",
-          "sources": [
-            "https://www.reuters.com/world/us/us-consumer-sentiment-eases-four-month-low-september-2026-09-25/",
-            "http://umich.edu/~umsurvey",
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-27"
-          ]
-        },
-        {
-          "title": "Durable Goods Flat but Core Capex Surges 1.6%",
-          "summary": "August durable goods orders were unchanged, beating expectations for a decline, while core capital goods orders excluding aircraft and defense jumped 1.6 percent. The strength points to ongoing business investment, including AI-related spending. Solid capex supports growth resilience that has helped keep the Fed hawkish, a mixed bag for risk markets.",
+          "title": "Markets Brace for PCE and NFP This Week",
+          "summary": "Wednesday brings August PCE inflation, the Fed's preferred gauge, expected to stay sticky near 3.7 percent headline and 3.3 percent core, plus personal spending data. Friday's September jobs report is seen around 90 to 100 thousand payrolls with unemployment holding at 4.1 percent. These prints will shape odds of another October hike after the recent 25 basis point rise, so any hot numbers could extend the yield and dollar rally that weighs on crypto.",
           "sentiment": "Neutral",
-          "impact": "Confirms economic resilience, feeding higher-rate pricing",
+          "impact": "Key catalysts for next Fed move and risk sentiment",
           "sources": [
-            "https://www.census.gov/manufacturing/m3/adv/pdf/durgd.pdf",
-            "https://www.zacks.com/stock/news/2995966/durable-goods-orders-came-in-better-than-expected",
-            "https://tradingeconomics.com/united-states/durable-goods-orders"
+            "https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-September-28-2026.html",
+            "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-09-25/upcoming.htm",
+            "https://www.fxstreet.com/analysis/yields-rip-higher-as-focus-shifts-to-jobs-data-202609280622"
           ]
         },
         {
-          "title": "Heavy Data Week Ahead: PCE, GDP and NFP Loom",
-          "summary": "No major US data prints today, but the week brings Core PCE and personal spending Wednesday, ADP and final Q2 GDP, JOLTS and consumer confidence Tuesday, ISM manufacturing Thursday, and September nonfarm payrolls Friday. Consensus looks for about 100k jobs and still-elevated core PCE near 3.3 percent. These releases will decide whether rate-hike bets expand or ease and set the tone for Bitcoin volatility into month-end.",
-          "sentiment": "Neutral",
-          "impact": "High-volatility catalysts for rates, dollar and crypto",
+          "title": "Fed Officials Signal More Rate Hikes Possible",
+          "summary": "New York Fed's Williams called another hike by year-end reasonable, while Barkin said one hike may not be enough and Goolsbee warned of painful demand cooling to fight persistent supply shocks from oil, tariffs and AI. This follows the unanimous September 16 hike to 3.75-4.00 percent with dots showing further tightening. Ongoing hawkish talk keeps rate expectations elevated and supports higher yields that challenge crypto valuations.",
+          "sentiment": "Bearish",
+          "impact": "Elevated rate path pressures risk assets including Bitcoin",
           "sources": [
-            "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-september-27",
-            "https://forex.tradingcharts.com/economic_calendar/2026-09-27.html?code=USD",
-            "https://www.eoption.com/weekly-event-calendar-09-27-2026-10-01-2026/"
+            "https://www.reuters.com/markets/us/federal-reserve/",
+            "https://www.investopedia.com/fed-officials-dont-sound-done-hiking-interest-rates-12138888",
+            "https://www.morningstar.com/news/dow-jones/202609226715/feds-barkin-says-one-rate-hike-may-not-be-enough-to-tame-inflation"
+          ]
+        },
+        {
+          "title": "RBA Poised to Resume Rate Hikes Tuesday",
+          "summary": "Australia's Reserve Bank is widely expected to raise its cash rate 25 basis points to 4.60 percent on Tuesday after a two-meeting pause, driven by sticky inflation and higher energy costs. Markets price high odds of the move, with possible further tightening later. Another major central bank turning more hawkish adds to the global higher-for-longer theme that strengthens the dollar complex and can dampen risk appetite in crypto markets.",
+          "sentiment": "Bearish",
+          "impact": "Global hawkish tilt supports USD and higher yields",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-09-27/rba-set-to-resume-raising-key-rate-as-patience-on-prices-erodes",
+            "https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-September-28-2026.html",
+            "https://www.commbank.com.au/articles/newsroom/2026/09/rba-expected-to-lift-interest-rates-next-week.html"
+          ]
+        },
+        {
+          "title": "Dallas Fed Survey and Fed Speakers Due Today",
+          "summary": "Monday's calendar features the Dallas Fed Texas Manufacturing Outlook Survey at 10:30 AM ET plus remarks from Fed's Barkin in a fireside chat and other officials. Last month's reading was strongly expansionary at 11.6. Traders will parse any signs of price pressures or growth strength that could reinforce the hawkish narrative ahead of this week's bigger data, potentially moving yields and the dollar intraday.",
+          "sentiment": "Neutral",
+          "impact": "Intraday cues for yields and USD ahead of PCE/NFP",
+          "sources": [
+            "https://www.dallasfed.org/research/surveys/tmos",
+            "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-09-25/upcoming.htm",
+            "https://www.federalreserve.gov/newsevents"
           ]
         }
       ]
@@ -152,68 +156,68 @@
       "items": [
         {
           "title": "Trump Rejects Iran Plan to Reopen Strait of Hormuz",
-          "summary": "President Trump on Saturday rejected Iran's seven-day proposal to reopen the Strait of Hormuz and ease the naval blockade in exchange for a ceasefire and talks. Tehran says it is still waiting for an official reply through mediators and insists only negotiation can end the nearly seven-month war. Traders should care because roughly a fifth of global oil normally flows through Hormuz; prolonged closure or renewed strikes keep energy prices elevated, fuel inflation, and weigh on risk assets including Bitcoin.",
+          "summary": "President Trump has publicly rejected Iran's latest proposal to reopen the Strait of Hormuz within seven days and pause fighting in exchange for sanctions relief and ending the US naval blockade. Oil jumped on the news, with Brent climbing above 105 dollars a barrel as the seven-month war keeps a key energy chokepoint disrupted. Traders should care because prolonged high oil feeds inflation, keeps the Fed hawkish, and sustains risk-off pressure across crypto and equities. Talks may continue this week but Trump has floated possible renewed strikes after the midterms.",
           "sentiment": "Bearish",
-          "impact": "Sustains high oil risk premium and market uncertainty",
+          "impact": "Elevated oil and geopolitical risk weigh on risk assets",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego",
-            "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-            "https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/"
+            "https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/",
+            "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz",
+            "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
           ]
         },
         {
-          "title": "Explosives Arrests Near UK Base Used for US Iran Strikes",
-          "summary": "British police declared a major incident Sunday near RAF Fairford, arresting several men on suspicion of explosives offences, evacuating homes, and sending in army bomb disposal to check vehicles. The base hosts US forces and has been used for operations against Iran. This raises fears of possible spillover or targeting of Western facilities tied to the Middle East war, adding a fresh security risk premium just as markets assess the conflict's next phase.",
+          "title": "Five Arrested in Suspected Terror Plot at UK US Air Base",
+          "summary": "British police arrested five men near RAF Fairford on suspicion of explosives and preparing a terrorist act after spotting suspicious vans heading toward the base. The airfield has been used by US bombers for strikes on Iran, and investigators are examining a possible Iranian link among other motives. Homes were evacuated and bomb disposal teams deployed. This raises the chance of the Iran conflict spilling into Europe and keeps escalation risk elevated for markets.",
           "sentiment": "Bearish",
-          "impact": "Heightens escalation and security risk for risk assets",
+          "impact": "Heightens war spillover fears and risk premium",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o",
-            "https://www.cnn.com/2026/09/27/uk/fairford-arrests-uk-raf-us-intl",
-            "https://www.politico.eu/article/major-incident-uk-air-base-us-forces-raf-fairford/"
+            "https://www.reuters.com/world/uk/uk-police-question-five-men-held-airbase-used-by-us-attack-iran-2026-09-28/",
+            "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo",
+            "https://www.theguardian.com/uk-news/2026/sep/27/major-incident-declared-near-raf-fairford-as-men-arrested-on-suspicion-of-explosives-offences"
           ]
         },
         {
-          "title": "US and China Agree $30 Billion Reciprocal Tariff Cuts",
-          "summary": "After the Trump-Xi summit, Washington and Beijing announced more favourable tariff treatment on thirty billion dollars of non-sensitive goods each way, plus a new AI dialogue and trade council. China will also buy US coal. For crypto traders this is a clear de-escalation signal in the world's biggest trade relationship, potentially easing inflation pressures and supporting broader risk appetite after months of tariff uncertainty.",
+          "title": "US and China Agree Tariff Cuts on 60 Billion in Goods",
+          "summary": "Following the Trump-Xi summit, Washington and Beijing detailed reciprocal tariff reductions covering about 30 billion dollars of goods each way on non-sensitive items like US ag products, coal, toys, appliances and household goods. The trade truce was also extended. This eases some bilateral friction and supports supply-chain stability. For crypto traders it is a clear positive risk-on signal that could offset some Middle East pressure if implemented smoothly.",
           "sentiment": "Bullish",
-          "impact": "Trade thaw supports risk-on sentiment and lower inflation fears",
+          "impact": "Trade de-escalation supports risk appetite and growth outlook",
           "sources": [
-            "https://www.axios.com/2026/09/26/us-china-tariffs-trade-30-billion",
-            "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/",
-            "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html"
+            "https://www.reuters.com/business/aerospace-defense/china-says-us-trade-truce-extension-creates-space-advance-talks-2026-09-28/",
+            "https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl",
+            "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit"
           ]
         },
         {
-          "title": "US Hails Progress Isolating Iran via Airlines and Banks",
-          "summary": "Treasury Secretary Scott Bessent said Saturday that US pressure is delivering results, with Turkey, Oman and the UAE halting flights by Iranian carriers and restricting banking links including Bank Melli. This is part of the ongoing Operation Economic Outcast campaign. Sustained economic strangulation of Iran keeps the conflict pressure high and oil markets jumpy even without immediate new strikes, which is a headwind for risk assets.",
+          "title": "Netanyahu Makes Secret Visit to UAE Amid Iran War",
+          "summary": "Israeli Prime Minister Netanyahu flew unannounced to Abu Dhabi and met UAE President Mohamed bin Zayed. Reports say Iran and regional security topped the agenda, alongside fallout from claims the UAE warned Israel before October 7. The quiet trip underscores deepening Israel-Gulf ties even as the wider Middle East war grinds on. Markets will watch whether it firms the anti-Iran coalition or merely manages optics ahead of Israeli elections.",
+          "sentiment": "Neutral",
+          "impact": "Alliance signaling without clear near-term price catalyst",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/israels-netanyahu-visited-abu-dhabi-sunday-israeli-official-says-2026-09-27/",
+            "https://www.cnn.com/2026/09/28/middle-east/israel-netanyahu-secret-visit-uae-intl",
+            "https://www.jpost.com/middle-east/article-909945"
+          ]
+        },
+        {
+          "title": "Russian Strikes Kill Multiple Civilians Across Ukraine",
+          "summary": "Russian drones and missiles killed at least eight people in Ukraine over the weekend, hitting markets, residential areas, a children's centre and infrastructure near Kyiv, Sumy, Kharkiv and elsewhere. Zelensky called the wave terrorism and noted nearly four thousand drones, bombs and missiles in the past week. With winter approaching, continued energy and civilian targeting keeps European gas and broader risk sentiment under pressure even as limited grain or energy ceasefire talk surfaces at the UN.",
           "sentiment": "Bearish",
-          "impact": "Prolongs Iran economic war and energy market volatility",
+          "impact": "Sustains energy-security and risk-off overhang into winter",
           "sources": [
-            "https://www.timesofisrael.com/liveblog_entry/us-treasury-secretary-claims-successes-in-sanctions-campaign-to-isolate-iran/",
-            "https://www.straitstimes.com/world/united-states/us-treasury-chief-bessent-claims-successes-in-isolating-iran",
-            "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego"
+            "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine",
+            "https://www.reuters.com/world/russian-attacks-kills-three-ukrainian-cities-strikes-hit-kyiv-districts-2026-09-27/",
+            "https://www.channelnewsasia.com/world/russian-strikes-ukraine-kill-8-6413936"
           ]
         },
         {
-          "title": "Zelensky Says Trump Approves Ukraine Patriot Missile Production",
-          "summary": "Ukrainian President Zelensky said Trump has made a final decision to grant Kyiv licenses to manufacture Patriot interceptors after their UN meeting. Ukraine faces acute shortages ahead of winter Russian strikes on energy infrastructure. Longer-term domestic production could improve Kyiv's air defenses, but it will take time to ramp up and does not resolve immediate supply gaps or the broader war's drag on European energy and grain markets.",
+          "title": "Iran Claims Second US Underwater Drone Seized in Hormuz",
+          "summary": "Iran's Revolutionary Guards say they captured another advanced US autonomous underwater vehicle in the Strait of Hormuz, calling it a Mk 18 Kingfish or Remus 600 and a technology trophy. US Central Command rejected the claim, saying all its drones are accounted for. The back-and-forth adds to the war of narratives around the strait just as oil prices react to the failed ceasefire proposal. It keeps maritime risk and military tension in focus without confirming a major new kinetic event.",
           "sentiment": "Neutral",
-          "impact": "Modest long-term support for Ukraine but near-term war risks unchanged",
+          "impact": "Adds noise to Hormuz risk premium, limited confirmed escalation",
           "sources": [
-            "https://www.jpost.com/international/internationalrussia-ukraine-war/article-909790",
-            "https://www.cnn.com/2026/09/25/europe/trump-zelensky-patriots-manufacture-intl",
-            "https://kyivindependent.com/trump-made-final-decision-on-granting-ukraine-patriot-licenses-zelensky-says/"
-          ]
-        },
-        {
-          "title": "France Deploys Forces to Guard Saudi Yanbu Oil Terminal",
-          "summary": "President Macron confirmed France is sending soldiers, radars and air-defense systems to protect Saudi Arabia's key Red Sea oil port of Yanbu after repeated Houthi missile attacks. Yanbu and the East-West pipeline have become critical alternative export routes while Hormuz remains disrupted. Extra protection may limit further supply shocks, yet the need for foreign troops underscores how fragile global oil logistics remain and keeps energy-price volatility elevated for markets.",
-          "sentiment": "Neutral",
-          "impact": "Defensive step for oil flows but highlights ongoing supply risks",
-          "sources": [
-            "https://www.bloomberg.com/news/articles/2026-09-24/france-to-send-military-aid-troops-to-protect-saudi-oil-plant",
-            "https://www.reuters.com/world/europe/cia-did-not-warn-france-about-possible-russian-drone-attacks-macron-says-2026-09-24/",
-            "https://www.scmp.com/news/world/middle-east/article/3368772/france-protect-key-saudi-oil-terminal-houthis-step-missile-attacks"
+            "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-second-us-drone-seized-in-strait-of-hormuz-identifies-it-as-mk-18-kingfish/articleshow/134528963.cms",
+            "https://www.thestatesman.com/world/iran-boasts-of-second-catch-in-strait-of-hormuz-us-says-all-its-drones-are-accounted-for-1503643917.html",
+            "https://www.freemalaysiatoday.com/category/world/2026/09/27/iran-guards-say-seized-us-underwater-drone-in-hormuz"
           ]
         }
       ]
