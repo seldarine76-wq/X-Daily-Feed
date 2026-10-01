@@ -1,81 +1,83 @@
 {
-  "generated_at": "2026-09-30T12:04:45+00:00",
+  "generated_at": "2026-10-01T12:04:39+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is holding near eighty-three thousand as traders await today's critical PCE inflation print, with strong ETF and corporate buying providing a solid bid underneath. Geopolitical flare-ups in the Strait of Hormuz and softer consumer confidence are keeping risk appetite in check, while a US-China tariff deal offers some offset. Tone is wait-and-see despite clear institutional accumulation.",
+  "overall_summary": "Bitcoin is digesting mixed macro and crypto headlines while stuck in an eighty-two to eighty-five thousand range. Softer PCE and solid ETF inflows offer support, but high yields, a firm dollar, security incidents, and geopolitical risks keep conviction muted ahead of NFP.",
   "key_points": [
-    "ETF inflows $2.4B, nine-day streak intact",
-    "Strategy and sovereign buyers still accumulating BTC",
-    "PCE inflation and GDP data due today",
-    "Hormuz tanker strikes raise oil and risk premium",
-    "US-China $60B tariff cut deal is supportive"
+    "Citi lifts BTC twelve-month target to one-thirteen k",
+    "Bitcoin ETFs pull six-point-three B in Q3 inflows",
+    "Softer PCE eases near-term hike bets",
+    "High yields and firm dollar cap risk appetite",
+    "Hacks and geopolitics add caution; NFP tomorrow"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs log $2.4B weekly inflows, streak hits 9 days",
-          "summary": "US spot Bitcoin ETFs pulled in roughly two point four billion dollars last week, the strongest haul since October twenty twenty-five, and extended their inflow streak with another sixty-six million on September twenty-nine. BlackRock's IBIT led the buying even as daily flows cooled from the near one-billion peak earlier in the run. Traders should care because this is real institutional demand soaking up supply, yet price has stalled near eighty-three to eighty-four thousand, showing the bid is meeting heavy long-term holder resistance rather than sparking a clean breakout.",
+          "title": "Citi lifts 12-month Bitcoin target to $113,000",
+          "summary": "Citigroup raised its 12-month Bitcoin price target to one hundred thirteen thousand dollars from eighty-two thousand, and lifted Ether to about three thousand twenty-eight from twenty-two forty. The bank cited resumed ETF inflows, stronger crypto activity, and a supportive macro backdrop including Treasury bond buybacks after the Clarity Act setback. It now expects roughly five billion dollars of crypto product inflows over the next year as advisers gradually increase allocations. Traders should care because a major bank reversing a prior cut signals institutional confidence returning and can influence allocation decisions and price momentum.",
           "sentiment": "Bullish",
-          "impact": "Supports floor and upside if inflows hold through macro data",
+          "impact": "Supports higher BTC/ETH targets and potential renewed institutional buying",
           "sources": [
-            "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-            "https://www.tftc.io/bitcoin-etf-flows",
-            "https://coinomedia.com/september-29-etf-flows/"
+            "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+            "https://www.cryptotimes.io/2026/10/01/citigroup-upgrades-bitcoin-price-outlook-to-113000-over-next-12-months/",
+            "https://finance.yahoo.com/markets/crypto/article/bitcoin-just-landed-a-surprising-new-bull-104334737.html"
           ]
         },
         {
-          "title": "Strategy buys 1,665 more BTC, stack hits 847,666",
-          "summary": "Michael Saylor's Strategy disclosed another one thousand six hundred sixty-five Bitcoin purchase for about one hundred forty-three million dollars at an average near eighty-five thousand six hundred. That lifts total holdings to eight hundred forty-seven thousand six hundred sixty-six coins, more than four percent of supply, funded partly by stock sales. Traders care because the largest corporate buyer is still accumulating through the consolidation, signaling conviction that outweighs short-term price chop and keeps a steady bid in the market.",
-          "sentiment": "Bullish",
-          "impact": "Adds persistent corporate demand and positive narrative",
-          "sources": [
-            "https://www.theblock.co/news/business/2026-09-28-even-more-orange-michael-saylor-strategy-bitcoin-416976",
-            "https://www.benzinga.com/crypto/cryptocurrency/26/09/62020183/strategy-buys-1665-bitcoin-for-142-7m-as-saylor-promises-even-more-orange"
-          ]
-        },
-        {
-          "title": "BTC holds $83k ahead of PCE as yields and oil pressure risk",
-          "summary": "Bitcoin is consolidating just above eighty-three thousand as the thirty-year Treasury yield hit multi-decade highs and oil stayed elevated on inflation fears. Markets are focused on today's August PCE print, the Fed's preferred inflation gauge, which will shape October rate odds. Traders should watch closely because a hot number could push yields higher and test the recent support zone, while a cooler print with methodological revisions could ease pressure and let the ETF bid reassert.",
+          "title": "Bitcoin fades $85.5k PCE pop, stuck $82k-$85k range",
+          "summary": "Bitcoin briefly topped eighty-five thousand five hundred dollars after cooler-than-expected August PCE inflation data, but the gains faded as Treasury yields stayed near multi-year highs. Price is chopping in the old eighty-two to eighty-five thousand dollar range to start the new quarter. Spot Bitcoin ETFs recorded about one hundred forty-nine million dollars in net outflows on Wednesday, ending a nine-day inflow streak that had pulled in over three billion. Traders care because the unresolved range plus sticky yields and a flow reversal keep directional conviction low until a clear break or fresh catalyst arrives.",
           "sentiment": "Neutral",
-          "impact": "Unresolved data catalyst; holds support until print resolves",
+          "impact": "Range-bound action likely until yields ease or flows reverse again",
           "sources": [
-            "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-            "https://cryptoslate.com/news/bitcoin/",
-            "https://www.ainvest.com/news/inflation-math-bet-pce-rally-2609/"
+            "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+            "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+            "https://bykaranteli.com/etf/btc"
           ]
         },
         {
-          "title": "Robinhood rolls out US crypto perps with 10x on BTC",
-          "summary": "Robinhood announced perpetual futures for eligible US users covering Bitcoin, Ether and six other coins, with up to ten times leverage on BTC and ETH and three times on the rest. Contracts have no expiry, settle frequently, and launch via its Bitstamp infrastructure at a promotional zero point zero one percent fee. This matters for traders because it brings leveraged crypto trading deeper into mainstream retail brokerages, potentially boosting volume and liquidity while also raising the risk of faster liquidations in volatile moves.",
+          "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC surges 43%",
+          "summary": "US spot Bitcoin ETFs attracted roughly six point three four billion dollars in net inflows during the third quarter, their strongest of twenty twenty-six and a full reverse of about five billion in second-quarter outflows. Bitcoin itself gained about forty-three percent in Q3, its best third-quarter performance since twenty seventeen. September alone brought two point six five billion even after a late outflow day. This matters for traders because it confirms institutional demand returned hard after the mid-year washout and sets a constructive base for Q4 positioning despite recent daily flow wobbles.",
           "sentiment": "Bullish",
-          "impact": "Expands US retail leverage access and market participation",
+          "impact": "Confirms strong institutional bid that underpinned the Q3 rally",
           "sources": [
-            "https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242",
-            "https://thedefiant.io/newsletter/defi-daily/robinhood-turns-on-10x-crypto-perps-in-the-us",
-            "https://crypto.news/robinhood-plans-10x-crypto-perps-for-u-s-traders/"
+            "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43",
+            "https://www.gncrypto.news/news/bitcoin-etfs-draw-6-3b-in-q3-as-btc-gains-42-7/",
+            "https://coinpaper.com/36572/bitcoin-etf-demand-roars-back-with-634-billion-in-q3-inflows"
           ]
         },
         {
-          "title": "Bitget restores withdrawals after $388M hack, BTC exits surge",
-          "summary": "Bitget has resumed Bitcoin, Ether and USDT withdrawals in phases after the roughly three hundred eighty-eight million dollar hot-wallet exploit last week, with full services targeted for early October. Customers pulled more than four thousand Bitcoin in the first hours after BTC withdrawals reopened, and the exchange is topping up its protection fund with its own capital. Traders should note the confidence test for mid-tier exchanges; large self-custody moves reduce immediate sell pressure but highlight ongoing custody risk across the sector.",
+          "title": "MetaMask exits ETH validators after security incident",
+          "summary": "MetaMask is exiting affected Ethereum validators after an infrastructure security incident that diverted a small amount of block rewards, estimated under one ETH total. The company stresses no immediate threat to user wallets or funds, and the staking is non-custodial. Lido warned that the precautionary exits covering hundreds of thousands of ETH could mean missed rewards and a full exit-reentry cycle of up to forty-five days due to the entry queue. Traders should watch because it hits confidence in a major wallet and staking operator even if contained, and large temporary validator exits can affect short-term staking dynamics and ETH sentiment.",
           "sentiment": "Neutral",
-          "impact": "Exchange stress eases but underscores custody caution",
+          "impact": "Contained risk but temporary drag on staking rewards and operator trust",
           "sources": [
-            "https://crypto.news/bitget-brings-back-usdt-withdrawals-after-387m-hack/",
-            "https://unchainedcrypto.com/bitget-reopens-bitcoin-withdrawals-starting-phased-restart-after-388-million-hack/",
-            "https://www.theblock.co/news/business/2026-09-28-bitget-starts-phased-withdrawal-resumption-416965"
+            "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+            "https://metamask.io/news/user-update",
+            "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident"
           ]
         },
         {
-          "title": "Bitwise: sovereign fund sold gold to buy Bitcoin",
-          "summary": "Bitwise's first institutional adoption report found that none of fifteen large institutions cut crypto holdings during Bitcoin's roughly fifty percent drawdown, and several added. At least one sovereign wealth fund funded its Bitcoin allocation by selling gold and foreign-exchange reserves. This is relevant because it shows patient institutional capital treating Bitcoin as a reserve-style asset alongside gold, reinforcing the long-term bid even when price action stays choppy near current levels.",
+          "title": "SBI completes full acquisition of Japan exchange Bitbank",
+          "summary": "Japanese financial giant SBI Holdings completed its takeover of crypto exchange Bitbank on October first, making it a wholly owned subsidiary in a deal valued around forty-six point seven billion yen or roughly two hundred ninety to three hundred million dollars. New board cross-appointments with SBI VC Trade are in place and existing Bitbank services continue unchanged. The combined entity strengthens SBI’s position as a top Japanese crypto player by custody assets and accounts. This is relevant for traders as it shows continued traditional finance consolidation and commitment to digital assets in a key regulated Asian market.",
           "sentiment": "Bullish",
-          "impact": "Strengthens institutional and sovereign adoption narrative",
+          "impact": "Positive signal for institutional crypto infrastructure in Japan",
           "sources": [
-            "https://cryptobriefing.com/sovereign-wealth-funds-sell-gold-buy-bitcoin/",
-            "https://bitwiseinvestments.com/crypto-market-insights/the-first-ever-bitwise-institutional-crypto-adoption-report"
+            "https://en.cryptonomist.ch/2026/10/01/sbi-acquisition-bitbank/",
+            "https://corporate.bitbank.cc/news/20261001_01",
+            "https://www.sbigroup.co.jp/english/news"
+          ]
+        },
+        {
+          "title": "September crypto hacks hit $766M, worst month of 2026",
+          "summary": "CertiK data shows crypto losses from hacks and exploits reached about seven hundred sixty-six million dollars in September, the worst month of the year and more than triple August. The Bitget exchange breach at roughly three hundred eighty-seven million and the earlier Liquid Network incident around three hundred nineteen million accounted for the bulk. Some funds were later returned or frozen. Traders care because repeated large exchange and protocol losses keep insurance, custody, and counterparty risk elevated and can weigh on overall market risk appetite even after price rallies.",
+          "sentiment": "Bearish",
+          "impact": "Elevates security and counterparty risk premium across the sector",
+          "sources": [
+            "https://www.cryptotimes.io/2026/09/30/bitget-liquid-hacks-drive-crypto-losses-to-766m-in-september-2026s-worst-month-certik/",
+            "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+            "https://cointelegraph.com/all-articles/editorial"
           ]
         }
       ]
@@ -84,68 +86,66 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "NY Fed's Williams: No urgency for October hike",
-          "summary": "New York Fed President John Williams said after the September rate increase there is no need for urgency and the Fed has time to gather more data. He sees one further hike possibly appropriate late this year if the economy tracks his forecast of still-elevated inflation near three and a half percent. Markets immediately cut October hike odds from around seventy percent to near fifty percent or lower. Crypto and risk assets care because delayed tightening eases near-term pressure on liquidity and valuations.",
+          "title": "10-Year Treasury Yield Hits Highest Since 2002",
+          "summary": "The US 10-year Treasury yield climbed as high as 5.34 percent on Thursday, its highest level since 2002, with the 30-year also at multi-decade highs. The bond sell-off is driven by sticky inflation fears from elevated oil prices tied to the Middle East conflict, heavy government issuance, and expectations of further Fed tightening. Crypto traders should care because higher long-term yields tighten financial conditions, raise discount rates on risk assets, and often pressure Bitcoin and equities until the move stabilizes.",
+          "sentiment": "Bearish",
+          "impact": "Tighter conditions and higher opportunity cost for holding crypto and risk assets",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-10-01/treasury-10-year-yield-hits-highest-since-2002-on-rate-outlook-mup7ryq2",
+            "https://www.cnn.com/2026/10/01/business/bond-market-treasury-yields",
+            "https://www.reuters.com/world/10-year-us-treasury-yield-hits-highest-since-2002-2026-10-01/"
+          ]
+        },
+        {
+          "title": "Softer August PCE Inflation Eases October Hike Bets",
+          "summary": "The Fed's preferred PCE price index rose 0.3 percent month-over-month in August, below the 0.4 percent forecast, with core up just 0.2 percent. Year-over-year headline held at a revised 3.4 percent and core at 3.0 percent, softer than expected after methodology revisions. Markets cut October Fed hike odds to roughly one-in-three. Traders should watch this closely as cooler inflation reduces near-term tightening pressure and can support risk assets including Bitcoin if sustained.",
           "sentiment": "Bullish",
-          "impact": "Lowers near-term rate-hike odds, supportive for risk assets",
+          "impact": "Lower near-term rate-hike probability supportive for liquidity and crypto",
           "sources": [
-            "https://www.reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29/",
-            "https://www.newyorkfed.org/newsevents/speeches/2026/wil260929",
-            "https://www.bloomberg.com/news/articles/2026-09-29/fed-s-williams-sees-one-more-interest-rate-hike-in-late-2026"
+            "https://www.bea.gov/news/2026/personal-income-and-outlays-august-2026",
+            "https://www.reuters.com/markets/us/fed-seen-pause-october-after-inflation-data-2026-09-30/",
+            "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html"
           ]
         },
         {
-          "title": "Consumer confidence crashes to lowest since 2014",
-          "summary": "The Conference Board index plunged to eighty-one point nine in September from a revised eighty-eight point six, far below the eighty-nine forecast and the weakest reading in more than twelve years. Households turned sharply more negative on current business and job conditions plus the six-month outlook, citing high energy prices, inflation, and labor-market worries. Traders should watch because weak confidence often precedes softer spending and can tilt the Fed toward caution even with sticky prices.",
+          "title": "US Dollar Holds Near Multi-Month Highs on Yields",
+          "summary": "The dollar index stayed firm near two-month or higher levels around 101.5 to 101.8 on Thursday even after the softer PCE print, supported by the surge in Treasury yields and relative US growth resilience. Euro and other majors remained under pressure. A strong dollar historically weighs on Bitcoin priced in dollars and can dampen crypto inflows, so traders need to track DXY for risk appetite signals.",
           "sentiment": "Bearish",
-          "impact": "Signals softer consumer demand and growth risks",
+          "impact": "Stronger greenback typically headwind for BTC and dollar-denominated risk assets",
           "sources": [
-            "https://www.reuters.com/business/us-consumer-confidence-dives-more-than-12-year-low-september-2026-09-29/",
-            "https://finance.yahoo.com/economy/article/consumer-confidence-plunged-in-september-conference-board-151759202.html",
-            "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html"
+            "https://www.cnbc.com/2026/10/01/dollar-gets-lift-from-higher-yields.html",
+            "https://www.morningstar.com/news/dow-jones/202610011996/dollar-hits-16-month-high-on-prospect-of-higher-us-rates-update"
           ]
         },
         {
-          "title": "Key PCE inflation and GDP data due today",
-          "summary": "Markets are locked on the August Personal Income and Outlays report including the Fed's preferred PCE price index, plus the third estimate of second-quarter GDP, both at eight-thirty Eastern. Core PCE is expected around zero point three percent month-over-month and three point three percent year-over-year, still well above the two-percent target, with headline near three point seven percent. ADP private payrolls also print. A hot print would revive hike bets and pressure crypto; a cool one would reinforce the Williams dovish tilt.",
+          "title": "Consumer Spending Surges 0.9 Percent Alongside Cooler PCE",
+          "summary": "Personal consumption expenditures jumped 0.9 percent in August, the strongest in months, with real spending up 0.6 percent, while personal income rose a milder 0.2 percent. This shows resilient demand even as inflation cooled on the preferred gauge. Strong spending keeps growth firm and can sustain higher-for-longer rate views, creating a mixed backdrop of solid economy but still-elevated policy rates that crypto markets must navigate.",
           "sentiment": "Neutral",
-          "impact": "Major volatility catalyst for rates, dollar, and risk assets",
+          "impact": "Supports growth narrative but may keep Fed cautious on easing",
           "sources": [
-            "https://fedratecalc.com/us-economic-calendar/",
-            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-09-30/",
-            "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830"
+            "https://www.bea.gov/news/2026/personal-income-and-outlays-august-2026",
+            "https://www.bloomberg.com/news/articles/2026-09-30/us-consumer-spending-rises-by-most-in-a-year-core-pce-up-0-2"
           ]
         },
         {
-          "title": "Treasury yields hit multi-decade highs then ease",
-          "summary": "The ten-year yield touched near five point two nine percent, highest since two thousand seven, and the thirty-year topped five point six percent, levels not seen since two thousand two, before pulling back on Williams remarks and soft confidence data. High long-end yields tighten financial conditions and raise mortgage and corporate borrowing costs. Crypto traders care because sustained high yields compete with risk assets and can drive dollar strength, while any sustained pullback offers relief.",
+          "title": "Fed Speakers and Markets Price Pause Then Later Hikes",
+          "summary": "After softer PCE, futures price only about a one-third chance of an October hike, though another move by year-end remains likely. Officials including Kashkari said the data did not change the elevated inflation story much, while Williams earlier saw no urgency for an immediate follow-up. Multiple Fed speakers are due today. Crypto traders should monitor the tone for clues on the path of rates and liquidity.",
           "sentiment": "Neutral",
-          "impact": "Elevated yields pressure equities and crypto until resolved",
+          "impact": "Near-term pause positive but residual hike risk keeps volatility elevated",
           "sources": [
-            "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-29/",
-            "https://www.morningstar.com/news/dow-jones/202609302162/treasury-yields-fall-on-dovish-leaning-fed-speech-european-yields-follow-suit-update",
-            "https://www.reuters.com/business/us-stock-futures-flat-tech-bounce-meets-crude-driven-caution-2026-09-29/"
+            "https://www.reuters.com/markets/us/fed-seen-pause-october-after-inflation-data-2026-09-30/",
+            "https://www.federalreserve.gov/"
           ]
         },
         {
-          "title": "JOLTS job openings fall more than expected",
-          "summary": "August job openings dropped by two hundred fifty-six thousand to seven point zero seven nine million, below the seven point two million forecast and a five-month low. The cooler labor-demand signal arrived alongside the confidence collapse. It supports the case that the Fed can wait on further hikes, yet also flags potential slowing momentum heading into Friday's payrolls. Softening openings reduce wage-pressure fears but raise growth-concern flags for risk markets.",
+          "title": "Today's ISM Manufacturing and Claims; NFP Tomorrow",
+          "summary": "Markets are focused on Thursday's ISM Manufacturing PMI for September, expected around 55 after prior 54.6, plus weekly initial jobless claims around the 200k level. Friday brings the big September employment report with nonfarm payrolls consensus near 90-100k and unemployment near 4.1 percent. These releases will shape Fed expectations heading into the next meeting and drive short-term moves in yields, the dollar, and risk assets including crypto.",
           "sentiment": "Neutral",
-          "impact": "Cools labor-market heat, mixed for rate-path pricing",
+          "impact": "Key data catalysts for rate path and near-term market volatility",
           "sources": [
-            "https://www.reuters.com/business/us-consumer-confidence-dives-more-than-12-year-low-september-2026-09-29/",
-            "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html"
-          ]
-        },
-        {
-          "title": "Dollar holds near multi-month highs amid Fed focus",
-          "summary": "The dollar index hovered near one hundred one point four, close to two-month peaks and on track for a strong September, supported by higher yields and relative Fed hawkishness versus other central banks. Gains were capped somewhat after Williams cooled October hike bets. A firm dollar typically weighs on bitcoin and other crypto as a competing safe-haven and liquidity drain, so traders watch whether PCE keeps the bid alive or allows a pullback.",
-          "sentiment": "Bearish",
-          "impact": "Strong USD headwind for bitcoin and risk assets",
-          "sources": [
-            "https://www.reuters.com/world/africa/dollar-hold-near-two-month-peak-yields-rise-fed-data-looms-2026-09-29/",
-            "https://www.mufgresearch.com/fx/fx-daily-snapshot-30-september-2026/",
-            "https://en.macromicro.me/series/483/us-dollar-index"
+            "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+            "https://therighttrader.com/economic-calendar",
+            "https://equibles.com/economicdata/calendar"
           ]
         }
       ]
@@ -154,69 +154,68 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "US Completes Full Troop Withdrawal from Iraq",
-          "summary": "The Pentagon confirmed Wednesday that the last US and coalition forces have left Erbil Air Base, formally ending Operation Inherent Resolve in Iraq after 12 years and closing more than two decades of American military presence. Baghdad is marking it as Sovereignty Day, while Iran-backed militias celebrate it as a victory. Traders should watch closely because the exit happens amid the ongoing US-Iran war and could embolden Iranian influence in Iraq, raising risks of militia activity and further Middle East instability that hits oil and risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Heightened ME instability premium on oil and risk-off pressure",
-          "sources": [
-            "https://www.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl",
-            "https://www.foxnews.com/world/us-ends-operation-inherent-resolve-mission-iraq-final-forces-leave-erbil",
-            "https://english.alarabiya.net/News/middle-east/2026/09/30/us-formally-concludes-mission-in-iraq-pentagon"
-          ]
-        },
-        {
-          "title": "Tankers Struck by Projectiles in Strait of Hormuz",
-          "summary": "UK Maritime Trade Operations and shipping sources reported multiple tankers, including crude and LNG carriers, hit by unidentified projectiles or drones in the Strait of Hormuz over the past day or so, with fires reported but limited casualties. The attacks come as Iran continues asserting control over the chokepoint during its war with the US. Crypto and equity traders care because any sustained disruption here spikes global oil prices, fuels inflation fears, and drives risk-off flows that typically pressure Bitcoin and broader markets.",
-          "sentiment": "Bearish",
-          "impact": "Oil price spike risk and broader risk-off sentiment",
-          "sources": [
-            "https://www.worldports.org/kuwaiti-tanker-struck-in-the-strait-of-hormuz/",
-            "https://www.worldports.org/three-tankers-attacked-near-strait-of-hormuz-as-jmic-warns-of-severe-threat/",
-            "https://en.yenisafak.com/world"
-          ]
-        },
-        {
-          "title": "US and Iran Hold Mediated Talks on Hormuz Ceasefire",
-          "summary": "US and Iranian officials spoke separately with mediators, including Qatar, on a revised Iranian proposal for a phased seven-day reopening of the Strait of Hormuz in exchange for lifting the US naval blockade, sanctions relief, and unfreezing assets. Iran is awaiting a formal US response while Trump has publicly rejected earlier terms but left room for talks. This is the key swing factor for energy markets—if diplomacy advances it could ease oil premiums and support risk assets; failure keeps the war premium elevated.",
+          "title": "US-Iran Mediators Push Hormuz Reopening Deal",
+          "summary": "Despite Trump publicly rejecting Iran's latest proposal, mediators including Qatar continue shuttle diplomacy. Iran says it has received a US response, and talks center on a phased deal to reopen the Strait of Hormuz in exchange for easing the US blockade and other steps. Oil remains elevated near 98 dollars Brent because the seven-month war still constrains shipping. Traders should watch closely: any credible progress would ease energy inflation and support risk assets including crypto, while collapse risks another oil spike and risk-off move.",
           "sentiment": "Neutral",
-          "impact": "Unresolved catalyst; de-escalation would be bullish for risk, stalemate bearish",
+          "impact": "Unresolved energy chokepoint keeps oil elevated and risk assets range-bound pending deal clarity",
           "sources": [
-            "https://www.indiatoday.in/world/story/us-iran-talks-ceasefire-plan-strait-of-hormuz-reopening-3005298-2026-09-29",
-            "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
-            "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"
+            "https://www.nation.com.pk/01-Oct-2026/iran-says-received-us-response-latest-proposal",
+            "https://thesoufancenter.org/intelbrief-2026-october-1/",
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-01/"
           ]
         },
         {
-          "title": "Russia Launches Heavy Missile and Drone Strikes on Kyiv",
-          "summary": "Overnight into September 30, Russia hit Kyiv and surrounding areas with ballistic missiles including Zircon and Iskander types plus nearly 200 drones, killing several civilians including a child, damaging homes, a thermal power plant, and other infrastructure. Ukrainian air defenses intercepted most but not all. Persistent escalation keeps European energy and grain risks alive heading into winter and sustains geopolitical uncertainty that weighs on global risk appetite including crypto.",
+          "title": "Pilot Stabs Colleague, Tries to Crash Israel Flight",
+          "summary": "On a Flydubai flight from Dubai to Tel Aviv, one pilot stabbed the other and apparently tried to crash the plane, sending it into a rapid 17,000-foot descent. Passengers and crew stormed the cockpit, overpowered the attacker, and a reserve crew landed safely in Saudi Arabia. Netanyahu called it a near 9/11-style disaster, Flydubai suspended Israel flights, and the Omani co-pilot is under arrest. This black-swan security scare heightens Middle East tensions already elevated by the Iran war and could disrupt regional travel and insurance markets.",
           "sentiment": "Bearish",
-          "impact": "Sustained war risk and potential energy/food price pressure",
+          "impact": "Adds terror premium and flight disruption risk to already fragile Middle East risk assets",
           "sources": [
-            "https://kyivindependent.com/russian-attacks-kill-at-least-6-injure-34-across-ukraine-as-kyiv-faces-another-overnight-missile-drone-attack/",
-            "https://newsukraine.rbc.ua/news/russian-strike-on-kyiv-damages-dozens-of-1790747505.html",
-            "https://www.rte.ie/news/2026/0930/1593468-russia-ukraine/"
+            "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno",
+            "https://www.reuters.com/world/middle-east/diverted-flydubai-flight-israel-was-not-hijacking-incident-israeli-prime-2026-09-30/",
+            "https://www.cnn.com/2026/09/30/middleeast/flydubai-israel-plane-pilot-hijacking-incident-latam-hnk-intl"
           ]
         },
         {
-          "title": "US Sanctions Iran Weapons Procurement Networks",
-          "summary": "The US Treasury on September 29 sanctioned ten individuals and entities across Iran, China, Hong Kong, and Pakistan for procuring weapons and components for Iran’s Defense Ministry under Operation Economic Outcast. The action aims to degrade Iran’s ability to reconstitute drones, missiles, and other systems during the war. Fresh sanctions tighten pressure on Tehran’s military capacity and can add volatility to oil markets while signaling continued hardline US posture even as talks continue.",
+          "title": "Russia Threatens Nuclear Response Over Kaliningrad",
+          "summary": "Moscow delivered a formal warning to NATO that it is ready to use its entire arsenal, including nuclear weapons, if the alliance attempts to isolate the Russian exclave of Kaliningrad. The note also raised the possibility of strikes on decision-making centers in NATO states at the outset of any conflict. NATO denounced the rhetoric as irresponsible while affirming its defensive posture. This sharp escalation in Baltic nuclear saber-rattling raises the risk of miscalculation and broader European conflict, which would hammer risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Increased sanctions pressure and oil market volatility",
+          "impact": "Elevates NATO-Russia clash risk and weighs on global risk assets and crypto",
           "sources": [
-            "https://home.treasury.gov/news/press-releases/sb0637",
-            "https://www.pbs.org/newshour/world/u-s-targets-irans-military-supply-chain-as-diplomatic-talks-remain-uncertain",
-            "https://www.al-monitor.com/originals/2026/09/after-indirect-talks-new-us-sanctions-target-irans-weapons-supply"
+            "https://apnews.com/article/nato-russia-nuclear-kaliningrad-hybrid-sabotage-2bd21dbaf9d67f5e2aada61e9ce8bf06",
+            "https://kyivindependent.com/russia-issues-new-nuclear-threat-over-kaliningrad-as-tensions-with-nato-rise/",
+            "https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2"
           ]
         },
         {
-          "title": "US and China Detail $60 Billion Tariff Cut Deal",
-          "summary": "Following the recent Trump-Xi summit, the US and China released reciprocal lists covering about $30 billion of non-sensitive goods each for lower tariffs, including US farm products, coal, medical devices and Chinese toys, appliances, and consumer items. The broader trade truce was extended into January. This modest de-escalation in the world’s biggest trade relationship reduces one major overhang for global growth and risk assets, offering a counterweight to Middle East tensions.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk appetite via reduced trade-war overhang",
+          "title": "Pakistan Airstrikes Kill Dozens in Afghanistan",
+          "summary": "Pakistan launched overnight airstrikes on alleged militant hideouts in Afghanistan's Kunar and Helmand provinces. Islamabad claimed 22 fighters killed and weapons destroyed; the Taliban government said nine civilians including women and children died and three houses were hit. The attacks end three months of relative calm and reignite a dangerous border conflict. Regional instability in South Asia can spill into energy routes, refugee flows, and broader risk sentiment for emerging-market assets.",
+          "sentiment": "Bearish",
+          "impact": "Fresh South Asia military escalation adds geopolitical risk premium",
           "sources": [
-            "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html",
-            "https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl",
-            "https://www.reuters.com/business/aerospace-defense/china-says-us-trade-truce-extension-creates-space-advance-talks-2026-09-28/"
+            "https://www.reuters.com/world/asia-pacific/pakistani-airstrikes-afghanistan-kill-nine-kabul-says-2026-10-01/",
+            "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand",
+            "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o"
+          ]
+        },
+        {
+          "title": "Russian Drones Strike Odesa and Kyiv Overnight",
+          "summary": "Russia launched more than 100 drones including jet-powered models overnight, hitting a business center in Odesa and targets in Kyiv. At least two people were injured, infrastructure and buildings damaged, and Ukraine reported air defenses downing most of the swarm. Russia claimed hits on logistics, a data center, and a cargo vessel. Continued attacks on Black Sea ports threaten Ukrainian grain and export revenues while keeping European energy and food price risks alive.",
+          "sentiment": "Bearish",
+          "impact": "Sustains Ukraine war pressure on energy, food prices, and risk sentiment",
+          "sources": [
+            "https://www.reuters.com/world/europe/russian-air-strikes-injure-two-ukraines-kyiv-odesa-officials-say-2026-10-01/",
+            "https://newsukraine.rbc.ua/news/russia-strikes-odesa-business-center-walls-1790835772.html"
+          ]
+        },
+        {
+          "title": "Xi Continues Deep PLA Leadership Purges",
+          "summary": "China's ongoing military purges have removed or sidelined top generals including recent high-profile expulsions, leaving key Central Military Commission seats vacant and raising questions about PLA readiness. Analysts say the campaign strengthens Xi's control but may temporarily dent war-fighting capability amid Taiwan and South China Sea tensions. For markets this adds uncertainty around China risk, potential Taiwan timelines, and US-China strategic competition that already influences tech, tariffs, and global supply chains.",
+          "sentiment": "Neutral",
+          "impact": "Internal Chinese military instability creates medium-term uncertainty for Asia risk and Taiwan scenarios",
+          "sources": [
+            "http://www.daily-sun.com/world/899581/china-s-purges-of-top-military-commanders-spur-questions-about-war-waging-ability",
+            "https://www.independent.co.uk/asia/china/china-expels-generals-xi-jinping-donald-trump-us-nuclear-b3054116.html",
+            "https://chinapower.csis.org/china-pla-military-purges/"
           ]
         }
       ]
