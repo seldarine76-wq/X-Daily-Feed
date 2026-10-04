@@ -1,81 +1,83 @@
 {
-  "generated_at": "2026-10-03T12:04:51+00:00",
+  "generated_at": "2026-10-04T12:04:14+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bullish",
-  "overall_summary": "Softer jobs data crushed near-term Fed hike odds and lifted risk assets, while SEC approvals for leveraged bitcoin products and steady ETF inflows added structural support. Bitcoin still rejected the eighty-seven thousand area on heavy long liquidations, so the tone is constructive but not runaway. Middle East force buildups and European fiscal stress remain the main overhangs to watch.",
+  "overall_summary": "Crypto gets a lift from fresh SEC approvals for leveraged Bitcoin and Ether products plus progress on custody rules, while soft jobs data and Fed patience cut rate-hike odds and support risk assets. Geopolitical strikes near oil infrastructure add some inflation caution, yet the G7 oil release helps offset that pressure. Overall tone favors Bitcoin on regulatory and macro tailwinds.",
   "key_points": [
-    "SEC approves 3x leveraged BTC and ETH ETPs",
-    "Soft payrolls crush October Fed hike odds",
-    "BTC ETFs stay net positive on inflows",
-    "Bitcoin rejects $87K after long liquidations",
-    "Middle East troop surge keeps risk premium elevated"
+    "SEC clears first 3x leveraged BTC and ETH ETPs",
+    "Soft jobs data slashes October Fed hike odds",
+    "Fed officials signal patience, markets price pause",
+    "G7 coordinates 100 million barrel oil release",
+    "Oil and Hormuz risks keep inflation watch active"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Rejects $87K, Slips to $84.6K on $433M Long Liquidations",
-          "summary": "Bitcoin spiked near eighty-seven thousand dollars on October second after weak U.S. jobs data, then failed and fell back to around eighty-four thousand six hundred. CoinGlass data shows roughly four hundred thirty-three million dollars in crypto liquidations over twenty-four hours, with longs taking about three-quarters of the hit. High open interest remains, so another sharp move could force more margin calls before the late-October Fed meeting. Traders should watch the eighty-three thousand nine hundred low as key support.",
-          "sentiment": "Neutral",
-          "impact": "Near-term volatility and leverage flush; direction hinges on support hold",
-          "sources": [
-            "https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-67/"
-          ]
-        },
-        {
-          "title": "SEC Approves 3x Leveraged Bitcoin and Ether ETPs",
-          "summary": "On October second the SEC cleared a Cboe BZX rule change allowing listing of six triple-leveraged exchange-traded products, including 3x Bitcoin and 3x Ether funds from Volatility Shares, plus gold, silver, oil and gas. These are futures-based daily-reset products, not spot holdings, and trading cannot start until the S-1 registration becomes effective. This expands leveraged crypto access for U.S. investors and signals continued regulatory openness to crypto products. Traders should note the products amplify daily moves and can suffer decay if held longer.",
+          "title": "SEC Clears First US 3x Leveraged Bitcoin and Ether ETPs",
+          "summary": "The SEC approved a Cboe BZX rule change on October 2 letting Volatility Shares list 3x daily Bitcoin and Ether ETPs alongside gold, silver, oil and gas products. These futures-based vehicles reset leverage every day and still need an effective S-1 before trading starts. Traders should care because this is the first triple-leveraged US crypto product set, expanding tools for directional bets and signaling regulators now treat BTC and ETH more like traditional commodities. It could pull in more volume and sophisticated flow once live.",
           "sentiment": "Bullish",
-          "impact": "Broader product access and potential new speculative flows once live",
+          "impact": "More leveraged products and trading volume once S-1 clears",
           "sources": [
             "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/",
             "https://www.tronweekly.com/crypto-etps-get-sec-green-light-for-3x-btc-and-eth-exposure/",
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-67/"
-          ]
-        },
-        {
-          "title": "BlackRock IBIT Leads $196M Inflow; BTC ETFs Stay Net Positive",
-          "summary": "U.S. spot Bitcoin ETFs flipped back to inflows with about one hundred three million dollars net on October first, led by BlackRock’s IBIT taking in roughly one hundred ninety-six million. Provisional weekly flows for late September into early October came in around eighty-three million dollars, far below the prior week’s multi-billion haul, while Ethereum ETFs saw about one hundred eighteen million in outflows. Institutional demand for Bitcoin remains alive even as the pace cools. Sustained ETF buying is still a key bid under the market.",
-          "sentiment": "Bullish",
-          "impact": "Supports spot demand and cushions downside if inflows continue",
-          "sources": [
-            "https://www.cryptotimes.io/2026/10/03/blackrocks-195-6-million-inflow-push-bitcoin-etfs-back-into-green/",
-            "https://crypto.news/crypto-etf-flows-split-bitcoin-gains-ethereum-bleeds/",
-            "https://bykaranteli.com/etf/btc"
-          ]
-        },
-        {
-          "title": "Weak U.S. Jobs Data Sparks Then Fades Bitcoin Rally",
-          "summary": "September nonfarm payrolls came in at just twenty-nine thousand versus much higher expectations, with unemployment at four point two percent. The soft print initially lifted Bitcoin toward eighty-seven thousand as traders cut odds of a near-term Fed hike. The move reversed later the same day amid profit-taking and liquidations. Macro remains a driver into the October twenty-seven twenty-eight FOMC, so further data and yields will matter more than the single print.",
-          "sentiment": "Neutral",
-          "impact": "Temporary risk-on impulse already largely reversed; watch yields and Fed path",
-          "sources": [
-            "https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
-            "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-october-3-2026/"
+            "https://blockchainreporter.net/sec-approves-3x-leveraged-bitcoin-ether-etps/"
           ]
         },
         {
           "title": "SEC Proposes Crypto Custody Rules for Advisers and Funds",
-          "summary": "The SEC proposed a framework letting registered investment advisers and regulated funds custody crypto assets, including limited self-custody when no qualified custodian is available and use of state trust companies under conditions. A sixty-day comment period follows publication. Chairman Atkins framed it as closing a long-standing gap that blocked compliant institutional access. Clearer custody rules lower operational barriers for larger players to offer and hold crypto strategies.",
+          "summary": "On October 1 the SEC proposed modernizing custody rules so registered advisers and funds can hold crypto assets more easily, including limited self-custody when no qualified custodian is available and allowing state-chartered trust companies as custodians. Chair Atkins framed it as giving a clear compliant path where none existed. This matters for traders because it lowers barriers for big institutions and wealth managers to allocate directly into Bitcoin and other crypto, potentially unlocking steadier demand beyond ETFs.",
           "sentiment": "Bullish",
-          "impact": "Longer-term institutional onboarding and product expansion catalyst",
+          "impact": "Easier institutional custody could drive sustained inflows",
           "sources": [
-            "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-            "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-            "https://crypto.news/sec-proposes-crypto-custody-framework-for-advisers/"
+            "https://www.sec.gov/newsroom/speeches-statements/atkins-crypto-custody-100126-statement-proposal-address-custody-crypto-assets-under-investment-advisers-act-investment-company",
+            "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+            "https://www.sec.gov/rules-regulations/2026/10/s7-2026-35"
           ]
         },
         {
-          "title": "NEAR Intents Recovers Full $3.8M After Exploit Ultimatum",
-          "summary": "NEAR Intents confirmed the full return of roughly three point eight million dollars stolen in an early-October smart-contract exploit tied to its Omni deposit system. The attacker sent funds back after a public forty-eight-hour deadline, including Bitcoin to a recovery address, and the team closed its investigation. Core NEAR chain was unaffected and users were already slated for full reimbursement. Quick recovery reduces broader DeFi contagion fears and shows improving incident response.",
+          "title": "Weak Jobs Data Sparks BTC Spike to $87K Then Long Liquidations",
+          "summary": "September nonfarm payrolls came in at just 29,000 versus roughly 90,000 expected, unemployment ticked to 4.2 percent, and Fed pause odds jumped. Bitcoin ripped toward 87,000 before rejecting hard, triggering around 433 million dollars in liquidations, mostly longs. Price has since stabilized and reclaimed 85,000 on the weekend. Traders care because the macro tailwind is real yet the technical rejection and leverage flush show the market remains fragile near resistance; next move hinges on whether 85k holds as support.",
           "sentiment": "Neutral",
-          "impact": "Modest positive for crypto sentiment and cross-chain protocol confidence",
+          "impact": "Dovish macro vs unresolved resistance and washed leverage",
           "sources": [
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-67/",
-            "https://www.cryptotimes.io/2026/10/03/near-intents-ends-exploit-probe-after-3-8-million-is-returned/",
-            "https://coincentral.com/near-intents-hacker-returns-3-8-million-after-48-hour-deadline/"
+            "https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
+            "https://cryptorank.io/news/feed/42c40-pump-soars-16-in-24-hours-bitcoin-reclaims-85k-weekend-watch",
+            "https://finance.yahoo.com/markets/article/bitcoin-headed-in-bullish-direction-as-investors-bet-on-fed-pause-chart-of-the-day-120631623.html"
+          ]
+        },
+        {
+          "title": "IMF Disburses $138M to El Salvador After Bitcoin Waivers",
+          "summary": "The IMF completed reviews of El Salvador’s 1.4 billion dollar program and released about 138 million dollars, granting waivers for Bitcoin accumulation breaches. The country committed to no further public-sector Bitcoin buys beyond documented private donations and to keep reducing state involvement in crypto. This is relevant because it keeps a high-profile sovereign Bitcoin holder funded while capping official accumulation, tempering the nation-state adoption narrative without forcing sales of existing holdings.",
+          "sentiment": "Neutral",
+          "impact": "Limits new sovereign buying but normalizes existing holdings",
+          "sources": [
+            "https://www.tradingview.com/news/cointelegraph:76390824e094b:0-el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted/",
+            "https://www.tokenpost.com/tag/bitcoin",
+            "https://crypto.news/el-salvador-gets-138m-after-imf-waives-bitcoin-rule-breach/"
+          ]
+        },
+        {
+          "title": "Miners’ AI Pivot Costs Estimated $1.5B in Hashrate Hardware",
+          "summary": "Public Bitcoin miners shed roughly 75 EH/s of realized hashrate in the first half of 2026 while shifting power and sites toward AI and high-performance computing. At an assumed 20 dollars per terahash that equates to about 1.5 billion dollars in mining gear, with over a billion already written down in impairments. Traders should watch this because sustained hashrate migration can slow network growth and alter miner selling pressure, even as the companies diversify revenue away from pure Bitcoin production.",
+          "sentiment": "Neutral",
+          "impact": "Potential hashrate drag offset by miner financial diversification",
+          "sources": [
+            "https://primexbt.com/news/bitcoin-miners-ai-pivot-carries-a-1-5-billion-hardware-bill/",
+            "https://www.tokenpost.com/tag/bitcoin",
+            "https://news.bitcoin.com/"
+          ]
+        },
+        {
+          "title": "Bitget Tops Protection Fund Back to 3,705 BTC After Hack",
+          "summary": "Bitget used company funds to restore its user protection fund to 3,705 BTC, valued around 316 million dollars, after the late-September roughly 387 million dollar hot-wallet breach attributed by Chainalysis to North Korea-linked actors. Reserves sit at a 131 percent ratio across major assets and withdrawals have been resuming in phases. This restores confidence in a large exchange’s backstop, but the episode and AI-traced laundering keep security and counterparty risk front of mind for anyone parking size on centralized platforms.",
+          "sentiment": "Neutral",
+          "impact": "Exchange resilience restored; security risks remain elevated",
+          "sources": [
+            "https://www.tokenpost.com/tag/bitcoin",
+            "https://www.chainalysis.com/blog/387m-bitget-theft-2026/",
+            "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html"
           ]
         }
       ]
@@ -84,69 +86,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Soft September Jobs Report Crushes October Fed Hike Odds",
-          "summary": "The Labor Department reported just 29,000 nonfarm payrolls added in September, far below the 84,000 to 90,000 expected, with prior months revised down by about 60,000 combined. Unemployment ticked up to 4.2 percent from 4.1 percent, and average hourly earnings rose only 0.1 percent month-over-month for a 3.0 percent year-over-year pace, the softest in years. Markets slashed the chance of a Fed rate hike at the late-October meeting to roughly 20 percent from much higher levels earlier. Crypto traders should care because cooler labor data reduces near-term tightening pressure and supports risk assets.",
+          "title": "Soft September Jobs Report Slashes October Fed Hike Odds",
+          "summary": "US nonfarm payrolls rose just 29,000 in September, far below the 80 to 90 thousand expected, while unemployment ticked up to 4.2 percent and prior months were revised lower. Wage growth also cooled. Traders now see only about a 20 percent chance of a rate hike at the late October FOMC meeting, down sharply from earlier in the week. Crypto traders should care because reduced near-term tightening pressure typically supports risk assets like Bitcoin by easing financial conditions.",
           "sentiment": "Bullish",
-          "impact": "Lower rate-hike odds lift risk appetite for Bitcoin and equities",
+          "impact": "Supports risk-on move in BTC and equities short-term",
           "sources": [
-            "https://www.bls.gov/news.release/empsit.nr0.htm",
             "https://www.reuters.com/business/us-job-growth-slows-sharply-september-unemployment-rate-rises-42-2026-10-02/",
+            "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
             "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html"
           ]
         },
         {
-          "title": "Stocks Climb and Dollar Weakens After Weak Payrolls",
-          "summary": "Wall Street closed higher Friday with the Nasdaq up about 1.2 percent to a fresh high, the S&P 500 gaining 0.7 percent, and the Dow adding half a percent, as the soft jobs data cooled rate-hike fears. The US dollar index slipped roughly 0.17 percent to around 101.93 after testing three-month highs near 102.10. Small-caps and rate-sensitive sectors outperformed. For crypto traders this eases dollar strength headwinds and signals improved liquidity conditions if the Fed stays on hold longer.",
+          "title": "Fed Officials Stress Patience, Markets Price October Pause",
+          "summary": "New York Fed President John Williams and Vice Chair Philip Jefferson both signaled no urgency for another rate increase, saying the Fed can take time to assess more data after the September hike. This followed the soft jobs numbers and earlier cooler inflation prints. Odds of an October move collapsed. For traders this confirms the path of least resistance is a hold at the October 27-28 meeting, which is generally constructive for Bitcoin until the next major data hits.",
           "sentiment": "Bullish",
-          "impact": "Weaker dollar and equity rally supportive for crypto risk-on move",
+          "impact": "Lowers immediate policy risk for crypto markets",
           "sources": [
-            "https://www.moneycontrol.com/news/business/markets/equities-close-higher-as-softer-jobs-data-quiets-rate-hike-expectations-14043628.html",
-            "https://fxdailyreport.com/us-dollar-index-dxy-weakens-after-soft-september-jobs-report-trims-october-rate-hike-bets/",
-            "https://asia.nikkei.com/business/markets/us-stocks-climb-after-weak-jobs-data-but-bonds-resume-selling"
-          ]
-        },
-        {
-          "title": "Treasury Yields Volatile, Rebound After Initial Jobs Plunge",
-          "summary": "Ten-year Treasury yields initially dropped nearly 6 basis points on the weak payrolls print before reversing higher to close around 5.25 to 5.28 percent, still near multi-decade highs after the largest quarterly rise since 1994. Two-year yields also swung lower then recovered. The move reflects fading October hike odds mixed with ongoing concerns over inflation, deficits, and energy prices from geopolitical tensions. Traders watch yields closely because elevated long rates can pressure valuations across risk assets including Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "Volatile high yields remain a headwind despite softer data relief",
-          "sources": [
-            "https://qz.com/treasury-yields-september-jobs-report-fed-rate-hike-100226",
-            "https://www.kitco.com/news/off-the-wire/2026-10-02/stocks-gain-dollar-falls-after-us-jobs-data-bond-yields-higher",
-            "https://ycharts.com/indicators/10_year_treasury_rate"
-          ]
-        },
-        {
-          "title": "Fed Officials Stress Patience, No Urgency for October Hike",
-          "summary": "Vice Chair Philip Jefferson and New York Fed President John Williams this week emphasized the need to assess more data before further rate moves, with Jefferson saying future adjustments require careful examination of trends and risks. These comments, combined with the soft jobs report, locked in market pricing for a likely hold at the October 27-28 FOMC meeting. Officials still see potential for one more hike later in the year if inflation stays sticky. This dovish tilt from top deputies gives markets breathing room and is net positive for crypto liquidity expectations.",
-          "sentiment": "Bullish",
-          "impact": "Reinforces pause scenario, reducing near-term policy tightening risk",
-          "sources": [
-            "https://www.reuters.com/business/fed-may-take-time-make-next-interest-rate-move-jefferson-says-2026-10-01/",
             "https://www.bloomberg.com/news/articles/2026-10-02/warsh-s-top-fed-deputies-step-in-to-give-markets-a-clear-message",
-            "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm"
+            "https://ca.finance.yahoo.com/news/fed-officials-wash-away-market-195912116.html",
+            "https://www.reuters.com/markets/us/federal-reserve/"
           ]
         },
         {
-          "title": "French Bond Spreads Hit Widest Since Debt Crisis on Fiscal Fears",
-          "summary": "The spread between French 10-year OAT yields and German Bunds widened to levels last seen around 2011-2012, exceeding 140-150 basis points, after France's budget proposal for 43 billion euros in cuts failed to reassure investors. French yields hit multi-decade highs amid high debt-to-GDP near 119 percent and large borrowing needs. Safe-haven flows supported Bunds and Treasuries at times. Eurozone fiscal stress can spill into global risk sentiment and currency markets, affecting dollar and crypto correlations.",
+          "title": "US 10-Year Yields Hold Near Multi-Decade Highs",
+          "summary": "Despite the weak jobs report, the 10-year Treasury yield stayed elevated around 5.25 to 5.28 percent after briefly dipping, having hit levels not seen since 2002 earlier in the week. Drivers include sticky energy prices from geopolitical tensions, heavy Treasury supply, and rising term premium. Crypto traders need to watch this closely because persistently high long-end yields keep real rates restrictive and can cap risk appetite even if the Fed pauses.",
           "sentiment": "Bearish",
-          "impact": "Heightened European fiscal risk may curb global risk appetite",
+          "impact": "Sustains pressure on valuations and liquidity-sensitive assets",
           "sources": [
-            "https://www.morningstar.com/news/dow-jones/202610021708/us-treasurys-stabilize-french-yield-spreads-jump-on-fiscal-worries-update",
-            "https://www.euronews.com/2026/10/02/bonds-steady-as-french-borrowing-costs-hit-24-year-high-and-uk-30-year-yields-top-6",
-            "https://www.fxstreet.com/news/global-treasury-yields-ease-amid-rising-frances-fiscal-political-concerns-202610020744"
+            "https://asia.nikkei.com/business/markets/us-stocks-climb-after-weak-jobs-data-but-bonds-resume-selling",
+            "https://bolnews.com/business/dollar-heads-for-third-straight-weekly-gain-as-global-bond-selloff-ripples-through-markets",
+            "https://www.investorideas.com/news/2026/mining/10022-the-dollar-refuses-to-fall-what-it-means-for-gold.asp"
           ]
         },
         {
-          "title": "ISM Manufacturing Holds Expansion but Prices Index Surges",
-          "summary": "The ISM Manufacturing PMI came in at 54.5 for September, nearly flat and slightly below forecasts, marking a ninth straight month of expansion with stronger new orders and employment. However the prices paid index jumped 6.8 points to 77.9, the highest in months, driven by metals, tariffs and energy costs. Factory orders for August rose a modest 0.1 percent. Persistent input cost pressure keeps inflation risks alive for the Fed even as activity stays solid, a mixed signal for markets and Bitcoin.",
+          "title": "Dollar Index Holds Near 17-Month Highs After Soft Data",
+          "summary": "The DXY closed the week near 102 after a third straight weekly gain, though it eased slightly following the jobs miss as rate-hike bets faded. Strength has been supported by yield differentials and safe-haven flows amid global bond market stress. A firm dollar remains a headwind for Bitcoin historically, so traders should monitor whether the post-NFP dip extends or buyers defend the recent highs heading into next week’s data.",
           "sentiment": "Neutral",
-          "impact": "Solid activity offset by rising costs that could sustain rate vigilance",
+          "impact": "Mixed near-term; strong DXY still a drag if it rebounds",
           "sources": [
-            "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
-            "https://www.census.gov/manufacturing/m3/current/",
-            "https://www.assemblymag.com/articles/100462-us-manufacturing-expands-as-orders-rise-but-cost-pressures-intensify"
+            "https://tradingeconomics.com/united-states/currency/news/588445",
+            "https://bolnews.com/business/dollar-heads-for-third-straight-weekly-gain-as-global-bond-selloff-ripples-through-markets",
+            "https://www.gurufocus.com/economic_indicators/5747/us-dollar-index-dxy"
+          ]
+        },
+        {
+          "title": "ISM Services PMI Due Monday as Next Key Macro Test",
+          "summary": "No major US data dropped on Sunday, but markets turn immediately to the ISM Non-Manufacturing or Services PMI on Monday October 5 at 10 a.m. Eastern. Consensus sits near 55.7 after a solid prior reading. Services dominate the economy, so a strong print could revive growth concerns and support the dollar and yields, while a miss would reinforce the cooling narrative from jobs. This is the first high-impact release of the new week for crypto positioning.",
+          "sentiment": "Neutral",
+          "impact": "Potential volatility catalyst depending on beat or miss",
+          "sources": [
+            "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--october-2026-.html",
+            "https://ph.investing.com/economic-calendar/ism-non-manufacturing-pmi-176",
+            "https://www.fxstreet.com/economic-calendar/event/6c5853c1-a409-4722-bdea-17ad5d8a193f"
+          ]
+        },
+        {
+          "title": "Elevated Oil and Geopolitics Keep Inflation Risks Alive",
+          "summary": "Even with cooler labor data, markets remain focused on energy prices and Middle East tensions that have pushed oil higher and complicated the inflation outlook. This is a key reason long yields and the dollar have stayed supported despite fading October hike odds. Crypto traders should treat this as an unresolved risk: softer growth data is bullish for risk assets, but any renewed oil spike could quickly reprice the Fed path higher again before the October 28 meeting.",
+          "sentiment": "Neutral",
+          "impact": "Keeps upside inflation risk and rate uncertainty in play",
+          "sources": [
+            "https://asia.nikkei.com/business/markets/us-stocks-climb-after-weak-jobs-data-but-bonds-resume-selling",
+            "https://bolnews.com/business/dollar-heads-for-third-straight-weekly-gain-as-global-bond-selloff-ripples-through-markets",
+            "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html"
           ]
         }
       ]
@@ -155,69 +157,67 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "G7 Releases 100 Million Barrels Oil Diesel Reserves",
-          "summary": "The G7 has agreed to a coordinated release of 100 million barrels of crude and diesel from strategic stocks over four months, with a big diesel dump in the first 20 days, after heavy US pressure. This defuses a threatened American diesel export ban and aims to cool record fuel prices driven by the Iran war and other disruptions. Traders should care because cheaper energy eases inflation pressure, which can support risk assets and Bitcoin by reducing the need for aggressive rate hikes.",
+          "title": "Houthis Claim Missile-Drone Hit on Aramco Near Riyadh",
+          "summary": "Yemen's Iran-backed Houthis say they struck an Aramco facility south of Riyadh with ballistic missiles and drones, and videos showed fire and heavy smoke at the site. Saudi coalition officials called the claim misleading and said they hit Houthi targets in Sanaa and elsewhere. Traders should care because any credible threat to Saudi oil infrastructure raises the risk premium on crude just as markets reopen, feeding inflation fears and risk-off pressure.",
+          "sentiment": "Bearish",
+          "impact": "Oil spike risk and broader risk-asset pressure into the week open",
+          "sources": [
+            "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+            "https://www.reuters.com/business/energy/fire-smoke-seen-near-aramco-facility-riyadh-witness-says-2026-10-03/",
+            "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies"
+          ]
+        },
+        {
+          "title": "Brazil Votes in Knife-Edge Lula vs Flavio Bolsonaro Race",
+          "summary": "Brazilians are at the polls today in the first round of a polarized presidential election pitting leftist incumbent Luiz Inacio Lula da Silva against right-wing senator Flavio Bolsonaro, son of the jailed former president. Polls point to a tight race and a likely October 25 runoff, with big stakes for Latin America, U.S. and China trade ties, and commodity policy. Crypto and EM traders should watch because Brazil is a major risk barometer and any surprise first-round outcome or chaos could swing the real and global risk sentiment.",
+          "sentiment": "Neutral",
+          "impact": "EM and commodity risk premium hinged on unresolved first-round result",
+          "sources": [
+            "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04/",
+            "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+            "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html"
+          ]
+        },
+        {
+          "title": "Russia Hits Kyiv Bridge as German Chancellor Merz Visits",
+          "summary": "A Russian drone struck Kyiv's Northern Bridge for a second straight day just as German Chancellor Friedrich Merz arrived on a surprise solidarity visit with Zelensky. Merz is expected to lock in more than a billion dollars in new military support plus energy repair funds and drone interceptors. For markets this keeps the Ukraine war premium alive and signals Europe is still deepening commitments rather than winding them down.",
+          "sentiment": "Neutral",
+          "impact": "Sustained Europe risk premium and defense-spending narrative",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo",
+            "https://www.cnn.com/2026/10/04/europe/russian-drone-kyiv-merz-ukraine",
+            "https://www.scmp.com/news/world/europe/article/3369698/russia-strikes-kyiv-bridge-germanys-merz-visits-pledges-aid"
+          ]
+        },
+        {
+          "title": "Another Tanker Struck Near Strait of Hormuz",
+          "summary": "UK maritime authorities reported another crude tanker hit by an unidentified projectile east of Oman, with the crew safe and no major spill. Iranian media claim multiple tanker strikes in recent days even as Washington insists the strait is effectively open under escort. Energy traders care because repeated hits keep the Hormuz risk premium sticky and can reprice oil, freights, and inflation expectations the moment futures reopen.",
+          "sentiment": "Bearish",
+          "impact": "Persistent chokepoint risk supporting higher oil and volatility",
+          "sources": [
+            "https://gulfnews.com/world/gulf/oman/strait-of-hormuz-crisis-tanker-struck-near-oman-as-shipping-traffic-plunges-1.500697740",
+            "https://english.news.cn/20261004/62b519eb74d24345b2a4448557d51306/c.html"
+          ]
+        },
+        {
+          "title": "G7 Starts Coordinated 100 Million Barrel Oil Release",
+          "summary": "G7 leaders agreed to release 100 million barrels of oil and diesel from strategic stocks over four months via the IEA, with a front-loaded diesel tranche in the first 20 days. The move came after U.S. pressure over record diesel prices and aims to cool fuel costs without export bans among members. For crypto and risk assets this is a near-term counter to energy-driven inflation, potentially easing rate-hike fears if the barrels actually hit the market.",
           "sentiment": "Bullish",
-          "impact": "Likely lower oil and diesel prices, supportive for equities and crypto risk appetite",
+          "impact": "Downward pressure on diesel and oil prices, supportive for risk appetite",
           "sources": [
-            "https://asia.nikkei.com/business/energy/g7-countries-agree-on-release-of-diesel-and-oil-reserves-after-us-pressure",
-            "https://www.washingtonpost.com/business/2026/10/02/g-7-agrees-release-oil-reserves-counter-fuel-prices-after-us-pressure/",
-            "https://www.ft.com/world"
+            "https://www.pbs.org/newshour/world/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel",
+            "https://www.nippon.com/en/news/yjj2026100300168/",
+            "https://www.washingtonpost.com/business/2026/10/02/g-7-agrees-release-oil-reserves-counter-fuel-prices-after-us-pressure/"
           ]
         },
         {
-          "title": "US Sends Third Carrier and 9-10k Troops to Middle East",
-          "summary": "The Pentagon is deploying the USS Theodore Roosevelt carrier strike group plus an amphibious group carrying thousands of Marines, potentially putting three US carriers near Iran by late October or November. This comes as President Trump weighs possible renewed strikes after the midterms and rejects Iranian ceasefire ideas. Crypto traders need to watch this closely because any fresh escalation risks spiking oil back higher, lifting yields and triggering risk-off moves across markets.",
-          "sentiment": "Bearish",
-          "impact": "Elevates geopolitical risk premium and oil volatility, pressuring risk assets",
-          "sources": [
-            "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-            "https://www.bloomberg.com/news/articles/2026-10-01/us-may-soon-base-three-carriers-near-iran-official-says",
-            "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera"
-          ]
-        },
-        {
-          "title": "China Halts Refined Fuel Exports for October",
-          "summary": "Chinese refiners have suspended most diesel, gasoline and jet fuel exports beyond Hong Kong and Macau this month to rebuild domestic stocks that fell during the Iran war disruptions. PetroChina cancelled planned cargoes and the move tightens an already short global middle-distillate market. This matters for traders because it adds another supply shock on top of Russian export curbs and Hormuz issues, keeping energy prices sticky and inflation risks alive.",
-          "sentiment": "Bearish",
-          "impact": "Further squeezes diesel and product markets, supporting higher energy costs",
-          "sources": [
-            "https://www.reuters.com/business/energy/chinese-refiners-suspend-oct-fuel-exports-petrochina-cancels-cargoes-sources-say-2026-10-01/",
-            "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
-            "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html"
-          ]
-        },
-        {
-          "title": "Brazil Votes Sunday in Tight Lula-Bolsonaro Race",
-          "summary": "Brazilians head to the polls October 4 in a neck-and-neck presidential election between incumbent leftist Luiz Inacio Lula da Silva and far-right Flavio Bolsonaro, son of the former president. A runoff is likely on October 25 if no one clears 50 percent, with big implications for Latin American alignment with the US, China ties, and critical minerals. Markets care because Brazil is a major emerging-market economy and commodity powerhouse whose political shift could move currencies, equities and global trade flows.",
+          "title": "North Korea Fires Hypersonic Intermediate-Range Missile",
+          "summary": "Kim Jong Un oversaw a Saturday launch of what Pyongyang called a hypersonic intermediate-range strategic missile that state media said hit a target about 1,000 kilometers away in the East Sea. South Korea and Japan tracked a long-range ballistic flight amid already elevated tensions after recent DMZ landmine incidents. Asia risk and defense names may react, but the test is unlikely to dominate global risk assets unless it triggers a sharper U.S.-allied response.",
           "sentiment": "Neutral",
-          "impact": "Election uncertainty overhang for EM assets until results clear",
+          "impact": "Localized Asia security premium, limited immediate global risk move",
           "sources": [
-            "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-            "https://www.cfr.org/articles/brazils-2026-election-what-to-know-and-whats-at-stake",
-            "https://www.reuters.com/world/americas/brazils-lula-flavio-bolsonaro-still-tied-presidential-runoff-scenario-atlas-poll-2026-09-29/"
-          ]
-        },
-        {
-          "title": "Flydubai Co-Pilot Attack Labeled Terror Act, Trump Warns Iran",
-          "summary": "Authorities and reports now describe the Flydubai co-pilot's cockpit axe attack on an Israel-bound flight as a terrorist act, with the Omani national subdued by passengers after the plane plunged. President Trump has warned of fresh hard strikes on Iran if any Tehran link is confirmed, adding to existing military buildup. This keeps Middle East flashpoint risk elevated for oil and shipping, which can quickly hit broader risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Sustains ME escalation fears and oil risk premium",
-          "sources": [
-            "https://www.ft.com/world",
-            "https://www.timesofisrael.com/copilot-subdued-after-stabbing-pilot-in-alleged-attempt-to-crash-plane-full-of-israelis/",
-            "https://news.google.com/home"
-          ]
-        },
-        {
-          "title": "Zelenskyy Urges Trump Sanctions on Russia-China Starlink Rival",
-          "summary": "Ukrainian President Zelenskyy says he has repeatedly asked President Trump to sanction Russian and Chinese firms building the Rassvet satellite network as a Starlink alternative that could improve Russian drone and strike guidance. This comes amid continued Russian drone and missile attacks hitting Kyiv infrastructure including bridges. Traders should note it because any new sanctions or Ukraine escalation can affect energy markets via Russian diesel and grain, plus broader geopolitical risk.",
-          "sentiment": "Neutral",
-          "impact": "Keeps Ukraine-Russia tensions in focus without immediate clear catalyst",
-          "sources": [
-            "https://www.ft.com/world",
-            "https://tradersunion.com/news/financial-news/show/3639596-ukraine-sanctions-russia-china-starlink/",
-            "https://unn.ua/en/news/zelenskyy-asked-trump-to-block-russia-and-chinas-starlink-rival-ft"
+            "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03/",
+            "https://en.yna.co.kr/view/AEN20261004000352315"
           ]
         }
       ]
