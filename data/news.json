@@ -1,82 +1,81 @@
 {
-  "generated_at": "2026-10-07T12:04:04+00:00",
+  "generated_at": "2026-10-08T12:04:36+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin faces pressure after breaking below 84k amid oil-driven liquidations and escalating Middle East tensions keeping crude near 100. High Treasury yields and mortgage rates add macro headwinds, though ETF inflows and corporate buying offer some offset. Geopolitical risks from Iran proxies and Ukraine remain the dominant forward overhang for risk assets.",
+  "overall_summary": "Bitcoin faces clear headwinds from heavy ETF outflows, a sharp oil spike tied to Iran tensions, and fading risk appetite. Hawkish Fed signals plus elevated yields and a strong dollar add further pressure on crypto. Robinhood’s small treasury buy is a minor positive, but the forward tone stays firmly risk-off.",
   "key_points": [
-    "BTC breaks 84k on oil spike liquidations",
-    "ETF inflows and Robinhood buying provide support",
-    "Yields near multi-decade highs pressure risk",
-    "Oil near 100 on Hormuz and Houthi threats",
-    "FOMC minutes due amid elevated rate backdrop"
+    "Bitcoin ETFs post largest outflows since June",
+    "Oil surge and Iran risks crush risk appetite",
+    "Fed minutes signal more hikes likely ahead",
+    "Yields and dollar hold near multi-year highs",
+    "Robinhood adds $25M BTC to treasury"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin breaks $84k as Iran oil spike triggers $550M liquidations",
-          "summary": "Bitcoin slid below eighty-four thousand dollars after stepped-up Iranian attacks on tankers in the Strait of Hormuz pushed Brent crude above one hundred one dollars a barrel. That lifted Treasury yields and the dollar, sparking a risk-off move that wiped out roughly five hundred fifty million dollars in leveraged crypto positions, mostly longs. Analysts call it a leverage flush rather than a new downtrend, but the break of the level FxPro flagged as sellers taking control puts the recent low near eighty-three thousand next in focus. Traders should care because Fed minutes land later today and further macro pressure could accelerate the move toward eighty thousand.",
+          "title": "US Bitcoin ETFs Post $485M Outflow, Biggest Since June",
+          "summary": "US spot Bitcoin ETFs saw nearly four hundred eighty-five million dollars in net outflows on Wednesday, the largest single day since late June. BlackRock's IBIT led with over two hundred million, followed by Fidelity and ARK. This wiped out October's early inflows and left the month net negative so far. Traders should care because ETF flows have been a key demand driver; sustained outflows remove a major bid under Bitcoin near the eighty-two to eighty-three thousand area.",
           "sentiment": "Bearish",
-          "impact": "Near-term downside pressure and volatility until support holds or Fed minutes clear",
+          "impact": "Adds selling pressure and weakens institutional support near recent lows",
           "sources": [
+            "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october",
+            "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+            "https://farside.co.uk/bitcoin-etf-flow-all-data/"
+          ]
+        },
+        {
+          "title": "Bitcoin Drops Below $83K as $550M-Plus Longs Liquidated",
+          "summary": "Bitcoin fell to an October low near eighty-two thousand seven hundred amid a wave of forced selling that liquidated over five hundred fifty million dollars in crypto positions, mostly leveraged longs. Reports put twenty-four hour totals as high as seven hundred million at peaks, with sharp hourly spikes. Ethereum and alts fell harder. This matters because the leverage flush can accelerate downside but often clears crowded positions, setting up cleaner price discovery if support holds.",
+          "sentiment": "Neutral",
+          "impact": "Short-term volatility and downside risk, potential leverage reset if $82K holds",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-10-07/bitcoin-btc-falls-as-550-million-in-risky-crypto-bets-wiped-out",
             "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
-            "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
-            "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882"
+            "https://www.tokenpost.com/news/investing/27232"
           ]
         },
         {
-          "title": "Spot Bitcoin ETFs post $119 million inflow on Tuesday",
-          "summary": "U.S. spot Bitcoin ETFs flipped back to net inflows with about one hundred nineteen million dollars on October sixth, led by BlackRock's IBIT taking in one hundred twenty-two million. That reversed the prior session's roughly ninety million outflow and came even as price pressure built. Ether ETFs meanwhile extended heavy outflows. Traders should care because sustained institutional demand via ETFs remains one of the cleanest bullish structural signals even when spot price is soft.",
-          "sentiment": "Bullish",
-          "impact": "Supports accumulation and cushions deeper selloffs if flows continue",
+          "title": "Oil Surge on Iran Tanker Attacks Hits Bitcoin Risk Appetite",
+          "summary": "Bitcoin slipped under eighty-four thousand then toward eighty-three thousand as Iranian attacks on tankers in the Strait of Hormuz pushed Brent crude above one hundred one dollars a barrel. That lifted Treasury yields to multi-year highs and strengthened the dollar, cooling risk assets. Crypto followed broader markets lower. Traders need to watch this because higher energy prices raise inflation and rate fears, keeping pressure on Bitcoin until geopolitical or yield tensions ease.",
+          "sentiment": "Bearish",
+          "impact": "Macro headwind that can extend crypto weakness via yields and risk-off flows",
           "sources": [
-            "https://farside.co.uk/btc/",
-            "https://www.tokenpost.com/news/investing/27226",
-            "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6"
+            "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-iran-attacks-oil-112238018.html"
           ]
         },
         {
-          "title": "Robinhood adds $25 million Bitcoin to corporate balance sheet",
-          "summary": "Robinhood's crypto chief Johann Kerbrat said the firm has put twenty-five million dollars of Bitcoin on its own balance sheet as a signal of commitment to the asset and the broader ecosystem. The sum is small relative to Robinhood's roughly one-hundred-billion market cap and is separate from the tens of billions it holds in customer custody. It comes as the platform expands perps, its own chain, and tokenized products. Traders should care because another large public brokerage treating Bitcoin as a treasury asset reinforces corporate adoption narratives.",
+          "title": "Robinhood Adds $25 Million Bitcoin to Corporate Treasury",
+          "summary": "Robinhood disclosed it bought twenty-five million dollars of Bitcoin for its own balance sheet, its first proprietary holding. The crypto chief framed it as a commitment to the ecosystem rather than a large treasury strategy, noting it is small relative to the company's size. This is notable for traders because another major public fintech is putting skin in the game, which can encourage further corporate adoption even if the size is modest.",
           "sentiment": "Bullish",
-          "impact": "Modest positive signal for corporate demand and sentiment",
+          "impact": "Positive signal for corporate Bitcoin adoption and longer-term demand narrative",
           "sources": [
             "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-            "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
-            "https://crypto.news/robinhood-adds-bitcoin-to-balance-sheet-with-25-million-purchase/"
+            "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
+            "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/"
           ]
         },
         {
-          "title": "US government moves $103 million in BTC and BNB",
-          "summary": "Wallets linked to the U.S. government transferred roughly eight hundred thirty-four Bitcoin worth about seventy-two million dollars to Coinbase Prime addresses plus over forty thousand BNB. The coins trace to older seizures including Bitfinex and Alameda-related cases. No sale has been confirmed, and a twenty twenty-five executive order directs forfeited Bitcoin into a strategic reserve that is meant to be held. Traders should care because any large government transfer to an exchange can spark sale fears and short-term volatility even when it is only custody reshuffling.",
+          "title": "US Government Wallets Move $566M Seized Crypto to Coinbase",
+          "summary": "Wallets linked to the US government transferred roughly five hundred sixty-six million dollars in seized crypto, including thousands of Bitcoin plus USDT and wrapped Bitcoin, to Coinbase Prime over several hours. Portions tied to past Bitfinex and FTX-related forfeitures. No sale has been confirmed; it may be custody consolidation. Traders watch these moves closely because large government transfers can create overhang fears even when they do not immediately hit the market.",
           "sentiment": "Neutral",
-          "impact": "Temporary fear premium possible but no confirmed selling pressure",
+          "impact": "Potential supply overhang risk if sales follow; no confirmed dump yet",
           "sources": [
-            "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-100-million-in-btc-and-bnb-a-sale-hasnt-been-confirmed",
-            "https://unchainedcrypto.com/u-s-government-moves-103-million-in-seized-bitcoin-and-bnb-sending-btc-to-coinbase-prime/",
-            "https://cryptobriefing.com/us-government-moves-103m-btc-bnb/"
+            "https://u.today/us-government-moves-half-a-billion-worth-of-crypto-in-just-few-hours",
+            "https://www.tokenpost.com/news/investing/27633",
+            "https://www.cryptotimes.io/2026/10/08/u-s-government-moves-over-565m-to-coinbase-prime-in-seized-assets/"
           ]
         },
         {
-          "title": "Pudgy Penguins Abstract L2 to shut down December 15",
-          "summary": "Abstract, the consumer-focused Ethereum layer-two backed by Pudgy Penguins parent Igloo, will wind down and shut on December fifteenth after losses in the tens of millions. Users must bridge assets off by then or lose access; the team ruled out a rescue token. It is the second major L2 shutdown announcement in a week after Blast, and layer-two tokens led losses with Optimism and others down hard. Traders should care because repeated L2 failures weigh on altcoin and DeFi sentiment and can spill into broader risk appetite.",
+          "title": "Ether ETFs See Seventh Straight Day of Outflows",
+          "summary": "US spot Ether ETFs recorded about one hundred sixty-one million dollars in net outflows on Wednesday, extending a seven-session losing streak and bringing recent losses near five hundred seventy million. BlackRock's ETHA led the withdrawals. This comes alongside Bitcoin ETF weakness and the broader selloff. It matters because continued Ether fund redemptions signal softer institutional appetite for the second-largest crypto and can weigh on overall market sentiment.",
           "sentiment": "Bearish",
-          "impact": "Pressure on L2 tokens and altcoin complex; mild negative for overall crypto risk",
+          "impact": "Broadens institutional selling pressure beyond Bitcoin into major alts",
           "sources": [
-            "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
-            "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
-            "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling"
-          ]
-        },
-        {
-          "title": "Ledger launches self-custodial Bitcoin-backed loans",
-          "summary": "Hardware wallet maker Ledger rolled out Crypto Loan at TOKEN2049, letting eligible users pledge wrapped Bitcoin as collateral to borrow USDC or USDT while keeping keys on device. The feature runs through Morpho and keeps final approvals on the Ledger signer. It expands self-custodial yield and liquidity options without forcing a sale. Traders should care because better non-custodial borrowing tools can reduce forced selling pressure and deepen Bitcoin's utility as productive collateral.",
-          "sentiment": "Bullish",
-          "impact": "Incremental positive for Bitcoin utility and holder retention",
-          "sources": [
-            "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
-            "https://crypto.news/robinhood-adds-bitcoin-to-balance-sheet-with-25-million-purchase/"
+            "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october",
+            "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months"
           ]
         }
       ]
@@ -85,69 +84,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "FOMC Minutes Due Today After Sept Rate Hike",
-          "summary": "The Federal Reserve releases minutes from its September 15-16 meeting at 2 p.m. Eastern today. That meeting delivered the first rate hike since 2023, lifting the funds rate to 3.75-4.00 percent on a unanimous vote. Markets will parse the debate for clues on whether officials lean patient or want more hikes, especially after softer jobs and PCE data cut October hike odds to around 20 percent while December remains more likely. Traders should care because the tone can swing rate expectations, the dollar, yields, and risk assets including Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "Potential volatility in rates, DXY, and crypto on hawkish or dovish language",
-          "sources": [
-            "https://www.reuters.com/business/fed-minutes-could-detail-rate-hike-decision-policy-path-2026-10-07/",
-            "https://fedratecalc.com/us-economic-calendar/october-2026/",
-            "https://jorgai.com/blog/fed-minutes-october-7-2026-what-to-watch"
-          ]
-        },
-        {
-          "title": "10-Year Yields Near Multi-Decade Highs Around 5.3%",
-          "summary": "The U.S. 10-year Treasury yield is hovering near 5.3 percent, levels not seen in over two decades, with term premiums rising amid supply concerns and inflation worries. The dollar index has firmed above 102 as yields recover and oil climbs. High long-end rates raise borrowing costs across the economy and tighten financial conditions. Crypto traders watch this closely because elevated yields and a strong dollar typically pressure Bitcoin and other risk assets by increasing the opportunity cost of holding non-yielding assets.",
+          "title": "FOMC Minutes Signal Another Hike Likely by Year-End",
+          "summary": "Minutes from the September FOMC meeting show most participants judged another rate increase would likely be appropriate by year-end after the unanimous 25 basis point hike to 3.75-4 percent. Officials flagged persistent inflation risks from energy, AI buildout, and potential tariffs, with little progress toward the 2 percent target. Markets still price a high chance of a hold in late October but elevated odds of a December move. Crypto traders should care because higher-for-longer rates tighten financial conditions and pressure risk assets.",
           "sentiment": "Bearish",
-          "impact": "Tighter conditions weigh on risk assets and support DXY",
+          "impact": "Supports higher yields and dollar, weighs on Bitcoin and equities",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/dollar-holds-losses-markets-await-fed-minutes-speakers-2026-10-07/",
-            "https://www.fxstreet.com/news/forex-today-us-dollar-stabilizes-as-bond-yields-recover-ahead-of-fomc-minutes-202610070655",
-            "https://www.gurufocus.com/economic_indicators/37/10-year-treasury-yield"
+            "https://www.reuters.com/world/africa/dollar-edges-back-18-month-high-after-fomc-minutes-2026-10-08/",
+            "https://www.securities.io/fomc-minutes-show-most-participants-saw-year-end-hike-as-likely/",
+            "https://economics.td.com/us-fomc-minutes"
           ]
         },
         {
-          "title": "Mortgage Rates Hit Nearly 3-Year High at 7.49%",
-          "summary": "MBA data showed mortgage applications fell 4.2 percent last week as the 30-year fixed rate climbed to 7.49 percent from 7.30 percent, the highest in almost three years. Purchase apps dropped 2 percent and refinances plunged 8 percent amid affordability pressure. Higher mortgage rates cool housing activity and consumer spending power. For markets this reinforces the impact of elevated Treasury yields and could feed into slower growth expectations that influence Fed policy and risk appetite.",
+          "title": "Waller: More Hikes Needed but Flexibility on Timing",
+          "summary": "Fed Governor Christopher Waller said additional rate hikes are likely if data evolves as expected to bring inflation down faster to 2 percent, yet officials have flexibility and do not need consecutive moves. He left the door open for a pause at the October 28 meeting while stressing inflation remains too high and the labor market stable. Markets already price strong odds of at least one more hike by December. This keeps the hawkish bias intact without forcing an immediate October move, leaving risk assets sensitive to incoming inflation data.",
           "sentiment": "Bearish",
-          "impact": "Cooling housing demand signals tighter financial conditions",
+          "impact": "Reinforces higher-for-longer rates outlook, pressuring crypto",
           "sources": [
-            "https://newslink.mba.org/mba-newslinks/2026/october//mortgage-applications-decrease-in-latest-mba-weekly-survey/",
-            "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
-            "https://tradingeconomics.com/united-states/mortgage-applications"
+            "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+            "https://www.bloomberg.com/news/articles/2026-10-08/fed-s-waller-says-there-is-some-flexibility-on-rate-hike-timing",
+            "https://www.reuters.com/world/feds-waller-more-hikes-needed-there-is-flexibility-about-pace-2026-10-08/"
           ]
         },
         {
-          "title": "US Trade Deficit Widens Sharply to $105.6 Billion",
-          "summary": "The August goods and services trade deficit ballooned to 105.6 billion dollars from a revised 92.8 billion in July, wider than expected, as imports hit a record on industrial supplies, crude, and capital goods including semiconductors. Exports rose but not enough to offset the import surge. A wider deficit drags on GDP growth calculations. Traders note it as a potential soft factor for the economy that could support more dovish Fed pricing if it persists, though strong import demand also shows resilient domestic activity.",
-          "sentiment": "Neutral",
-          "impact": "GDP drag offset by signs of strong domestic demand",
+          "title": "US 10-Year Yield Holds Near 2002 Highs Above 5.3%",
+          "summary": "The benchmark 10-year Treasury yield remains elevated near 5.3 percent, levels not seen since 2002, after touching multi-decade peaks earlier in the week. Strong demand at the recent 10-year auction and hawkish Fed messaging have kept yields supported despite some pullback from extremes. Elevated long-term rates raise borrowing costs across the economy and compete with risk assets for capital. Crypto traders watch this closely as sustained high yields historically correlate with tighter liquidity and lower Bitcoin prices.",
+          "sentiment": "Bearish",
+          "impact": "Tightens financial conditions and weighs on risk assets",
           "sources": [
-            "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026",
-            "https://tradingeconomics.com/united-states/balance-of-trade",
-            "https://www.census.gov/foreign-trade/current/"
+            "https://www.gurufocus.com/economic_indicators/37/10-year-treasury-yield",
+            "https://www.fxstreet.com/analysis/the-us-10-year-just-hit-a-2002-high-does-it-give-the-us-dollar-its-next-leg-202610071924",
+            "https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html"
           ]
         },
         {
-          "title": "ISM Services PMI Eases to 54.9 as Prices Hit 74",
-          "summary": "The ISM Services PMI slipped to 54.9 in September from 55.4, just below expectations, remaining in expansion for a 27th month. Employment returned above 50 but the prices paid index jumped to 74, the highest since mid-2022, signaling persistent cost pressures from fuel and supply chains. Services drive most of the U.S. economy so solid activity is growth-positive while hot prices keep inflation risks alive. This mix leaves the Fed path uncertain and markets sensitive to whether growth or inflation dominates the narrative for rates.",
-          "sentiment": "Neutral",
-          "impact": "Growth resilient but inflation stickiness supports higher-for-longer rates",
+          "title": "Dollar Index Holds Near 18-Month Highs Above 102",
+          "summary": "The US Dollar Index trades firmly near 102.3 to 102.4, close to its strongest levels since April 2025, buoyed by the hawkish FOMC minutes and elevated Treasury yields. Money markets price limited chance of an October hike but solid odds of further tightening later. A strong dollar typically pressures commodities, emerging markets, and crypto by reducing global liquidity. Traders should monitor whether DXY can break higher toward 102.85 or fades on softer data.",
+          "sentiment": "Bearish",
+          "impact": "Stronger dollar headwind for Bitcoin and risk assets",
           "sources": [
-            "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
-            "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05/",
-            "https://tradingeconomics.com/united-states/non-manufacturing-pmi"
+            "https://www.fxstreet.com/news/us-dollar-hawkish-fed-outlook-lifts-dxy-towards-10285-ing-202610080737",
+            "https://www.reuters.com/world/africa/dollar-edges-back-18-month-high-after-fomc-minutes-2026-10-08/",
+            "https://www.marketwatch.com/investing/index/dxy/download-data"
           ]
         },
         {
-          "title": "Treasury Auctions 10-Year Notes Amid Elevated Yields",
-          "summary": "The U.S. Treasury auctions 39 billion dollars of 10-year notes today following a 3-year sale yesterday that saw yields at multi-year highs. Demand metrics like bid-to-cover and indirect bidder participation will be scrutinized given recent softish results in longer-dated paper and rising term premiums. Weak demand could push yields higher still. Bond market functioning and supply absorption matter for overall financial conditions, the dollar, and risk assets as heavy issuance continues.",
+          "title": "Initial Jobless Claims Stay Low Near 197K",
+          "summary": "US initial jobless claims printed around 197,000 for the latest week, near or slightly below forecasts of about 200,000 and consistent with recent soft readings. Continuing claims also remained stable, pointing to a still-resilient labor market without signs of sharp deterioration. Soft claims support the Fed view of a solid economy that can handle higher rates, reducing odds of near-term cuts. For crypto this is mixed: growth resilience is positive but reinforces the higher-rates narrative that can limit upside.",
           "sentiment": "Neutral",
-          "impact": "Auction results could move yields and DXY further",
+          "impact": "Supports growth narrative but keeps Fed hawkish bias intact",
           "sources": [
-            "https://ph.investing.com/news/economy-news/us-10year-yield-hits-highest-level-since-2002-ahead-of-39-billion-auction-2615130",
-            "https://www.tftc.io/treasury-auctions",
-            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-10-07/"
+            "https://themarketscafe.com/us-initial-jobless-claims-dropped-to-197k-last-week-fxstreet/",
+            "https://www.thetrading.tools/economic-calendar",
+            "https://www.myfxbook.com/forex-economic-calendar/united-states/initial-jobless-claims"
+          ]
+        },
+        {
+          "title": "Strong 10-Year Auction Underscores Demand at High Yields",
+          "summary": "The Treasury's recent 10-year note auction drew solid demand with a strong bid-to-cover and healthy indirect bidding, showing investors will buy at elevated yield levels. This helped stabilize the bond market after the run-up in yields and provided some support for the dollar. Robust auction results reduce immediate fears of a buyers' strike even as the government continues heavy issuance. Crypto markets benefit indirectly if yields stabilize rather than spike further, easing some liquidity pressure.",
+          "sentiment": "Neutral",
+          "impact": "Helps contain yield spike risk, modestly supportive for risk assets",
+          "sources": [
+            "https://www.fxstreet.com/news/us-dollar-hawkish-fed-outlook-lifts-dxy-towards-10285-ing-202610080737",
+            "https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html",
+            "https://www.xtb.com/ae-en/market-analysis/news-and-research/economic-calendar-u-s-jobless-claims-and-ecb-meeting-minutes-in-focus-08-10-2026"
           ]
         }
       ]
@@ -156,69 +155,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Ukraine Unleashes 650 Drones on Moscow; Russia Hits Back Hard",
-          "summary": "Ukraine launched one of its largest drone assaults of the war, sending roughly 650 drones at the Moscow region overnight into Tuesday. Russian officials say most were shot down but two people died, homes were damaged, and a major fuel depot was reportedly hit. Russia responded with a massive missile and drone barrage across Ukraine on Wednesday that killed at least a dozen civilians including children and targeted energy and industrial sites. Traders should watch this escalation because it keeps pressure on Russian energy infrastructure and European risk sentiment heading into winter.",
+          "title": "Oil spikes over 4% as US preps Iran strike options",
+          "summary": "Brent crude jumped more than four percent Thursday toward one hundred four to one hundred five dollars a barrel after reports the White House asked the Pentagon to develop strike options on Iran before the November midterms. No final decision yet, but the news hit as the US-Iran war enters its eighth month with no deal. Traders should care because higher oil is pushing bond yields to multi-decade highs and weighing on stocks and risk assets worldwide.",
           "sentiment": "Bearish",
-          "impact": "Risk-off pressure and energy volatility from deeper mutual infrastructure strikes",
+          "impact": "Risk-off pressure on crypto and equities via inflation and higher yields",
           "sources": [
-            "https://www.reuters.com/world/europe/ukrainian-drones-kill-two-moscow-region-injure-nine-more-governor-says-2026-10-06/",
-            "https://www.reuters.com/world/europe/russia-says-it-launched-massive-strikes-kyiv-other-areas-ukraine-2026-10-07/",
-            "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two"
+            "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-under-pressure-051719332.html",
+            "https://www.cnbctv18.com/energy/brent-crude-jumps-above-105-as-iran-war-fuels-fresh-fears-of-supply-disruption-20007735.htm",
+            "https://www.iranintl.com/en/liveblog/202610033293"
           ]
         },
         {
-          "title": "Saudi-Houthi War Escalates, Raising Iran Proxy Risks",
-          "summary": "Saudi-backed Yemeni forces are pushing a major counteroffensive against Iran-aligned Houthis along the Red Sea coast and Bab el-Mandeb Strait. Houthis have struck Saudi airports and claimed attacks near Riyadh and Aramco sites, with dozens killed in fighting over the past day. Turkey and Pakistan are reportedly stepping up support under a mutual defense framework. This matters because it threatens another key shipping lane just as Hormuz remains disrupted, keeping oil and freight costs elevated.",
+          "title": "Hormuz tanker attacks hit war high, oil flows at risk",
+          "summary": "Attacks on tankers in the Strait of Hormuz reached their highest level since the US-Iran war began, even as some Gulf oil exports recover near pre-war volumes. Secretary of State Marco Rubio claimed Iran has lost complete control of the strait, but markets remain jittery with freight rates rising and inventories thin. This keeps a war premium in oil and threatens further supply shocks that squeeze global growth and risk appetite.",
           "sentiment": "Bearish",
-          "impact": "Elevated oil and shipping risk premiums from dual chokepoint threats",
+          "impact": "Sustained energy shock supporting higher oil and tighter financial conditions",
           "sources": [
-            "https://www.sbs.com.au/news/article/houthi-saudi-arabia-iran-conflict-071026/7ej0ifr6c",
-            "https://www.dawn.com/news/2035312",
-            "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html"
+            "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/",
+            "https://www.al-monitor.com/originals/2026/10/rubio-says-iran-lost-hormuz-has-it",
+            "https://straitofhormuz.report/oil"
           ]
         },
         {
-          "title": "Trump Says Iran Could 'Take Out' LA or San Diego",
-          "summary": "At a Nebraska rally, President Trump said high war costs are a small price to pay and that Iran could take out a city like Los Angeles or San Diego, drawing fierce backlash from California leaders and some Republicans. The White House insists he meant the war prevents a nuclear Iran from threatening U.S. cities. Vice President Vance separately said Iran must cut enrichment meaningfully to end the conflict. The remarks keep the seven-month U.S.-Iran war in the headlines ahead of midterms and sustain geopolitical risk pricing.",
-          "sentiment": "Neutral",
-          "impact": "Sustains war premium and political uncertainty without new kinetic catalyst",
-          "sources": [
-            "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html",
-            "https://www.cnn.com/2026/10/06/politics/trump-backlash-iran-los-angeles-san-diego",
-            "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo"
-          ]
-        },
-        {
-          "title": "Oil Holds Near $100 Amid Hormuz and Houthi Threats",
-          "summary": "Brent crude is trading around 101 dollars a barrel as recovering Middle East crude flows compete with fresh Houthi strikes on Saudi targets, tanker attacks near Hormuz, and a potential Gulf of Mexico storm. Refined products remain constrained even as some crude shipments recover. For crypto traders this keeps inflation and rate-cut expectations in focus because sticky energy prices limit central bank room to ease.",
+          "title": "Russia massive missile barrage kills 30-plus in Ukraine",
+          "summary": "Russia launched one of its heaviest overnight missile and drone attacks on Ukraine, killing at least thirty-two people including children when a strike flattened an apartment block in Pryluky. Energy and industrial sites were hit across multiple regions as Zelensky called it a vile birthday gift to Putin. Escalation keeps European energy and security risks elevated and drains Western air-defense stocks already strained by the Iran war.",
           "sentiment": "Bearish",
-          "impact": "Sticky energy prices weigh on risk assets via inflation and growth concerns",
+          "impact": "Heightened European risk premium and potential further energy disruptions",
           "sources": [
-            "https://www.reuters.com/business/energy/oil-prices-rise-storms-air-strikes-threaten-supply-2026-10-07/",
-            "https://straitofhormuz.report/oil",
-            "https://m.economictimes.com/markets/commodities/news/oil-price-today-october-7-crude-oil-rises-to-101-up-45-in-3-months-two-reasons-behind-wednesdays-surge/articleshow/134754015.cms"
+            "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-fresh-wave-attacks-2026-10-07/",
+            "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine",
+            "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_7"
           ]
         },
         {
-          "title": "Israel Marks Third Anniversary of October 7 Attack",
-          "summary": "Israel is holding nationwide memorials, moments of silence, and protests three years after the Hamas assault that killed about 1,200 people and triggered the Gaza war. Events coincide with heightened security and come weeks before a general election in which the war and its aftermath remain central. Gaza conditions stay dire under a fragile ceasefire with occasional strikes continuing. The anniversary keeps Middle East risk and political pressure on Netanyahu in focus for markets.",
-          "sentiment": "Neutral",
-          "impact": "Maintains regional risk premium without immediate fresh escalation",
+          "title": "Houthis hit Saudi airports, Aden; Yemen fighting surges",
+          "summary": "Iran-aligned Houthis struck Saudi airports in Riyadh and Abha, killing three and wounding dozens, while also attacking Aden airport as a flight approached. Fighting with Saudi-backed forces intensified near the Bab el-Mandeb Strait, a critical oil shipping alternative to Hormuz. This spillover widens the Middle East energy choke-point risk and could pull in more regional players like Syria or Turkey.",
+          "sentiment": "Bearish",
+          "impact": "Threat to Red Sea oil routes and broader Middle East escalation premium",
           "sources": [
-            "https://www.cnn.com/2026/10/06/world/october-seven-attack-anniversary-israel-intl",
-            "https://www.nbcnews.com/world/middle-east/live-blog/live-updates-israel-marks-three-year-anniversary-oct-7-attack-rcna601912",
-            "https://www.fdd.org/overnight-brief/october-7-2026/"
+            "https://www.reuters.com/world/middle-east/houthis-launch-missiles-yemens-aden-airport-fighting-intensifies-2026-10-07/",
+            "https://www.dawn.com/news/2035541",
+            "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh"
           ]
         },
         {
-          "title": "Brazil Heads to Lula vs Flavio Bolsonaro Runoff",
-          "summary": "Senator Flavio Bolsonaro, son of the former president and a Trump ally, led the first round of Brazil's presidential election with about 47 percent against incumbent Lula's 45 percent. The runoff is set for October 25. A Bolsonaro win would shift Latin America's largest economy toward closer U.S. alignment and potentially more market-friendly or contentious policies on crime, amnesty, and China ties. Emerging-market and commodity traders are watching closely.",
+          "title": "Rubio hard line: Iran never gets nuke, economy freefalling",
+          "summary": "US Secretary of State Marco Rubio said Iran has lost control of Hormuz, its economy is in freefall under sanctions, and any deal must permanently block a nuclear weapon. Vice President Vance separately demanded meaningful cuts to enrichment. Talks remain stalled with mixed signals on who runs Tehran, keeping the conflict open-ended into the midterms.",
           "sentiment": "Neutral",
-          "impact": "Binary political risk for EM assets and commodity flows until October 25",
+          "impact": "Unresolved diplomacy leaves oil and risk assets range-bound on headlines",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/ck1l34ed592no",
-            "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
-            "https://apnews.com/live/brazil-election-2026"
+            "https://www.newindianexpress.com/world/2026/Oct/07/iran-has-lost-complete-control-of-hormuz-strait-marco-rubio",
+            "https://timesofindia.indiatimes.com/world/us/iran-will-never-have-a-nuclear-weapon-rubio-draws-red-line-for-tehran/articleshow/134781711.cms",
+            "https://www.timesofisrael.com/topic/strait-of-hormuz/"
+          ]
+        },
+        {
+          "title": "Israel marks Oct 7 anniversary amid Gaza ops, elections",
+          "summary": "Israel commemorated three years since the Hamas attack that killed twelve hundred as world leaders including Trump voiced solidarity. Operations continue in Gaza with building demolitions and reports of renewed Lebanon strikes, while Israeli elections approach later this month. The anniversary keeps Middle East flashpoints in focus without a fresh black-swan catalyst for markets today.",
+          "sentiment": "Neutral",
+          "impact": "Background geopolitical tension, limited immediate directional catalyst",
+          "sources": [
+            "https://www.jpost.com/international/article-910892",
+            "https://today.lorientlejour.com/article/1549979/october-7-commemorations-marked-by-political-tensions-ahead-of-israeli-elections.html",
+            "https://www.scmp.com/topics/middle-east"
           ]
         }
       ]
