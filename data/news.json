@@ -1,82 +1,83 @@
 {
-  "generated_at": "2026-10-10T12:05:14+00:00",
+  "generated_at": "2026-10-11T12:04:54+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin faces mixed pressure today after heavy long liquidations and sizable ETF outflows, yet whales are accumulating on the dip. Firm yields near multi-year highs and a steady dollar keep risk assets cautious ahead of next week's CPI. Regulatory progress in Thailand and selective geopolitical easing provide limited offsets.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Crypto faces a clearly risk-off day as heavy Bitcoin ETF outflows near seven hundred thirty million dollars combine with fresh Ledger hardware implant fears and a firmly hawkish macro backdrop. Elevated yields near five point two four percent, a strong dollar, and Fed officials signaling more hikes keep pressure on risk assets. Geopolitical shocks from Houthis, Ukraine, and Gulf oil disruptions add further caution, only partly offset by whale buying and Solana speed gains.",
   "key_points": [
-    "ETF outflows reach $1.29B on the week",
-    "Whales accumulate 15,000 BTC during dip",
-    "10-year yield holds near 5.24 percent",
-    "Thailand finalizes local spot BTC ETFs",
-    "Traders brace for Wednesday CPI print"
+    "Bitcoin ETFs see ~$730M heavy outflows",
+    "Ledger implant confirms $93M wallet drains",
+    "Fed signals and 5.24% yields stay hawkish",
+    "Whales quietly add 15,000 BTC on dip",
+    "Geopolitics and Gulf oil shutdown raise risk"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Over $1B Crypto Liquidations Hit Longs as BTC Dips Under $81K",
-          "summary": "Crypto markets saw roughly one point one billion dollars in forced liquidations over twenty-four hours, with longs taking about one point zero five billion of the hit. Bitcoin briefly traded down near eighty thousand three hundred before reclaiming the eighty-two thousand five hundred area. Traders should care because the leverage flush resets positioning and often precedes short-term relief, yet overhead resistance near eighty-four thousand four hundred remains untested.",
-          "sentiment": "Neutral",
-          "impact": "Leverage reset may support a bounce if support holds, but unresolved resistance caps upside",
-          "sources": [
-            "https://www.tokenpost.com/news/investing/29097",
-            "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-            "https://crypto.news/bitcoin-price-87k-rebound-or-another-plunge-below-81k/"
-          ]
-        },
-        {
-          "title": "US Crypto ETFs Post $1.29B Weekly Outflows Led by BTC and ETH",
-          "summary": "US-listed crypto ETFs recorded one point two nine billion dollars in net outflows across the week of October fifth to ninth, with Bitcoin funds losing about six hundred seventy-nine million and Ethereum funds five hundred forty-two million. Bitcoin ETFs flipped to a modest twenty-one million inflow on October ninth after heavy prior redemptions. Institutional flow is the main bid for spot Bitcoin, so sustained outflows signal softer demand even as price stabilizes near eighty-two thousand five hundred.",
+          "title": "Ledger Confirms Hardware Implant in $93M Wallet Drains",
+          "summary": "Ledger confirmed an unauthorized hardware implant in at least one customer device sold through Southeast Asian reseller CryptoBilis. On-chain estimates put losses at roughly 86 to 93 million dollars across hundreds of wallets holding Bitcoin, Ether, USDT and other assets. Attackers appear to have captured seed phrases via the implant, with some stolen funds already moved toward mixers like Tornado Cash. Traders should care because this hits confidence in the most trusted self-custody hardware and could drive short-term risk-off selling or shifts to other wallets.",
           "sentiment": "Bearish",
-          "impact": "Weaker institutional demand risks further downside pressure if outflows persist",
+          "impact": "Erodes hardware wallet trust and adds risk-off pressure",
           "sources": [
-            "https://crypto.news/crypto-etfs-shed-1-29b-as-bitcoin-and-ether-lead-exits/",
-            "https://www.tokenpost.com/news/investing/29414",
-            "https://www.tftc.io/bitcoin-etf-flows/october-2026"
+            "https://coincentral.com/ledger-confirms-hidden-implant-in-hardware-wallet-as-93-million-theft-probe-grows/",
+            "https://www.tokenpost.com/news/technology/29682",
+            "https://www.tradingview.com/news/cointelegraph:ae28213e8094b:0-ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m/"
           ]
         },
         {
-          "title": "Ledger Probes $86M-Plus Wallet Drains Tied to SE Asia Reseller",
-          "summary": "Hardware wallet maker Ledger is investigating reports of missing funds from users who bought devices through Southeast Asian reseller CryptoBilis. On-chain estimates put suspected losses between eighty-six and ninety-three million dollars across Bitcoin, Ethereum and other chains. Ledger paused the reseller’s sales and advised recent buyers to move assets to new seeds. Security scares hit confidence and can weigh on risk assets like Bitcoin in the short term.",
+          "title": "Bitcoin ETFs See Heavy Outflows Near $730 Million",
+          "summary": "US spot Bitcoin ETFs recorded nearly 730 million dollars in net outflows over recent sessions, including large redemptions on October 7 and 8, before a small 21 million dollar inflow on the 9th. Bitcoin has rebounded toward the 82 to 83 thousand dollar area on the weekend but faces tests around the 80,400 level as institutional demand cools. Traders should watch this closely because sustained ETF selling removes a key bid and often precedes further downside or choppy range trading until flows stabilize.",
           "sentiment": "Bearish",
-          "impact": "Negative sentiment overhang from hardware wallet security concerns",
+          "impact": "Removes institutional bid and tests key support",
           "sources": [
-            "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
-            "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-            "https://uk.finance.yahoo.com/news/bitcoin-trades-above-82-000-044611135.html"
+            "https://cryptoslate.com/news/bitcoin/",
+            "https://www.ccn.com/news/crypto/bitcoin-price-729m-etf-exodus-90k-rebound-crash-next/",
+            "https://bykaranteli.com/etf/btc"
           ]
         },
         {
-          "title": "US Government Moves 17.5K BTC Worth $1.4B-Plus to Coinbase Prime",
-          "summary": "Wallets linked to the US government transferred roughly seventeen thousand five hundred Bitcoin, valued around one point four to one point five billion dollars, mostly to Coinbase Prime over several days. Much appears tied to Bitfinex seizure custody rather than confirmed sales, though smaller portions may relate to victim restitution. The moves fueled sale fears that coincided with Bitcoin’s drop toward eighty thousand. Traders watch these flows closely because any actual distribution would add supply overhang.",
+          "title": "Whales Accumulate 15,000 BTC During Market Dip",
+          "summary": "Large holders scooped up about 15,000 Bitcoin plus more than 166,000 Ether and 45 million XRP over roughly 72 hours during the recent correction. Broader whale cohorts have added tens of thousands of BTC over the past month, with apparent demand metrics improving from deeply negative toward neutral. This matters for traders because smart-money buying into weakness has historically marked local bottoms or provided a floor even when retail and ETFs are net sellers.",
+          "sentiment": "Bullish",
+          "impact": "On-chain support that could cushion further downside",
+          "sources": [
+            "https://www.tokenpost.com/news/investing/29504",
+            "https://finobird.com/crypto/",
+            "https://cryptoquant.com/insights/quicktake/6aca3f7af987b352c7f6992c-Whale-Holdings-Back-Above-3M-BTC-While-Apparent-Demand-Is-Still-Below-Zero"
+          ]
+        },
+        {
+          "title": "Solana Activates 200ms Block Times on Mainnet",
+          "summary": "Solana completed the final step of SIMD-0525, bringing target slot times to 200 milliseconds on mainnet at epoch 1053 on October 9. Blocks now land twice as often as at genesis and epochs run roughly one day instead of two, though measured averages started a bit higher. This upgrade improves transaction freshness and responsiveness for DeFi and trading apps. Traders should note it as a positive fundamental catalyst for Solana that can support relative strength versus Bitcoin in quiet markets.",
+          "sentiment": "Bullish",
+          "impact": "Positive tech catalyst for SOL and ecosystem activity",
+          "sources": [
+            "https://solanacompass.com/news/solanas-200ms-slot-time-is-live-on-mainnet-at-epoch-1053-completing-simd-0525",
+            "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+            "https://coinpaprika.com/news/"
+          ]
+        },
+        {
+          "title": "XRP Ledger Patches Critical Minting Overflow Bug",
+          "summary": "The XRP Ledger disclosed and confirmed a decade-old payment-engine integer overflow that could have allowed an attacker to mint spendable XRP beyond the 100 billion supply cap. The bug was patched in an emergency xrpld 3.4.1 release in late September with no evidence of exploitation on the public network. Disclosure landed over the past day. This is relevant because it touches a core invariant of a top-market-cap asset and reminds traders that even mature ledgers carry rare but high-impact software risks.",
           "sentiment": "Neutral",
-          "impact": "Sale fears added to dip pressure but custody transfers do not confirm selling",
+          "impact": "Contained security fix; limited immediate price effect if unexploited",
           "sources": [
-            "https://coinmarketcap.com/academy/article/bitcoin-price-holds-82k-government-btc-custody-k33",
-            "https://cryptobriefing.com/us-government-moves-17795-bitcoin/",
-            "https://www.kucoin.com/news/news-flash"
+            "https://cryptobriefing.com/xrp-ledger-overflow-bug-extra-xrp/",
+            "https://defiprime.com/xrpl-patches-payment-engine-xrp-overflow",
+            "https://coinpaprika.com/news/"
           ]
         },
         {
-          "title": "Thailand SEC Finalizes Local Spot Bitcoin and Ether ETF Rules",
-          "summary": "Thailand’s securities regulator issued final rules allowing locally listed spot Bitcoin and Ether ETFs on the Stock Exchange of Thailand, effective October sixteenth. Funds must hold at least eighty percent exposure to a single crypto, use regulated custodians, and cannot offer margin. This expands regulated access for Thai investors beyond foreign products. Broader geographic ETF adoption is a structural positive for Bitcoin demand over time.",
-          "sentiment": "Bullish",
-          "impact": "Incremental long-term demand catalyst via new regulated Asian access channel",
+          "title": "US Eyes Another $1 Billion Iran-Linked Crypto Seizure",
+          "summary": "Treasury Secretary Scott Bessent said the United States will probably seize about one billion dollars in Iran-linked cryptocurrency this week as part of an isolation campaign, stating authorities know where the assets are. This builds on earlier freezes and sanctions targeting Iranian exchanges and oil-related flows often involving stablecoins. Traders should monitor it because large government freezes can tighten stablecoin liquidity, increase compliance scrutiny on exchanges, and add geopolitical risk premium to the broader crypto complex.",
+          "sentiment": "Neutral",
+          "impact": "Heightens regulatory and geopolitical overhang",
           "sources": [
-            "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-            "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-            "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs"
-          ]
-        },
-        {
-          "title": "Whales Accumulate 15,000 BTC During Market Correction",
-          "summary": "On-chain data shows large holders added approximately fifteen thousand Bitcoin over the past seventy-two hours while also buying substantial Ether and XRP amid the pullback. This accumulation occurred as price corrected from near eighty-seven thousand toward the low eighties. Whale buying during dips has historically supported later recoveries when retail and leveraged players exit. It signals strong hands absorbing supply even as ETF flows and liquidations create noise.",
-          "sentiment": "Bullish",
-          "impact": "On-chain accumulation supports basing and potential rebound if macro stabilizes",
-          "sources": [
-            "https://www.kucoin.com/news/flash/whales-add-15-000-btc-during-bitcoin-market-correction",
-            "https://en.bloomingbit.io/feed/news/121948"
+            "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
+            "https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran",
+            "https://coinpaprika.com/news/"
           ]
         }
       ]
@@ -85,69 +86,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "UMich Sentiment Drops to 46.3, Current Conditions Hit Record Low",
-          "summary": "The University of Michigan's preliminary October consumer sentiment index fell to 46.3 from 48.1, missing forecasts around 47.6 to 48. and marking the lowest since May. Current economic conditions plunged to an all-time low of 44.7 while year-ahead inflation expectations ticked up to 4.7 percent and longer-term to 3.5 percent. Traders should care because weak household confidence and sticky inflation views can pressure consumer spending ahead of next week's CPI, influencing Fed rate path expectations and risk appetite for Bitcoin and equities.",
-          "sentiment": "Neutral",
-          "impact": "Soft data may ease near-term hike odds but signals growth risks",
+          "title": "UMich Sentiment Hits Five-Month Low at 46.3",
+          "summary": "The University of Michigan preliminary consumer sentiment index fell to 46.3 in early October, the lowest since May and below forecasts. Current economic conditions hit an all-time low of 44.7 as households fretted over high prices, borrowing costs, and the economy. One-year inflation expectations ticked up to 4.7 percent. Traders should care because weak confidence can slow spending and growth, but rising inflation views keep pressure on the Fed to stay tight, creating two-way risk for risk assets ahead of CPI.",
+          "sentiment": "Bearish",
+          "impact": "Weighs on growth outlook and risk appetite while supporting higher-for-longer rates",
           "sources": [
-            "https://www.sca.isr.umich.edu/",
             "https://www.bloomberg.com/news/articles/2026-10-09/us-consumer-sentiment-falls-to-five-month-low-in-october",
-            "https://www.reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09/"
+            "https://www.reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09/",
+            "http://umich.edu/~umsurvey/"
           ]
         },
         {
-          "title": "Fed SCF Shows Debt Delinquencies Worst Since 2010",
-          "summary": "The Federal Reserve's 2025 Survey of Consumer Finances released Friday found nearly 20 percent of families behind on loan payments, up from 12 percent and the highest since the post-Great Recession period. The share with debt payments over 40 percent of income rose to 8.6 percent, last seen in 2013, even as real median family income climbed 7 percent to 82,200 dollars and median net worth edged up. This matters for traders as rising household stress could curb spending and heighten recession risks, potentially shifting Fed policy or weighing on risk assets including crypto.",
+          "title": "US 10-Year Yield Closes Near 5.24 Percent",
+          "summary": "The 10-year Treasury yield finished Friday around 5.24 percent, holding near multi-decade highs after earlier pullbacks from auction demand. Elevated long-term rates reflect sticky inflation, solid growth, heavy issuance, and Fed hike expectations. For crypto traders this matters because higher discount rates pressure valuations across equities and risk assets, raise mortgage and borrowing costs, and keep financial conditions tighter even if the Fed pauses short-term.",
           "sentiment": "Bearish",
-          "impact": "Highlights consumer vulnerability that may pressure growth outlook",
+          "impact": "Sustained high yields act as a headwind for Bitcoin and growth-sensitive assets",
           "sources": [
-            "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-            "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-            "https://www.reuters.com/business/finance/fed-says-household-income-wealth-debt-stress-rose-2022-2025-2026-10-09/"
+            "https://ycharts.com/indicators/10_year_treasury_rate",
+            "https://www.bostonherald.com/2026/10/09/us-markets-crude-prices/",
+            "https://ph.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
           ]
         },
         {
-          "title": "10-Year Treasury Yield Closes Near 5.24 Percent",
-          "summary": "The benchmark 10-year Treasury yield ended Friday around 5.24 percent after swinging through the session, remaining near multi-year and 24-year highs hit earlier in the week. Elevated yields reflect persistent inflation concerns and expectations of further Fed tightening despite some auction demand. Crypto traders watch this closely because higher long-term rates raise discount rates for risk assets, tighten financial conditions, and often correlate with dollar strength that can pressure Bitcoin.",
+          "title": "Dollar Index Holds Firm Near 102.2",
+          "summary": "The US Dollar Index closed Friday at about 102.21, remaining near recent multi-month or 18-month highs after modest daily moves. Strength has been driven by elevated Treasury yields, hawkish Fed signals, and relative economic outperformance. A firm greenback typically weighs on dollar-denominated crypto prices and commodities, so traders watch DXY closely as a liquidity and risk-off barometer heading into next week's inflation data.",
           "sentiment": "Bearish",
-          "impact": "Sustained high yields tighten conditions for equities and crypto",
-          "sources": [
-            "https://portfolio-terminal.com/markets/10-year-treasury-yield",
-            "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70",
-            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-10-09/"
-          ]
-        },
-        {
-          "title": "US Dollar Index Holds Firm Near 102.2",
-          "summary": "The DXY closed Friday near 102.21, up slightly on the day and close to recent multi-month highs supported by elevated US yields and relative economic strength. It has been volatile with bond yield corrections but remains resilient amid geopolitical calmers and ahead of key data. A strong dollar typically acts as a headwind for Bitcoin and other risk assets priced in USD, while also influencing commodity and emerging market flows that affect overall liquidity.",
-          "sentiment": "Bearish",
-          "impact": "Firm dollar pressures risk assets and crypto valuations",
+          "impact": "Strong dollar pressures BTC and risk assets via tighter global liquidity",
           "sources": [
             "https://portfolio-terminal.com/markets/us-dollar-index",
-            "https://www.fxstreet.com/news/united-states-dollar-index-weakens-further-amid-correction-in-us-bond-yields-202610090318",
-            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-09/"
+            "https://www.marketwatch.com/investing/index/dxy",
+            "https://finance.yahoo.com/quote/DX-Y.NYB/"
           ]
         },
         {
-          "title": "Markets Brace for Key September CPI Release Next Wednesday",
-          "summary": "No major US data dropped today on Saturday, but attention turns fully to next week's calendar topped by September CPI on October 14 at 8:30 AM ET, with consensus for headline around plus 0.5 to 0.6 percent month-over-month and 3.6 to 3.7 percent year-over-year. PPI and retail sales follow on Thursday. This is critical for traders because the print will heavily shape odds for the late-October FOMC decision, where a hold is widely expected but a December hike remains live, directly moving yields, the dollar, and crypto risk sentiment.",
-          "sentiment": "Neutral",
-          "impact": "High-volatility catalyst for rates, dollar, and risk assets",
+          "title": "Fed's Waller and Musalem Signal More Hikes Ahead",
+          "summary": "Fed Governor Waller said additional rate increases are likely needed if data holds to bring inflation back to 2 percent faster, though timing has flexibility and consecutive meetings are not required. St. Louis Fed President Musalem echoed that more firming is required over the next six to nine months and kept an open mind on the late-October meeting. Markets still price a low chance of an October hike but higher odds for December. This keeps the hawkish bias alive for crypto, which thrives more on easing than tightening cycles.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces higher-for-longer rates and limits near-term easing hopes",
           "sources": [
+            "https://www.reuters.com/world/feds-waller-more-hikes-needed-there-is-flexibility-about-pace-2026-10-08/",
+            "https://www.reuters.com/markets/us/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-2026-10-08/",
+            "https://www.federalreserve.gov/newsevents/speech/files/waller20261008a.pdf"
+          ]
+        },
+        {
+          "title": "Markets Brace for September CPI on October 14",
+          "summary": "No major US data drops over the weekend or on Monday's Columbus Day holiday, so attention turns to Wednesday's CPI release covering September. Consensus looks for a pickup in headline to around 0.5-0.6 percent month-over-month and 3.6 percent year-over-year, with core watched closely. A hot print would firm hike odds and lift yields further; a cool one could ease pressure. Crypto traders must size risk around this because inflation surprises have been the biggest near-term driver of rate expectations and dollar moves.",
+          "sentiment": "Neutral",
+          "impact": "High-event risk that will reset Fed path pricing and market volatility",
+          "sources": [
+            "https://macrobullseye.com/calendar/2026/10/",
             "https://fedratecalc.com/us-economic-calendar/october-2026/",
-            "https://www.morningstar.com/news/dow-jones/202610095747/consumer-prices-and-producer-prices-on-the-docket-data-week-ahead",
-            "https://investinglive.com/news/week-ahead-us-inflation-and-retail-sales-lead-a-busy-economic-calendar-be-aware/"
+            "https://registerguardcapital.com/economic-calendar"
           ]
         },
         {
-          "title": "Stocks Rise Friday as Yields Stabilize Near Highs",
-          "summary": "US equities closed higher on Friday with the S&P 500 up 0.6 percent near record levels, the Dow gaining 0.8 percent, and Nasdaq up 0.6 percent, wrapping a positive week even as the 10-year yield held elevated. Markets digested the soft Michigan survey and SCF debt data without major risk-off. For crypto traders this shows resilience in risk assets so far, but the combination of high yields and upcoming inflation data means any break higher in rates or a hot CPI could quickly reverse the calm and hit Bitcoin.",
-          "sentiment": "Neutral",
-          "impact": "Short-term risk appetite holds but remains data-dependent",
+          "title": "FOMC Minutes Still Echo Another Hike by Year-End",
+          "summary": "Minutes from the September meeting, released earlier in the week, showed most participants saw another 25-basis-point increase as likely appropriate before year-end amid elevated inflation. Combined with recent speeches, this keeps December in play even if October is a hold. Traders should note the unified hawkish tilt after the September hike to 3.75-4 percent, as it anchors the upper end of the rate path and continues to support elevated real yields that challenge leveraged and long-duration assets including crypto.",
+          "sentiment": "Bearish",
+          "impact": "Locks in expectation of further tightening later this year",
           "sources": [
-            "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70",
-            "https://investrade.com/market-review-october-09-2026/",
-            "https://edgeconsultancykw.com/us-market-wrap-9-october-2026/"
+            "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+            "https://www.federalreserve.gov/newsevents.htm",
+            "https://www.mfs.com/en-us/individual-investor/insights/market-insights/week-in-review.html"
           ]
         }
       ]
@@ -156,69 +157,65 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump-Putin Deal: US Imports Russian Diesel, Waives Sanctions",
-          "summary": "President Trump announced after a call with Putin that Russia will supply hundreds of thousands of tons of diesel immediately, with millions more in coming months, and the Treasury issued a temporary sanctions waiver through April 2027. This sharp reversal aims to cut soaring US fuel prices ahead of November midterms amid the Iran war squeeze. Zelensky blasted it as unfair and a gift that funds Russia's war. Traders should watch energy prices and inflation expectations closely—any real relief could ease pressure on risk assets, though volumes look modest versus global demand and it deepens Ukraine tensions.",
-          "sentiment": "Bullish",
-          "impact": "Potential short-term energy price relief supporting risk assets and crypto",
-          "sources": [
-            "https://www.reuters.com/business/energy/trump-big-announcement-coming-up-diesel-2026-10-09/",
-            "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel.html",
-            "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html"
-          ]
-        },
-        {
-          "title": "Houthis Kill 3 in Riyadh Airport Strikes as Yemen War Expands",
-          "summary": "Yemen's Iran-aligned Houthis hit Riyadh's King Khalid International Airport with missiles, killing three Saudis including a pilot, damaging a Saudia plane, and forcing flight cancellations just before a major oil meeting. Saudi authorities confirmed the toll and resumed operations; the Saudi-led coalition vowed a firm response while fighting intensifies around Taiz and Red Sea routes. This spillover from the broader Iran conflict keeps shipping and energy security risks elevated. Crypto traders care because fresh Middle East aviation and potential oil infrastructure threats can spike crude and volatility across risk markets.",
+          "title": "Houthi Missile Kills 12 at Riyadh Airport",
+          "summary": "Yemen's Iran-backed Houthis struck King Khalid International Airport in Riyadh, killing at least 12 including a US citizen and wounding over 300 in the deadliest attack on the kingdom in more than a decade. The airport remains closed with hundreds of flights canceled, Saudi-led forces vow firm retaliation calling it a war crime, and President Trump says the US may join strikes while planning to speak with Crown Prince Mohammed bin Salman. Traders should watch this closely because it escalates the wider Middle East conflict, threatens Saudi oil infrastructure and airspace, and keeps a heavy risk premium in crude near 105 dollars Brent.",
           "sentiment": "Bearish",
-          "impact": "Heightened oil and shipping risk premium weighing on risk assets",
+          "impact": "Oil spike risk and broader risk-off pressure on equities and crypto",
           "sources": [
-            "https://www.reuters.com/world/middle-east/houthi-strikes-riyadh-airport-killed-three-saudis-war-escalates-2026-10-09/",
-            "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro",
-            "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+            "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
+            "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl",
+            "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know"
           ]
         },
         {
-          "title": "US Sanctions Entire ICC Hours After Ex-Judge Wins Nobel",
-          "summary": "The Trump administration sanctioned the International Criminal Court as an institution, freezing US assets, banning transactions, and giving firms six months to wind down dealings, per Secretary Rubio. The move came right after former ICC judge Navi Pillay received the Nobel Peace Prize and escalates prior individual sanctions over probes involving Americans and Israelis. Allies including several European nations condemned it. This deepens US-Europe rifts on international law with limited direct price impact but adds to geopolitical fragmentation that can keep uncertainty high for global markets.",
+          "title": "Trump Diesel Deal with Putin, Calls for New Zelensky",
+          "summary": "President Trump announced a deal with Vladimir Putin to supply hundreds of thousands of tons of Russian diesel to global markets, with the US temporarily suspending related sanctions until April. After Volodymyr Zelensky condemned it as a gift to Putin that funds the war, Trump said Ukraine should get a new president who can make a deal and stop hitting Russian refineries. This is market-relevant because it could ease crushing diesel prices above six dollars a gallon ahead of US midterms, but it fractures the Western alliance on Ukraine and signals a major sanctions pivot that may prolong the conflict.",
           "sentiment": "Neutral",
-          "impact": "Diplomatic friction with allies; limited near-term market move but raises institutional risk",
+          "impact": "Potential energy-price relief versus higher geopolitical uncertainty",
           "sources": [
-            "https://english.news.cn/20261010/1362e04e55b6414eb52d79e6e113bb51/c.html",
-            "https://www.reuters.com/world/us-imposes-sanctions-icc-hours-after-former-judge-wins-nobel-2026-10-09/",
-            "https://www.scmp.com/news/world/united-states-canada/article/us-sanctions-icc-hours-after-ex-judge-wins-nobel"
+            "https://www.bbc.com/news/articles/cqe8r5l7n92jo",
+            "https://www.cnn.com/2026/10/09/politics/trump-putin-russian-diesel",
+            "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war"
           ]
         },
         {
-          "title": "China-EU Deal Halves Hybrid Car Exports, Eases Trade War",
-          "summary": "After talks in Beijing, the EU and China reached an understanding for China to moderate and effectively halve hybrid and plug-in hybrid vehicle exports to Europe over four years, potentially cutting millions of cars. They also improved EU access for certain goods and eased rare earth licensing. EU Trade Commissioner Sefcovic called it a crucial first step to rebalance the massive trade deficit without full tariffs. For traders this reduces one major global trade-war flashpoint, supporting risk sentiment and supply-chain stability in autos and commodities.",
-          "sentiment": "Bullish",
-          "impact": "Trade de-escalation positive for global growth and risk assets",
-          "sources": [
-            "https://www.reuters.com/world/china/china-eu-reach-hybrid-vehicle-trade-understanding-keep-talks-alive-ev-dispute-2026-10-09/",
-            "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
-            "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks"
-          ]
-        },
-        {
-          "title": "Russian Strikes Kill 15 in Ukraine Day After Diesel Deal",
-          "summary": "Russian glide bombs and drones hit residential areas in Zaporizhzhia and elsewhere, killing at least 15 including children and wounding more, according to Ukrainian officials on Saturday. This follows heavier civilian tolls earlier in the week and comes immediately after Trump's diesel announcement, which Zelensky called a smokescreen that helps bankroll the war. Front lines remain largely stalemated while the long-range aerial campaign continues. Persistent Ukraine escalation keeps European energy and security risks alive and can cap risk-asset rallies when combined with other geopolitics.",
+          "title": "US Disables Ship Enforcing Iran Blockade",
+          "summary": "US Central Command said a fighter jet struck and disabled a Panama-flagged commercial vessel in the Gulf of Oman after it ignored warnings and tried to run the naval blockade on Iranian ports. This comes amid stepped-up Iranian attacks on tankers in and around the Strait of Hormuz, where flows remain disrupted and oil sits above 100 dollars. Crypto and risk traders care because any further choke on the world's key energy waterway sustains high oil, inflation fears, and risk-off flows.",
           "sentiment": "Bearish",
-          "impact": "Prolonged war uncertainty and energy security concerns for markets",
+          "impact": "Sustains oil risk premium and risk-off sentiment",
           "sources": [
-            "https://apnews.com/article/russia-ukraine-war-strikes-zaporizhzhia",
-            "https://www.itv.com/news/2026-10-10/ukrainian-officials-report-deadly-russian-strikes",
-            "https://kyivindependent.com/russian-attacks-kill-at-least-41-injure-67-across-ukraine-as-glide-bombs-strike-zaporizhzhia/"
+            "https://www.jpost.com/middle-east/iran-news/article-911241",
+            "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9"
           ]
         },
         {
-          "title": "Trump Pauses Iran Strikes Pre-Midterms as Hormuz Attacks Persist",
-          "summary": "Trump stated the US will not attack Iran before the November midterms, citing productive discussions, even as Iranian forces and proxies continue targeting tankers in the Strait of Hormuz and oil prices hover above 100 dollars Brent. The Pentagon still holds strike options and Hurricane Isaias has shut significant US Gulf production. Markets have whipsawed on de-escalation hopes versus supply threats. Traders should treat this as a temporary lid on immediate military escalation that could moderate oil spikes, but unresolved shipping risks mean volatility remains the baseline for energy and broader risk assets.",
-          "sentiment": "Neutral",
-          "impact": "Temporary de-escalation signal vs ongoing supply risks; oil volatility persists",
+          "title": "Russian Glide Bombs Kill 20 in Zaporizhzhia",
+          "summary": "Russian forces hit residential buildings in Zaporizhzhia with glide bombs, killing at least 20 people including children, the day after Trump's diesel sanctions relief announcement. Zelensky called the strikes Russia's thank-you for the deal and evidence Moscow sees any easing as a green light to keep fighting. This keeps the Ukraine war hot, undermines peace-talk hopes, and adds another layer of geopolitical tension for markets already pricing energy and alliance fractures.",
+          "sentiment": "Bearish",
+          "impact": "Heightens war-risk premium and alliance uncertainty",
           "sources": [
-            "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09/",
-            "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-09/",
-            "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/"
+            "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o",
+            "https://www.themoscowtimes.com/2026/10/10/russian-attack-on-ukrainian-city-kills-20-a-day-after-trump-eases-diesel-sanctions-on-moscow-a93941"
+          ]
+        },
+        {
+          "title": "Hurricane Isaias Shuts Most US Gulf Oil Output",
+          "summary": "Hurricane Isaias forced producers to shut in roughly 70 percent or more of US Gulf of Mexico crude production, over 1.4 million barrels a day, as the storm made landfall and caused deaths and widespread power outages. The temporary supply loss supported oil prices even as other factors pulled in different directions. Energy traders and risk-asset desks watch Gulf storms closely because they can spike short-term crude and refined-product prices, feeding inflation concerns.",
+          "sentiment": "Bearish",
+          "impact": "Short-term oil supply shock supporting higher prices",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-10-09/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output",
+            "https://www.brecorder.com/news/40443543"
+          ]
+        },
+        {
+          "title": "Houthis Warn Airlines Off Saudi Airports",
+          "summary": "After the deadly Riyadh strike, Houthi spokesmen warned airlines and passengers that Saudi airports and airspace are now a theater of operations and should be avoided except for the holy cities. Saudi authorities extended the Riyadh airport closure and the coalition promised retaliation while international carriers already rerouted flights. This broadens the conflict's reach into commercial aviation and logistics, raising insurance and disruption costs across the region that ultimately hit global risk appetite.",
+          "sentiment": "Bearish",
+          "impact": "Aviation and logistics disruption amplifying ME risk premium",
+          "sources": [
+            "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
+            "https://www.channelnewsasia.com/world/riyadh-airport-attack-12-killed-yemen-houthis-6449071"
           ]
         }
       ]
