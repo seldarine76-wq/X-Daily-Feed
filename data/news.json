@@ -1,82 +1,81 @@
 {
-  "generated_at": "2026-10-17T12:05:17+00:00",
+  "generated_at": "2026-10-18T12:06:12+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Crypto faces mixed signals today as institutional custody and lending progress offset continued ETF outflows and index risks. Hot inflation data and spiking oil from Middle East tensions add macro pressure, while a softer dollar and fading hike odds offer some support. Bitcoin stabilizing above eighty-one thousand after the flush keeps the tone balanced rather than directional.",
+  "overall_sentiment": "Bullish",
+  "overall_summary": "Macro is doing the heavy lifting today for Bitcoin: the dollar’s first weekly loss in over a month and the biggest drop in ten-year yields in more than a year, plus October hike odds crashing, paint a clear risk-on backdrop. Crypto internals are mixed—ETF outflows hurt, but hash rate strength, El Salvador’s growing reserve, and bullish analyst positioning offset some of that pressure. Geopolitical noise and sticky inflation remain overhangs, yet the rate and dollar complex still skews the forward tone constructive for BTC.",
   "key_points": [
-    "Deutsche Bank custody and bank tokenization progress",
-    "Spot Bitcoin ETFs see another sizable outflow",
-    "Oil spikes on Hormuz tanker and Houthi strikes",
-    "Hot PPI and import prices raise inflation concerns",
-    "Dollar retreats as rate-hike odds plunge"
+    "Yields and dollar weaken sharply; risk-on macro",
+    "October Fed hike odds crash to roughly 16%",
+    "US crypto ETFs see heavy weekly outflows",
+    "Bitcoin hash rate and El Salvador reserves rise",
+    "Middle East and energy tensions keep oil elevated"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "MSCI Rules Risk Booting Strategy From Major Indexes",
-          "summary": "Index giant MSCI adopted new rules that could classify Strategy and other crypto treasury firms as non-operating companies and eject them from global equity indexes effective late November. Passive funds tracking those benchmarks might be forced to sell billions in shares, pressuring Strategy stock and the broader Bitcoin treasury model. Traders should watch because any forced selling could spill into Bitcoin sentiment and financing costs for big corporate holders.",
+          "title": "US Crypto ETFs Bleed $611M Weekly as ETH Outflows Top BTC",
+          "summary": "US spot crypto ETFs saw about six hundred eleven million dollars in net outflows for the week ending October sixteenth, with Ethereum funds losing three hundred twenty million and Bitcoin two hundred twenty-eight million. CoinShares separately flagged four hundred thirty-four million in global digital asset product outflows after hotter US inflation data. Bitcoin is holding near eighty-one thousand five hundred to eighty-two thousand on thin Sunday volume, but the repeated redemptions remain a clear demand headwind traders cannot ignore.",
           "sentiment": "Bearish",
-          "impact": "Potential passive outflows hit treasury stocks and BTC-linked sentiment",
+          "impact": "Sustained outflows cap upside and keep dips vulnerable until flows flip",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/strategy-faces-msci-ouster-under-new-rules-billions-passive-holdings-risk-2026-10-16/",
-            "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
-            "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index"
-          ]
-        },
-        {
-          "title": "Deutsche Bank Nears BTC ETH Custody Launch",
-          "summary": "Deutsche Bank says its first digital-asset custody service for Bitcoin and Ethereum is weeks away in Germany, with plans to expand into Asia next year and later add stablecoins plus tokenized deposits. At the same time Charles Schwab opened direct crypto trading to its broader retail client base. This is classic institutional plumbing that traders care about because easier bank custody lowers barriers for big money to hold and move crypto.",
-          "sentiment": "Bullish",
-          "impact": "Supports longer-term institutional access and demand",
-          "sources": [
-            "https://www.reuters.com/business/finance/deutsche-bank-prepares-crypto-custody-launch-targets-asia-growth-2026-10-16/",
-            "https://cryptopotato.com/2-banking-giants-make-major-crypto-moves-as-schwab-and-deutsche-bank-expand-into-digital-assets/",
-            "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs Post Another 82 Million Outflow",
-          "summary": "US spot Bitcoin ETFs recorded roughly 82 million dollars in net outflows on October 16, led by BlackRock's IBIT, extending a week of net withdrawals. Ethereum and other crypto products also saw outflows. Weak ETF demand removes a key bid under the market, so traders need to treat it as a headwind until flows flip sustainably positive.",
-          "sentiment": "Bearish",
-          "impact": "Short-term selling pressure and softer institutional bid",
-          "sources": [
-            "https://www.tftc.io/bitcoin-etf-flows/",
+            "https://coincentral.com/crypto-etfs-lose-610-million-as-ethereum-outflows-overtake-bitcoin/",
             "https://www.tftc.io/bitcoin-etf-flows/october-2026",
-            "https://farside.co.uk/btc/"
+            "https://www.kucoin.com/news/flash/coinshares-crypto-investment-products-see-434m-net-outflow-this-week"
           ]
         },
         {
-          "title": "Bitcoin Holds Above 81K After Sub-80K Flush",
-          "summary": "Bitcoin briefly traded under 80,000 earlier in the week on hot producer inflation data, triggering hundreds of millions to nearly a billion in mostly long liquidations, then rebounded and stabilized near 81,500. Recent 24-hour liquidations eased to the low hundreds of millions. Holding the psychological 80K zone matters because a clean break lower opens more downside while a firm bounce can fuel short covering.",
+          "title": "13-Year Dormant Bitcoin Wallets Move 417 BTC Worth $34M",
+          "summary": "Two long-inactive wallets from around two thousand thirteen transferred a combined four hundred seventeen Bitcoin, worth roughly thirty-four million dollars, to a single address. The coins had sat untouched for twelve to thirteen years and were originally worth only about one hundred five thousand dollars. Traders watch these awakenings closely because large old supply can eventually hit exchanges, though so far this looks like consolidation rather than confirmed selling.",
           "sentiment": "Neutral",
-          "impact": "Support test unresolved; watch for hold or breakdown",
+          "impact": "Watch destination of coins; exchange deposits would add near-term supply risk",
           "sources": [
-            "https://www.cryptotimes.io/2026/10/17/bitcoin-price-holds-81k-amid-315m-liquidations-google-searches-hit-multi-year-low/",
-            "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-            "https://www.tokenpost.com/tag/btc"
+            "https://en.bloomingbit.io/feed/news/122423",
+            "https://www.tokenpost.com/news/investing/34167",
+            "https://news.bitcoin.com/de/crypto-news/bitcoin-oldtimer-weckt-13-jahre-alte-wallets-mit-millionen/"
           ]
         },
         {
-          "title": "McGlone Flags 10K Bitcoin Path; CryptoQuant Pushes Back",
-          "summary": "Bloomberg Intelligence strategist Mike McGlone reiterated that Bitcoin could retest around 10,000 if the S&P 500 drops 20 percent, citing mean reversion and higher yields. CryptoQuant CEO Ki Young Ju shot back that ETF inflows and treasury holdings imply an on-chain floor nearer 30,000 even in a full exit scenario. The exchange is pure sentiment fuel, so traders should care because high-profile bear targets can amplify fear while on-chain counters support the buy-the-dip crowd.",
-          "sentiment": "Neutral",
-          "impact": "Heightens volatility around macro and support narratives",
-          "sources": [
-            "https://blockchain.news/flashnews/ki-young-ju-bitcoin-floor-near-30k-chain-basis",
-            "https://news.bitcoin.com/fr/crypto-news/bloomberg-prevoit-10-000-pour-le-bitcoin-le-pdg-de-cryptoquant-desaccorde/",
-            "https://www.kucoin.com/news/flash/cryptoquant-ceo-disputes-mike-mcglone-s-10k-bitcoin-prediction"
-          ]
-        },
-        {
-          "title": "Banks Build Tokenized Deposits; Coinbase Loans Hit 2.3B",
-          "summary": "Coinbase now has 2.3 billion dollars in crypto-backed loans outstanding while roughly 17 banks are actively building their own tokenized deposit products. This shows traditional finance quietly integrating crypto rails for lending and deposits rather than treating it as a fad. Traders watch these plumbing stories because real banking usage expands the addressable market beyond pure price speculation.",
+          "title": "El Salvador Bitcoin Reserve Surpasses 7,800 BTC Milestone",
+          "summary": "El Salvador's national Bitcoin holdings have climbed past seven thousand eight hundred coins, now worth roughly six hundred forty to six hundred fifty million dollars. The country keeps adding roughly one Bitcoin a day even after its IMF program limited public purchases, with recent growth attributed partly to private donations. Transparent on-chain wallets make this one of the most visible sovereign accumulation stories and a steady, if small, bid for the market.",
           "sentiment": "Bullish",
-          "impact": "Positive structural adoption signal for crypto utility",
+          "impact": "Reinforces long-term sovereign demand narrative despite modest size",
           "sources": [
-            "https://x.com/Cointelegraph/status/2111389321504711110",
-            "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
+            "https://www.tradingview.com/news/cryptobriefing:2336f015a094b:0-el-salvador-s-bitcoin-reserve-tops-7-800-coins-despite-imf-limits/",
+            "https://x.com/Cointelegraph/status/211169something",
+            "https://cryptobriefing.com"
+          ]
+        },
+        {
+          "title": "Bitcoin Hash Rate Hits Highest Level Since Late May",
+          "summary": "Bitcoin's seven-day average hash rate reached about one thousand thirty-two exahashes per second on October seventeenth, the strongest reading since May twenty-ninth. Miner holdings also rose by three hundred seventy-nine Bitcoin over the week to nearly one point one nine million coins. Higher hash rate signals stronger network security and miner commitment even while price consolidates in the low eighty-thousands.",
+          "sentiment": "Bullish",
+          "impact": "Supports network fundamentals and reduces concerns about miner capitulation",
+          "sources": [
+            "https://www.tokenpost.com/news/investing/34272",
+            "https://www.tokenpost.com/tag/bitcoin"
+          ]
+        },
+        {
+          "title": "CryptoQuant: Analysts More Bullish Than Early 2023 Bull Start",
+          "summary": "CryptoQuant reports that analyst consensus on Bitcoin has swung more sharply bullish since July than it did at the start of the two thousand twenty-three bull market. About eighty-four percent of tracked analysts are now bullish, with the consensus index rising sixty-seven points even though price is up only about thirty-three percent from the summer low. Sentiment is running ahead of price, which can be a double-edged signal for traders watching for overcrowding.",
+          "sentiment": "Neutral",
+          "impact": "Elevated optimism may already be priced; watch for confirmation or fade",
+          "sources": [
+            "https://cryptopotato.com/bitcoin-analysts-are-more-bullish-now-than-at-the-start-of-the-2023-bull-market-cryptoquant/",
+            "https://cryptoquant.com/insights/research"
+          ]
+        },
+        {
+          "title": "Arthur Hayes: Bigger AI Bubble Means Bigger Bitcoin Bailout",
+          "summary": "BitMEX co-founder Arthur Hayes argued that AI model companies like OpenAI and Anthropic are burning cash with implicit government support and that a larger AI investment bubble would eventually force a bigger bailout. He says that liquidity flood would lift Bitcoin higher, framing crypto as a key absorber of excess money printing. The comments landed amid soft tech and chip stocks and give traders a longer-term bullish narrative while spot flows stay negative.",
+          "sentiment": "Bullish",
+          "impact": "Supports medium-term liquidity thesis but offers little near-term catalyst",
+          "sources": [
+            "https://en.bloomingbit.io/feed/news/122412",
+            "https://www.tokenpost.com/news/investing/34055",
+            "https://beincrypto.com/arthur-hayes-long-bitcoin-ethereum/"
           ]
         }
       ]
@@ -85,69 +84,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Warsh Silent on Rates; October Hike Odds Plunge",
-          "summary": "Fed Chair Kevin Warsh spoke at the IMF meetings in Bangkok and stressed US economic resilience amid global shocks, but refused to preview the path for rates or the upcoming FOMC. He said he does not prejudge meetings. Markets took the lack of hawkish push as a signal the Fed can wait, driving October hike probability down toward the mid-teens while December odds stay high. Crypto and risk assets should care because it reduces near-term policy risk even as inflation data stays hot.",
+          "title": "Warsh Won't Prejudge Oct Fed; Hike Odds Crash to 16%",
+          "summary": "Fed Chair Kevin Warsh told the IMF meetings he does not prejudge rate decisions and the Fed is moving away from giving market hints. October hike odds collapsed to around sixteen percent with an eighty-three percent chance of a hold, and the blackout period has now begun until after the October twenty-seven twenty-eight meeting. Crypto traders should care because near-term tightening risk just dropped sharply, removing a major overhang for risk assets even as December remains heavily priced for a hike.",
           "sentiment": "Bullish",
-          "impact": "Near-term relief for risk assets and Bitcoin as immediate hike fears ease",
+          "impact": "Lower near-term rate pressure supports Bitcoin and risk appetite",
           "sources": [
-            "https://www.reuters.com/markets/asia/feds-warsh-gives-no-hint-october-policy-decision-2026-10-16/",
-            "https://convera.com/blog/market-insights/fx-research/daily-market-updates/dollar-slips-as-warsh-silence-caps-yields/",
-            "https://www.mufgresearch.com/fx/fx-daily-snapshot-16-october-2026/"
+            "https://www.fxstreet.com/news/dollar-index-slips-as-fed-chair-warsh-wont-prejudge-october-202610161624",
+            "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
+            "https://247wallst.com/cards/xpost-01m52gaav70j3kc3tb4wga1hgd"
           ]
         },
         {
-          "title": "Import and Export Prices Surge Hot on Friday",
-          "summary": "US import prices jumped 1.1 percent month-over-month in September and 8.1 percent year-over-year, while export prices rose 2.2 percent and 11.6 percent annually, both well above forecasts and the biggest yearly gains since 2022. Fuel and nonfuel categories both contributed. This is the third straight hot inflation print after CPI and PPI, showing price pressures still flowing through the pipeline ahead of the late-October FOMC. Traders should watch it because sticky import costs keep the higher-for-longer rates narrative alive.",
-          "sentiment": "Bearish",
-          "impact": "Supports further Fed tightening risk and weighs on risk appetite",
-          "sources": [
-            "https://www.bls.gov/news.release/ximpim.nr0.htm",
-            "https://seekingalpha.com/news/4653798-import-and-export-prices-climb-more-than-expected-in-september",
-            "https://www.cmegroup.com/education/events/econoday/667086"
-          ]
-        },
-        {
-          "title": "Industrial Production Beats as Utilities and Factories Rise",
-          "summary": "US industrial production rose 0.7 percent in September, beating the 0.4 percent expectation, with manufacturing up 0.3 percent and utilities surging 3.5 percent. Capacity utilization climbed to 76.9 percent. The data points to ongoing economic resilience despite higher energy costs and earlier soft patches in some factory categories. For markets it reinforces the soft-landing-plus-sticky-inflation mix that keeps the Fed data-dependent and rates elevated.",
-          "sentiment": "Neutral",
-          "impact": "Growth resilience supports rates staying higher but not an immediate hawkish shock",
-          "sources": [
-            "https://www.federalreserve.gov/releases/g17/20261016/",
-            "https://www.reuters.com/business/us-manufacturing-output-rises-september-2026-10-16/",
-            "https://www.cmegroup.com/education/events/econoday/671228"
-          ]
-        },
-        {
-          "title": "Dollar Retreats from 18-Month Highs, Posts Weekly Loss",
-          "summary": "The US dollar index slipped further on Friday toward the low 101s and locked in its first weekly decline in weeks after peaking near 103 on the hot CPI print. Falling Treasury yields, fading October Fed hike bets after Warsh’s remarks, and tech-sector volatility drove the pullback. A softer dollar often lifts Bitcoin and other risk assets, though the move remains tactical while December hike odds stay elevated.",
+          "title": "Dollar Posts First Weekly Loss in Over a Month",
+          "summary": "The US dollar index fell on Friday and locked in its first weekly decline in more than a month, slipping toward the one-oh-one point eight area after peaking near multi-month highs earlier in the week. Fading October Fed hike bets after official comments outweighed the hot inflation data. A softer dollar historically eases financial conditions and tends to lift Bitcoin and other risk assets.",
           "sentiment": "Bullish",
-          "impact": "Weaker DXY typically supportive for crypto and global risk assets short-term",
+          "impact": "Weaker DXY reduces headwind for crypto and equities",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/euro-gets-much-needed-reprieve-ai-wobbles-rock-dollar-2026-10-16/",
-            "https://portfolio-terminal.com/markets/us-dollar-index",
+            "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
+            "https://www.fxstreet.com/news/dollar-index-slips-as-fed-chair-warsh-wont-prejudge-october-202610161624",
             "https://tradingeconomics.com/united-states/currency"
           ]
         },
         {
-          "title": "PPI Jumps Hardest in Years on Energy and Broader Costs",
-          "summary": "September producer prices rose 1.3 percent month-over-month and 6.3 percent year-over-year, the largest monthly gain since early 2022 and biggest annual rise since late 2022, driven by a 10-plus percent energy surge and firmer core components. The print, released Thursday, remained the dominant macro talking point into the weekend as it followed hot CPI. It raises the odds that underlying inflation stays sticky into the next FOMC and PCE release, a clear headwind for aggressive risk-on positioning.",
-          "sentiment": "Bearish",
-          "impact": "Keeps December rate-hike probability elevated and caps upside for equities and crypto",
+          "title": "10-Year Yields See Biggest Weekly Drop in Over a Year",
+          "summary": "US ten-year Treasury yields swung wildly this week but closed on track for their largest weekly decline in more than a year, settling near five point zero nine percent after touching multi-decade highs above five point three earlier. The move came as markets dialed back near-term Fed hike expectations despite sticky inflation. Falling yields lower the discount rate on risk assets and are typically supportive for Bitcoin in the short run.",
+          "sentiment": "Bullish",
+          "impact": "Lower long yields ease pressure on valuations and risk assets",
           "sources": [
-            "https://www.bls.gov/news.release/ppi.nr0.htm",
-            "https://www.reuters.com/business/us-producer-prices-post-largest-increase-4-12-years-september-2026-10-15/",
-            "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+            "https://economictimes.indiatimes.com/news/international/us/us-bond-10-year-yields-suffer-biggest-weekly-drop-in-over-year-why-is-treasury-note-down/articleshow/135005333.cms",
+            "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms"
           ]
         },
         {
-          "title": "Retail Sales Solid but Gas-Driven; Consumer Still Spending",
-          "summary": "September retail sales rose 0.8 percent, beating the roughly 0.4 percent consensus, though much of the gain came from a big jump in gasoline station receipts. Ex-gas and autos the picture was softer, yet overall spending remains resilient enough to support solid third-quarter growth tracking. Combined with strong industrial output it shows the economy can handle higher rates for now, which is why the Fed still leans toward another hike later this year rather than easing.",
+          "title": "Fed Enters Blackout; December Hike Still Near 90%",
+          "summary": "With the FOMC blackout now in effect from Saturday through the October twenty-eight decision, no Fed officials will speak on policy. Markets price roughly eighty-four percent odds of a hold this month but still see nearly ninety percent chance of a hike in December. Traders must now rely purely on incoming data, keeping volatility elevated around any surprises before the meeting.",
           "sentiment": "Neutral",
-          "impact": "Supports higher-for-longer rates narrative without forcing an October move",
+          "impact": "Data-dependent path keeps macro uncertainty high into FOMC",
           "sources": [
-            "https://www.census.gov/retail/sales.html",
-            "https://www.wsj.com/economy/u-s-retail-sales-expanded-in-september-f1d83384",
-            "https://economics.td.com/us-retail-sales"
+            "https://www.fxstreet.com/news/dollar-index-slips-as-fed-chair-warsh-wont-prejudge-october-202610161624",
+            "https://www.yxinsights.com/p/fed-blackout-period",
+            "https://economictimes.indiatimes.com/news/international/us/us-bond-10-year-yields-suffer-biggest-weekly-drop-in-over-year-why-is-treasury-note-down/articleshow/135005333.cms"
+          ]
+        },
+        {
+          "title": "Industrial Output Jumps 0.7%; Import Prices Surge 8.1% YoY",
+          "summary": "Friday's data showed US industrial production rose zero point seven percent in September, beating forecasts, while manufacturing edged up and semiconductors surged. Separately, import prices jumped one point one percent on the month and eight point one percent year-over-year, the biggest annual gain since twenty twenty-two. Strong activity and imported inflation keep the higher-for-longer narrative alive even as the Fed looks patient for October.",
+          "sentiment": "Neutral",
+          "impact": "Mixed growth-inflation signal leaves rate path unresolved",
+          "sources": [
+            "https://www.reuters.com/business/us-manufacturing-output-rises-september-2026-10-16/",
+            "https://www.bls.gov/news.release/ximpim.nr0.htm",
+            "https://stockanalysis.com/news/industrial-production-september/"
+          ]
+        },
+        {
+          "title": "Hot CPI and PPI Still Echo; Energy Drives Sticky Inflation",
+          "summary": "This week's hotter-than-expected September CPI and especially PPI, which rose one point three percent month-over-month and six point three percent year-over-year on energy, continue to dominate weekend discussion. Core measures also firmed, showing pressure broadening beyond fuel. While the Fed appears willing to wait for October, the data keeps December hike odds elevated and reminds markets inflation has not been fully tamed.",
+          "sentiment": "Bearish",
+          "impact": "Persistent inflation supports higher terminal rates longer-term",
+          "sources": [
+            "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+            "https://www.reuters.com/business/us-producer-prices-post-largest-increase-4-12-years-september-2026-10-15/",
+            "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms"
           ]
         }
       ]
@@ -156,69 +154,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Trump Waives Key Russia Sanctions and Tariffs",
-          "summary": "President Trump issued an executive order late Friday waiving major new sanctions and up to 100 percent tariffs under the Lindsey Graham Act just before they took effect. The move targets measures that would have hit Russian goods and the top buyers of Russian oil and gas, including India and China. It comes amid his diesel deal with Putin and a deepening feud with Zelensky. Traders should watch this because it signals a US pivot that could ease some energy pressure but raise geopolitical uncertainty and strain with Europe and Ukraine ahead of midterms.",
+          "title": "Trump Waives Sweeping New Russia Sanctions and Tariffs",
+          "summary": "President Trump signed an executive order late Friday waiving key provisions of the Lindsey Graham Act just before they were due to bite, including up to 100 percent tariffs on top buyers of Russian oil and sanctions on Moscow's energy and shadow fleet. The move follows his diesel deal with Putin and aims to ease soaring US fuel prices ahead of the midterms, but Zelensky called it wrong and said it only emboldens Russia. Traders should watch this closely because it could unlock more Russian supply and ease diesel tightness, yet it deepens the US-Ukraine rift and risks longer war uncertainty.",
           "sentiment": "Neutral",
-          "impact": "Mixed energy relief vs higher policy risk premium",
+          "impact": "Potential short-term energy price relief vs. higher geopolitical risk premium",
           "sources": [
             "https://www.reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17/",
-            "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
-            "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk"
+            "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+            "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html"
           ]
         },
         {
-          "title": "Brent Crude Hits $110 on Supply Fears",
-          "summary": "Brent crude touched 110 dollars a barrel Friday for the first time since May and settled near that level as Middle East fighting and Russia-Ukraine energy strikes tightened supply worries. Houthi threats to Saudi export routes and ongoing Hormuz risks added fuel. High oil feeds inflation fears and can pressure risk assets including crypto when it drives rate or recession concerns. Traders need to track whether this holds into the weekend as diesel and refined products stay elevated.",
+          "title": "Saudi Helicopter Crash Kills Pilots Amid Houthi Escalation",
+          "summary": "A Saudi National Guard reconnaissance helicopter crashed in Najran near the Yemen border on Sunday, killing two officers. The coalition blamed a technical fault while Houthis claimed they shot it down and released video; it marks the first Saudi military fatalities since the conflict reignited. Egypt pledged full support to Riyadh as attacks continue and a major Riyadh skyscraper shifted to remote work. This keeps Middle East risk elevated and supports high oil prices that pressure risk assets and inflation.",
           "sentiment": "Bearish",
-          "impact": "Higher energy costs, risk-off pressure on equities and crypto",
+          "impact": "Sustains oil risk premium and regional escalation fears",
           "sources": [
-            "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/",
-            "https://www.benzinga.com/markets/macro-economic-events/26/10/62427044/brent-crude-hits-110-global-oil-supply-disruptions",
-            "https://www.brecorder.com/news/40444629"
+            "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-helicopter-crash-najran-kills-two-crew-members-2026-10-18/",
+            "https://www.channelnewsasia.com/world/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen-6469396",
+            "https://www.ft.com/stream/1ce14256-65c6-3261-a16d-a45c974f1017"
           ]
         },
         {
-          "title": "Supertanker Ablaze After Mine in Strait of Hormuz",
-          "summary": "Iran's Revolutionary Guards said Saturday a supertanker carrying more than two million barrels of crude hit a naval mine and caught fire while trying an unauthorized transit of the Strait of Hormuz. Tehran claims control of the chokepoint and has been targeting or mining vessels that ignore its rules. This keeps a key oil artery under threat and reinforces the risk premium already priced into crude. Crypto traders should care because sustained Hormuz disruption is classic black-swan fuel for broader risk-off moves.",
+          "title": "Hormuz Ship Attacks Hit Records as Oil Stays Elevated",
+          "summary": "Attacks on commercial vessels in and around the Strait of Hormuz reached recent weekly highs, with Iran stepping up efforts to reassert control after earlier US-facilitated oil flows recovered somewhat. Flows remain well below pre-war levels and Brent has held near or above 107 to 110 dollars. The US-Iran war spillover plus Houthi actions keep the key chokepoint restricted. Crypto traders care because sustained high energy prices feed inflation fears and risk-off flows out of Bitcoin and equities.",
           "sentiment": "Bearish",
-          "impact": "Elevates oil spike and shipping insurance costs",
+          "impact": "Keeps oil elevated and global risk appetite suppressed",
           "sources": [
-            "https://www.newarab.com/news/irgc-say-tanker-fire-after-hitting-mine-strait-hormuz",
-            "https://english.alarabiya.net/News/middle-east/2026/10/17/tanker-explodes-after-hitting-mine-in-strait-of-hormuz-iran-s-irgc",
-            "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"
+            "https://www.cnn.com/2026/10/17/economy/us-iran-war-shipping-trade-hormuz-bab-el-mandab-strait-intl-vis",
+            "https://www.bbc.com/news/articles/cmde8dpg8g0no",
+            "https://strategicenergymap.org/chokepoints/strait-of-hormuz/"
           ]
         },
         {
-          "title": "Houthis Hit Aden Airport; Missile Aimed at Yanbu",
-          "summary": "Missiles struck Aden International Airport in Yemen on Friday in a second recent attack, while the Saudi-led coalition intercepted a ballistic missile headed for the Red Sea oil hub of Yanbu plus other drones and cruise missiles. The Houthis earlier hit the presidential palace in Aden. Yanbu matters because it lets Saudi oil bypass Hormuz. Escalation here directly threatens Gulf energy exports and keeps the Iran-linked regional war hot for markets.",
+          "title": "Russia Hits Ukrainian Energy 76 Times Since Trump Ceasefire Claim",
+          "summary": "Zelensky reported that Russia has struck Ukraine's energy, oil and gas sectors 76 times since Trump announced an energy ceasefire a week ago, with fresh overnight attacks causing blackouts and casualties. Ukraine has resumed its own strikes on Russian refineries after briefly pausing. The deepening Trump-Zelensky clash and sanctions waiver add uncertainty. This prolongs global refining and diesel tightness that has already pushed prices higher and keeps volatility in energy and risk markets.",
           "sentiment": "Bearish",
-          "impact": "Threatens Saudi export routes and adds oil risk premium",
+          "impact": "Extends energy supply disruptions and war risk premium",
           "sources": [
-            "https://www.reuters.com/world/middle-east/missiles-hit-aden-airport-saudi-led-coalition-intercepts-missile-headed-yanbu-2026-10-16/",
-            "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means",
-            "https://www.scmp.com/topics/war-and-conflict"
+            "https://x.com/ZelenskyyUa/status/2111728654757544445",
+            "https://www.scmp.com/news/world/russia-central-asia/article/3371280/us-russia-deal-trump-zelensky-clash-could-leave-ukraine-out-cold",
+            "https://www.reuters.com/world/europe/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-take-effect-2026-10-17/"
           ]
         },
         {
-          "title": "Ukraine Resumes Russian Refinery Strikes, Defies Trump",
-          "summary": "Ukraine hit a major Rosneft refinery in Ryazan after Zelensky declared Kyiv was done with Trump's unilateral energy ceasefire, saying Russia kept pounding Ukrainian power infrastructure. Trump called the resumed strikes a disgrace and has criticized Zelensky while pursuing a Russian diesel deal. The collapse of the short pause keeps Russian refining capacity under pressure and global diesel tight. This feud raises questions about future US support and keeps energy markets volatile.",
-          "sentiment": "Bearish",
-          "impact": "Sustains diesel shortage and US-Ukraine alliance strain",
-          "sources": [
-            "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/",
-            "https://www.reuters.com/business/energy/russia-talks-up-refinery-attack-trump-blames-ukraine-expensive-fuel-2026-10-16/",
-            "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
-          ]
-        },
-        {
-          "title": "Trump-Zelensky Rift Deepens Over Diesel and War",
-          "summary": "As sanctions waivers and the Russian diesel arrangement advance, Trump has publicly rebuked Zelensky, portrayed him as harder to deal with than Putin, and suggested Ukraine needs new leadership. Zelensky has hit back, calling Russian peace moves a parody and seeking stronger European backing in Brussels. Russian strikes continue to cut power to large parts of Ukraine. For traders this signals fraying Western unity that can prolong the war and keep safe-haven and energy volatility elevated.",
+          "title": "Israeli Settlers Attack European Diplomats in West Bank",
+          "summary": "Masked Israeli settlers assaulted a group of European diplomats, including Belgium's consul general, French and Polish officials, and a French mayor visiting Taybeh during the olive harvest on Saturday. Vehicles were damaged and Belgium vowed to push for EU sanctions. Israel condemned the violence and opened an investigation while Netanyahu questioned the evidence. The incident raises diplomatic tensions and the chance of fresh European measures against settlers just as regional wars already dominate headlines.",
           "sentiment": "Neutral",
-          "impact": "Heightens policy uncertainty without immediate clear directional catalyst",
+          "impact": "Diplomatic friction and possible limited EU sanctions risk",
           "sources": [
-            "https://www.scmp.com/topics/war-and-conflict",
-            "https://www.devdiscourse.com/article/international/3993911-reuters-world-news-summary",
-            "https://www.bbc.com/news/articles/cxr5yvzv7rp0o"
+            "https://www.reuters.com/world/middle-east/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says-2026-10-17/",
+            "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+            "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
+          ]
+        },
+        {
+          "title": "Egypt Pledges Support to Saudi as Yemen Conflict Widens",
+          "summary": "Egyptian President Sisi said Cairo will provide all necessary support to defend Saudi Arabia amid intensifying Houthi attacks that have already hit Riyadh airport and energy sites. This comes as the Yemen front becomes another theater linked to the broader US-Iran war. The pledge signals potential wider Arab involvement. For markets it reinforces the Middle East escalation narrative that has kept oil elevated and risk assets under pressure.",
+          "sentiment": "Bearish",
+          "impact": "Signals broader regionalization of conflict and oil risk",
+          "sources": [
+            "https://www.dawn.com/news/2038013",
+            "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17",
+            "https://www.al-monitor.com/originals/2026/10/saudi-landmark-closes-offices-chopper-pilots-killed-near-yemen"
           ]
         }
       ]
