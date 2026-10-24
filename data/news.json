@@ -1,83 +1,82 @@
 {
-  "generated_at": "2026-10-23T12:05:02+00:00",
+  "generated_at": "2026-10-24T12:04:15+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is holding near eighty-one point five thousand after the recent tech rout, with no clear break yet. Softer yields and a weaker dollar are supportive, but heavy ETF outflows and rising Middle East tensions are capping upside. Focus now turns to today's PMIs and next week's FOMC for the next catalyst.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Bitcoin is under clear near-term pressure from large ETF outflows, heavy exchange inflows, and long liquidations, pointing to distribution rather than a finished washout. Sticky inflation, hotter prices, and rising oil add macro headwinds ahead of a likely FOMC hold, while Middle East and Iran risks keep risk appetite capped. Structural ETF progress is a longer-term positive but does not offset today’s defensive flow and macro tone for crypto.",
   "key_points": [
-    "BTC holds 81.5k after rout and liquidations",
-    "Yields plunge and DXY softens, risk-on tilt",
-    "Switzerland approves first retail spot Bitcoin ETF",
-    "Bitcoin ETFs see large outflows, October negative",
-    "Middle East risks rise on Iran and Houthi strikes"
+    "Large BTC ETF outflows and exchange inflows",
+    "Long liquidations as Bitcoin slips under 81K",
+    "Sticky inflation and oil surge before FOMC",
+    "Elevated Iran and Middle East geopolitical risk",
+    "Franklin Templeton stock-Bitcoin ETF clearance"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs bleed $635M, October turns negative",
-          "summary": "US spot Bitcoin ETFs saw about 635 million dollars in net outflows on Thursday, the biggest single-day exit since late June. That snapped a three-day inflow streak of over a billion dollars and pushed October’s net flows back into the red by roughly 175 million. Traders should care because ETF flows have been a key demand signal; heavy redemptions, led by BlackRock’s IBIT and Fidelity, remove a cushion just as Bitcoin sits near key levels ahead of the Fed.",
+          "title": "Bitcoin ETFs Post $636M Outflow, Largest Since June",
+          "summary": "U.S. spot Bitcoin ETFs recorded about six hundred thirty-five to six hundred thirty-six million dollars in net outflows on Thursday, the biggest single day since June. BlackRock's IBIT and Fidelity's FBTC led the redemptions, wiping out most of a recent three-day inflow streak and pushing October flows back into the red. Bitcoin slipped toward the eighty to eighty-one thousand dollar zone as the selling hit. Traders should watch whether outflows continue into the Fed meeting next week, because sustained institutional exits remove a key bid.",
           "sentiment": "Bearish",
-          "impact": "Weaker institutional bid and near-term selling pressure on BTC",
+          "impact": "Adds near-term selling pressure and weakens the institutional demand narrative",
           "sources": [
-            "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow",
-            "https://crypto.news/why-is-bitcoin-price-down-today-etf-outflows/",
-            "https://www.tftc.io/bitcoin-etf-flows/october-2026"
+            "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+            "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+            "https://blog.blocksignal.org/daily-crypto-briefing-2026-10-24/"
           ]
         },
         {
-          "title": "BTC holds near 81.5k after tech rout and liquidations",
-          "summary": "Bitcoin dipped toward 81,000 dollars Thursday as the Nasdaq plunged 2.6 percent on AI spending worries and oil climbed on Middle East tensions, then steadied near 81,500 to 81,700 on Friday. Crypto liquidations ran several hundred million dollars, mostly long positions. Traders care because BTC is testing the estimated cost basis of US spot ETF holders and the 50-day average right before next week’s FOMC; a hold keeps the range intact, a break opens lower supports.",
-          "sentiment": "Neutral",
-          "impact": "Range-bound chop until Fed or clear break of 80-82k zone",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-            "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-82k-tech-074457471.html"
-          ]
-        },
-        {
-          "title": "HSBC launches RedCoin stablecoin to 3 million users",
-          "summary": "HSBC went live today with its first stablecoin, RedCoin, a Hong Kong dollar token available on the PayMe app used by more than 3.3 million people. Users can soon send it peer-to-peer and pay merchants, with plans later this year to buy tokenized investments. This matters because a major global bank is putting regulated stablecoin rails into everyday consumer payments, reinforcing institutional infrastructure beyond pure speculation.",
-          "sentiment": "Bullish",
-          "impact": "Positive for crypto adoption and stablecoin utility narrative",
-          "sources": [
-            "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-            "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-            "https://www.about.hsbc.com.hk/news-and-media/hsbc-redcoin-launches-today"
-          ]
-        },
-        {
-          "title": "Switzerland approves first retail spot Bitcoin ETF",
-          "summary": "Swiss regulator FINMA has cleared the country’s first spot Bitcoin ETF open to retail investors. BIT Asset Management’s BBIT fund is expected to start trading on the SIX Swiss Exchange in November and is currently Europe’s only true spot Bitcoin ETF structure. Traders should note the legitimacy boost and potential new European demand channel, even if initial volumes are modest compared with US products.",
-          "sentiment": "Bullish",
-          "impact": "Incremental positive regulatory and access catalyst for BTC",
-          "sources": [
-            "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-            "https://www.prnewswire.com/news-releases/bit-asset-management-receives-finma-approval-for-switzerlands-first-and-europes-only-spot-bitcoin-etf-302916555.html",
-            "https://www.finma.ch/news/2026/10/20261020-mm-finma-bitcoin-etf/"
-          ]
-        },
-        {
-          "title": "Ireland fines Coinbase 3.25 million euros on safeguards",
-          "summary": "The Central Bank of Ireland fined Coinbase’s Irish e-money unit 3.25 million euros for failures in safeguarding customer funds and outsourcing oversight between 2020 and 2025. The firm admitted shortfalls in the designated account and heavy reliance on its US parent; no customers lost money and issues are said to be fixed. It is the second Irish hit on a Coinbase entity in a year, so traders watch for any broader European compliance overhang on the exchange.",
-          "sentiment": "Neutral",
-          "impact": "Limited direct BTC price effect; mild negative for Coinbase sentiment",
-          "sources": [
-            "https://www.reuters.com/legal/government/irish-central-bank-fines-coinbase-unit-325-million-2026-10-22/",
-            "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
-            "https://www.centralbank.ie/news/article/press-release-central-bank-takes-enforcement-action-against-coinbase-ireland-22-october-2026"
-          ]
-        },
-        {
-          "title": "Ethereum delays Glamsterdam testnet over security risks",
-          "summary": "Ethereum developers postponed the Glamsterdam upgrade activation on the Hoodi testnet that had been set for October 26 after security researchers flagged gas-rule changes that could affect existing smart contracts. ChainSecurity cited multiple real-world examples; no new date is set and mainnet users are unaffected for now. This delays a capacity and efficiency upgrade that had been eyed for late 2026, so ETH traders face extended uncertainty on the roadmap.",
+          "title": "Bitcoin Slips Under $81K With Heavy Long Liquidations",
+          "summary": "Bitcoin traded down around the eighty to eighty-one thousand five hundred dollar area, testing key support and printing a daily close below its fifty-day moving average for the first time in months. CoinGlass and other trackers showed three hundred to five hundred million dollars in liquidations over twenty-four hour windows, with longs making up the vast majority. The move came alongside a Nasdaq sell-off, elevated oil prices, and caution ahead of the Fed decision. For traders this is a risk-off tape that can cascade if eighty thousand fails to hold.",
           "sentiment": "Bearish",
-          "impact": "Short-term negative for ETH sentiment and upgrade timeline",
+          "impact": "Heightens downside volatility risk if support breaks",
           "sources": [
-            "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-            "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-            "https://coincentral.com/ethereum-delays-glamsterdam-hoodi-testnet-upgrade-over-security-risks/"
+            "https://blog.blocksignal.org/daily-crypto-briefing-2026-10-24/",
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-83/",
+            "https://cryptoticker.io/en/bitcoin-news/"
+          ]
+        },
+        {
+          "title": "Record $2.6B Bitcoin Inflow to Exchanges Since April",
+          "summary": "On-chain data showed roughly thirty-two thousand three hundred eighty Bitcoin, worth about two point six billion dollars, flowing into exchanges in a single day. That marks the largest such inflow since April. Large exchange deposits often precede selling, though they do not guarantee immediate dumps. Traders watching order books and spot selling should treat this as elevated supply risk while price sits near support.",
+          "sentiment": "Bearish",
+          "impact": "Raises potential near-term sell-side pressure on Bitcoin",
+          "sources": [
+            "https://www.kucoin.com/news/flash/approximately-2-6-billion-btc-flows-into-exchanges-in-single-day-largest-since-april",
+            "https://www.techflowpost.com/en-US/newsletter/141206"
+          ]
+        },
+        {
+          "title": "Arthur Hayes Closes Maelstrom Book, Sells $22M Tokens",
+          "summary": "BitMEX co-founder Arthur Hayes said he dumped Maelstrom's entire directional trading book, taking profits on Ethereum, Ethena, Uniswap and other tokens totaling around twenty-two million dollars. On-chain trackers confirmed large transfers including thousands of ETH. He cited dicey macro and geopolitical conditions and said he will sit on the sidelines waiting for an all-clear. This is a high-profile risk-off signal from a closely followed trader that can weigh on sentiment, especially for ETH and alts.",
+          "sentiment": "Bearish",
+          "impact": "Negative sentiment hit for ETH and broader risk appetite",
+          "sources": [
+            "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
+            "https://coincentral.com/arthur-hayes-dumps-22m-in-ethereum-ethena-and-uniswap-says-he-is-waiting-for-the-all-clear/",
+            "https://crypto.news/arthur-hayes-maelstrom-eth-defi-token-sales/"
+          ]
+        },
+        {
+          "title": "Franklin Templeton Clears Nasdaq for Stock-Bitcoin ETFs",
+          "summary": "Franklin Templeton completed Form 8-A registration for two new Nasdaq-listed ETFs that start with roughly ninety-five percent U.S. stocks and five percent Bitcoin exposure. Dividends from the equity sleeve get reinvested into Bitcoin via a DRIP-style mechanism, with tickers FBEQ and FIBT and expected trading around October twenty-seven. Fees are low at zero point zero nine and zero point one nine percent. This expands mainstream product access and creates a structural drip of equity dividends into Bitcoin demand over time.",
+          "sentiment": "Bullish",
+          "impact": "Positive longer-term structural demand and product innovation signal",
+          "sources": [
+            "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+            "https://www.thecoinrepublic.com/2026/10/24/franklin-templeton-wins-nasdaq-nod-for-two-new-bitcoin-etfs/",
+            "https://cryptobriefing.com/franklin-templeton-stock-bitcoin-etfs/"
+          ]
+        },
+        {
+          "title": "BlackRock ETF Wallets Move $356M BTC and ETH to Coinbase",
+          "summary": "Wallets linked to BlackRock ETFs transferred about three thousand two hundred fifteen Bitcoin worth two hundred sixty-two million dollars plus nearly thirty-nine thousand Ether worth ninety-three million to Coinbase Prime in a short window. The moves align with the prior day's heavy ETF outflows and are widely read as redemption settlement rather than discretionary dumping. Still, large visible transfers to an exchange desk keep traders on alert for related selling. Watch actual ETF flow prints more than the wallet headlines for the real signal.",
+          "sentiment": "Neutral",
+          "impact": "Operational echo of redemptions; limited fresh directional catalyst",
+          "sources": [
+            "https://www.tokenpost.com/news/investing/39570",
+            "https://www.ainvest.com/news/blackrock-355m-coinbase-prime-transfer-read-flow-report-wallet-headline-2610/",
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-83/"
           ]
         }
       ]
@@ -86,68 +85,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US 10-Year Yields Plunge Nearly 19bps to Below 5%",
-          "summary": "Treasury yields saw their biggest one-day drop since the 2023 banking crisis, with the 10-year falling about 17 to 19 basis points to around 4.95 or 4.96 percent. The move came as tech stocks sold off hard on AI funding and capex worries, sending investors scrambling into the safety of bonds. This eased some December Fed hike pricing and pulled the dollar lower. Crypto traders should care because lower yields reduce the opportunity cost of holding non-yielding assets like Bitcoin and often support risk appetite after a washout.",
-          "sentiment": "Bullish",
-          "impact": "Supports risk assets and BTC via easier financial conditions",
+          "title": "Oil Surges to Multi-Month Highs on Middle East Risks",
+          "summary": "Brent crude settled around one hundred sixteen dollars seventy-two cents and WTI above one hundred three dollars on Friday, the highest closes in months, after Houthi attacks on Saudi sites and rising US-Iran tensions. This energy shock is already feeding into higher gasoline prices and inflation expectations. Crypto traders should watch closely because sticky energy inflation raises the odds the Fed stays higher for longer, pressuring risk assets including Bitcoin.",
+          "sentiment": "Bearish",
+          "impact": "Supports higher rates and weighs on risk appetite",
           "sources": [
-            "https://www.morningstar.com/news/marketwatch/20261022537/treasury-yields-log-biggest-drop-since-the-2023-banking-crisis-heres-whats-going-on",
+            "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+            "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-23/",
+            "https://financefeeds.com/brent-crude-oil-price-116-72-saturday-week-ahead-houthi-saudi-fed-28-october-bull-120-bear-108/"
+          ]
+        },
+        {
+          "title": "US Flash PMI Shows Strong Growth but Hottest Prices in Years",
+          "summary": "October flash composite PMI came in at fifty-seven point six, still signaling robust expansion near multi-year highs, with manufacturing at fifty-six and services near fifty-eight. Hiring accelerated but selling prices rose at the sharpest pace since twenty twenty-two. This combination of solid activity and reaccelerating price pressures gives the Fed little room to ease and keeps December hike odds alive heading into next week's meeting.",
+          "sentiment": "Bearish",
+          "impact": "Reinforces higher-for-longer rate path",
+          "sources": [
+            "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/us-flash-pmi-signals-sustained-strong-growth-but-also-further-inflation-uplift-in-october",
+            "https://pro.thestreet.com/market-commentary/flash-pmi-holds-near-5-year-high-but-prices-jump-the-most-since-2022",
+            "https://www.mnimarkets.com/articles/mni-us-oct-flash-manuf-pmi-560-555-exp-559-sep-1792763115598"
+          ]
+        },
+        {
+          "title": "Treasury Yields Plunge Then Stabilize Near Five Percent",
+          "summary": "The ten-year yield crashed nearly nineteen basis points on Thursday in its biggest drop since the twenty twenty-three banking scare on AI funding fears and risk-off flows, then edged back toward five percent on Friday. Two-year yields also fell sharply before rebounding. Markets have essentially priced out an October Fed hike while still seeing solid chances of a December move, leaving bonds sensitive to any oil or inflation surprises.",
+          "sentiment": "Neutral",
+          "impact": "Lower yields temporarily support risk assets but volatility high",
+          "sources": [
+            "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
             "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
-            "https://monexglobal.com/insights/the-dollar-eases-despite-a-risk-off-tone"
+            "https://m.economictimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms"
           ]
         },
         {
-          "title": "Jobless Claims Fall to 194k Near Multi-Decade Lows",
-          "summary": "Initial unemployment claims dropped to 194,000 last week, beating the 200,000 forecast and sitting near the lowest levels since the late 1960s. Continuing claims rose modestly to 1.728 million. This points to a still-tight labor market with very low layoffs even after soft September payrolls. Traders need to watch it because a resilient jobs market keeps the Fed on a hawkish bias and supports the case for holding or hiking rates, which can pressure risk assets if it hardens the higher-for-longer narrative.",
+          "title": "Consumer Sentiment Near Record Lows, Inflation Expectations Rise",
+          "summary": "University of Michigan final October sentiment held at forty-eight, the second-lowest reading on record and only slightly above May's trough, though better than the preliminary print. One-year inflation expectations ticked up to four point seven percent and longer-term views also rose. Weak confidence amid higher energy costs could eventually slow spending, but elevated inflation expectations keep the Fed on guard.",
+          "sentiment": "Bearish",
+          "impact": "Soft demand signal offset by sticky inflation views",
+          "sources": [
+            "https://www.reuters.com/business/us-consumer-sentiment-near-record-low-ahead-midterm-elections-2026-10-23/",
+            "https://www.sca.isr.umich.edu/",
+            "https://pro.thestreet.com/market-commentary/consumer-sentiment-revised-up-but-still-second-worst-ever-as-inflation-fears-climb"
+          ]
+        },
+        {
+          "title": "Jobless Claims Stay Extremely Low at 194,000",
+          "summary": "Initial jobless claims fell six thousand to one hundred ninety-four thousand for the week ending October seventeenth, beating expectations and keeping the four-week average near one hundred ninety-eight thousand. The labor market remains in a low-hire low-fire mode with no sign of cracking. Resilient claims data support the case for solid growth but also reduce any urgency for the Fed to cut or pause aggressively.",
           "sentiment": "Neutral",
-          "impact": "Reinforces strong economy but hawkish Fed lean",
+          "impact": "Confirms labor resilience, little pressure for easing",
           "sources": [
-            "https://www.reuters.com/business/us-weekly-jobless-claims-near-57-year-lows-2026-10-22/",
-            "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-            "https://macrobullseye.com/news/jobless-claims-week-ending-2026-10-17/"
+            "https://www.cmegroup.com/education/events/econoday/672532",
+            "https://m.economictimes.com/news/international/us/us-bond-market-down-why-are-10-year-30-year-2-year-treasury-yield-notes-are-falling-check-latest-predictions/articleshow/135129800.cms",
+            "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-23/recent.htm"
           ]
         },
         {
-          "title": "DXY Softens Toward 101.6-101.7 as Yields Retreat",
-          "summary": "The US dollar index slipped to its weakest levels this month near 101.65 as Treasury yields collapsed and safe-haven flows favored the yen and Swiss franc. Markets remain cautious ahead of next week's FOMC with the Fed in blackout. A softer dollar is typically a tailwind for Bitcoin and other crypto by making dollar-denominated assets cheaper for foreign buyers and easing global liquidity conditions.",
-          "sentiment": "Bullish",
-          "impact": "Weaker USD supportive for crypto prices",
-          "sources": [
-            "https://monexglobal.com/insights/the-dollar-eases-despite-a-risk-off-tone",
-            "https://www.fxstreet.com/news/us-dollar-index-hovers-around-10170-as-sliding-us-bond-yields-counters-fed-hike-bets-202610220234",
-            "https://tradingeconomics.com/dxy:cur"
-          ]
-        },
-        {
-          "title": "FOMC Next Week: Hold Widely Expected, December Hike Priced",
-          "summary": "Nearly all economists polled expect the Fed to keep the funds rate at 3.75 to 4.00 percent at the October 27-28 meeting, with a December hike now the base case for most. Officials are in blackout and recent hot inflation plus strong growth keep the door open for more tightening later. Crypto traders should care because the statement and press conference will set the tone for rates into year-end, directly affecting liquidity and risk appetite.",
+          "title": "FOMC Next Week Expected to Hold Rates Amid Sticky Inflation",
+          "summary": "The Fed meets October twenty-seven and twenty-eight with markets pricing roughly a ninety percent chance of no change to the three point seven five to four percent range. Focus will be on Chair Warsh's press conference for clues on December and the reaction to oil-driven inflation. No new projections are due, so language on energy prices and the path of rates will move yields, the dollar, and crypto.",
           "sentiment": "Neutral",
-          "impact": "Event risk; hold removes near-term hike fear but path remains hawkish",
+          "impact": "Hold base case; guidance is the real catalyst",
           "sources": [
-            "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/",
-            "https://www.yxinsights.com/p/fomc-october-2026",
-            "https://fedgazette.com/economic-calendar/"
-          ]
-        },
-        {
-          "title": "Flash PMIs and Final Michigan Sentiment Due Today",
-          "summary": "S&P Global flash manufacturing, services and composite PMIs for October are due around 9:45 AM ET, expected to ease modestly from September's multi-year highs but stay firmly expansionary. Final University of Michigan consumer sentiment is set for 10 AM ET, expected around the preliminary 46.3 which marked a multi-month low with elevated inflation expectations. These give the freshest read on growth momentum and household confidence right before the FOMC. Strong prints could firm the dollar and yields while soft ones ease financial conditions further.",
-          "sentiment": "Neutral",
-          "impact": "Data will swing near-term rate expectations and USD",
-          "sources": [
-            "https://www.thetrading.tools/economic-calendar",
-            "https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-moderating-business-activity-in-october-202610231007",
-            "https://tradingeconomics.com/united-states/consumer-confidence"
-          ]
-        },
-        {
-          "title": "Eurozone PMIs Mixed as German Growth Softens, France Contracts",
-          "summary": "German flash composite PMI fell to 52.8 from 53.8 while manufacturing held strong at 54.2; French readings slipped into contraction territory. UK composite and services beat expectations at 53.1. These paint a picture of uneven European recovery amid fiscal and political strains, with French yields hitting multi-decade highs. Global traders watch because weaker euro-area data can pressure the euro, support the dollar relatively, and influence cross-asset risk sentiment that spills into crypto.",
-          "sentiment": "Neutral",
-          "impact": "Mixed global growth signal; limited direct BTC catalyst",
-          "sources": [
-            "https://www.reuters.com/world/europe/german-business-activity-growth-softens-october-pmi-shows-2026-10-23/",
-            "https://www.newsquawk.com/headlines/uk-sp-global-manufacturing-pmi-flash-oct-528-vs-exp-517-prev-519"
+            "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+            "https://thedailyeconomy.org/article/the-fed-may-pause-but-inflation-wont/",
+            "https://www.yxinsights.com/p/fomc-october-2026"
           ]
         }
       ]
@@ -156,69 +156,68 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Iran Claims Seven Oil Tankers Hit in Hormuz",
-          "summary": "Iran's Revolutionary Guard says four tankers were set ablaze during oil transfers and three more struck mines in the Strait of Hormuz overnight. Tehran threatens wider attacks on US bases if Washington keeps escorting ships. Oil prices climbed on the news as October already logs the highest shipping attacks since the war began. Traders should watch this closely because any real choke on Gulf crude would spike energy costs and hit risk assets hard.",
+          "title": "US Intel: Iran Advanced Plots to Kill Americans; Trump Teases Strikes",
+          "summary": "A US intelligence memo to Secretary Rubio warns that Iranian lethal plots against American personnel have reached advanced stages in the Middle East and elsewhere, prompting embassy staff reductions and heightened alerts. President Trump separately said the US may launch another little Epic Fury operation against Iran if no deal is reached, with officials noting post-midterm strike plans. Traders should watch this closely because any renewed kinetic action risks a sharp oil spike and broad risk-off move that hits Bitcoin and equities hard.",
           "sentiment": "Bearish",
-          "impact": "Higher oil prices and elevated geopolitical risk premium",
+          "impact": "Heightened Middle East escalation premium lifts oil and pressures risk assets",
           "sources": [
-            "https://www.chicagotribune.com/2026/10/22/iran-oil-tankers-attacked/",
-            "https://www.post-gazette.com/news/world/2026/10/22/iran-update-today-latest-october-22-2026/stories/202610220042",
-            "https://news.usni.org/2026/10/22/october-marks-highest-number-of-strait-of-hormuz-attacks"
+            "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
+            "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+            "https://www.jpost.com/international/article-912674"
           ]
         },
         {
-          "title": "US and Israel Plan Post-Midterm Strikes on Iran",
-          "summary": "The New York Times and other outlets report US and Israeli militaries have drawn up detailed plans for a short, intense round of strikes on Iran after the November 3 midterms. Targets include energy infrastructure, nuclear sites, and missile arsenals, with joint exercises already underway over Iraq. Trump has ruled out any attack before the vote. This keeps escalation risk hanging over markets and could drive oil higher once the election passes.",
-          "sentiment": "Bearish",
-          "impact": "Sustained oil upside and risk-off pressure post-election",
+          "title": "Melania Trump Brokers Localized Oleshky Ceasefire in Ukraine",
+          "summary": "The White House announced that First Lady Melania Trump secured a temporary localized ceasefire between Russia and Ukraine in the occupied city of Oleshky to allow humanitarian aid and civilian evacuations starting late October. Both sides confirmed forces will pause fire around October 27 for the operation. For markets this is a small positive de-escalation signal amid broader peace-talk efforts, though it does not end the wider war or immediately change energy flows.",
+          "sentiment": "Neutral",
+          "impact": "Minor positive for risk sentiment if it builds momentum toward wider talks",
           "sources": [
-            "https://www.timesofisrael.com/us-israel-said-to-draft-plans-for-resumed-strikes-on-iran-after-midterm-elections/",
-            "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
-            "https://english.elpais.com/international/2026-10-22/us-and-israel-develop-plans-to-attack-iran-after-the-midterms.html"
+            "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+            "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
+            "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html"
           ]
         },
         {
-          "title": "Houthis Hit Saudi Airport; US Pulls Diplomats",
-          "summary": "Yemen's Houthis struck King Fahd Airport in Dammam, killing two and injuring eight, after earlier hits on an oil field. The US State Department ordered non-essential embassy staff and families to leave Saudi Arabia amid the surge in attacks. Oil jumped as regional energy infrastructure stays under threat. Crypto traders need to track this because wider Gulf instability feeds directly into higher energy prices and broader risk aversion.",
+          "title": "Netanyahu Orders Full West Bank Lockdown After Hebron Attack",
+          "summary": "After two Israeli soldiers were killed near Hebron, Prime Minister Netanyahu ordered a complete lockdown of the West Bank, house-to-house operations, and demolitions just days before Israeli elections. Israeli forces have already raided multiple towns and detained dozens. This raises short-term regional tension and could spill into broader Middle East risk, keeping oil supported and risk assets cautious ahead of the vote.",
           "sentiment": "Bearish",
-          "impact": "Oil spike and Middle East risk premium rise",
+          "impact": "Adds another layer of Middle East instability supporting energy prices",
           "sources": [
-            "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/",
-            "https://www.bbc.com/news/articles/c6x2vpk93770o",
-            "https://www.cnn.com/2026/10/21/politics/us-orders-departure-embassy-staff-saudi-arabia"
+            "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank",
+            "https://news.un.org/en/story/2026/10/1168660",
+            "https://www.cbc.ca/news/world/israel-west-bank-hebron-attack-9.7392764"
           ]
         },
         {
-          "title": "Putin Agrees to Resume Ukraine Peace Talks",
-          "summary": "After meeting US envoy Steve Witkoff in St. Petersburg, Putin said Russia is ready in principle for trilateral talks with the US and Ukraine around November 10, possibly in Abu Dhabi. Moscow released a long-held American detainee as a goodwill step, though fighting and strikes continue on both sides. Zelenskyy also backed early talks. A credible path to de-escalation would ease European energy and security fears and support risk assets including Bitcoin.",
+          "title": "First Russian Diesel Tanker Heads to US Under Trump-Putin Deal",
+          "summary": "Ship-tracking data shows a tanker loaded with 40,000 tons of Russian ultra-low-sulfur diesel left Primorsk bound for New York, the first such US-bound cargo under the recent Trump-Putin energy arrangement. The Kremlin confirmed the initial shipment with more to follow after Washington eased sanctions. This is a direct attempt to ease US diesel prices before the midterms and could modestly relieve energy cost pressure if volumes scale.",
           "sentiment": "Bullish",
-          "impact": "Potential de-risking of Europe and lower war premium",
+          "impact": "Potential relief for elevated diesel prices supports risk assets and growth",
           "sources": [
-            "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/",
-            "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
-            "https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91"
+            "https://www.reuters.com/business/energy/tanker-carrying-40000-t-russian-diesel-heads-new-york-after-putin-trump-deal-2026-10-23/",
+            "https://www.euronews.com/2026/10/23/first-russian-diesel-shipment-is-heading-to-us-under-trump-putin-deal"
           ]
         },
         {
-          "title": "Netanyahu Orders Full West Bank Lockdown",
-          "summary": "After a shooting near Hebron wounded five Israelis and left two Palestinian suspects dead, Prime Minister Netanyahu ordered a cordon on Hebron and preparation for full closure of the West Bank. The move comes just days before Israel's October 27 election, which is already seen as highly consequential. Heightened West Bank tension adds another layer of Middle East volatility that markets will price into oil and risk sentiment.",
+          "title": "Ukraine Says Starlink Limits Still in Place Despite Trump Claims",
+          "summary": "Ukrainian officials including President Zelenskyy stated that speed restrictions on Starshield and Starlink remain active, hampering drone operations, even after President Trump said Elon Musk had restored access following a call. The throttling has been linked to pressure over Ukrainian strikes on Russian energy infrastructure. Continued limits weaken Ukraine’s battlefield edge and keep the conflict’s energy and geopolitical uncertainty elevated for markets.",
           "sentiment": "Neutral",
-          "impact": "Adds local escalation risk ahead of Israeli election",
+          "impact": "Prolongs Ukraine war friction without immediate directional catalyst",
           "sources": [
-            "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176",
-            "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran",
-            "https://www.jpost.com/israel-news/defense-news/article-912642"
-          ]
-        },
-        {
-          "title": "Trump Says Musk Restored Ukraine Starlink Access",
-          "summary": "President Trump claimed Elon Musk has put Ukraine's military Starshield service back online after reports of speed restrictions that crippled drone operations. The Wall Street Journal said Trump personally called Musk to demand the lift. Ukrainian officials counter that limits largely remain in place. The episode highlights ongoing friction over support for Kyiv and could sway battlefield momentum and related energy market moves.",
-          "sentiment": "Neutral",
-          "impact": "Mixed signals on Ukraine war logistics and US policy",
-          "sources": [
-            "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
             "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
-            "https://www.theguardian.com/world/2026/oct/23/ukraine-war-briefing-uncertainty-over-kyivs-starlink-access-after-trump-claims-musk-restored-service"
+            "https://www.washingtonpost.com/world/2026/10/23/trump-says-starlink-access-restored-ukraine-reports-more-interruptions/",
+            "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193"
+          ]
+        },
+        {
+          "title": "Brazil Heads into Tight Presidential Runoff Sunday",
+          "summary": "Brazilians vote Sunday in a razor-close presidential runoff between incumbent Luiz Inacio Lula da Silva and Flavio Bolsonaro, son of the former president. Polls show the race essentially tied, with implications for Latin America’s largest economy, commodity policy, and relations with the US under Trump. A shift could move agricultural and energy markets and influence broader emerging-market risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Election outcome may drive LatAm FX, equities and commodity volatility",
+          "sources": [
+            "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off",
+            "https://www.pbs.org/newshour/show/brazils-high-stakes-presidential-runoff-could-reshape-countrys-future",
+            "https://www.reuters.com/world/americas/lula-brazils-sovereignty-is-stake-final-election-2026-10-20/"
           ]
         }
       ]
