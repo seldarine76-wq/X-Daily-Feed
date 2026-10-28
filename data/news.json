@@ -1,81 +1,82 @@
 {
-  "generated_at": "2026-10-27T12:04:35+00:00",
+  "generated_at": "2026-10-28T12:04:22+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin is soft under 80k as the Fed meeting gets underway, but spot ETF inflows and Ripple’s regulatory win keep institutional tone constructive. Macro is mixed—solid regional Fed data versus sticky inflation, high yields, and a firm dollar. Geopolitics stay noisy with elections and strikes, offset only partly by Iran de-escalation talks.",
+  "overall_summary": "Bitcoin is holding reclaimed levels with solid ETF inflows and exchange outflows, but whale deposits and a firm dollar keep conviction in check. Today's Fed decision and sticky yields dominate the tape, so crypto tone stays balanced rather than one-sided. Geopolitical headlines remain mixed with both de-escalation talks and ongoing energy risk.",
   "key_points": [
-    "BTC ETFs take $110M; Ripple wins OCC nod",
-    "Fed FOMC starts; pause odds high but hawkish risks",
-    "10-year near 5%, DXY firm—macro headwind",
-    "Galaxy calls BTC bear market over since June",
-    "Mixed whale moves; geo tensions vs diplomacy hopes"
+    "ETF inflows and BTC exchange outflows stay supportive",
+    "Whale Coinbase deposits flag near-term sell risk",
+    "Fed hold expected; dollar and 5% yields weigh",
+    "Brazil bank crypto adoption is a fresh positive",
+    "Oil war premium and Houthis offset peace drafts"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin slips under $80,000 as Fed meeting begins",
-          "summary": "Bitcoin dropped about 0.4 percent since midnight UTC to near 79,700 dollars on Tuesday, lagging a rally in Asian tech stocks. The Federal Reserve starts its two-day policy meeting today with the rate decision due Wednesday; markets price roughly a 90 percent chance of no change but will parse any December hike signals. Liquidations eased while futures volume rose, and traders are watching whether the 79,000 to 80,000 zone holds into the announcement. This is the key macro catalyst that can drive the next directional move for crypto risk assets.",
+          "title": "Bitcoin Reclaims $81K on Chip Rally Ahead of Fed",
+          "summary": "Bitcoin bounced back above eighty-one thousand dollars Wednesday as South Korea's Kospi surged on strong SK Hynix earnings and risk appetite spilled into crypto. The move comes hours before the Federal Reserve's rate decision, with markets pricing a high chance of no change but watching the press conference closely for any hawkish signals. Traders should care because this rebound tests key resistance near eighty-one four hundred to eighty-two five hundred while macro uncertainty remains elevated; a hold could extend the bounce, but Fed guidance could reverse it fast.",
           "sentiment": "Neutral",
-          "impact": "Elevated volatility into Wednesday Fed decision; support test unresolved",
+          "impact": "Heightened volatility around Fed outcome; potential short-term continuation if resistance clears",
           "sources": [
-            "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-            "https://www.dimsumdaily.hk/bitcoin-slips-below-us80000-as-fed-decision-nears-and-risk-appetite-fades/"
+            "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+            "https://crypto.news/bitcoin-price-rebounds-fed-decision-iran-tensions/",
+            "https://finance.yahoo.com/markets/crypto/articles/bitcoin-near-81k-tech-rally-064956980.html"
           ]
         },
         {
-          "title": "US spot Bitcoin ETFs take in $110 million Monday",
-          "summary": "US spot Bitcoin ETFs recorded 110 million dollars in net inflows on October 26, ending a two-day outflow streak, with the entire amount going into BlackRock's IBIT. October remains net negative at roughly 202 million dollars of outflows month-to-date after heavy withdrawals earlier. Fresh creations force actual Bitcoin buying and signal that institutional demand reappeared on the dip. Traders watch whether the inflow streak continues after the Fed decision as a gauge of sustained demand.",
+          "title": "Spot Bitcoin ETFs See $176M Inflows Second Day",
+          "summary": "US spot Bitcoin ETFs recorded one hundred seventy-six million dollars in net inflows on Tuesday, the second straight positive session, led by BlackRock's IBIT with about one hundred fifty-one million. This follows earlier heavy outflows and has narrowed October's net figure significantly. Traders should watch this because sustained institutional buying via ETFs provides real spot demand that can cushion dips and support higher prices if the streak continues past the Fed event.",
           "sentiment": "Bullish",
-          "impact": "Supports price via forced spot buying if inflows persist",
+          "impact": "Supports price floor and signals returning institutional demand",
           "sources": [
-            "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
             "https://bykaranteli.com/etf/btc",
-            "https://www.tftc.io/bitcoin-etf-flows/october-2026"
+            "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+            "https://crypto.news/bitcoin-price-rebounds-fed-decision-iran-tensions/"
           ]
         },
         {
-          "title": "Ripple wins final OCC approval for national trust bank",
-          "summary": "The OCC granted Ripple final approval to open Ripple National Trust Bank, completing the process after conditional approval last December. The federally supervised bank will manage RLUSD stablecoin reserves, act as collateral trustee, and offer fiduciary digital-asset custody while issuance stays with the New York-regulated entity. This is a clear regulatory win that brings a major stablecoin and custody operation under federal oversight and could ease institutional adoption. XRP and related names often react positively to such clarity, and it sets a template for other crypto firms seeking bank charters.",
+          "title": "14,942 BTC Leave Exchanges in Largest Outflow in Weeks",
+          "summary": "Santiment data shows nearly fifteen thousand Bitcoin left exchanges on a net basis, the biggest daily withdrawal in five weeks, as price recovered above eighty thousand. Coins moving off exchanges typically reduce immediate sell-side supply. Traders should care because this on-chain signal often precedes tighter liquidity and can amplify upside moves if demand holds, especially into the Fed decision.",
           "sentiment": "Bullish",
-          "impact": "Positive for RLUSD, XRP, and broader crypto banking legitimacy",
+          "impact": "Reduces available supply, potentially bullish for near-term price action",
           "sources": [
-            "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-            "https://ripple.com/ripple-press/ripple-receives-final-occ-approval-to-establish-national-trust-bank/",
-            "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810"
+            "https://crypto.news/bitcoin-price-rebounds-fed-decision-iran-tensions/",
+            "https://www.tokenpost.com/news/investing/42361"
           ]
         },
         {
-          "title": "Galaxy Research says Bitcoin bear market ended in June",
-          "summary": "Galaxy Research head Alex Thorn argued the Bitcoin bear market bottomed in June and the asset has entered an accumulation phase, calling current levels an attractive time to buy and hold. The firm cited five straight weekly closes above the 50-week moving average after 44 weeks below it, fading long-term holder selling, and a stronger debasement case from rising US debt. A weekly close below roughly 76,540 that is not quickly regained would challenge the view. This is a high-profile institutional research call that can influence positioning among funds and larger traders.",
+          "title": "Whales Deposit Nearly $500M BTC to Coinbase Prime",
+          "summary": "Three whales transferred a combined six thousand one hundred sixty-eight Bitcoin worth roughly four hundred ninety-eight million dollars to Coinbase Prime overnight. Large moves to institutional platforms can signal preparation for selling, rebalancing, or custody shifts, though no sales were confirmed. Traders need to monitor this because it introduces potential overhead supply that could cap rallies or accelerate downside if liquidated around the Fed announcement.",
+          "sentiment": "Bearish",
+          "impact": "Possible near-term selling pressure or increased volatility from large holders",
+          "sources": [
+            "https://crypto.news/bitcoin-whales-move-nearly-500m-to-coinbase-prime-overnight/",
+            "https://blockchain.news/flashnews/whales-deposit-6168-btc-coinbase-prime",
+            "https://www.tokenpost.com/news/investing/42413"
+          ]
+        },
+        {
+          "title": "Datavault AI Stock Crashes 50% on BTC Withdrawal Failure",
+          "summary": "Nasdaq-listed Datavault AI shares plunged nearly fifty percent after disclosing it cannot withdraw Bitcoin tied to a one hundred fifty million dollar deal from a Biconomy wallet, forcing restatements of financials. The company had treated the coins as accessible assets but now faces liquidity and accounting questions. This matters for traders because it highlights real custody and counterparty risks for corporate Bitcoin treasuries, potentially weighing on similar names and overall institutional confidence.",
+          "sentiment": "Bearish",
+          "impact": "Raises custody risk awareness that could pressure BTC treasury stocks and sentiment",
+          "sources": [
+            "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
+            "https://cryptonews.net/news/bitcoin/33662357/",
+            "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+          ]
+        },
+        {
+          "title": "Itaú Becomes First Brazil Bank to Formalize Crypto Trading",
+          "summary": "Brazil's largest private bank Itaú Unibanco notified the central bank of its crypto brokerage and custody operations, becoming the first under new digital asset rules ahead of the October thirtieth deadline. It already offers fifteen assets including Bitcoin and Ethereum with in-house custody. Traders should note this as concrete traditional finance adoption in a major emerging market, which can broaden access and long-term demand even if near-term price impact is limited.",
           "sentiment": "Bullish",
-          "impact": "Supports dip-buying narrative and longer-term accumulation bias",
+          "impact": "Positive structural adoption signal for Bitcoin access in Latin America",
           "sources": [
-            "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-            "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
-            "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says"
-          ]
-        },
-        {
-          "title": "Dormant whale withdraws 11,330 BTC from Binance",
-          "summary": "A Bitcoin whale inactive for five months withdrew 11,330 BTC worth roughly 900 million dollars from Binance, according to on-chain monitors. Large exchange withdrawals reduce available sell-side supply and are often read as self-custody or accumulation rather than immediate distribution. The size stands out amid quiet price action near 80,000 and adds to other recent large holder movements. Traders should care because sustained whale outflows can tighten float and amplify any upside move once macro risk clears.",
-          "sentiment": "Bullish",
-          "impact": "Removes supply from exchange; potential accumulation signal",
-          "sources": [
-            "https://blockchain.news/flashnews/bitcoin-whale-withdraws-11330-btc-binance",
-            "https://www.chaincatcher.com/en/article/2299279"
-          ]
-        },
-        {
-          "title": "Two dormant whales send 2,571 BTC to Coinbase Prime",
-          "summary": "Two Bitcoin wallets dormant since 2023 moved a combined 2,571 BTC worth about 206 million dollars into Coinbase Prime within minutes of each other. Coinbase Prime serves institutional custody and OTC flow, so the coins could be headed for a block sale, rebalancing, or simple custody change rather than open-market dumping. Still, large transfers to exchange-linked platforms raise short-term supply-risk flags when Bitcoin is already testing support. Watch Coinbase premium and spot order flow for confirmation of any selling.",
-          "sentiment": "Neutral",
-          "impact": "Potential near-term supply overhang if coins are sold OTC or on-exchange",
-          "sources": [
-            "https://phemex.com/news/article/dormant-whales-move-2571-btc-worth-206m-to-coinbase-prime-after-3year-silence-101243",
-            "https://blockchain.news/flashnews/whales-deposit-2-571-btc-coinbase-prime",
-            "https://www.panews.io/articles/01a17b3c-13b5-7604-b389-752602b56805"
+            "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+            "https://cryptobriefing.com/itau-formalizes-crypto-trading-15-assets/",
+            "https://crypto.news/itau-becomes-first-brazilian-bank-to-formalize-crypto-trading/"
           ]
         }
       ]
@@ -84,69 +85,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed FOMC meeting starts; 90% odds of rate pause",
-          "summary": "The Federal Reserve's two-day October meeting begins today with the rate decision due Wednesday. Markets price roughly a 90 percent chance of holding the funds rate in the 3.75 to 4.00 percent range after September's hike. Traders will scrutinize Chair Kevin Warsh's statement and press conference for any hawkish tilt toward a possible December move, especially with sticky inflation and midterm elections days away. Crypto and risk assets are watching for guidance that could shift rate-cut or hike bets and move the dollar and yields.",
+          "title": "Fed Expected to Hold Rates Steady Today",
+          "summary": "The Federal Reserve is widely expected to leave its benchmark rate unchanged in the 3.75 to 4 percent range at today's 2 p.m. Eastern decision, following September's hike. Markets price roughly a 90 percent chance of a pause amid sticky inflation from energy and other pressures, just days before midterms. All eyes turn to Chair Kevin Warsh's press conference for clues on a possible December hike. Crypto traders should watch for any hawkish shift that could firm the dollar and pressure risk assets.",
           "sentiment": "Neutral",
-          "impact": "High event risk for yields, DXY and Bitcoin direction into Wednesday",
+          "impact": "Priced-in hold limits immediate move; Warsh tone drives volatility for BTC and equities",
           "sources": [
-            "https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/",
-            "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html",
-            "https://finance.yahoo.com/economy/policy/articles/5-things-watch-federal-reserves-035753957.html"
+            "https://www.reuters.com/business/fed-likely-go-into-wait-and-see-mode-rates-2026-10-28/",
+            "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+            "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026/card/why-the-fed-is-expected-to-hold-interest-rates-steady-today-1xWo5m1BCNpqx2AcznYp"
           ]
         },
         {
-          "title": "US 10-year yield near 5%, DXY holds above 102",
-          "summary": "The benchmark 10-year Treasury yield is little changed around 4.98 to 5.00 percent while the dollar index sits firm near 102, close to recent highs. Support comes from still-elevated inflation concerns and positioning ahead of the Fed decision. Higher yields and a strong dollar typically tighten financial conditions and weigh on risk assets. Crypto traders should note that any hawkish Fed surprise could push yields and the greenback higher still.",
+          "title": "RBNZ Surprises with Rate Hold at 2.75%",
+          "summary": "New Zealand's central bank unexpectedly kept its official cash rate unchanged at 2.75 percent in a 4-3 split vote, defying near-certain market bets on a 25 basis point hike. Officials flagged higher fuel prices pushing inflation toward 4.4 percent soon but chose to wait for more data while signaling future tightening is likely. The kiwi dollar slumped sharply on the news. This dovish surprise softens global rate pressure short-term and may support risk sentiment including crypto.",
+          "sentiment": "Bullish",
+          "impact": "Dovish surprise weakens NZD and eases some global tightening fears, aiding risk assets",
+          "sources": [
+            "https://www.wsj.com/economy/central-banking/new-zealand-central-bank-surprises-markets-with-rate-hold-90ee6cc8",
+            "https://www.cmegroup.com/education/events/econoday/702547",
+            "https://asia.nikkei.com/business/markets/currencies/new-zealand-central-bank-stands-pat-signals-future-hikes"
+          ]
+        },
+        {
+          "title": "Bank of Canada Poised to Hike Rates Today",
+          "summary": "The Bank of Canada is expected to raise its key overnight rate by 25 basis points to 2.5 percent this morning, its first hike in about three years. The move aims to counter energy-driven inflation that hit 3.1 percent in September, even as core measures stay contained. Economists see possible further tightening ahead. A confirmed hike would reinforce global hawkish leanings and could firm the Canadian dollar while adding modest pressure on broader risk markets.",
           "sentiment": "Bearish",
-          "impact": "Firm yields and dollar act as headwind for Bitcoin and equities",
+          "impact": "Confirmed hike supports CAD and underscores inflation risks, mildly negative for risk assets",
           "sources": [
-            "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html",
-            "https://themarketscafe.com/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-fxstreet/",
-            "https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y"
+            "https://www.reuters.com/world/americas/bank-canada-poised-hike-key-rate-first-time-three-years-2026-10-28/",
+            "https://www.thestar.com/business/why-the-bank-of-canada-expected-to-hike-interest-rates-wednesday-for-the-first-time-since-july-2023/article_c62ec102-8c28-4f36-8165-60882959836a.html"
           ]
         },
         {
-          "title": "Dallas Fed manufacturing activity beats forecasts",
-          "summary": "The Dallas Fed's Texas Manufacturing Outlook Survey general business activity index rose to 13.4 in October from 9.8, beating the 7.0 consensus. Production slowed but stayed solidly positive while future activity expectations improved sharply. Input price pressures remain elevated, however. The stronger regional print supports the soft-landing growth narrative and could keep the Fed data-dependent rather than urgently hawkish.",
-          "sentiment": "Bullish",
-          "impact": "Positive growth signal may support risk appetite if confirmed by national data",
-          "sources": [
-            "https://www.cmegroup.com/education/events/econoday/671169",
-            "https://www.dallasfed.org/research/surveys/tmos/2026/2610/2610summ",
-            "https://seekingalpha.com/news/4657200-dallas-fed-manufacturing-index-unexpectedly-rises-in-october"
-          ]
-        },
-        {
-          "title": "Chicago Fed activity index turns positive",
-          "summary": "The Chicago Fed National Activity Index rose to plus 0.07 in September from a revised minus 0.08, beating the minus 0.1 expectation and signaling slightly above-trend growth. Production drove the gain while consumption and housing dragged. The three-month average edged up to plus 0.03. This modest improvement aligns with resilient Q3 growth expectations and reduces immediate recession fears ahead of Thursday's GDP print.",
-          "sentiment": "Bullish",
-          "impact": "Supports soft-landing view, mildly positive for risk assets",
-          "sources": [
-            "https://www.marketreview.com/news/chicago-fed-national-activity-index-september-2026/",
-            "https://fred.stlouisfed.org/series/CFNAI",
-            "https://www.cmegroup.com/education/events/econoday/681813"
-          ]
-        },
-        {
-          "title": "Key US data due today: durables, confidence, home sales",
-          "summary": "Markets are focused on Tuesday's slate of Durable Goods Orders for September, Conference Board Consumer Confidence for October, and New Home Sales for September, plus Case-Shiller home prices. These releases land while the FOMC is meeting and will help shape views on business investment, consumer health and housing before the Fed decision and Thursday's GDP and PCE. Traders should watch for surprises that alter December rate-hike odds or growth forecasts.",
+          "title": "Q3 GDP and Core PCE Due Tomorrow",
+          "summary": "Tomorrow's advance third-quarter GDP estimate is seen around 3.1 percent annualized, up from 2.2 percent prior, driven by AI investment and consumer spending. September core PCE, the Fed's preferred inflation gauge, is forecast near 3.1 percent year-over-year. Strong growth with sticky prices would reinforce the case for further Fed tightening later this year. Traders should prepare for potential dollar strength and equity or crypto chop if numbers come in hot.",
           "sentiment": "Neutral",
-          "impact": "Data surprises could swing yields and risk sentiment intraday",
+          "impact": "Hot prints could boost hike odds and weigh on risk; soft ones ease pressure",
           "sources": [
-            "https://macrobullseye.com/calendar/2026/10/27/",
-            "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html",
-            "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-23/upcoming.htm"
+            "https://www.morningstar.com/news/dow-jones/202610277042/3q-gdp-growth-seen-higher-data-week-ahead",
+            "https://www.atlantafed.org/research-and-data/data/gdpnow/current-and-past-gdpnow-commentaries",
+            "https://cepr.net/publications/gdp-preview-what-to-expect-in-the-third-quarter-2026/"
           ]
         },
         {
-          "title": "Sticky inflation and oil keep Fed on hawkish watch",
-          "summary": "Despite the expected October pause, analysts and markets still see a December hike as live because September inflation accelerated and oil prices remain elevated on Middle East tensions. Consumer sentiment is near multi-year lows on affordability worries. Chair Warsh will face pressure to explain any hold without damaging the Fed's inflation-fighting credibility just before midterms. This backdrop keeps longer-term rate expectations elevated and limits how far risk assets can run on a simple pause.",
+          "title": "US Dollar Holds Near 102.4 Ahead of Fed",
+          "summary": "The dollar index is trading around 102.4, up modestly on the day and near recent highs, as traders position for the Fed decision and other central bank moves. Support comes from firm Treasury yields near 5 percent and geopolitical energy risks. A hold with hawkish guidance could push DXY higher. For crypto, a stronger dollar typically acts as a headwind by tightening global liquidity conditions.",
           "sentiment": "Bearish",
-          "impact": "Limits dovish relief; sustains higher-for-longer pressure on crypto",
+          "impact": "Firm DXY pressures BTC and risk assets via tighter financial conditions",
           "sources": [
-            "https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-long-2026-10-26/",
-            "https://www.bbvaresearch.com/en/publicaciones/us-fed-set-to-pause-but-eyeing-december-hike/",
-            "https://www.usatoday.com/story/money/economy/2026/10/26/federal-reserve-october-2026-interest-rate-decision-preview/92362597007/"
+            "https://www.marketwatch.com/investing/index/dxy",
+            "https://www.dealplexus.com/markets/usd-index-dxy",
+            "https://tradingeconomics.com/dxy:cur"
+          ]
+        },
+        {
+          "title": "10-Year Yields Hover Near 5 Percent",
+          "summary": "The US 10-year Treasury yield is trading around 5.00 to 5.01 percent, little changed as markets await the Fed outcome. Yields have pulled back from recent multi-year peaks after hot inflation data earlier in the month but remain elevated on growth and price concerns. Higher yields raise discount rates and borrowing costs. Sustained levels above 5 percent can cap upside in equities and crypto by increasing opportunity costs for holding risk assets.",
+          "sentiment": "Bearish",
+          "impact": "Elevated yields tighten conditions and limit risk-asset rallies",
+          "sources": [
+            "https://www.marketwatch.com/investing/bond/tmubmusd10y",
+            "https://www.gurufocus.com/economic_indicators/37/10-year-treasury-yield",
+            "https://ycharts.com/indicators/10_year_treasury_rate"
           ]
         }
       ]
@@ -155,69 +155,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Israel Votes in High-Stakes Election Testing Netanyahu",
-          "summary": "Israelis are heading to the polls today in the first national election since the October 7 2023 attacks, with record early turnout. Prime Minister Benjamin Netanyahu faces a tight race against former military chief Gadi Eisenkot, and neither bloc looks set for a clear majority. The outcome will shape Israel's approach to Gaza, Iran, and regional security just as US midterms approach. Traders should watch because a Netanyahu win could mean more hawkish moves on Iran while a change could ease some tensions but still leave coalition uncertainty that keeps risk premiums elevated.",
+          "title": "Israel Election Deadlock Leaves No Clear Winner",
+          "summary": "Israelis voted Tuesday in a high-turnout election, and with most ballots counted neither Netanyahu's right-wing bloc nor Gadi Eisenkot's opposition has the 61 seats needed for a majority. Arab parties surged and could act as kingmakers in messy coalition talks that may take weeks. Traders should watch because the next Israeli government will heavily shape any restart or freeze of the Iran war, which has already hammered energy markets and risk assets.",
           "sentiment": "Neutral",
-          "impact": "Elevated Middle East risk premium and oil volatility until coalition clarity",
+          "impact": "Prolonged uncertainty on Middle East escalation risk",
           "sources": [
-            "https://www.reuters.com/world/middle-east/netanyahus-political-survival-line-israel-votes-2026-10-27/",
-            "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-            "https://apnews.com/live/israel-election-netanyahu-gaza-mideast-news-updates-10-27-2026"
+            "https://www.cnn.com/2026/10/28/world/live-news/israel-election-result-live-latest-netanyahu-eisenkot-intl",
+            "https://www.jpost.com/israel-election-2026/2026-10-28/live-updates-913081",
+            "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next"
           ]
         },
         {
-          "title": "Mecca Pact Powers Meet Iran in Tehran De-Escalation Push",
-          "summary": "Senior officials from Saudi Arabia, Pakistan and Turkey held talks in Tehran with Iranian leaders on Monday aimed at preventing a return to full-scale US-Israeli-Iran fighting. The sides agreed to keep dialogue going on regional security as Houthi attacks on Saudi targets continue and oil flows through Hormuz stay disrupted. Markets took some comfort, with Brent crude easing from recent multi-month highs near 117 dollars. Crypto traders care because successful de-escalation would lower energy inflation fears and support risk assets, while failure keeps the black-swan oil shock alive.",
+          "title": "Qatar Hands Iran New Seven-Day War-End Draft",
+          "summary": "Qatari mediators delivered a fresh draft agreement to Tehran on Sunday built around daily reciprocal confidence-building steps over seven days, with Iran expected to reply by the weekend. Guarantor countries would back it and the clock could start early next week if accepted. A real de-escalation here would ease the biggest single drag on global oil and risk appetite that crypto traders have faced all year.",
           "sentiment": "Bullish",
-          "impact": "Oil price pullback reduces inflation drag and supports risk-on sentiment",
+          "impact": "Potential relief for oil prices and risk-on assets if accepted",
           "sources": [
-            "https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/",
-            "https://www.aljazeera.com/news/2026/10/26/iran-saudi-arabia-turkiye-and-pakistan-agree-to-continue-talks-for-peace",
-            "https://www.cnn.com/2026/10/26/middleeast/iran-meeting-regional-powers-intl"
+            "https://www.reuters.com/world/asia-pacific/qatari-mediators-present-iran-with-new-deal-end-war-official-says-2026-10-28/",
+            "https://english.alarabiya.net/News/gulf/2026/10/28/qatari-mediators-present-iran-with-new-deal-to-end-the-war-official-says",
+            "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
           ]
         },
         {
-          "title": "Oil Eases as Diplomacy Hopes Offset Hormuz and Houthi Risks",
-          "summary": "Brent crude slipped from six-month highs toward the mid-110s as Tehran talks and mediation efforts raised hopes of avoiding wider escalation, even as Houthi claims of strikes on Saudi oil infrastructure and airports persist. Hormuz shipping remains well below normal and inventories are tight, so the market is still vulnerable. For Bitcoin and risk assets this matters because sustained high oil feeds inflation and tighter financial conditions, while any clear de-escalation would be a relief rally catalyst.",
+          "title": "Brent Holds Near 110-115 on Persistent War Premium",
+          "summary": "Oil remains elevated with Brent trading around one hundred ten to one hundred fifteen dollars a barrel as geopolitical risk from the Iran conflict and Houthi strikes overrides any easing in physical balances. Trump's efforts to talk prices down and cut deals for diesel have lost punch ahead of US midterms. Higher energy costs feed inflation fears and keep pressure on risk assets including Bitcoin until a clear de-escalation path appears.",
+          "sentiment": "Bearish",
+          "impact": "Sustained energy shock weighs on risk appetite and liquidity",
+          "sources": [
+            "https://markets.ft.markitdigital.com/data/commodities/tearsheet/historical?c=Brent+Crude+Oil",
+            "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-energy-hubris-2026-10-26/",
+            "https://international.astroawani.com/business-news/trumps-oil-jawboning-loses-punch-wars-spiral"
+          ]
+        },
+        {
+          "title": "Saudi Turkey Pakistan Hold Rare Talks in Tehran",
+          "summary": "Senior officials from the Mecca Pact countries including Saudi defense minister, Pakistani army chief and Turkish intel head met Iranian leaders in Tehran Monday to push regional de-escalation and security dialogue. They agreed to keep talking amid Houthi attacks and fears of renewed US-Israeli strikes. This regional diplomacy is a fresh channel that could lower the odds of a wider Middle East blow-up that would crush risk markets.",
+          "sentiment": "Bullish",
+          "impact": "Modest de-escalation signal for energy and equities",
+          "sources": [
+            "https://www.cnn.com/2026/10/26/middleeast/iran-meeting-regional-powers-intl",
+            "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+            "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3008284"
+          ]
+        },
+        {
+          "title": "Houthi Strikes Keep Hitting Saudi Oil and Airports",
+          "summary": "Yemen's Iran-aligned Houthis continued claiming attacks on Saudi East-West oil pumping stations, Riyadh airport and other targets, while the Saudi-led coalition reports intercepts. Egypt has authorized military support for Riyadh and travel disruptions remain widespread. Any successful hit on major Saudi energy infrastructure would spike oil further and trigger sharp risk-off moves across crypto and equities.",
+          "sentiment": "Bearish",
+          "impact": "Ongoing supply-disruption threat to oil and risk assets",
+          "sources": [
+            "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/",
+            "https://www.justsecurity.org/162113/early-edition-october-27-2026/",
+            "https://www.cntraveller.in/story/is-it-safe-to-travel-to-saudi-arabia-what-to-know-as-houthis-claim-fresh-airport-attacks/"
+          ]
+        },
+        {
+          "title": "Oleshky Local Ceasefire Holds Ahead of Ukraine Talks",
+          "summary": "A Melania Trump-brokered localized ceasefire in the Russian-occupied Ukrainian town of Oleshky took effect and appears to be holding, allowing humanitarian aid and possible evacuations. Broader fighting continues elsewhere and technical-level peace talks with the US are eyed for early November in Abu Dhabi. It is a small positive signal of diplomacy but too limited to move global risk markets much on its own.",
           "sentiment": "Neutral",
-          "impact": "Range-bound oil keeps macro uncertainty high for risk assets",
+          "impact": "Minor diplomatic progress, limited near-term market effect",
           "sources": [
-            "https://www.cnbctv18.com/market/commodities/crude-oil-prices-brent-wti-us-iran-war-west-asia-russia-strait-of-hormuz-supply-usd115-saudi-houthi-attacks-20019831.htm",
-            "https://www.reuters.com/world/asia-pacific/global-markets-pix-2026-10-26/",
-            "https://economymiddleeast.com/news/oil-prices-fall-as-brent-drops-0-86-percent-to-114-81-on-iran-diplomacy-hopes-despite-constrained-hormuz-flows/"
-          ]
-        },
-        {
-          "title": "Lula Wins Historic Fourth Term as Bolsonaro Rejects Result",
-          "summary": "Brazilian President Luiz Inacio Lula da Silva secured a dramatic runoff victory over Flavio Bolsonaro with about 51.8 percent of the vote, becoming the first to win after losing a first round in modern Brazilian history. Bolsonaro refused to concede and moved to challenge the result after extended voting hours, while markets had priced in a right-wing win. The Brazilian real and local assets took a hit. Crypto traders should note the political uncertainty in a major emerging market and commodity exporter, plus any Trump reaction that could spill into broader trade or Latin America risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "EM currency and equity volatility; potential regional political risk premium",
-          "sources": [
-            "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
-            "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
-            "https://www.aljazeera.com/news/2026/10/26/brazil-election-results-2026-key-takeaways-from-lulas-historic-win"
-          ]
-        },
-        {
-          "title": "UN Inquiry Accuses Israel of Ongoing Gaza Genocide",
-          "summary": "A UN Independent International Commission of Inquiry reported on Monday that Israel continued genocidal acts in Gaza even after a prior ceasefire and also committed crimes against humanity including extermination in the West Bank. Israel dismissed the findings as a misinformation campaign. The report lands on the day of Israel's election and adds to international legal and diplomatic pressure. For markets it raises the chance of further sanctions, isolation, or secondary boycotts that could hit Israeli-linked assets and keep Middle East risk elevated.",
-          "sentiment": "Bearish",
-          "impact": "Heightened sanctions and isolation risk around Israel and related assets",
-          "sources": [
-            "https://www.reuters.com/world/middle-east/un-inquiry-says-israel-kept-committing-genocide-gaza-after-truce-2026-10-26/",
-            "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402",
-            "https://www.timesofisrael.com/un-sponsored-probe-accuses-israel-of-ongoing-gaza-genocide-west-bank-crimes-against-humanity/"
-          ]
-        },
-        {
-          "title": "Jordan Launches Airstrikes in Syria After Church Attack",
-          "summary": "Jordan carried out airstrikes on what it called terrorist hideouts in southern Syria in retaliation for a deadly shooting at a Christian church funeral that killed nine people. Syrian authorities reported civilian deaths including children and closed border crossings, while Jordan said it had coordinated but Damascus disputed that. The episode adds another flashpoint on an already tense regional map. Traders should monitor it as a sign of spreading instability that could complicate oil transit and broader Middle East risk pricing.",
-          "sentiment": "Bearish",
-          "impact": "Additional regional military friction raises black-swan tail risks",
-          "sources": [
-            "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-            "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-            "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
+            "https://www.politico.com/news/2026/10/27/ukraine-ceasefire-melania-trump",
+            "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+            "https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/"
           ]
         }
       ]
