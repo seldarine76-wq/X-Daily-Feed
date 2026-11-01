@@ -1,83 +1,83 @@
 {
-  "generated_at": "2026-10-31T12:04:34+00:00",
+  "generated_at": "2026-11-01T12:04:27+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto faces heavy pressure today from the massive Binance hot-wallet hack and large Bitcoin ETF outflows, amplifying custody fears and risk-off flows. Hawkish Fed signals plus geopolitical escalation risks around Iran, Hormuz, and oil further weigh on sentiment. Near-term tone stays defensive until exchange confidence and macro clarity improve.",
+  "overall_summary": "Bitcoin faces clear selling pressure as Binance hack fallout drives heavy outflows, ETF redemptions, and potential large holder sales. Hawkish Fed signals and sticky inflation keep macro support weak, while Iran strike risks and G20 discord add risk-off tone. Near-term catalysts lean toward further downside until flows stabilize.",
   "key_points": [
-    "Binance $6.3B hack drives major custody fears",
-    "Bitcoin ETFs see $643M one-day outflow",
-    "Hawkish Fed push and strong data pressure risk assets",
-    "Geopolitical spikes in Iran, Hormuz, and oil risk",
-    "Long liquidations hit $1.5B amid the selloff"
+    "Binance hack sparks billions in outflows",
+    "Spot Bitcoin ETFs post $643M outflow",
+    "Fed holds rates but officials eye hikes",
+    "Nasdaq firm may sell or pledge BTC",
+    "Iran strike talk lifts geopolitical risk"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Binance Hit by Record $6.3B Hot-Wallet Hack",
-          "summary": "Hackers drained roughly six point three billion dollars from Binance hot wallets across ten blockchains in about twenty minutes late Thursday. The exchange paused withdrawals, said customer funds will be made whole from company resources, and is working with partners who have already frozen about three billion. Traders should care because this is the largest crypto theft on record, it knocked Bitcoin toward the mid seventy-six thousands, and it keeps exchange-counterparty risk front and center over the weekend.",
-          "sentiment": "Bearish",
-          "impact": "Near-term risk-off and confidence hit until withdrawals resume and more funds are recovered",
-          "sources": [
-            "https://www.fool.com/investing/2026/10/30/why-bitcoin-is-down-today/",
-            "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-            "https://www.reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29/"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs Post $643M One-Day Outflow",
-          "summary": "U.S. spot Bitcoin ETFs recorded about six hundred forty-three million dollars in net outflows on Friday October thirtieth, the largest daily withdrawal since June. BlackRock IBIT and Fidelity FBTC led the redemptions, flipping a short streak of inflows and leaving the week and month softer. Traders should watch this closely because ETF flows are the cleanest public signal of institutional demand, and a big flip after the hack shows risk budgets getting cut.",
-          "sentiment": "Bearish",
-          "impact": "Weaker institutional bid and potential spot selling pressure into next week",
-          "sources": [
-            "https://coinpulsehq.com/bitcoin-etf-flows/",
-            "https://www.tftc.io/bitcoin-etf-flows",
-            "https://www.crypto-insiders.nl/nieuws/bitcoin/marktupdate-bitcoin-zakt-verder-weg-na-slecht-nieuws-voor-het-weekend/"
-          ]
-        },
-        {
-          "title": "Analysts Link Binance Hack to North Korea; Trump Probing",
-          "summary": "Blockchain firms including TRM Labs and Chainalysis attribute the attack with high confidence to North Korea’s TraderTraitor unit, the same cluster tied to the earlier Bybit heist. President Trump said the United States is looking into a possible North Korean link and has not yet confirmed attribution. Traders should care because state-sponsored theft raises sanctions, recovery, and geopolitical overhang risks that can keep risk appetite capped even after the immediate price shock fades.",
-          "sentiment": "Bearish",
-          "impact": "Adds lasting geopolitical and recovery uncertainty overhang on crypto risk",
-          "sources": [
-            "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-            "https://www.business-standard.com/world-news/us-probing-possible-north-korean-link-to-6-3-bn-binance-hack-trump-126103100220_1.html",
-            "https://en.yna.co.kr/view/AEN20261031000252315"
-          ]
-        },
-        {
-          "title": "Crypto Liquidations Top $1.5B as Longs Get Wiped",
-          "summary": "Forced liquidations across crypto futures hit roughly one and a half billion dollars in twenty-four hours as Bitcoin slid after the Binance breach, with longs taking the vast majority of the pain. Bitcoin alone accounted for hundreds of millions, and Binance handled a large share of the cascade. Traders should care because the washout clears crowded leverage, but it also shows how fast a single exchange shock can force selling across the entire complex.",
+          "title": "Binance Resumes Phased Withdrawals After $6.3B Hack",
+          "summary": "Binance has started reopening customer withdrawals in phases on Sunday, beginning with Bitcoin and covering 15 networks, after covering about 95 percent of the record 6.3 billion dollar theft from its hot wallets. The exchange is absorbing the losses itself using corporate funds, SAFU reserves, and other sources, and says major assets like BTC, ETH, and stables are now fully backed with a new proof-of-reserves snapshot. Traders should watch for potential large outflows as users regain access, which could pressure prices short-term even as the coverage calms solvency fears.",
           "sentiment": "Neutral",
-          "impact": "Leverage flush that can stabilize price if selling exhausts, or extend downside if more longs remain",
+          "impact": "Reduces existential FUD but risks temporary selling pressure from withdrawals",
           "sources": [
-            "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-            "https://beincrypto.com/crypto-liquidations-bitcoin-longs-binance-hack/",
-            "https://www.cryptotimes.io/2026/10/31/bitcoin-price-today-btc-falls-to-77k-as-427m-in-crypto-liquidations-hit-etfs-see-643m-outflow/"
+            "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+            "https://www.reuters.com/legal/government/binance-resumes-bitcoin-withdrawals-after-covering-bulk-stolen-63-billion-2026-11-01/",
+            "https://crypto.news/binance-reopens-bitcoin-withdrawals-after-hack/"
           ]
         },
         {
-          "title": "Binance Sets Aside $6.34B, Targets Phased Withdrawals",
-          "summary": "Binance said it has reserved more than six point three four billion dollars of its own resources to cover losses, with a large share already matched in the stolen tokens, and partners have frozen about three billion on-chain. Withdrawals remain paused with a phased restart targeted around Sunday if security checks clear. Traders should care because full make-whole reduces FTX-style contagion risk, but the timeline for freezes, recovery, and open withdrawals still drives weekend liquidity and confidence.",
-          "sentiment": "Neutral",
-          "impact": "Limits systemic collapse risk but keeps liquidity and confidence tied to restart and recovery news",
+          "title": "FBI Pins Binance Hack on North Korea TraderTraitor",
+          "summary": "The FBI confirmed North Korea's TraderTraitor group stole more than 6 billion dollars from Binance on or about October 29, urging DeFi platforms, exchanges, and node operators to block listed BTC, ETH, and SOL addresses tied to the laundering. Hackers have been converting assets mainly into Ethereum and are expected to use DeFi and swaps further. This official attribution heightens geopolitical and sanctions risk awareness for the whole sector and may slow recovery of stolen funds.",
+          "sentiment": "Bearish",
+          "impact": "Amplifies state-actor and compliance overhang on crypto markets",
           "sources": [
-            "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-            "https://m.economictimes.com/tech/technology/binance-sets-aside-usd-6-34-billion-to-cover-crypto-hack-losses-targets-phased-withdrawal-resumption/articleshow/135398186.cms",
-            "https://www.reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29/"
+            "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+            "https://www.newsweek.com/fbi-blames-north-korea-for-binance-crypto-theft-12645761",
+            "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
           ]
         },
         {
-          "title": "Bitcoin Whitepaper Turns 18 Amid Custody Debate",
-          "summary": "October thirty-first marks eighteen years since Satoshi Nakamoto published the Bitcoin whitepaper proposing peer-to-peer cash without trusted intermediaries. The anniversary collides with the Binance heist, putting self-custody versus exchange custody back at the center of the conversation. Traders should care because the narrative contrast can reinforce long-term hold-your-keys demand even while short-term price and flows stay under pressure from the hack fallout.",
-          "sentiment": "Neutral",
-          "impact": "Narrative support for self-custody; limited immediate directional price catalyst",
+          "title": "Spot Bitcoin ETFs See $643M Single-Day Outflow",
+          "summary": "US spot Bitcoin ETFs recorded 643 million dollars in net outflows on October 30, the largest daily redemption in months, wiping out the prior four-day inflow streak and leaving October with roughly 516 million dollars in net withdrawals. BlackRock IBIT and Fidelity FBTC led the exits. This institutional selling forced real BTC sales to meet redemptions and signals caution amid the Binance fallout and broader risk-off moves.",
+          "sentiment": "Bearish",
+          "impact": "Direct selling pressure from ETF redemptions into the market",
           "sources": [
-            "https://crypto.news/bitcoin-whitepaper-18-anniversary-custody-debate/",
-            "https://coinpedia.org/news/bitcoin-whitepaper-turns-18-how-satoshi-nakamotos-vision-became-a-1-55-trillion-asset/",
-            "https://www.tokenpost.com/tag/btc"
+            "https://btc.network/blog/bitcoin-etf-643-million-outflow-october-30-2026",
+            "https://www.tftc.io/bitcoin-etf-flows/october-2026",
+            "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/"
+          ]
+        },
+        {
+          "title": "Nasdaq Firm May Sell or Pledge $450M in Bitcoin",
+          "summary": "Next Technology Holding, a small Nasdaq-listed company, authorized its CEO to sell or borrow against its entire 5,833 BTC holdings worth roughly 450 million dollars, citing the Binance hack, exchange risks, and quantum computing threats even though none of its coins were on Binance. The firm's market cap is only about 8 million dollars, making the stash vastly larger than its equity. Any actual sales or loans could add meaningful supply overhang if executed.",
+          "sentiment": "Bearish",
+          "impact": "Potential large corporate BTC distribution into weak market",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+            "https://cryptobriefing.com/next-technology-holding-may-sell-bitcoin/",
+            "https://tokenpost.com/news/business/45497"
+          ]
+        },
+        {
+          "title": "Billions Flow Out of Binance After Withdrawals Restart",
+          "summary": "Shortly after Binance reopened withdrawals, on-chain trackers reported 1 to 2 billion dollars in net outflows, with users moving funds off the platform. Binance also used part of its SAFU bitcoin reserve to help cover remaining illiquid stolen assets. This flight-to-self-custody is classic post-hack behavior and can create near-term liquidity and price pressure even as the exchange stabilizes.",
+          "sentiment": "Bearish",
+          "impact": "Short-term exchange outflow and selling pressure",
+          "sources": [
+            "https://news.finst.com/en",
+            "https://coinbyte.com.au/en/news",
+            "https://www.beincrypto.com/"
+          ]
+        },
+        {
+          "title": "Hacker Converts Stolen SOL Toward Bitcoin",
+          "summary": "On-chain monitors show the Binance attacker moving and converting large amounts of the stolen 970,000-plus SOL, worth tens of millions, into Bitcoin via protocols like Relay in recent hours. Earlier dumps of thinner tokens already crashed some prices 90 percent. Continued laundering and conversion of the haul keeps supply risk alive and can spill into BTC order books.",
+          "sentiment": "Bearish",
+          "impact": "Ongoing stolen-fund conversion adds sell-side pressure",
+          "sources": [
+            "https://www.tokenpost.com/tag/bitcoin",
+            "https://lookonchain.com/",
+            "https://cryptobriefing.com/"
           ]
         }
       ]
@@ -86,66 +86,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed Officials Push for More Rate Hikes Soon",
-          "summary": "Just two days after the Fed held rates steady, Dallas Fed President Lorie Logan said the committee needs at least two more quarter-point increases to rein in inflation. St. Louis Fed President Alberto Musalem separately argued that additional firming is necessary and soon, calling current price pressures unacceptable. For crypto traders this keeps December hike odds elevated and reinforces a higher-for-longer backdrop that can pressure risk assets if yields reprice higher.",
+          "title": "Fed Holds Rates Steady at 3.75-4% With Two Dissents",
+          "summary": "The Federal Reserve kept the federal funds rate unchanged in a 10-2 vote last Wednesday, with Governors Cook and Hammack preferring a quarter-point hike. Chair Kevin Warsh stressed that inflation remains elevated and more data will guide the next move, while upgrading the economy's pace to strong. Traders still price high odds of a December hike. Crypto traders should watch this closely because a patient but still hawkish Fed keeps financial conditions tight and supports the dollar.",
           "sentiment": "Bearish",
-          "impact": "Supports higher rates path, weighing on Bitcoin and risk appetite",
+          "impact": "Supports higher-for-longer rates and dollar strength, pressuring risk assets including Bitcoin",
           "sources": [
-            "https://www.reuters.com/business/feds-musalem-says-rate-hike-is-needed-soon-2026-10-30/",
-            "https://www.dallasfed.org/news/speeches/logan/2026/lkl261030",
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+            "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
             "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html"
           ]
         },
         {
-          "title": "Strong Q3 GDP 3.4% Meets Elevated PCE Inflation",
-          "summary": "Thursday’s data showed the US economy expanding at a robust 3.4 percent annualized pace in the third quarter, driven by AI investment and consumer spending, beating expectations. At the same time September PCE inflation rose 0.5 percent month-over-month and 3.6 percent year-over-year, with core at 3.1 percent, staying well above the Fed’s 2 percent target. Traders should care because resilient growth plus sticky inflation reduces the chance of early easing and keeps the door open for further tightening.",
+          "title": "Q3 GDP Beats at 3.4 Percent as PCE Inflation Stays Sticky",
+          "summary": "Third-quarter US GDP grew at a strong 3.4 percent annualized rate, driven by consumer spending and AI-related investment. September PCE inflation came in elevated around 3.6 percent year-over-year with core near 3.1 percent. The combination of solid growth and persistent prices reinforces the case for the Fed to stay restrictive. This mix typically weighs on liquidity-sensitive assets like crypto until inflation clearly cools.",
           "sentiment": "Bearish",
-          "impact": "Hawkish mix that delays rate cuts and supports firmer dollar/yields",
+          "impact": "Bolsters December rate-hike odds and keeps real yields elevated",
           "sources": [
-            "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-            "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-            "https://www.reuters.com/business/us-inflation-heats-up-september-consumer-spending-rises-2026-10-29/"
+            "https://www.cnbc.com/2026/10/29/treasury-yields-federal-reserve-rates.html",
+            "https://registerguardcapital.com/economic-calendar",
+            "https://www.fhlbny.com/w/fi/msd/2026/261030"
           ]
         },
         {
-          "title": "Employment Cost Index Rises Moderately in Q3",
-          "summary": "Friday’s Employment Cost Index showed total compensation costs up 0.8 percent in the third quarter, matching forecasts and easing slightly from the prior period. Wages and salaries rose a softer 0.7 percent while benefits climbed 0.9 percent; year-over-year compensation held at 3.4 percent with real wages still negative. This cooler labor-cost reading may ease some immediate wage-push inflation fears for the Fed, though it does not erase the broader price pressure story.",
-          "sentiment": "Neutral",
-          "impact": "Mildly softens wage concerns but unlikely to shift December hike pricing much",
+          "title": "Fed Officials Musalem and Logan Call for More Hikes Soon",
+          "summary": "St. Louis Fed's Alberto Musalem and Dallas Fed's Lorie Logan spoke Friday saying additional firming is needed, with Logan pointing to at least two more quarter-point increases. Their comments came right after the hold and hot data. Markets are taking this as confirmation that the pause is temporary. For Bitcoin traders this raises the bar for any near-term risk-on relief.",
+          "sentiment": "Bearish",
+          "impact": "Increases probability of further tightening into year-end",
           "sources": [
-            "https://www.bls.gov/news.release/eci.nr0.htm",
-            "https://www.reuters.com/business/us-labor-costs-rise-moderately-third-quarter-2026-10-30/"
+            "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+            "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/musalem/2026/musalem-somc-remarks-30-oct-2026_final.pdf"
           ]
         },
         {
-          "title": "Bank of Japan Holds Rates, Declares Inflation Target Met",
-          "summary": "The Bank of Japan kept its policy rate at 1.25 percent on Friday but declared that underlying inflation has finally met its 2 percent target for the first time since 2013. It upgraded inflation forecasts and signaled readiness for further hikes, with one board member dissenting for an immediate increase. Global traders watch this because a more hawkish BOJ can tighten yen funding conditions and influence cross-asset risk sentiment including crypto.",
+          "title": "Bank of Japan Holds at 1.25 Percent, Declares 2% Target Met",
+          "summary": "The BOJ left its policy rate unchanged on Friday in an 8-1 vote but said underlying inflation is now consistent with its 2 percent goal for the first time since 2013. It raised its 2027 inflation forecast and sped up ETF sales, while signaling readiness for more hikes. This is a major milestone after years of ultra-easy policy. Yen strength or further BOJ tightening could spill into global yields and dollar dynamics that matter for crypto.",
           "sentiment": "Neutral",
-          "impact": "Supports gradual global tightening theme without immediate shock",
+          "impact": "Potential yen support and global rate spillover; watch USD/JPY",
           "sources": [
+            "https://www.reuters.com/world/asia-pacific/boj-keeps-interest-rates-steady-signals-further-rate-hikes-2026-10-30/",
             "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-            "https://www.reuters.com/world/asia-pacific/bank-japan-hold-rates-signal-further-hikes-2026-10-29/"
+            "https://asia.nikkei.com/economy/bank-of-japan/boj-says-2-inflation-target-achieved-holds-rates-steady"
           ]
         },
         {
-          "title": "Treasury Yields Fall to Multi-Week Lows on Risk-Off",
-          "summary": "US Treasury yields dropped further on Friday, with the 10-year touching multi-week lows near 4.9 percent amid tech stock weakness and haven demand. The move extended a monthly decline even after strong growth data and hawkish Fed commentary. For Bitcoin traders lower yields can provide temporary relief to risk assets by easing discount rates, though the underlying macro remains firm.",
-          "sentiment": "Bullish",
-          "impact": "Short-term support for risk assets via cheaper financing and rotation",
-          "sources": [
-            "https://www.morningstar.com/news/dow-jones/202610302035/us-treasury-yields-fall-to-multiweek-lows-in-asian-trade",
-            "https://theedgemalaysia.com/node/824025"
-          ]
-        },
-        {
-          "title": "Fed Holds Rates at 3.75-4% with Two Hawkish Dissents",
-          "summary": "On Wednesday the FOMC kept the federal funds range unchanged at 3.75 to 4 percent in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack preferring a hike. The statement called economic activity strong and inflation elevated while stressing the need for more data before the next move. This sets up a data-dependent path into December that crypto markets will parse closely alongside the dollar and yields.",
+          "title": "US 10-Year Yield Eases Toward 4.93 Percent, DXY Holds Near 102",
+          "summary": "Treasury yields pulled back late in the week, with the 10-year closing around 4.93 to 4.94 percent after touching higher levels earlier, partly on tech-driven safe-haven flows. The dollar index hovered near 101.7 to 102, still firm on relative rate and growth differentials. Bond markets are digesting the Fed hold against sticky inflation. Softening yields offer limited relief for risk assets but the dollar remains a headwind for Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "Maintains higher-for-longer bias without immediate tightening shock",
+          "impact": "Modest easing in yields supportive at the margin; strong dollar still restrictive",
           "sources": [
-            "https://federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-            "https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-df120667",
-            "https://www.reuters.com/business/fed-likely-go-into-wait-and-see-mode-rates-2026-10-28/"
+            "https://hyeongeonnoil.com/en/market/dxy",
+            "https://ph.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+            "https://themarketscafe.com/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-fxstreet/"
+          ]
+        },
+        {
+          "title": "No Major US Data Today; ISM Manufacturing Due Monday, NFP Friday",
+          "summary": "Sunday brings no scheduled US economic releases. Markets will focus tomorrow on the ISM Manufacturing PMI, then JOLTS midweek and the big October jobs report on Friday. Consensus leans toward continued expansion but softish payrolls. Crypto traders should treat the week as data-heavy with potential volatility around any surprise that shifts Fed path odds.",
+          "sentiment": "Neutral",
+          "impact": "Sets up key catalysts that could reprice rate expectations and risk appetite",
+          "sources": [
+            "https://www.sync2cal.com/finance/us-economic-calendar",
+            "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+            "https://www.morningstar.com/markets/whats-happening-markets-this-week-30"
           ]
         }
       ]
@@ -154,69 +156,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "CENTCOM Briefs Trump on Iran Strike Options Amid Escalation Fears",
-          "summary": "The top US Middle East commander, Admiral Brad Cooper, held a rare in-person White House briefing with President Trump on military options for Iran, joined by Defense Secretary Pete Hegseth and the Joint Chiefs chairman. Officials have warned Gulf allies to prepare for a short intense campaign after the November 3 midterms, while forces including an extra carrier and Patriot batteries build up. At the same time Vice President Vance sent a letter to Iranian security chief Mohsen Rezaei seeking a framework for talks, with Iran confirming receipt but no reply yet. Traders should watch this dual-track closely because renewed strikes risk another oil shock and risk-off move across crypto and equities.",
+          "title": "Trump Eyes Quick Iran Strikes; Tehran Warns Unrestricted Retaliation",
+          "summary": "President Trump said the US has knocked out most of Iran's military but still needs to take care of one or two targets, including a suspected nuclear site at Pickaxe Mountain, and could do it in ten minutes. Iran's supreme leader ordered an immediate, geographically unrestricted response to any new attack and updated target lists. Qatari-mediated talks continue with a proposal to reopen the Strait of Hormuz in two days if US conditions are met, but tanker incidents and strike fears persist right before US midterms. Traders should watch oil prices and risk assets closely because any escalation would spike energy costs and drive broad risk-off moves.",
           "sentiment": "Bearish",
-          "impact": "Heightens post-midterm war risk premium and volatility in oil and risk assets",
+          "impact": "Higher oil, elevated volatility and risk-off pressure on crypto and equities",
           "sources": [
-            "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c",
-            "https://www.newsnationnow.com/world/trump-rare-military-briefing-iran/",
-            "https://www.reuters.com/world/middle-east/vance-outreach-iran-related-medical-supplies-says-trump-2026-10-29/"
+            "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-1.500731311",
+            "https://www.rte.ie/news/2026/1101/1597505-middle-east-iran/",
+            "https://timeskuwait.com/talks-end-g20-ministers-fail-to-bridge-differences-over-ukraine-iran-and-global-security/"
           ]
         },
         {
-          "title": "Hormuz Tanker Attacks Hit October Record as Oil Surges",
-          "summary": "Attacks on ships in and around the Strait of Hormuz reached their highest monthly total of the Iran war in October, with Iran claiming multiple tankers hit mines or explosives and UKMTO confirming projectile and limpet-mine incidents. Traffic remains heavily restricted even as some US-escorted flows continue. Brent settled near one hundred seventeen dollars after a more than thirteen percent monthly gain. Crypto traders care because sustained high oil feeds inflation fears, higher rates pressure, and classic risk-off selling in Bitcoin and equities.",
+          "title": "G20 Ministers End Atlanta Talks Without Joint Statement",
+          "summary": "G20 foreign ministers wrapped two days in Atlanta with no consensus joint declaration due to deep splits over Ukraine, the US-Iran war, tariffs and China. The traditional group photo was cancelled after Europeans refused to stand with Russia's Lavrov. The US did approve a 2.1 billion dollar Patriot interceptor sale to Ukraine. This underscores fractured global coordination on security and energy routes just ahead of the leaders summit and midterms, keeping uncertainty high for markets.",
           "sentiment": "Bearish",
-          "impact": "Sustains elevated oil prices and energy-driven risk-off pressure",
+          "impact": "Sustained geopolitical risk premium and supply-chain/energy uncertainty",
           "sources": [
-            "https://www.thenationalnews.com/news/mena/2026/10/31/attacks-on-ships-transiting-hormuz-in-october-highest-since-start-of-war/",
-            "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/",
-            "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37"
+            "https://timeskuwait.com/talks-end-g20-ministers-fail-to-bridge-differences-over-ukraine-iran-and-global-security/",
+            "https://www.thehansindia.com/news/international/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-1138066",
+            "https://en.sedaily.com/international/2026/11/01/g20-foreign-ministers-end-talks-without-joint-statement-or"
           ]
         },
         {
-          "title": "Israel Election Deadlock Confirmed; Netanyahu Bloc Short of Majority",
-          "summary": "Final official tallies released early Friday showed Benjamin Netanyahu’s right-wing bloc with fifty-three Knesset seats and the main opposition under Gadi Eisenkot with forty-eight, while Arab parties took a record nineteen. Neither side can form a government alone, setting up weeks of coalition horse-trading or possible new elections, with Netanyahu remaining caretaker. The uncertainty comes while Israel remains deeply involved in the Iran conflict. For markets this adds another layer of Middle East political risk that can keep the geopolitical premium elevated.",
+          "title": "FBI Links North Korea to Record 6.3 Billion Binance Hack",
+          "summary": "The FBI confirmed North Korea's TraderTraitor group stole more than 6 billion dollars in crypto from Binance around October 29, the largest such heist on record. Binance said it has already covered about 90 percent of losses from its own funds and is resuming withdrawals in phases. The regime is converting assets mainly to Ethereum for further laundering. For crypto traders this highlights persistent state-sponsored theft risk that can hit confidence and liquidity even when exchanges make users whole.",
+          "sentiment": "Bearish",
+          "impact": "Short-term crypto confidence hit and heightened sanctions/cyber scrutiny",
+          "sources": [
+            "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+            "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist",
+            "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+          ]
+        },
+        {
+          "title": "Israel Election Deadlock Leaves No Clear Majority",
+          "summary": "Final counts from Israel's October 27 election leave Netanyahu's bloc with 53 seats, the main opposition at 48 and Arab-led parties at a record 19, short of the 61 needed for a majority. Coalition talks will be messy with both sides ruling out key partners, raising chances of prolonged caretaker rule or another election. This political uncertainty hits a key US ally in the middle of the Iran conflict and could slow decision-making on regional security.",
           "sentiment": "Neutral",
-          "impact": "Prolongs Israeli political uncertainty without immediate directional catalyst",
+          "impact": "Added Middle East policy uncertainty pending coalition outcome",
           "sources": [
-            "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-            "https://www.pbs.org/newshour/world/difficult-negotiations-lie-ahead-in-israel-after-netanyahus-bloc-lost-its-parliamentary-majority",
-            "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock"
+            "https://www.thestatesman.com/world/israel-election-results-eisenkot-vows-action-as-netanyahu-bloc-wins-53-seats-1503657496.html",
+            "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
+            "https://www.brookings.edu/articles/israels-deadlocked-election-could-force-a-new-vote-in-2027/"
           ]
         },
         {
-          "title": "Russian Dnipro Station Strike Kills 15; Ukraine Resumes Refinery Hits",
-          "summary": "A Russian drone slammed into a crowded railway platform in Dnipro killing at least fifteen people, followed by further strikes that blacked out hundreds of thousands. Ukraine then ended a reported two-week pause on Russian oil refinery attacks that had been urged by Trump over diesel prices, hitting multiple facilities including in the Samara region. The energy infrastructure war is back in full swing just days before US midterms. Traders should note the renewed threat to Russian diesel supply and European winter energy stability, which can spill into global fuel prices and risk sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Rekindles energy supply risks and keeps Ukraine war premium alive",
-          "sources": [
-            "https://www.justsecurity.org/162627/early-edition-october-30-2026/",
-            "https://kyivindependent.com/russian-oil-refinery-reportedly-attacked-amid-renewed-ukrainian-strikes-on-energy-infrastructure/",
-            "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html"
-          ]
-        },
-        {
-          "title": "G20 Foreign Ministers End Atlanta Talks Without Consensus",
-          "summary": "G20 foreign ministers meeting in Atlanta under US Secretary of State Marco Rubio closed without a joint communique after deep splits over Ukraine and the Iran war. Europeans forced cancellation of the traditional group photo rather than stand with Russia’s Sergey Lavrov. Discussions covered energy security, sea lanes including Hormuz, and supply chains but produced only a chair’s summary. This public fracture among major economies signals continued geopolitical fragmentation that supports higher risk premia across markets.",
+          "title": "US Approves 2.1 Billion Patriot Sale to Ukraine Amid G20 Rifts",
+          "summary": "While G20 talks fractured, the State Department cleared a proposed 2.1 billion dollar sale of Patriot air-defence interceptors to Ukraine. Zelensky welcomed the move but wants faster delivery. It comes against continued Russian strikes and mixed US-Russia signalling under Trump. The package offers some defensive boost for Kyiv but does not resolve the larger war or energy-market spill-overs from the conflict.",
           "sentiment": "Neutral",
-          "impact": "Highlights global division and limits coordinated crisis response",
+          "impact": "Limited positive for Ukraine defence; little immediate broad market relief",
           "sources": [
-            "https://apnews.com/article/rubio-g20-ukraine-russia-poland-21c65a8bb02a3a0f0c89f0ce6d56d5fd",
-            "https://www.smh.com.au/world/north-america/us-cancels-family-photo-at-g20-after-europeans-object-to-russia-20261031-p61a6m.html",
-            "https://www.pbs.org/newshour/politics/watch-rubio-welcomes-g20-foreign-ministers-to-atlanta-at-critical-moment"
+            "https://timeskuwait.com/talks-end-g20-ministers-fail-to-bridge-differences-over-ukraine-iran-and-global-security/",
+            "https://www.ft.com/world",
+            "https://www.reuters.com/live/"
           ]
         },
         {
-          "title": "Houthis Target Saudi Oil Sites as Yemen Famine Deepens",
-          "summary": "Saudi-led forces intercepted Houthi drones and missiles including one over the Mecca region, while the Iran-aligned group claimed strikes on Saudi oil facilities and airports. At the same time the governor of Taiz declared famine conditions under Houthi siege. These attacks keep pressure on Gulf energy infrastructure already strained by the wider Iran conflict. Crypto and risk traders should treat any successful hit on major Saudi facilities as a potential oil-spike catalyst that quickly hits inflation expectations and risk appetite.",
-          "sentiment": "Bearish",
-          "impact": "Adds secondary threat to Gulf oil supply and regional stability",
+          "title": "Melania-Brokered Oleshky Ceasefire Enables Ukraine Evacuations",
+          "summary": "A localized ceasefire in Russian-occupied Oleshky, brokered by First Lady Melania Trump, has allowed humanitarian aid and civilian evacuations, with residents arriving in Ukrainian-held territory. Both sides honoured the temporary halt for the mission in the devastated Kherson-area city. It is a rare de-escalation bright spot but remains confined to one location while the wider war and energy infrastructure strikes continue.",
+          "sentiment": "Neutral",
+          "impact": "Minor positive humanitarian signal; no material change to broader war risk",
           "sources": [
-            "https://www.justsecurity.org/162627/early-edition-october-30-2026/",
-            "https://www.democracynow.org/2026/10/30/headlines",
-            "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-drone-iran-claims-3-tankers-hit-mines-in-hormuz-1.500730393"
+            "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+            "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
+            "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia"
           ]
         }
       ]
