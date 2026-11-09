@@ -1,83 +1,82 @@
 {
-  "generated_at": "2026-11-08T12:04:58+00:00",
+  "generated_at": "2026-11-09T12:04:49+00:00",
   "model": "grok-4.5",
   "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin faces clear headwinds from heavy ETF outflows and a much stronger jobs report that reduces near-term rate-cut odds. A firmer dollar and elevated geopolitical risks add pressure, while whale accumulation and 401(k) progress provide only limited offsets. Tuesday’s CPI remains the next major catalyst traders will watch.",
+  "overall_summary": "Bitcoin faces continued pressure after heavy liquidations and the worst ETF outflow week since June, while hotter jobs data lifts Fed hike odds and keeps the dollar firm. Regulatory bright spots like Coinbase’s OCC charter and Russia retail crypto access offer some support, but macro headwinds and fresh geopolitical energy disruptions dominate the near-term tone. Traders will watch Tuesday’s CPI and Fed speakers for the next catalyst.",
   "key_points": [
-    "Bitcoin ETFs see $1.28B weekly outflows",
-    "Strong NFP cools Fed cut expectations",
-    "Dollar rebounds as yields firm",
-    "Dormant whale buys over 3,000 BTC",
-    "Crypto 401(k) rule enters final review"
+    "ETF outflows hit $1.28B, worst since June",
+    "Jobs data lifts Fed hike odds, dollar firm",
+    "Coinbase wins full OCC national trust charter",
+    "Long liquidations exceed $1B after BTC drop",
+    "Geo energy hits and mixed Iran signals linger"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin ETFs See $1.28B Weekly Outflows, Flip 2026 Negative",
-          "summary": "U.S. spot Bitcoin ETFs recorded about $1.28 billion in net outflows last week, the worst since June, pushing year-to-date flows deeply negative at roughly $914 million. BlackRock's IBIT alone saw hundreds of millions leave on Friday. Traders should care because this is the clearest signal of institutional demand drying up amid the recent selloff and macro pressure from jobs data and tech weakness. Sustained outflows remove a key bid under Bitcoin near the $75,000-$76,000 zone.",
+          "title": "BTC Crashes to $73.5K on Nvidia Probe, Iran Stall; $1B+ Longs Liquidated",
+          "summary": "Bitcoin plunged to around seventy-three thousand five hundred dollars late Sunday, its lowest since August, after Nvidia's board opened a probe into CEO Jensen Huang over an affair with a woman linked to Chinese intelligence and U.S.-Iran talks stalled. Thin weekend liquidity amplified the move, wiping out more than one billion dollars in leveraged positions, about nine hundred thirteen million of them longs, with ether hit even harder. Traders should care because this is a classic risk-off cascade that flushed leverage right before the Wall Street open, and the bounce back above seventy-four or seventy-five thousand is still fragile. Watch whether traditional markets and Nvidia reaction extend the selling or stabilize it.",
           "sentiment": "Bearish",
-          "impact": "Adds selling pressure and weakens near-term support",
+          "impact": "Near-term downside pressure and leverage flush; key supports under test",
+          "sources": [
+            "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+            "https://bitbo.io/news/bitcoin-nvidia-probe-liquidations/",
+            "https://www.coinbird.com/cryptocurrencies/bitcoin/news"
+          ]
+        },
+        {
+          "title": "Spot Bitcoin ETFs Bleed $1.28B in Worst Week Since June",
+          "summary": "U.S. spot Bitcoin ETFs saw roughly one point two eight billion dollars in net outflows last week, the heaviest since late June, flipping twenty twenty-six year-to-date flows negative by about nine hundred fourteen million. BlackRock's IBIT dominated with around one point two one billion leaving, while Fidelity's FBTC managed modest inflows. This matters because ETF flows have been the main institutional on-ramp; sustained redemptions signal de-risking that can keep selling pressure on Bitcoin even after the weekend flush. Monday's flow print will show if the exodus is slowing.",
+          "sentiment": "Bearish",
+          "impact": "Continued institutional selling pressure on BTC price",
           "sources": [
             "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
             "https://blog.mexc.com/trends/2026-11-08-us-bitcoin-etfs-1-28-billion-weekly-outflow-en/",
-            "https://www.cointribune.com/en/bitcoin-etf-record-their-worst-weekly-outflows-since-june/"
+            "https://coinpulsehq.com/bitcoin-etf-flows/"
           ]
         },
         {
-          "title": "Binance Hackers Swap $175M Alts Into 2,300 BTC",
-          "summary": "Blockchain firm Elliptic reports the attackers behind the record $6.3 billion Binance theft have now converted roughly $175 million in stolen altcoins into about 2,300 Bitcoin, up sharply from the prior day. Activity spans tens of thousands of wallets and multiple chains, with most original stolen BTC still sitting untouched. This matters because large-scale conversion into Bitcoin can create supply overhang if the coins are later sold, keeping risk premium elevated for the whole market while Binance restores services.",
+          "title": "Coinbase Wins Full OCC National Trust Charter",
+          "summary": "Coinbase received full approval from the Office of the Comptroller of the Currency for its national trust bank charter, upgrading from conditional status granted in April. The Coinbase National Trust can now operate federally regulated digital-asset custody and payments services, though it still cannot take retail deposits or make loans. Traders should care because this deepens crypto's integration into the U.S. banking system, strengthens institutional custody options, and opens doors for stablecoin issuance under the GENIUS Act framework. It is a clear legitimacy win for the largest U.S. exchange amid broader regulatory noise.",
+          "sentiment": "Bullish",
+          "impact": "Positive for institutional adoption and Coinbase; supportive for crypto infrastructure",
+          "sources": [
+            "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+            "https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter",
+            "https://cryptobriefing.com/coinbase-full-us-trust-charter-occ/"
+          ]
+        },
+        {
+          "title": "Senate Sets Jan. 4 Deadline for Binance, Tether, Trump Crypto Records",
+          "summary": "Senator Richard Blumenthal, incoming chair of the Senate Permanent Subcommittee on Investigations after the Democratic sweep, gave Binance, Tether, World Liberty Financial, and the TRUMP memecoin entity until January fourth to produce records or face alternative measures. The probes cover alleged illicit flows involving sanctioned entities and potential conflicts with Trump-linked firms. This creates fresh regulatory overhang just as Democrats take stronger control of Congress. Traders should watch for any compliance friction or headlines that could hit exchange volumes or stablecoin confidence.",
           "sentiment": "Bearish",
-          "impact": "Potential future sell pressure and lingering security overhang",
+          "impact": "Regulatory overhang on major exchange and largest stablecoin",
           "sources": [
-            "https://finance.biggo.com/news/4d800022-6c4d-4b60-b425-38b14b2794b4",
-            "https://ingmining.com/binance-hack-laundering-2300-btc-elliptic",
-            "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
+            "https://beincrypto.com/senate-probe-binance-tether-trump-firms/",
+            "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
+            "https://www.cryptotimes.io/2026/11/09/binance-tether-trump-crypto-firms-face-blumenthals-jan-4-records-deadline/"
           ]
         },
         {
-          "title": "US Treasury Cuts MEXC Off From American Banking System",
-          "summary": "FinCEN issued an order severing crypto exchange MEXC Global from the U.S. financial system, citing at least $16 billion in alleged illicit flows tied to Russian, Iranian and North Korean sanctions evasion. U.S. banks and money transmitters will be barred from processing transfers once the order takes effect. Traders should watch this because it raises compliance costs and de-risking risks across offshore exchanges, potentially reducing liquidity and amplifying regulatory headlines that weigh on sentiment.",
-          "sentiment": "Bearish",
-          "impact": "Heightens exchange risk and regulatory overhang",
+          "title": "Binance Pool Mines Just One BTC Block Ahead of Shutdown",
+          "summary": "Binance's Bitcoin mining pool found only one block in the past week, about zero point one one percent of network production, as its November tenth shutdown approaches. Hashrate has already collapsed from earlier levels near two percent of the network. The pool and related services end at seven UTC on the tenth, forcing remaining miners to migrate. This is minor for overall hashrate security but underscores Binance's retreat from mining infrastructure while it expands other products. Little direct price impact expected, though it removes one more pool from the landscape.",
+          "sentiment": "Neutral",
+          "impact": "Negligible for BTC price; minor hashrate redistribution",
           "sources": [
-            "https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system",
-            "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-            "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system"
+            "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+            "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool"
           ]
         },
         {
-          "title": "Dormant Whale Accumulates 3,009 BTC Worth $228 Million",
-          "summary": "A Bitcoin address inactive for more than a year withdrew and accumulated 3,009 BTC valued around $228 million from Binance on November 6 at prices near $75,800. On-chain trackers flagged the multi-tranche buy as the wallet's first major activity in over a year after previously depositing coins higher. This is relevant because large smart-money accumulation during a dip often signals conviction buying that can stabilize price or front-run a rebound if other whales follow.",
+          "title": "Bank of Russia Finalizes BTC, ETH, USDT for Retail Trading",
+          "summary": "Russia's central bank has locked in Bitcoin, Ether, and USDT as the only assets non-qualified retail investors can buy under the new framework, effective November seventeenth, with a three hundred thousand ruble annual cap per intermediary. Qualified investors face no limits, and Moscow Exchange is preparing a December launch. This expands regulated access in a large market and gives Tether another official endorsement. For traders it is a modest long-term adoption positive, though the caps and tests limit immediate volume impact.",
           "sentiment": "Bullish",
-          "impact": "Supports price floor via large-holder demand",
+          "impact": "Modest positive for regulated adoption and USDT utility",
           "sources": [
-            "https://cryptobriefing.com/bitcoin-whale-buys-back-3000-btc-binance/",
-            "https://www.tokenpost.com/tag/btc",
-            "https://pluang.com/en/news-feed/dompet-bitcoin-dormant-beli-3009-btc-dengan-nilai-228-juta"
-          ]
-        },
-        {
-          "title": "Russia Clears Retail BTC, ETH, USDT Trading From November 17",
-          "summary": "The Bank of Russia has approved Bitcoin, Ether and USDT for non-qualified retail investors starting November 17, with a 300,000-ruble annual cap per intermediary and mandatory risk testing. Moscow Exchange plans pilot trading of the same assets from December 1. Traders should care because this opens a large new regulated market in a major economy, potentially adding fresh demand and legitimizing crypto access even under capital controls.",
-          "sentiment": "Bullish",
-          "impact": "Expands global retail access and adoption narrative",
-          "sources": [
-            "https://www.tokenpost.com/news/regulation/51422",
-            "https://crypto.ro/en/news/russia-opens-retail-btc-eth-usdt-trading-nov-17/",
-            "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/"
-          ]
-        },
-        {
-          "title": "Crypto 401(k) Safe-Harbor Rule Enters Final White House Review",
-          "summary": "The Labor Department's final rule creating a fiduciary safe harbor for adding alternative assets including crypto funds to 401(k) menus has arrived at the White House Office of Information and Regulatory Affairs for last-step review. The framework follows a Trump executive order and earlier proposal outlining evaluation factors like fees, liquidity and complexity. This could unlock significant long-term inflows from the multi-trillion-dollar retirement market if finalized, giving Bitcoin a structural demand tailwind beyond spot ETFs.",
-          "sentiment": "Bullish",
-          "impact": "Potential multi-year institutional demand catalyst",
-          "sources": [
-            "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
-            "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
-            "https://crypto.news/crypto-401k-rule-white-house-final-review/"
+            "https://coinmarketcap.com/academy/article/bank-of-russia-approves-bitcoin-ether-usdt-retail-trading",
+            "https://www.thetokenpress.com/article/russia-clears-bitcoin-ether-and-usdt-for-regulated-retail-trading-652eca32",
+            "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout"
           ]
         }
       ]
@@ -86,69 +85,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "October NFP Surges 165K, Far Above Forecasts",
-          "summary": "US employers added 165,000 jobs in October, crushing expectations around 65,000, while unemployment fell to 4.1 percent. Prior months were revised up by a combined 84,000, and wages rose 0.4 percent month-over-month. This strength keeps the labor market tight and has pushed markets to price roughly an 80 percent chance of a December Fed hike, lifting the dollar and Treasury yields on Friday. Crypto traders should care because stronger growth data typically means higher-for-longer rates and tighter liquidity, which has weighed on Bitcoin near recent supports.",
-          "sentiment": "Bearish",
-          "impact": "Raises Dec rate-hike odds and supports firmer USD/yields, pressuring risk assets",
-          "sources": [
-            "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls",
-            "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-            "https://tradingeconomics.com/united-states/non-farm-payrolls"
-          ]
-        },
-        {
-          "title": "October CPI Looms Tuesday as Key Fed Test",
-          "summary": "The next major US inflation print lands Tuesday at 8:30 AM ET, with economists looking for a cooler 0.2 to 0.3 percent month-over-month rise after September's hot 0.6 percent jump. Core is expected around 0.2 percent. This is the last big CPI before the December FOMC and will decide whether December hike bets stick or ease after the strong jobs number. Traders need to watch it closely because a hotter print reinforces hawkish Fed pricing while a soft one could reopen room for risk assets including Bitcoin.",
+          "title": "US CPI due Tuesday after hot jobs report",
+          "summary": "October CPI drops tomorrow at 8:30 AM Eastern, with markets expecting about 0.3 percent month-over-month headline and core near 0.2 percent. The strong Friday jobs print already pushed December rate-hike odds near 80 percent, so a hot number would lock in more Fed tightening while a cool print could spark a relief rally in risk assets. Crypto traders should watch this closely because it will set the near-term path for yields, the dollar, and liquidity conditions.",
           "sentiment": "Neutral",
-          "impact": "High-volatility catalyst for rates, DXY, and crypto direction this week",
+          "impact": "High volatility catalyst for rates, DXY, and BTC ahead of the print",
           "sources": [
-            "https://www.business-standard.com/world-news/us-inflation-set-to-cool-in-october-after-two-months-of-sharp-increases-126110800246_1.html",
-            "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely",
-            "https://fedratecalc.com/us-economic-calendar/november-2026/"
+            "https://dipsonar.com/economic-calendar/",
+            "https://www.yardeniquicktakes.com/economic-week-ahead-november-9-13/",
+            "https://sessionopen.com/fed-watch"
           ]
         },
         {
-          "title": "Dollar Rebounds to 102.28 as Yields Firm",
-          "summary": "The US Dollar Index closed Friday near 102.28 after the strong jobs data, reversing some of the post-midterm weakness that had taken it toward five-week lows around 101. The 10-year Treasury yield held near 4.86 to 4.87 percent. A firmer dollar and higher real yields tighten global financial conditions. For crypto this usually means headwinds as liquidity preference shifts away from risk assets until the next data clears the picture.",
+          "title": "October jobs surge lifts December Fed hike odds",
+          "summary": "Nonfarm payrolls jumped 165,000 in October, more than double expectations, while unemployment fell to 4.1 percent. That strong reading reversed earlier doubts and lifted the market-implied chance of a 25-basis-point hike at the December 8-9 FOMC meeting to around 80-82 percent. Higher-for-longer rates tighten financial conditions, which typically pressures Bitcoin and other risk assets until the data path clarifies.",
           "sentiment": "Bearish",
-          "impact": "Stronger DXY and yields act as near-term drag on Bitcoin and equities",
+          "impact": "Supports higher yields and dollar, headwind for crypto risk appetite",
           "sources": [
-            "https://beincrypto.com/why-is-us-dollar-falling-dxy/",
-            "https://www.riotimesonline.com/global-economy-briefing-november-7-2026/",
-            "https://hyeongeonnoil.com/en/market/dxy"
+            "https://www.unionleader.com/news/business-news/federal-reserve-considers-interest-rate-hikes-bdd93e11",
+            "https://www.cnbc.com/2026/11/06/dollar-holds-yen-gains-as-equity-rout-saps-risk-appetite-ahead-of-payrolls.html",
+            "https://sessionopen.com/fed-watch"
           ]
         },
         {
-          "title": "Democratic Midterm Sweep Sparks Fiscal Gridlock Bets",
-          "summary": "Democrats took both chambers of Congress in the November 3 midterms, creating divided government under President Trump. Markets initially read this as limiting big new spending or tax cuts, which helped pull Treasury yields lower and weighed on the dollar earlier in the week before jobs data reversed part of the move. The setup reduces tail risks of unchecked deficits but leaves debt-ceiling and funding fights ahead. Crypto traders watch because lower long-term yield pressure can eventually support risk assets if the Fed path softens.",
+          "title": "China PPI hits multi-year high, CPI cools",
+          "summary": "China's October producer prices rose 5.7 percent year-over-year, the fastest in nearly four and a half years and above forecasts, driven by energy costs. Consumer prices eased to 0.7 percent year-over-year, below expectations, showing weak domestic demand. The split signal keeps global inflation pressures alive via commodities while highlighting China soft spots that could weigh on growth-sensitive assets.",
           "sentiment": "Neutral",
-          "impact": "Potential ceiling on fiscal stimulus and yields, mixed near-term for risk",
+          "impact": "Mixed global inflation cue; energy pass-through vs demand weakness",
           "sources": [
-            "https://beincrypto.com/why-is-us-dollar-falling-dxy/",
-            "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-bond-refinancing-plans",
-            "https://privatebank.barclays.com/insights/us-midterms-riding-the-blue-wave-11-2026/"
+            "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/",
+            "https://news.cgtn.com/news/2026-11-09/China-s-October-CPI-up-0-7-PPI-rises-5-7--1RVFvJks2Fa/p.html",
+            "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
           ]
         },
         {
-          "title": "UMich Sentiment Rises, Inflation Expectations Ease",
-          "summary": "University of Michigan preliminary November consumer sentiment jumped to 51.0 from 48.0, beating forecasts, while one-year inflation expectations fell to 4.3 percent from 4.7 percent and longer-run edged to 3.4 percent. The survey was mostly pre-election. Easing inflation views are a mild positive for the soft-landing narrative even as cost-of-living complaints remain high. This offers a small counterweight to the hot jobs data ahead of CPI and could temper the most hawkish rate bets if confirmed.",
-          "sentiment": "Neutral",
-          "impact": "Softens inflation-fear premium slightly, limited immediate market move",
-          "sources": [
-            "https://tradingeconomics.com/united-states/consumer-confidence/news/594700.",
-            "https://www.cmegroup.com/education/events/econoday/666974",
-            "https://data.sca.isr.umich.edu/"
-          ]
-        },
-        {
-          "title": "Bank of England Hikes to 4 Percent, Signals More Possible",
-          "summary": "The Bank of England raised Bank Rate by 25 basis points to 4 percent on November 5 in an 8-1 vote, its first hike in three years, citing pipeline inflation from elevated energy prices tied to Middle East conflict. Officials warned inflation could approach 5 percent next year and left the door open to further tightening. This adds to the global picture of central banks still fighting sticky prices. For crypto it reinforces a higher-rate world outside the US as well, keeping liquidity conditions relatively tight.",
+          "title": "Dollar holds firm near 102 on rate-hike bets",
+          "summary": "The US Dollar Index stays supported above 101.8-102 after Friday's big gain on the jobs surprise, even as it eases slightly into Monday. Firm Treasury yields and elevated December hike pricing keep the greenback bid. A stronger dollar usually acts as a headwind for Bitcoin by tightening global dollar liquidity and pressuring risk assets.",
           "sentiment": "Bearish",
-          "impact": "Supports global higher-for-longer theme and firm USD crosses",
+          "impact": "Dollar strength weighs on crypto and emerging-market risk",
           "sources": [
-            "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-            "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation",
-            "https://www.reuters.com/business/traders-eye-further-rate-hikes-after-first-boe-increase-three-years-2026-11-05/"
+            "https://www.marketwatch.com/investing/index/dxy/download-data",
+            "https://themarketscafe.com/united-states-dollar-index-holds-above-102-remains-supported-by-firm-bond-yields-fxstreet/",
+            "https://www.iex.nl/Nieuws/884376/Dollar-nudges-lower-as-AI-Mideast-worries-ease.aspx"
+          ]
+        },
+        {
+          "title": "Treasury yields steady near 4.86 percent post-jobs",
+          "summary": "The 10-year yield holds around 4.86 percent after rising on the strong payrolls data that reinforced Fed hike expectations. Front-end yields also firmed as markets priced more restrictive policy. Elevated real yields raise the opportunity cost of holding non-yielding assets like Bitcoin and can slow speculative flows.",
+          "sentiment": "Bearish",
+          "impact": "Higher yields compete with crypto and tighten financial conditions",
+          "sources": [
+            "https://ph.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data",
+            "https://www.brecorder.com/news/40448061",
+            "https://countryeconomy.com/bonds/usa"
+          ]
+        },
+        {
+          "title": "Fed speakers watched as hike path firms",
+          "summary": "Chicago Fed's Goolsbee is scheduled today and other officials have recently backed gradual further tightening after the jobs beat. Comments from Daly and Barkin earlier reinforced that more rate increases are likely needed to cool still-elevated inflation. Any hawkish tilt this week will keep December odds elevated heading into CPI.",
+          "sentiment": "Bearish",
+          "impact": "Hawkish guidance sustains higher-rate pricing and risk-off pressure",
+          "sources": [
+            "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking",
+            "https://www.unionleader.com/news/business-news/federal-reserve-considers-interest-rate-hikes-bdd93e11",
+            "https://www.reuters.com/business/feds-hammack-favors-gradual-rate-hike-path-lower-inflation-2026-11-05/"
           ]
         }
       ]
@@ -157,68 +156,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Iran Lifts 2,000km Ballistic Missile Range Cap",
-          "summary": "Iran's Revolutionary Guard announced it has scrapped its long-standing self-imposed limit on ballistic missile ranges, saying the restriction is lifted and capabilities will be proven in action. This comes days after the supreme leader ordered responses without geographic limits and amid ongoing US-Iran hostilities. Traders should watch closely because longer-range threats raise escalation risk across the Middle East and Europe, supporting higher oil prices and broader risk-off pressure on equities and crypto.",
+          "title": "Trump Signals Iran Strikes Unlikely as Oil Falls",
+          "summary": "President Trump said fresh US attacks on Iran are highly unlikely if nuclear and Hormuz peace talks advance, with Qatar's PM set to meet him. Oil dropped further, Brent near 97 dollars, after last week's big decline, even as tanker incidents continue near the strait. Traders should watch this closely because de-escalation would ease energy prices and inflation pressure, supporting a risk-on move for Bitcoin and equities, while any breakdown could reverse it fast.",
+          "sentiment": "Bullish",
+          "impact": "Lower oil risk premium supports risk assets",
+          "sources": [
+            "https://www.reuters.com/business/energy/oil-falls-open-trump-says-fresh-iran-attacks-unlikely-2026-11-08/",
+            "https://www.cnbc.com/2026/11/09/oil-falls-as-trump-says-new-iran-attacks-unlikely.html",
+            "https://www.thenationalnews.com/business/energy/2026/11/09/oil-edges-lower-as-trump-plays-down-prospect-of-new-us-attacks-on-iran/"
+          ]
+        },
+        {
+          "title": "Houthis Damage Aramco Tower in Riyadh Attack",
+          "summary": "Yemen's Houthis launched missiles and drones at Riyadh, with debris damaging an Aramco administrative tower in the King Abdullah Financial District after Saudi intercepts. No casualties reported, but the group claimed hits on the financial center, airport and oil sites, prompting Saudi retaliation. This escalates the Saudi-Houthi front tied to the wider Iran conflict and keeps Gulf energy infrastructure at risk, which can spike oil volatility and hit risk sentiment.",
           "sentiment": "Bearish",
-          "impact": "Elevates oil risk premium and geopolitical risk-off for risk assets",
+          "impact": "Heightens Gulf oil supply disruption fears",
           "sources": [
-            "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/",
-            "https://biz.heraldcorp.com/article/10929612",
-            "https://www.washingtonpost.com/national/2026/11/07/mideast-news-november-7-2026/db130576-da9f-11f1-930a-e08f8086f5ac_story.html"
+            "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+            "https://apnews.com/article/mideast-news-november-8-2026-090d96e25872f5c63e105b9dd3e5dc60",
+            "https://www.dawn.com/news/2043158"
           ]
         },
         {
-          "title": "US Disables Cargo Ship Breaking Iran Naval Blockade",
-          "summary": "US Central Command confirmed an aircraft fired precision munitions at the stern of the St. Kitts-flagged M/V Huda in the Gulf of Oman after it ignored warnings and tried to leave after visiting an Iranian port. CENTCOM also launched Task Force Iron Gate to choke land and Caspian routes for weapons and illicit cargo. This tightens the energy choke on Iran and keeps Hormuz tensions high, which can spike oil and weigh on risk appetite including Bitcoin.",
+          "title": "Drone Hit Halts Iraq Khor Mor Gas Field",
+          "summary": "A suspected drone strike hit an LPG tank at the Khor Mor gas field in Iraqi Kurdistan, suspending production and knocking out 2,500 to 2,800 megawatts of power. Over 70 percent of the region lost electricity with no injuries reported and no claim of responsibility. Energy shocks like this in a key producing area can lift gas and oil prices regionally and add to broader Middle East risk that pressures crypto and risk assets.",
           "sentiment": "Bearish",
-          "impact": "Sustains oil supply fears and risk-off flows",
+          "impact": "Regional energy blackout and supply risk premium",
           "sources": [
-            "https://www.reuters.com/world/middle-east/us-military-says-it-disabled-cargo-vessel-gulf-oman-2026-11-07/",
-            "https://www.nationthailand.com/news/world/40073246",
-            "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port"
+            "https://www.reuters.com/business/energy/production-suspended-iraqs-khor-mor-gas-field-after-drone-attack-sources-say-2026-11-08/",
+            "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
+            "https://gulfnews.com/world/mena/drone-strike-on-iraqs-khor-mor-gas-field-cuts-power-production-by-28-gw-ministry-1.500740627"
           ]
         },
         {
-          "title": "Qatar Plan Could Reopen Strait of Hormuz Fast",
-          "summary": "Qatar is mediating a proposal where the US lifts its naval blockade and releases some frozen Iranian assets in exchange for IAEA inspectors accessing bombed nuclear sites, with Iran reopening the Strait of Hormuz on day two via an Oman-agreed route. The Emir has spoken with Trump and Iranian officials are reviewing. A credible de-escalation path would ease the biggest energy shock since the 1970s, potentially crushing oil prices and lifting risk assets, though acceptance remains uncertain.",
+          "title": "Russia Strikes Ukraine Grid Ahead of Abu Dhabi Talks",
+          "summary": "Russian missile and drone barrages hit Ukrainian energy infrastructure, leaving hundreds of thousands without power and forcing Zaporizhzhia plant onto generators. Trilateral US-Russia-Ukraine talks are set for Abu Dhabi on November 10-11, with Europeans now joining. Persistent winter energy attacks raise the stakes for any ceasefire progress; success could ease global risk, while failure keeps safe-haven flows and volatility elevated for markets.",
           "sentiment": "Neutral",
-          "impact": "Deal hopes could cut oil premium; failure keeps pressure high",
+          "impact": "Talks outcome will drive near-term risk sentiment",
           "sources": [
-            "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-            "https://www.independent.co.uk/news/world/middle-east/strait-hormuz-qatar-us-iran-b3080920.html"
+            "https://www.eurasiareview.com/08112026-zelenskyy-says-russia-seeks-blackout-in-ukraine-ahead-of-us-mediated-talks-in-abu-dhabi/",
+            "https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html",
+            "https://www.10things.news/p/10-things-global-news-9th-november"
           ]
         },
         {
-          "title": "Russia Hits Kyiv with 36 Ballistic Missiles",
-          "summary": "Russia launched waves of ballistic missiles including Iskanders and reportedly North Korean types plus over 170 drones overnight, heavily damaging Kyiv-area energy substations linked to nuclear plants, the Northern Bridge, and civilian sites. Only a handful of missiles were intercepted amid interceptor shortages; several people were wounded. The barrage comes days before US-mediated Abu Dhabi talks, signaling Moscow is negotiating from strength by blacking out infrastructure ahead of winter.",
-          "sentiment": "Bearish",
-          "impact": "Adds energy and escalation risk ahead of peace talks",
+          "title": "Democrats' Congress Win Pressures Iran War and Tariffs",
+          "summary": "After the Democratic sweep of both chambers, lawmakers signal plans to use oversight and legislation to push ending the Iran war and rolling back tariffs. Trump has linked the war to midterm losses and is floating deals, while G7 foreign ministers meet amid the shift. Reduced war funding risk and potential tariff relief could lower inflation and support risk assets, though gridlock and investigations add uncertainty.",
+          "sentiment": "Bullish",
+          "impact": "Policy shift may ease war and trade headwinds",
           "sources": [
-            "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-7-2026/",
-            "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents",
-            "https://www.rte.ie/news/world/2026/1107/1598347-russia-ukraine/"
+            "https://www.reuters.com/legal/government/democrats-seize-congress-sweeping-midterm-repudiation-trump-2026-11-04/",
+            "https://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/",
+            "https://www.atlanticcouncil.org/dispatches/experts-react-democrats-just-swept-the-us-midterms-heres-what-it-means-for-the-world/"
           ]
         },
         {
-          "title": "Herzog Tasks Eisenkot to Form Israeli Government",
-          "summary": "Israeli President Isaac Herzog has given former IDF chief Gadi Eisenkot of the Yashar party the first mandate to assemble a coalition after the deadlocked October election. Eisenkot received more Knesset recommendations than Netanyahu and has 28 days, extendable, to secure a majority. A shift away from Netanyahu's hardline bloc could alter Israel's approach to Iran, Gaza, and the US alliance, introducing policy uncertainty for the region.",
+          "title": "Eisenkot Tapped to Form Israeli Government",
+          "summary": "Israeli President Herzog tasked Gadi Eisenkot with forming a coalition after inconclusive elections left no majority. This follows Netanyahu's weakened position amid the Iran war and regional fighting. A new government could alter Israel's approach to Iran, Gaza and alliances, creating near-term uncertainty for Middle East risk premiums that affect oil and broader markets.",
           "sentiment": "Neutral",
-          "impact": "Political uncertainty in key US ally; potential ME policy shift",
+          "impact": "Coalition outcome may shift regional security stance",
           "sources": [
-            "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
-            "https://www.straitstimes.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government",
-            "https://en.wikipedia.org/wiki/Gadi_Eisenkot"
-          ]
-        },
-        {
-          "title": "Paraguay Impeaches President Peña Over Bank Collapse",
-          "summary": "Paraguay's Senate unanimously impeached President Santiago Peña and placed him under house arrest after the collapse of Ueno Bank, a major digital lender with past ties to him that froze accounts for millions. Vice President Pedro Alliana was sworn in as replacement. The rapid ouster of a US-aligned leader over financial scandal highlights Latin American political and banking fragility that can spill into regional risk sentiment.",
-          "sentiment": "Neutral",
-          "impact": "Local political shock; limited direct global market spillover",
-          "sources": [
-            "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-            "https://www.reuters.com/business/finance/paraguays-senate-resumes-president-pea-impeachment-proceedings-2026-11-06/",
-            "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+            "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_8",
+            "https://www.10things.news/p/10-things-global-news-9th-november",
+            "https://dailysummaryof.com/politics/2026-11-08"
           ]
         }
       ]
