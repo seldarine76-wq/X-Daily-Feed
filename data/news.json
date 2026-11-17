@@ -1,82 +1,78 @@
 {
-  "generated_at": "2026-11-16T12:04:10+00:00",
+  "generated_at": "2026-11-17T12:04:45+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Bitcoin is trying to stabilize after heavy long liquidations, but the broader tape stays risk-off. Persistent ETF outflows, rising yields, a stronger dollar, and hawkish inflation data are weighing on sentiment, while escalating Middle East and shipping tensions add another layer of caution. Extreme fear and dip-buying hints offer some contrarian support, yet the near-term bias remains defensive until macro and geo risks ease.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is steady near sixty-four thousand after heavy weekend liquidations, with some institutional dip-buying providing support. A stronger dollar, sticky yields, and fresh geopolitical flashpoints from the Middle East to Ukraine keep the broader tone cautious. Today's US data will likely set the next short-term direction.",
   "key_points": [
-    "ETF outflows stretch to a seventh day",
-    "Yields and dollar strength pressure risk assets",
-    "Hawkish PPI keeps Fed tightening bets alive",
-    "Middle East tanker and base attacks elevate risk",
-    "Extreme fear plus Saylor dip-buy hints cushion"
+    "BTC holds $64K after $2B liquidations",
+    "Institutions buy the dip; Grayscale constructive",
+    "DXY and yields pressure risk assets",
+    "Iran, Ukraine, Houthi tensions escalate",
+    "Key US data due amid mixed backdrop"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin Rebounds to $64K After $62K Low, $2B Long Liquidations",
-          "summary": "Bitcoin plunged to about sixty-two thousand dollars over the weekend, its lowest since mid-July, wiping out roughly two billion dollars in mostly long leveraged positions. It has since clawed back above sixty-four thousand. The move extends a sixth straight weekly loss and a seventeen percent November drop, with traders now watching Nvidia earnings Tuesday and Fed minutes. A big liquidation flush like this often clears weak hands, but the bounce still needs to hold key levels.",
-          "sentiment": "Neutral",
-          "impact": "Heightened short-term volatility around support ahead of major tech and macro catalysts",
-          "sources": [
-            "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-            "https://www.blockhead.co/2026/11/16/bitcoin-hits-62-000-low-ahead-of-nvidias-first-earnings-without-jensen-huang/",
-            "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs Log Seventh Straight Day of Outflows",
-          "summary": "US spot Bitcoin ETFs saw about one hundred eighty-five million dollars leave on Friday, extending the outflow streak to seven sessions and roughly one point nine billion dollars since early November. BlackRock’s IBIT led the redemptions. November total outflows are running over two billion. Persistent institutional selling removes a key bid and keeps pressure on price until flows reverse.",
+          "title": "Wintermute Warns BTC Could Slide to $50Ks",
+          "summary": "Market maker Wintermute says Bitcoin's bear phase is far from over after it lost the 200-week moving average near sixty-eight thousand. They cite ninety-two percent odds of a December Fed hike, ten-year yields back above five percent, shrinking stablecoin supply, and weak ETF plus treasury demand. Traders should care because a major liquidity provider sees the path of least resistance still lower, with sixty-two thousand then the dense sixty thousand put wall as next magnets.",
           "sentiment": "Bearish",
-          "impact": "Sustained selling pressure and weaker spot demand until inflows return",
+          "impact": "Heightens downside risk and defensive positioning ahead of Fed and Nvidia events",
           "sources": [
-            "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-            "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-            "https://unchainedcrypto.com/bitcoin-hovers-near-64200-after-sliding-to-about-62000-over-the-weekend/"
+            "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+            "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
           ]
         },
         {
-          "title": "Luxor Hit by AI-Enabled Attack Redirecting Miner Hashrate",
-          "summary": "Bitcoin mining firm Luxor confirmed attackers used its Commander fleet software to redirect hashrate from more than a dozen client accounts to the OCEAN pool over the weekend. Early unverified reports put the diverted power near thirteen exahashes. Luxor patched it in two hours, restored machines, and pledged full compensation. CEO Nick Hansen called it a sophisticated AI-enabled vector and warned crypto firms face rising AI attacks. Actual stolen rewards were tiny, under a quarter Bitcoin.",
+          "title": "Spot Bitcoin ETFs End Seven-Day Outflow Streak",
+          "summary": "U.S. spot Bitcoin ETFs took in a net seven point nine million dollars on Monday, snapping a seven-session outflow run that had drained roughly one point nine billion. BlackRock's IBIT led with seventy-six point five million in, ending its own eleven-day streak, though Grayscale GBTC and others offset most of the gains. Traders should watch this closely as even a tiny reversal after heavy redemptions can signal whether institutional selling pressure is finally easing.",
           "sentiment": "Neutral",
-          "impact": "Operational risk spotlight for mining infrastructure with limited direct price effect",
+          "impact": "Removes immediate flow headwind but remains too small to reverse broader November outflows",
           "sources": [
-            "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
-            "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
-            "https://www.tftc.io/luxor-commander-hijack-ai-attack-hashrate-redirect-ocean"
+            "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+            "https://en.coinotag.com/tag/etf"
           ]
         },
         {
-          "title": "JPMorgan and DBS Launch 24/7 Tokenized Dollar Transfers",
-          "summary": "JPMorgan’s Kinexys and Singapore’s DBS have gone live with instant cross-border transfers of tokenized US dollar deposits between the US and Singapore, including weekends. Ant International is the first client using it for treasury management. This is bank deposits on permissioned blockchains, not crypto tokens, but it marks real institutional adoption of on-chain money movement. It supports broader tokenization efforts led by Singapore’s central bank.",
-          "sentiment": "Bullish",
-          "impact": "Positive signal for institutional blockchain and tokenization rails",
-          "sources": [
-            "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-            "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
-          ]
-        },
-        {
-          "title": "Michael Saylor Hints Strategy May Buy the Bitcoin Dip",
-          "summary": "Strategy executive chairman Michael Saylor posted the company’s Bitcoin purchase tracker on Sunday with the line this dip could use a little orange, his usual signal before accumulation disclosures. Strive’s CEO posted a similar buy-the-dip message. No new purchase is confirmed yet in filings, but the market reads it as intent to add while Bitcoin sits near sixty-two to sixty-five thousand. Strategy already holds over eight hundred fifty thousand Bitcoin.",
-          "sentiment": "Bullish",
-          "impact": "Potential large institutional bid that could support a floor if confirmed",
-          "sources": [
-            "https://bitcoinist.com/michael-saylor-hints-at-another-bitcoin-buy-as-btc-tests-key-support/",
-            "https://www.altcoinbuzz.io/did-saylor-s-strategy-buy-the-bitcoin-dip-what-is-confirmed",
-            "https://coincentral.com/strategy-and-strive-signal-more-bitcoin-buys-after-sunday-price-drop/"
-          ]
-        },
-        {
-          "title": "Crypto Fear and Greed Index Hits Extreme Fear Near 10",
-          "summary": "The Crypto Fear and Greed Index dropped to around ten, extreme fear, its lowest readings since June and matching the weekend price washout. Bitcoin is down roughly thirteen to seventeen percent on the week and month while leveraged longs got flushed. Historically extreme fear often coincides with washed-out conditions that can set up relief, but it is not a timing tool by itself. Traders are treating it as a sentiment extreme while waiting for Nvidia and macro catalysts this week.",
+          "title": "BTC Holds Near $64K After $2B Weekend Liquidations",
+          "summary": "Bitcoin slid to about sixty-two thousand over the weekend, its lowest since July, as roughly two billion dollars in leveraged positions were wiped out, mostly longs. It has stabilized near sixty-four thousand with extreme fear readings, while Nasdaq slid further ahead of Nvidia's first earnings without Jensen Huang. Traders care because the flush cleaned speculative leverage, yet the bounce has stalled below the two-hundred-week average with retail sales and Fed minutes still ahead.",
           "sentiment": "Neutral",
-          "impact": "Signals capitulation risk is elevated; potential for relief bounce if catalysts cooperate",
+          "impact": "Leverage reset offers healthier base but unresolved support leaves event risk elevated",
           "sources": [
-            "https://www.altcoinbuzz.io/markets/fear-and-greed-index",
-            "https://blockchainreporter.net/crypto-fear-and-greed-10-bitcoin-record/",
-            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-99/"
+            "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+            "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
+          ]
+        },
+        {
+          "title": "Tether-Backed Twenty One Capital Buys $10M BTC Dip",
+          "summary": "Twenty One Capital, the Tether-backed public Bitcoin treasury firm, purchased one hundred fifty-four Bitcoin for about ten million dollars in cash at an average of roughly sixty-four thousand eight hundred. It was their first reported buy since listing and lifts holdings to about forty-three thousand six hundred sixty-eight BTC; Strategy separately added four hundred eighty-five BTC last week. Traders should note these corporate buys against the grain as a sign some large holders still see value after the selloff.",
+          "sentiment": "Bullish",
+          "impact": "Supports narrative of opportunistic treasury accumulation amid weakness",
+          "sources": [
+            "https://bitcointreasuries.net/news/twenty-one-capital-buys-154-bitcoin-first-purchase-since-listing",
+            "https://crypto.news/twenty-one-capital-buys-10m-bitcoin-xxi-stock/",
+            "https://coinmarketcap.com/academy/article/strategy-buys-485-bitcoin-850849-holdings"
+          ]
+        },
+        {
+          "title": "Grayscale Calls $64K Pullback Compelling Entry Point",
+          "summary": "Grayscale's head of research said the recent crypto slide, with Bitcoin near sixty-four thousand after a roughly seventeen percent November drop, offers compelling entry points for medium- to long-term investors. He pointed to solid fundamentals, oversold conditions after stablecoin outflows and AI stock spillover, plus ongoing deficit spending supporting alternative stores of value. This counters the Wintermute caution and gives bulls a high-profile institutional voice arguing the damage creates opportunity rather than more pain.",
+          "sentiment": "Bullish",
+          "impact": "Provides counter-narrative that could encourage dip-buying by longer-horizon capital",
+          "sources": [
+            "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+            "https://beincrypto.com/grayscale-bitcoin-attractive-entry-point/"
+          ]
+        },
+        {
+          "title": "Optimizely Hack Hits Ledger and 177 Sites with Crypto Clipper",
+          "summary": "Attackers injected malware via the Optimizely web-testing platform into scripts on one hundred seventy-eight major sites including Ledger, HSBC, BBC and Zoom. The code swapped crypto wallet addresses on pages and clipboards for the attacker's and skimmed cards; only a few thousand dollars appear stolen before wallets were emptied and the code removed. Traders should care because it underscores ongoing supply-chain and browser risks for crypto users even when hardware wallets are involved, though direct market impact stayed minimal.",
+          "sentiment": "Neutral",
+          "impact": "Heightens security caution with limited immediate price effect",
+          "sources": [
+            "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+            "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
           ]
         }
       ]
@@ -85,69 +81,68 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "US 10-Year Yield Tops 5.14%, DXY Hits Multi-Month Highs",
-          "summary": "Treasury yields climbed sharply last week and remain elevated near 5.13 to 5.15 percent on the 10-year, with the dollar index pushing to fresh highs around 103.4 to 103.5. The move stems from hotter-than-expected October CPI and PPI readings plus hawkish Fed comments that forced markets to price in more rate hikes. Crypto traders should care because higher real yields and a stronger dollar tighten financial conditions and historically pressure Bitcoin and risk assets.",
+          "title": "DXY Hits 19-Month High Near 103.70 on Hike Bets",
+          "summary": "The US dollar index climbed to a fresh 19-month peak around 103.70 before easing slightly, driven by firm Fed rate-hike expectations after recent hot inflation readings. Markets now price a high probability of a December quarter-point increase, with some chance of 50 basis points. Crypto traders should watch this closely because a stronger dollar and tighter financial conditions typically pressure Bitcoin and risk assets by raising opportunity costs and liquidity headwinds.",
           "sentiment": "Bearish",
-          "impact": "Higher yields and USD strength headwind for BTC and risk assets",
+          "impact": "Stronger USD and higher rate odds weigh on crypto and equities",
           "sources": [
-            "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html",
-            "https://themarketscafe.com/the-us-dollar-just-hit-a-19-month-high-and-the-bond-market-is-the-reason-fxstreet/",
-            "https://www.riotimesonline.com/global-economy-briefing-november-16-2026/"
+            "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-19-month-high-of-10370-outlook-remains-bullish-202611170321",
+            "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-11-16/",
+            "https://portfolio-terminal.com/markets/us-dollar-index"
           ]
         },
         {
-          "title": "Fed Chair Warsh Speaks Today Amid December Hike Bets",
-          "summary": "Federal Reserve Chair Kevin Warsh delivers opening remarks today at a productivity and jobs conference, with other officials including Barr and Williams also speaking. Markets have fully priced a 25 basis point hike in December and assign a smaller chance to 50 basis points after sticky inflation and recent Fed comments. Traders will parse any signal on the path of rates, which directly drives liquidity and Bitcoin volatility.",
+          "title": "Empire State Factory Index Slumps to 7.8",
+          "summary": "New York Fed's Empire State Manufacturing Survey dropped sharply to 7.8 in November from 25.5 in October, well below expectations near 17-18. New orders cooled significantly while employment hit a multi-year high and prices moderated somewhat. This mixed regional signal comes ahead of national retail sales and industrial production, offering an early read on whether growth is cooling enough to temper Fed hawkishness—key for risk assets if it fuels growth-scare narratives.",
           "sentiment": "Neutral",
-          "impact": "Hawkish tone could extend yield rally and pressure crypto; dovish would ease",
+          "impact": "Soft activity data could ease rate fears but signals potential slowdown",
           "sources": [
-            "https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026",
-            "https://www.newsquawk.com/headlines/todays-fedspeak-16th-nov-2026-includes-barr-williams-warsh",
-            "https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html"
+            "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-moderates-from-october-surge-4d9db965",
+            "https://seekingalpha.com/news/4672973-empire-state-manufacturing-index-slumps-beyond-estimates-in-november",
+            "https://www.sharecast.com/news/international-economic/empire-state-manufacturing-survey-new-york-manufacturing-index-new-york-fed-us-manufacturing-activity-factory-orders-us-economic-data-manufacturing-employment-business-conditions-index-capital-expenditure-federal-reserve-economy--24183270.html"
           ]
         },
         {
-          "title": "China October Data Misses: Retail Sales, Output Slow Sharply",
-          "summary": "China reported retail sales up just 0.4 percent year-over-year in October, well below the 0.8 percent forecast, while industrial production slowed to 4.8 percent from 5.5 percent and fixed-asset investment contracted further to minus 8.1 percent year-to-date. Domestic demand remains soft even as exports hold up on AI-related goods. Weak Chinese data weighs on global growth expectations and commodity currencies, adding a risk-off tone that can spill into crypto.",
+          "title": "Fed Chair Warsh Flags AI Risks and Opportunities",
+          "summary": "Federal Reserve Chair Kevin Warsh spoke on Monday about artificial intelligence, calling it super intelligence that could supercharge productivity and growth or cause job disruption and inequality. He said Fed staff are sketching contingencies and the technology will have significant monetary-policy implications down the road, without giving direct rate guidance. Traders care because any signal on how AI affects inflation, employment or the neutral rate can shift expectations for the path of policy and risk appetite.",
+          "sentiment": "Neutral",
+          "impact": "Long-term productivity hopes vs near-term policy uncertainty",
+          "sources": [
+            "https://www.reuters.com/business/feds-warsh-says-emerging-technologies-will-have-significant-impact-risks-need-be-2026-11-16/",
+            "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+            "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
+          ]
+        },
+        {
+          "title": "Treasury Yields Hold Elevated Near 5.12% Ahead of Data",
+          "summary": "The 10-year Treasury yield hovered around 5.12 to 5.13 percent on Monday and into Tuesday, easing only modestly after last week's jump on inflation and hawkish Fed talk. Two-year yields also stayed firm while markets fully price a December hike. Elevated yields raise discount rates for growth assets and crypto, so any soft retail sales print today could pull them lower and give Bitcoin breathing room, while a hot number would reinforce the hawkish backdrop.",
           "sentiment": "Bearish",
-          "impact": "Softer global growth and risk appetite negative for Bitcoin",
+          "impact": "High yields continue to pressure risk assets and liquidity",
+          "sources": [
+            "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+            "https://treasuryratewatch.com/daily/",
+            "https://www.marketwatch.com/story/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-update-e6f57500"
+          ]
+        },
+        {
+          "title": "China October Data Misses: Retail and Output Weaken",
+          "summary": "China's retail sales rose just 0.4 percent year-over-year in October, missing forecasts, while industrial production slowed to 4.8 percent and fixed-asset investment contracted further. The soft domestic demand readings highlight ongoing property and consumer weakness despite export strength. For global markets and crypto this matters as China growth affects commodity prices, risk sentiment and dollar strength—another soft print reinforces concerns about the world's second-largest economy.",
+          "sentiment": "Bearish",
+          "impact": "Weaker China growth weighs on global risk appetite and commodities",
           "sources": [
             "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-            "https://www.fxstreet.com/news/chinas-retail-sales-rise-04-in-october-industrial-production-up-48-202611160201",
-            "https://tradingeconomics.com/china/retail-sales-annual"
+            "https://www.reuters.com/world/chinas-factory-output-retail-sales-growth-slow-october-2026-11-16/"
           ]
         },
         {
-          "title": "Markets Brace for Tuesday Retail Sales and Wednesday FOMC Minutes",
-          "summary": "The key U.S. data this week is October retail sales on Tuesday, expected to slow from September’s strong 0.8 percent gain, plus industrial production. Wednesday brings the minutes from the October FOMC meeting that held rates at 3.75 to 4 percent with two dissents for a hike. These releases will test whether consumer demand can handle higher yields and clarify how many officials wanted tighter policy, setting the tone for December.",
+          "title": "Retail Sales and Industrial Production Due Today",
+          "summary": "US advance retail sales for October and industrial production plus capacity utilization are scheduled for release this morning Eastern time, with retail sales expected to slow to around 0.2 percent month-over-month from 0.8 percent. FOMC minutes follow tomorrow and several Fed speakers are on tap. These are the key near-term catalysts that can confirm or challenge the hawkish pivot priced into markets—crypto traders need to watch for beats that firm the dollar and yields or misses that ease pressure.",
           "sentiment": "Neutral",
-          "impact": "Data surprises could reprice Fed path and move yields, dollar, and crypto",
+          "impact": "Data will drive near-term rate expectations and dollar moves",
           "sources": [
-            "https://www.yardeniquicktakes.com/economic-week-ahead-november-16-20/",
-            "https://blog.e8markets.com/article/markets-await-us-data-and-fomc-minutes-what-traders-should-watch",
-            "https://helious.io/calendar"
-          ]
-        },
-        {
-          "title": "October PPI Hits 6.5% Yearly High, Reinforcing Hawkish Fed View",
-          "summary": "Producer prices rose 0.3 percent month-over-month in October but the yearly rate climbed to 6.5 percent, the highest since late 2022, after a big September revision. Core measures also stayed firm. Combined with the earlier hot CPI print, this data locked in market expectations for additional Fed tightening and helped drive the recent yield spike that is still echoing into Monday trading.",
-          "sentiment": "Bearish",
-          "impact": "Sticky wholesale inflation supports higher-for-longer rates, pressuring risk assets",
-          "sources": [
-            "https://www.home.saxo/en-sg/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026",
-            "https://www.yardeniquicktakes.com/economic-week-ahead-november-16-20/",
-            "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_261116.pdf"
-          ]
-        },
-        {
-          "title": "Empire State Survey Due Today; Fed Speakers Flag More Tightening",
-          "summary": "The New York Fed Empire State Manufacturing Index for November prints this morning, following a strong October reading of 25.5. New York Fed President Williams recently said inflation remains far too high and more rate increases will likely be needed. Multiple Fed speakers today keep policy front and center while markets await the next hard data points.",
-          "sentiment": "Neutral",
-          "impact": "Soft print could ease hike fears slightly; strong data or hawkish talk extends pressure",
-          "sources": [
-            "https://www.newsquawk.com/headlines/todays-fedspeak-16th-nov-2026-includes-barr-williams-warsh",
-            "https://tradingeconomics.com/united-states/ny-empire-state-manufacturing-index",
-            "https://www.reuters.com/business/feds-williams-says-central-bank-has-work-do-get-inflation-back-target-2026-11-13/"
+            "https://helious.io/calendar",
+            "https://biolyst.org/economic-calendar/",
+            "https://finance.yahoo.com/economy/policy/articles/fed-minutes-fedspeak-key-data-205929157.html"
           ]
         }
       ]
@@ -156,69 +151,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Iran reports multiple tankers hit by mines in Strait of Hormuz",
-          "summary": "Iran's Revolutionary Guards say two more oil tankers struck naval mines and caught fire while trying an unauthorized southern route through the Strait of Hormuz, bringing the weekend total to around six vessels ablaze or sinking. Tehran blames U.S. guidance and warns shipowners the southern lane is mined. Traders should care because this chokepoint handles a huge share of global oil; fresh disruption risks keep energy prices volatile and feed broader risk-off pressure even if supply looks ample on paper.",
-          "sentiment": "Bearish",
-          "impact": "Oil volatility spike and risk-off for equities and crypto",
-          "sources": [
-            "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/",
-            "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
-            "https://www.trtworld.com/article/ce2c4063379d"
-          ]
-        },
-        {
-          "title": "China confirms first Xi-Trump-Putin trilateral summit in Shenzhen",
-          "summary": "Beijing has officially confirmed that Xi Jinping will host Donald Trump and Vladimir Putin for their first-ever three-way summit on November 19 in Shenzhen on the sidelines of APEC. Talks are expected to cover nuclear arms, the Iran conflict, and strategic stability, though Ukraine may stay off the U.S. agenda. For traders this is a high-stakes event that could ease or harden major flashpoints and move risk sentiment depending on any signals of de-escalation or grand bargains.",
+          "title": "Trump, Xi, Putin Hold Historic Trilateral Summit in Shenzhen",
+          "summary": "President Trump is in Asia for Quad and ASEAN talks before a groundbreaking three-way meeting with Xi Jinping and Vladimir Putin in Shenzhen on Thursday. The agenda covers nuclear arms control, the Iran war, Ukraine, trade and economics, with China calling it groundbreaking for world peace. Traders should watch closely because any signal of de-escalation or new great-power deals could ease geopolitical risk premiums across risk assets including Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "Potential volatility around diplomacy outcomes on nuclear and Middle East issues",
+          "impact": "Potential volatility spike around summit outcomes on peace and trade",
           "sources": [
+            "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
             "https://www.reuters.com/world/china/china-says-xi-putin-trump-meeting-has-groundbreaking-significance-2026-11-16/",
-            "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-            "https://www.fmprc.gov.cn/eng/xw/wsrc/202611/t20261116_12059663.html"
+            "https://www.10things.news/p/10-things-global-news-17th-november-e83"
           ]
         },
         {
-          "title": "Third U.S. aircraft carrier arrives in Middle East amid Iran tensions",
-          "summary": "The USS Theodore Roosevelt has entered the CENTCOM area, joining two other U.S. carriers already operating near Iran and bringing more than 20,000 sailors and hundreds of aircraft into the theater. This rare three-carrier presence comes as Washington weighs further action and Iran continues asymmetric moves. Crypto and risk traders should watch because it signals possible renewed escalation that can tighten oil supply fears and push markets into defensive mode.",
+          "title": "Ukraine Collapses Section of Kerch Bridge in Major Strike",
+          "summary": "Ukraine hit the strategic Kerch Bridge to occupied Crimea with drones and missiles in what Zelensky called an unprecedented multi-week operation, collapsing a road arch span into the water and damaging the rail section. Russia reported intercepting a record number of drones overnight while striking bridges in Kyiv. This escalates the war logistically and symbolically just before Trump-Putin talks, raising uncertainty that often pressures risk assets.",
           "sentiment": "Bearish",
-          "impact": "Heightened military posture raises war-premium and risk aversion",
+          "impact": "Heightened war risk premium and possible oil/energy volatility",
           "sources": [
-            "https://www.jpost.com/middle-east/article-915003",
-            "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
-            "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+            "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+            "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+            "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
           ]
         },
         {
-          "title": "Iran launches fresh drone attacks on U.S. base in Bahrain",
-          "summary": "Iran's forces launched drones at a U.S. military facility in Bahrain, with Bahraini defenses claiming interceptions in the latest of several recent attempts. Gulf states have condemned the moves amid the ongoing U.S.-Iran conflict. This matters for markets because attacks on host-nation bases raise the chance of wider Gulf involvement and keep insurance and shipping costs elevated through the energy corridor.",
+          "title": "Third US Carrier Arrives as Iran Tensions and Hormuz Attacks Persist",
+          "summary": "The USS Theodore Roosevelt has joined two other carriers in the Middle East, giving Trump more options while a naval blockade of Iran continues and tankers keep hitting mines in the Strait of Hormuz. Vice President Vance insists there will be no forever war even as Iran targets Bahrain and diplomacy stalls. Energy shipping risks remain elevated, which can quickly feed into oil prices and broader risk-off moves for crypto.",
           "sentiment": "Bearish",
-          "impact": "Escalation risk in Gulf supports oil and weighs on risk assets",
+          "impact": "Elevated oil and shipping risk that weighs on risk appetite",
           "sources": [
-            "https://warmonit.com/briefings",
-            "https://www.theglobaleye.it/2026/11/16/global-news-16-november-2026/",
-            "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+            "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+            "https://www.bloomberg.com/news/articles/2026-11-16/third-aircraft-carrier-arrives-in-persian-gulf-boosting-options",
+            "https://www.scmp.com/news/world/middle-east/article/3374663/third-us-aircraft-carrier-reaches-middle-east-trump-weighs-iran-options"
           ]
         },
         {
-          "title": "Ukraine hits Crimea bridge in record 1,336-drone barrage",
-          "summary": "Ukraine launched one of its largest drone attacks of the war, with Russia claiming 1,336 intercepts overnight; the barrage struck the Kerch Bridge linking Russia to Crimea, briefly halting traffic and causing minor reported damage. Hundreds of drones targeted the Moscow region. Ahead of the Trump-Putin-Xi meeting this keeps the Ukraine front hot and can complicate any diplomatic optics while reminding markets that the conflict remains a source of energy and commodity disruption.",
+          "title": "US Intel Warns of Iranian Dirty Bomb Plot Targeting DC Officials",
+          "summary": "US intelligence indicates Iran is developing plans for a dirty bomb or chemical attack in Washington aimed at senior Trump administration officials, with specific locations noted though no imminent threat is confirmed. The White House says there are currently no credible homeland threats, and Iran rejects the chemical weapons claims. This kind of black-swan headline can spark sudden risk-off flows even if officials downplay it.",
           "sentiment": "Bearish",
-          "impact": "War escalation noise increases geopolitical risk premium",
+          "impact": "Fear-driven risk-off pressure and higher volatility",
           "sources": [
-            "https://www.bloomberg.com/news/articles/2026-11-16/ukraine-hits-crimean-bridge-in-record-drone-strike-on-russia",
-            "https://www.scmp.com/week-asia/politics/article/3374595/ukraine-strikes-bridge-linking-russia-crimea-1336-drone-barrage",
-            "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+            "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb",
+            "https://www.newsweek.com/white-house-says-no-credible-threat-after-iran-dirty-bomb-report-12725155",
+            "https://www.10things.news/p/10-things-global-news-17th-november-e83"
           ]
         },
         {
-          "title": "Houthis seize key Red Sea coast after Yemeni forces retreat",
-          "summary": "Saudi-backed Yemeni government forces have withdrawn from positions overlooking the Bab al-Mandab Strait to reinforce Aden, leaving Iran-aligned Houthis in control of the strategic coastal area. Houthis are also advancing closer to Aden itself. Traders care because this second major chokepoint after Hormuz threatens Asia-Europe shipping lanes and LNG/oil flows, adding another layer of freight and insurance risk.",
-          "sentiment": "Bearish",
-          "impact": "Shipping disruption risk compounds energy and trade volatility",
+          "title": "Russia Aircraft Violate Japanese Airspace; Jets Scrambled",
+          "summary": "Japan scrambled fighters and protested after two suspected Russian military aircraft entered its airspace near Okinoshima for several minutes early Tuesday. South Korea and Taiwan also responded to Russian planes in their air defense zones as the aircraft headed toward the Pacific. The timing ahead of the Trump-Xi-Putin summit raises Asia tension just as major leaders gather, adding another layer of geopolitical noise for markets.",
+          "sentiment": "Neutral",
+          "impact": "Regional tension that could amplify summit-related uncertainty",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+            "https://www.japantimes.co.jp/news/2026/11/17/japan/russia-japan-airspace-violation-defense/",
+            "https://www.bbc.co.uk/news/articles/c60evw20qe47o",
+            "https://www.reuters.com/business/aerospace-defense/taiwan-says-two-russian-military-aircraft-detected-off-its-east-coast-2026-11-17/"
+          ]
+        },
+        {
+          "title": "Houthis Regain Control Near Bab al-Mandab Shipping Chokepoint",
+          "summary": "Iran-backed Houthis have taken back positions overlooking the Bab al-Mandab Strait after Saudi-backed Yemeni forces redeployed to defend Aden. The waterway handles a significant share of global trade and oil flows already stressed by Hormuz issues. Further disruption to Red Sea shipping raises energy security concerns and insurance costs that can ripple into broader commodity and risk markets.",
+          "sentiment": "Bearish",
+          "impact": "Added shipping and oil supply risk premium",
+          "sources": [
+            "https://www.bbc.com/news/articles/cqvg2xgyvnjpo",
             "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
-            "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+            "https://www.10things.news/p/10-things-global-news-17th-november-e83"
           ]
         }
       ]
