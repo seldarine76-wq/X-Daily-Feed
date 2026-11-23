@@ -1,83 +1,81 @@
 {
-  "generated_at": "2026-11-22T12:04:50+00:00",
+  "generated_at": "2026-11-23T12:04:50+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Bearish",
-  "overall_summary": "Crypto remains under pressure as escalating geopolitical conflicts and hawkish Fed signals fuel a broad risk-off move. Bitcoin rebounded above sixty thousand on heavy whale buying after liquidations, yet ETF outflows and miner selling risks keep the tone cautious. Markets now eye Wednesday's PCE and GDP data with the dollar elevated and a December hike nearly priced in.",
+  "overall_sentiment": "Neutral",
+  "overall_summary": "Bitcoin is digesting a sharp crash-and-rebound amid heavy ETF outflows and historic deleveraging, while large off-exchange pulls offer some support. Macro signals are mixed with soft-dollar hints against still-high Fed hike odds and key PCE data ahead. Geopolitical escalations add a risk-off overlay, leaving the near-term path unresolved.",
   "key_points": [
-    "Geopolitical escalations spark sharp risk-off tone",
-    "Whales buy over one billion Bitcoin dip",
-    "Spot Bitcoin ETFs see heavy November outflows",
-    "Fed hike odds near-certain, dollar near highs",
-    "Key PCE inflation and GDP data due Wednesday"
+    "ETF outflows continue; large BTC pulled off exchanges",
+    "Historic Binance deleveraging after $55K crash rebound",
+    "Dollar softens but December hike odds stay elevated",
+    "Core PCE and GDP data loom as next catalysts",
+    "Geopolitical tensions rise across Ukraine, Iran, Libya"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "Bitcoin crashes to two-year low then rebounds above $60k",
-          "summary": "Bitcoin slid to roughly fifty-five thousand one hundred thirty dollars on Saturday, its weakest level since September twenty twenty-four, as AI stock weakness and risk-off macro pressure hit crypto. Buyers stepped in hard and price reclaimed the sixty thousand area with gains of five to nine percent in twenty-four hours. Traders should care because this tests whether the multi-year low holds as a floor after a sharp weekly drawdown of around eight to fourteen percent. The bounce calmed panic selling but leaves Bitcoin still well below key longer-term averages.",
-          "sentiment": "Bullish",
-          "impact": "Short-term relief rally and potential base if sixty thousand holds",
-          "sources": [
-            "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/",
-            "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-            "https://www.alertachart.com/news/2026-11-22-bitcoin-climbs-5-0-in-24-hours-to-59-613-f2ace5"
-          ]
-        },
-        {
-          "title": "Over one point five billion dollars liquidated in crypto wipeout",
-          "summary": "Roughly one point five to two point seven billion dollars in leveraged positions were liquidated across exchanges in twenty-four hours, hitting more than two hundred sixty thousand traders. Longs took the bulk of the damage on the way down to the fifty-five thousand low, then shorts got squeezed for tens of millions as price bounced. This clears a large chunk of crowded leverage and often precedes calmer or higher price action once forced sellers are gone. Watch open interest and funding for signs the flush is complete.",
+          "title": "Bitcoin crashes to $55K two-year low then rebounds above $61K",
+          "summary": "Bitcoin plunged as low as about fifty-five thousand dollars over the weekend, its weakest level since September twenty twenty-four, amid a brutal AI and tech stock sell-off plus roughly one point eight billion dollars in crypto liquidations. It has clawed back above sixty-one thousand on Monday as Nasdaq futures bounced hard. Traders should watch whether this bounce holds when Wall Street fully opens and ahead of Wednesday PCE data, because the move was driven more by forced short covering and equity correlation than fresh spot demand. Extreme fear readings and the washout leave the market fragile either way.",
           "sentiment": "Neutral",
-          "impact": "Leverage reset that can support a bounce but does not guarantee trend change",
+          "impact": "Sets near-term range and volatility around key levels with equity beta still high",
           "sources": [
-            "https://bitcoinworld.co.in/263000-traders-liquidated-1-54-billion-24-hours/",
-            "https://cryptodaily.co.uk/2026/11/btc-shorts-lose-68-8m-in-an-hour-as-etf-sellers-pull-3-47b-in-november",
-            "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+            "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+            "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
+            "https://unchainedcrypto.com/bitcoin-regains-61000-after-weekend-plunge-as-ai-stock-rout-eases/"
           ]
         },
         {
-          "title": "Abraxas Capital and whales buy over one billion in Bitcoin dip",
-          "summary": "On-chain trackers report Abraxas Capital withdrew about seventeen thousand five hundred ninety-seven Bitcoin worth roughly one point zero four billion dollars from Binance and Kraken while price traded below sixty thousand, averaging near fifty-nine thousand two hundred. Other large players also moved stablecoins and accumulated. This is notable institutional-scale dip buying that reduced exchange supply and may have helped fuel the rebound. Traders should watch whether similar smart-money flows continue or reverse.",
-          "sentiment": "Bullish",
-          "impact": "Supports the bounce and signals larger players accumulating at lower levels",
-          "sources": [
-            "https://lookonchain.com/feeds/83498",
-            "https://www.binance.com/en/square/post/390884542218216",
-            "https://www.techflowpost.com/en-US/newsletter/146187"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs bleed five hundred eighty-two million, November near three point five billion outflows",
-          "summary": "US spot Bitcoin ETFs recorded about five hundred eighty-two million dollars in net outflows on November nineteenth, with BlackRock IBIT alone at five hundred forty-one million, one of its largest days. November totals reached roughly three point four to three point five billion dollars in redemptions across multiple sessions. This shows persistent institutional and retail selling pressure even as price bounced over the weekend. Continued outflows would cap upside until flows stabilize or turn positive.",
+          "title": "Spot Bitcoin ETFs bleed another $1.8B last week",
+          "summary": "US spot Bitcoin ETFs recorded about six hundred sixty-nine million dollars in outflows on Friday alone, the biggest single day since June, pushing last week's total near one point eight billion and November's tally past four billion. BlackRock's IBIT drove the bulk of the redemptions. Persistent structural outflows signal institutions are still reducing exposure amid rate-hike fears, so any price recovery needs to overcome this headwind rather than lean on ETF demand.",
           "sentiment": "Bearish",
-          "impact": "Sustained selling pressure that may limit the durability of any rebound",
+          "impact": "Removes a key bid and keeps downside pressure if redemptions continue",
           "sources": [
-            "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-            "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+            "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+            "https://www.theblock.co/news",
             "https://bitcoinalmanack.com/etfs/bitcoin-etf-flow-tracker/"
           ]
         },
         {
-          "title": "Kraken BTC CAD pair flashes to seventeen thousand equivalent, trades stand",
-          "summary": "Bitcoin on Kraken’s Canadian-dollar pairs briefly traded as low as about twenty-four thousand two hundred fifty Canadian dollars, roughly sixteen thousand nine hundred to seventeen thousand US dollars, while the USD pair stayed near fifty-seven to fifty-eight thousand. Kraken said systems processed orders correctly, found no breach, and all executed trades will stand. This was a local liquidity dislocation rather than a market-wide crash, but it highlights thin books and execution risk on regional pairs during stress. Bargain hunters keep fills; sellers eat the losses.",
-          "sentiment": "Neutral",
-          "impact": "Isolated exchange event with limited broader price impact but raises liquidity concerns",
+          "title": "Abraxas Capital pulls over $1B Bitcoin off exchanges",
+          "summary": "On-chain trackers flagged Abraxas Capital withdrawing roughly seventeen thousand six hundred BTC, worth about one billion dollars, from Binance and Kraken during the dip below sixty thousand at an average near fifty-nine thousand. The move looks like accumulation or custody transfer into cold storage right as liquidations peaked. Large exchange outflows of this size often reduce immediate sell pressure and can mark smart-money buying, giving traders a signal that some big players viewed the flush as an opportunity.",
+          "sentiment": "Bullish",
+          "impact": "Supports the bounce by locking up supply and signaling institutional dip-buying",
           "sources": [
-            "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
-            "https://cryptobriefing.com/kraken-upholds-trades-bitcoin-17k-cad/",
-            "https://cryptopotato.com/bitcoins-weirdest-crash-yet-btc-briefly-dumped-to-17k-on-kraken/"
+            "https://cryptodisrupt.com/abraxas-capital-buys-bitcoin-dip-1-billion/",
+            "https://news.bitcoin.com/featured/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b/",
+            "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-105/"
           ]
         },
         {
-          "title": "JPMorgan: Bitcoin far below eighty-six thousand mining cost, miners may sell",
-          "summary": "JPMorgan analysts put Bitcoin production cost near eighty-six thousand dollars, leaving a gap of more than twenty-six thousand dollars after the drop below sixty thousand. They say higher-cost miners are likely selling reserves to cover operations or fund AI pivots. This adds potential supply overhang on top of ETF outflows. If unprofitable miners shut down, hashrate and difficulty could adjust lower over time, but near-term selling remains a headwind.",
-          "sentiment": "Bearish",
-          "impact": "Increased miner selling pressure that can weigh on price recovery",
+          "title": "Kraken CAD books crash Bitcoin to $17K equivalent; trades stand",
+          "summary": "Kraken's Canadian-dollar order books decoupled overnight, sending BTC slash CAD as low as twenty-four thousand two hundred fifty Canadian dollars, roughly seventeen thousand US, while the rest of the market traded near fifty-five to fifty-eight thousand. Ether, XRP and even USD slash CAD were hit similarly. Kraken confirmed no breach and that all executed trades stand, so lucky buyers keep the discount and sellers eat the loss. This highlights thin-liquidity and market-maker risk on specific pairs even when global prices hold.",
+          "sentiment": "Neutral",
+          "impact": "Exchange-specific event with limited systemic price effect but raises venue risk awareness",
           "sources": [
-            "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-            "https://cryptobriefing.com/jpmorgan-bitcoin-production-cost-gap-miners/",
-            "https://stocktwits.com/news-articles/markets/cryptocurrency/jp-morgan-says-bitcoin-miners-may-be-selling-reserves-after-btc-falls-26-k-below-mining-cost-estimate-report/cNbnlZrR91A"
+            "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+            "https://cryptobriefing.com/kraken-cad-order-book-bitcoin-crash/",
+            "https://www.coinreporter.io/2026/11/bitcoin-17000-kraken-canadian-dollar-market-trades-stand/"
+          ]
+        },
+        {
+          "title": "South Korea expands crypto account freezes and transfer curbs",
+          "summary": "South Korea's financial regulator announced plans to broaden powers to freeze crypto accounts beyond phishing cases to other serious financial crimes and to tighten scrutiny of transfers to overseas exchanges and private wallets. The existing phishing freeze system has already hit more than eleven thousand five hundred accounts. A comprehensive crypto legal framework draft is also expected this week. Tighter rules in a major Asian market can slow flows and raise compliance costs for local traders and platforms.",
+          "sentiment": "Bearish",
+          "impact": "Adds regulatory overhang that may reduce regional liquidity and risk appetite",
+          "sources": [
+            "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
+            "https://cryptonews.net/news/legal/33794824/"
+          ]
+        },
+        {
+          "title": "Binance BTC open interest drops nearly 40% in historic deleveraging",
+          "summary": "Bitcoin open interest on Binance has fallen nearly forty percent over the past year, about four and a half billion dollars, marking the largest dollar deleveraging on record according to CryptoQuant data. Recent weekend liquidations accelerated the unwind after months of high monthly wipeouts. Heavy leverage flush leaves the market cleaner with less crowded positioning, which can reduce cascade risk on the next move but also means less fuel for sharp rallies until fresh capital returns.",
+          "sentiment": "Neutral",
+          "impact": "Cleans positioning and lowers immediate liquidation cascade risk while muting upside volatility",
+          "sources": [
+            "https://cryptobriefing.com/binance-bitcoin-open-interest-drops-40-percent/",
+            "https://cryptoquant.com/insights/quicktake/6b0346f625900016f0664993-Bitcoin-Open-Interest-plunges-40-amid-historic-deleveraging"
           ]
         }
       ]
@@ -86,68 +84,63 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Key PCE Inflation and GDP Data Due Wednesday",
-          "summary": "No major US economic releases hit today on Sunday, but Wednesday November 25 brings the second estimate of third-quarter GDP and the October Core PCE price index, the Fed's preferred inflation gauge. This is the last major inflation reading before the December FOMC meeting. Traders should care because a hot print could lock in more hawkish pricing and pressure risk assets including Bitcoin, while a cooler one might ease rate-hike fears.",
+          "title": "Bessent Warns Fed Risks Overtightening After Market Rout",
+          "summary": "Treasury Secretary Scott Bessent said on Sunday that the Federal Reserve could be making a policy mistake by overtightening in response to recent inflation data, noting substantial tightening in financial conditions and signs of fragility after the equity selloff. This comes as some Fed officials have floated a possible half-point December hike. Crypto traders should care because administration pushback can temper hawkish expectations and support risk assets if it leads to a milder policy path.",
+          "sentiment": "Bullish",
+          "impact": "Eases aggressive hike bets, potential tailwind for Bitcoin and risk markets",
+          "sources": [
+            "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
+            "https://en.sedaily.com/world/2026/11/23/bessent-warns-fed-overtightening-would-be-a-policy-mistake"
+          ]
+        },
+        {
+          "title": "Dollar Retreats from 19-Month High as Hike Odds Soften",
+          "summary": "The US dollar index eased off its strongest levels since April 2025, trading around 103.6 to 103.8, as traders fully priced out a 50-basis-point December hike and left roughly 93 to 96 percent odds of a standard 25-basis-point move. The pullback followed last week's risk-asset rout and Bessent's comments. A softer dollar typically improves global liquidity conditions and has historically been supportive for Bitcoin.",
+          "sentiment": "Bullish",
+          "impact": "Weaker DXY provides relief for crypto and risk assets",
+          "sources": [
+            "https://finance.yahoo.com/markets/currencies/articles/dollar-edges-off-19-month-041309314.html",
+            "https://live.euronext.com/en/financial-news/dollar-edges-19-month-high-after-stocks-rout-yen-softens"
+          ]
+        },
+        {
+          "title": "Treasury Yields Rebound as Futures Rise Ahead of Williams",
+          "summary": "The 10-year Treasury yield climbed about 4 basis points to near 4.96 percent and the 2-year rose more sharply on Monday as US stock futures bounced hard after last week's sharp AI and tech-led correction. Markets are awaiting New York Fed President John Williams' remarks later today on the outlook and policy. Yield moves matter for crypto because higher rates increase the opportunity cost of holding non-yielding assets and can pressure valuations across risk markets.",
           "sentiment": "Neutral",
-          "impact": "High volatility catalyst for rates, dollar and crypto ahead of Dec FOMC",
+          "impact": "Yield volatility and Williams speech set near-term rate tone",
           "sources": [
-            "https://dipsonar.com/economic-calendar/",
-            "https://macrobullseye.com/calendar/2026/11/25/",
-            "https://fedratecalc.com/us-economic-calendar/"
+            "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
           ]
         },
         {
-          "title": "Fed's Cook Pushes for More Rate Hikes on Inflation",
-          "summary": "Federal Reserve Governor Lisa Cook said Friday the current policy rate is not high enough and more hikes are needed because inflation remains too high and is not easing. She was one of the two dissenters who wanted a hike in October. Crypto traders should watch this as it reinforces the hawkish consensus heading into December, raising the odds of tighter financial conditions that typically weigh on Bitcoin.",
-          "sentiment": "Bearish",
-          "impact": "Supports higher-for-longer rates, negative for risk assets",
-          "sources": [
-            "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/",
-            "https://www.reuters.com/markets/us/federal-reserve/"
-          ]
-        },
-        {
-          "title": "Dollar Index Holds Near 19-Month Highs Around 104",
-          "summary": "The US Dollar Index closed the week near 103.8 to 103.9, marking a fourth straight weekly gain and hovering close to its highest level since April 2025. Strength came from firm Fed hike expectations even as the rally stalled slightly on Friday. A strong dollar tends to tighten global liquidity and act as a headwind for Bitcoin and other risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Dollar strength pressures crypto and emerging-market flows",
-          "sources": [
-            "https://www.reuters.com/business/dollar-near-19-month-peak-ai-jitters-sap-risk-appetite-2026-11-20/",
-            "https://stockbiz.vn/en/news/usd-ends-eight-session-winning-streak-what-lies-ahead-next-week/42875571",
-            "https://kenmacro.com/dxy-dollar-index-forecast/"
-          ]
-        },
-        {
-          "title": "Treasury Yields Drop Sharply on Risk-Off Flight",
-          "summary": "The 10-year Treasury yield fell more than 10 basis points on Friday to around 4.91 percent, one of its biggest daily drops recently, as investors fled tech and AI-related stocks into bonds. The 2-year also declined even while December hike odds stayed high. Lower yields can support risk assets short-term, but the move reflects equity fear rather than a full dovish pivot.",
+          "title": "Wednesday Core PCE and GDP Second Estimate Take Center Stage",
+          "summary": "The key data this week arrives Wednesday with October Core PCE, the Fed's preferred inflation gauge, expected around 0.3 percent month-over-month and roughly 3.2 percent year-over-year, alongside the second estimate of third-quarter GDP near 3.4 percent. After recent sticky inflation prints and hawkish Fed commentary, these numbers will heavily influence December rate expectations. Crypto traders watch this closely as a hot print would reinforce higher-for-longer while a cooler one could fuel a broader risk rebound into the holiday-shortened week.",
           "sentiment": "Neutral",
-          "impact": "Temporary relief for duration-sensitive assets if yields stabilize lower",
+          "impact": "High-volatility catalyst for rates, dollar, and Bitcoin direction",
           "sources": [
-            "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
-            "https://m.economictimes.com/markets/us-stocks/news/tech-leads-global-stocks-rout-treasury-yields-fall/articleshow/136045354.cms",
-            "https://www.longtermtrends.com/weekly-macro-report/"
+            "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+            "https://helious.io/calendar/2026-w48",
+            "https://dipsonar.com/economic-calendar/"
           ]
         },
         {
-          "title": "Markets Price Near-Certain 25bp Fed Hike in December",
-          "summary": "Fed funds futures continue to show roughly 90 to 95 percent odds of a quarter-point rate increase at the December 8-9 FOMC meeting, with only slim chances of a larger 50 basis point move. Recent minutes and speeches from multiple officials back further tightening. This keeps financial conditions relatively tight and caps upside for Bitcoin until the path becomes clearer.",
+          "title": "German Flash PMI Hits Multi-Year High, UK Softens",
+          "summary": "Germany's S&P Global flash composite PMI surged to 55.0 in November, the strongest since early 2022, with manufacturing at a 56-month high of 55.0 and services at 54.0, both beating forecasts and signaling a broadening recovery. The UK composite eased to 52.3 with services weaker. Stronger European growth data reduces global recession fears and supports the risk-on narrative that can lift Bitcoin, though the US flash PMIs due today remain the more immediate focus.",
+          "sentiment": "Bullish",
+          "impact": "Positive global growth signal supportive for risk assets",
+          "sources": [
+            "https://www.fxstreet.com/news/germanys-flash-manufacturing-pmi-unexpectedly-expands-at-a-faster-pace-to-550-in-november-202611230831",
+            "https://www.reuters.com/world/uk/uk-pmi-shows-slight-november-slowdown-q4-looks-robust-2026-11-23/"
+          ]
+        },
+        {
+          "title": "December 25bp Fed Hike Odds Hold Firm Near 95 Percent",
+          "summary": "Despite the equity rout, Bessent's warning, and pared aggressive bets, CME FedWatch still shows around 96 percent probability of a quarter-point rate increase at the December 8-9 meeting. Hawkish recent Fed speak and elevated inflation readings keep the base case intact even as 50-basis-point odds have vanished. This higher-for-longer backdrop remains a headwind for Bitcoin until the PCE data or Williams speech shifts the narrative.",
           "sentiment": "Bearish",
-          "impact": "Entrenches higher rates outlook, limiting crypto liquidity",
+          "impact": "Sustains rate pressure and USD support against crypto upside",
           "sources": [
-            "https://www.reuters.com/business/jp-morgan-sees-fed-rate-hikes-next-three-meetings-inflation-persists-2026-11-19/",
-            "https://abcnews.com/US/wireStory/fed-minutes-higher-interest-rates-needed-december-inflation-138258781",
-            "https://tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-november-22"
-          ]
-        },
-        {
-          "title": "UMich Sentiment Rises, Inflation Expectations Fall",
-          "summary": "The final University of Michigan consumer sentiment index for November was revised up to 51.5 from 48.0 in October, its highest in three months, while one-year inflation expectations dropped sharply to 3.7 percent from 4.7 percent. The improvement came partly from post-election optimism and lower gas prices. Softening inflation expectations could give the Fed slightly more room, though absolute levels remain elevated.",
-          "sentiment": "Neutral",
-          "impact": "Mildly supportive if it softens longer-term rate fears",
-          "sources": [
-            "https://www.wsj.com/economy/consumers/consumer-sentiment-climbed-in-november-3e9563d8",
-            "https://tradingeconomics.com/united-states/consumer-confidence/news/504216et",
-            "https://seekingalpha.com/news/4675184-consumer-sentiment-revised-slightly-higher-in-novembers-final-print"
+            "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
+            "https://tradingeconomics.com/united-states/currency/news/603368"
           ]
         }
       ]
@@ -156,69 +149,69 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Iran Strikes US Bases in Bahrain; Tankers Hit in Hormuz",
-          "summary": "Iran's Revolutionary Guards launched missile and drone attacks on US military positions in Bahrain, claiming hits on Patriot radars, while Bahrain reported a fire at a civilian industrial site with no casualties. At the same time, multiple oil tankers were struck by projectiles or mines in the Strait of Hormuz. This keeps the nearly nine-month US-Iran conflict hot and threatens the key oil chokepoint. Traders should care because any further disruption to Gulf crude flows can spike energy prices and trigger broad risk-off moves across crypto and equities.",
+          "title": "Ukraine sinks Russian warship with drones in Libya",
+          "summary": "President Zelensky confirmed Ukraine used seven naval drones to sink the Russian corvette Merkury at Benghazi port and hit a weapons-linked cargo ship. The attack expands the war far beyond the Black Sea into North Africa and hits one of Russia's newer vessels. Traders should watch for Russian retaliation, higher shipping risk premiums, and any knock-on to Mediterranean energy routes.",
           "sentiment": "Bearish",
-          "impact": "Higher oil prices and elevated geopolitical risk premium pressure risk assets",
+          "impact": "Heightens geopolitical risk premium and risk-off pressure on crypto and equities",
           "sources": [
-            "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
-            "https://www.al-monitor.com/originals/2026/11/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz",
-            "https://www.timesofisrael.com/hormuz-tankers-hit-in-apparent-iranian-attacks-as-qataris-visit-tehran-for-mediation-talks/"
+            "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+            "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+            "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
           ]
         },
         {
-          "title": "Russian Missiles Enter Poland; NATO Pledges Full Defense",
-          "summary": "During a massive Russian barrage on Ukraine, cruise missiles and a drone crashed in southeastern Poland, a NATO member. Polish leaders called it an intentional provocation timed with allied exercises, and NATO Secretary General Mark Rutte vowed the alliance will defend every inch of Polish territory. This follows heavy strikes that also hit Zelensky's hometown. For markets, any credible risk of direct NATO-Russia confrontation is a classic risk-off catalyst that can slam Bitcoin and other high-beta assets.",
+          "title": "Iran vows all tools against US blockade as Trump eyes strikes",
+          "summary": "Iran's foreign ministry said it will use every available means to confront the US naval blockade, calling it military aggression, a day after Trump threatened to sink any Iranian tankers that try to break it and signaled possible renewed strikes after New Year if no deal. The standoff keeps Strait of Hormuz risk elevated and oil prices sensitive. Crypto traders care because another escalation spike in energy costs fuels inflation fears and tighter financial conditions.",
           "sentiment": "Bearish",
-          "impact": "Heightened NATO-Russia escalation fears drive flight to safety",
+          "impact": "Sustains oil risk premium and broader risk-asset volatility",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
-            "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-            "https://www.latimes.com/world-nation/story/2026/11-21/ballistic-missile-attack-on-zelenskys-hometown-in-central-ukraine-kills-2-wounds-scores"
+            "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
+            "https://www.indiatoday.in/world/story/donald-trump-warns-iran-us-strikes-tankers-naval-blockade-3044722-2026-11-23",
+            "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
           ]
         },
         {
-          "title": "Ukrainian Drone Hits Russian Military Ship in Baltic Sea",
-          "summary": "A Russian cargo vessel linked to military logistics, the Sparta II bound for Kaliningrad, was struck by drones in the Gulf of Finland, caught fire, and drifted into Finnish waters. Finland said Ukraine was likely responsible and noted the war is spilling into NATO's immediate neighborhood. Crew was evacuated safely. This expands the conflict's footprint into the Baltic and raises odds of further incidents near NATO states, adding another layer of uncertainty for global risk markets.",
+          "title": "Libya pipeline shutdown cuts 350,000 barrels a day",
+          "summary": "Libya's National Oil Corporation said an outlaw group shut a valve on the pipeline from the giant Sharara field, slashing output by about 350,000 barrels per day on top of an existing smaller outage. Combined losses near 365,000 bpd remove a meaningful chunk of supply while Middle East tensions already keep markets tight. Higher oil prices from this kind of disruption typically pressure risk assets including Bitcoin through the inflation and rates channel.",
           "sentiment": "Bearish",
-          "impact": "War spillover into NATO waters increases systemic geopolitical risk",
+          "impact": "Tightens oil supply and supports higher energy prices",
           "sources": [
-            "https://www.cnn.com/2026/11/21/europe/russian-ship-fire-baltic-latam-intl",
-            "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/",
-            "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over"
+            "https://www.bloomberg.com/news/articles/2026-11-23/libya-oil-output-pipeline-shutdown-biggest-sharara-field-opec",
+            "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
+            "https://www.zawya.com/en/business/oil-gas/libyas-noc-says-unlawful-pipeline-closure-from-sharara-oilfield-to-cut-output-by-350000-bpd-2443364"
           ]
         },
         {
-          "title": "Trump Pushes Ukraine Peace Deal Before January Congress Shift",
-          "summary": "The Trump administration is urgently pressing Ukraine and Russia for a peace agreement by early January, before Democrats take control of Congress after the midterms. US envoys have been shuttling between capitals conveying the deadline, while Kyiv and European officials worry it could force major Ukrainian concessions. A credible deal would remove a major overhang, but a rushed or unfavorable one could prolong instability. Crypto traders should watch closely as resolution or collapse of talks can swing risk sentiment sharply.",
+          "title": "COP31 climate talks collapse without fossil fuel deal",
+          "summary": "The UN climate summit in Turkey ended without a final agreement after the EU and others rejected a text that omitted any clear commitment on fossil fuels, making it one of the rare full collapses of the process. Talks ran deep into overtime but exposed deep splits between oil producers and ambition-focused nations. For markets the near-term effect is limited, though it leaves longer-term energy transition policy more uncertain and can support fossil fuel sentiment at the margin.",
           "sentiment": "Neutral",
-          "impact": "Unresolved peace push creates event-driven volatility for risk assets",
+          "impact": "Policy uncertainty for energy transition; limited immediate market move",
           "sources": [
-            "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8",
-            "https://www.kyivpost.com/post/90759",
-            "https://english.nv.ua/nation/u-s-wants-russia-ukraine-peace-deal-by-january-50661149.html"
+            "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+            "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure",
+            "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
           ]
         },
         {
-          "title": "Houthis Fire Missiles at Riyadh as Saudi Conflict Escalates",
-          "summary": "Yemen's Houthis launched ballistic missiles toward the Saudi capital Riyadh, which the Saudi-led coalition intercepted, marking continued cross-border attacks after earlier damage to a major Riyadh tower housing the sovereign wealth fund. The group also threatened ports and airspace. This secondary Middle East front compounds energy security worries already driven by the Iran conflict. Sustained attacks on Saudi infrastructure keep a risk premium in oil and can spill into broader market caution.",
+          "title": "NATO meets after Russian missiles enter Polish airspace",
+          "summary": "NATO's North Atlantic Council gathers in Brussels today after Russian cruise missiles and a drone crossed into Poland during a large attack on Ukraine, with Secretary General Rutte pledging to defend every inch of Polish territory. The incident follows a Ukrainian drone hit on a sanctioned Russian cargo ship near Finland that drifted into Finnish waters. Any concrete NATO force enhancements or sharper rhetoric raise the odds of wider European escalation that markets hate.",
           "sentiment": "Bearish",
-          "impact": "Additional Gulf energy infrastructure threats support higher oil and risk-off tone",
+          "impact": "Raises NATO-Russia confrontation risk and defensive risk-off flows",
           "sources": [
-            "https://www.reuters.com/world/middle-east/saudi-arabia-issues-two-riyadh-alerts-says-danger-has-passed-2026-11-20/",
-            "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh",
-            "https://www.timesofisrael.com/yemens-houthis-fire-3-missiles-at-riyadh-after-saudi-coalitions-special-operation/"
+            "https://www.kyivpost.com/post/90893",
+            "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21/",
+            "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374"
           ]
         },
         {
-          "title": "COP31 Climate Talks Deadlocked Over Fossil Fuels",
-          "summary": "UN climate negotiations in Turkey have entered a second day of overtime with deep divisions over any language on transitioning away from fossil fuels, opposed by Saudi Arabia and other producers. A new draft recalls prior commitments but avoids explicit phase-out wording, raising the chance of no deal. While not an immediate black swan, failure or a weak outcome reinforces the status quo for oil and gas supply. Energy traders and risk assets may see limited direct impact but watch for any signal on long-term fossil demand policy.",
-          "sentiment": "Neutral",
-          "impact": "Policy uncertainty for energy transition; limited near-term market move",
+          "title": "Russian strikes kill 15 in Kyiv region apartment collapse",
+          "summary": "Russian drone and missile attacks killed at least 15 people in the Kyiv region, including after a strike partially collapsed a five-story apartment block in Dymer where rescuers are still searching rubble. The intensified winter barrage also hit energy and civilian targets as temperatures drop. Persistent high-intensity fighting keeps Ukrainian and European risk elevated and can weigh on broader risk appetite when combined with other flashpoints.",
+          "sentiment": "Bearish",
+          "impact": "Sustains Ukraine war intensity and regional risk premium",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-            "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
-            "https://www.ft.com/world"
+            "https://www.kyivpost.com/post/90880",
+            "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece",
+            "https://www.theguardian.com/world/2026/nov/23/ukraine-war-briefing-race-to-find-survivors-after-russian-attack-on-apartment-block-kills-at-least-nine"
           ]
         }
       ]
