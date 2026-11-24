@@ -1,82 +1,81 @@
 {
-  "generated_at": "2026-11-24T00:26:05+00:00",
+  "generated_at": "2026-11-24T12:04:41+00:00",
   "model": "grok-4.5",
-  "overall_sentiment": "Neutral",
-  "overall_summary": "Bitcoin faces mixed forces with heavy ETF outflows and a stronger dollar from firm hike odds weighed against large off-exchange accumulation, Strategy buying, and a supportive CFTC reserves ruling. Geopolitical headlines stay noisy while markets wait on core PCE and GDP. The near-term tone for crypto is balanced and data-dependent.",
+  "overall_sentiment": "Bearish",
+  "overall_summary": "Bitcoin is under fresh pressure after slipping below sixty thousand dollars on another large day of spot ETF outflows, while hawkish Fed talk and a strong dollar keep yields elevated. Geopolitical noise from Russia, Ukraine, and the Middle East adds a risk-off overlay. Corporate buying and a helpful CFTC reserve ruling provide some support, but the forward tone stays defensive into Wednesday’s inflation and growth data.",
   "key_points": [
-    "Spot Bitcoin ETFs see large weekly outflows",
-    "Institutions scoop nearly $1B BTC off exchanges",
-    "CFTC lets BTC and ether count as reserves",
-    "Dollar strength and hike bets pressure risk",
-    "Markets brace for core PCE and GDP"
+    "BTC under $60k on heavy ETF outflows",
+    "Hawkish Fed and firm dollar pressure risk assets",
+    "MicroStrategy buys more BTC; CFTC ruling constructive",
+    "Geopolitical tensions keep markets cautious",
+    "Focus shifts to Wednesday Core PCE and GDP"
   ],
   "categories": [
     {
       "name": "Crypto / Bitcoin",
       "items": [
         {
-          "title": "BTC Rebounds From $55K Low on Nvidia CEO Return, Short Squeeze",
-          "summary": "Bitcoin swung from a two-year low near fifty-five thousand over the weekend to as high as sixty-four thousand five hundred on Monday after Nvidia reinstated founder Jensen Huang as CEO, sending the stock up more than thirty percent and lifting risk assets. Hundreds of millions in short positions were liquidated in the squeeze, including roughly two hundred fifty million in a ten-minute window. The move later faded with price slipping back toward sixty-one to sixty-two thousand as US-hours selling returned. Traders should care because the bounce was leverage-driven and tied to tech sentiment; it needs fresh spot demand to hold.",
-          "sentiment": "Bullish",
-          "impact": "Short-term relief rally that may fade without ETF inflows",
-          "sources": [
-            "https://www.tradingview.com/news/cointelegraph:8365aa3a4094b:0-bitcoin-rebounds-17-from-55k-lows-as-nvidia-rally-sparks-500m-crypto-liquidations/",
-            "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
-            "https://cryptobriefing.com/bitcoin-63000-250-million-shorts-liquidated/"
-          ]
-        },
-        {
-          "title": "Spot Bitcoin ETFs Bleed $1.8B Weekly, $669M Friday Outflow",
-          "summary": "US spot Bitcoin ETFs recorded about one point seven nine billion dollars in net outflows for the week of November sixteen to twenty, with six hundred sixty-nine million leaving on Friday alone, the largest single day since June. BlackRock IBIT led the redemptions. November outflows are already multi-billion and analysts call the selling structural amid rate-hike fears. This matters because ETF flows have been a primary price driver; continued redemptions cap rebounds and signal institutional caution heading into PCE data.",
+          "title": "Bitcoin hands back Nvidia rally, slips under $60k",
+          "summary": "Bitcoin surged as high as sixty-four thousand five hundred dollars on Monday after Nvidia reinstated Jensen Huang, but quickly gave it all back and traded below sixty thousand on Tuesday. Crypto futures liquidations jumped to about eight hundred forty-four million dollars over twenty-four hours, more than triple the prior day, as the move reversed. Traders should care because the bounce looked like a short squeeze rather than fresh demand, and bitcoin is lagging the stock rebound while macro headwinds and selling pressure remain.",
           "sentiment": "Bearish",
-          "impact": "Sustained selling pressure that limits upside until flows turn",
+          "impact": "Near-term downside pressure and higher volatility as leverage flushes",
           "sources": [
-            "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
-            "https://crypto-economy.com/bitcoin-etf-flows/",
-            "https://bitfinex.com"
+            "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+            "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+            "https://www.bloomberg.com/news/articles/2026-11-24/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus"
           ]
         },
         {
-          "title": "Abraxas Capital Scoops Roughly $1B Bitcoin Off Exchanges",
-          "summary": "On-chain trackers including Lookonchain and Arkham flagged wallets linked to Abraxas Capital withdrawing approximately seventeen thousand five hundred ninety-seven BTC, worth about one point zero four billion dollars, from Binance and Kraken over two days during the sub-sixty thousand dip. Average entry was near fifty-nine thousand two hundred. The firm later added more, pushing linked holdings higher. Traders should watch this because large cold-wallet accumulation during panic removes supply from exchanges and often marks institutional dip-buying.",
-          "sentiment": "Bullish",
-          "impact": "Supply absorption that supports a local floor if sustained",
+          "title": "Spot bitcoin ETFs see another $570M outflow Monday",
+          "summary": "U.S. spot bitcoin ETFs recorded five hundred sixty-nine point seven million dollars in net outflows on Monday, the fifth straight session of redemptions, led by BlackRock's IBIT at over five hundred million. November outflows have reached roughly four point seven billion dollars, the largest monthly total on record, after nearly one point eight billion left last week. This is structural selling that is overriding short-term equity rallies and removing a key source of demand traders watch closely.",
+          "sentiment": "Bearish",
+          "impact": "Continued institutional selling pressure weighing on price",
           "sources": [
-            "https://cryptobriefing.com/abraxas-capital-1-billion-bitcoin-two-days/",
-            "https://news.bitcoin.com/featured/bitcoins-price-dip-attracts-a-whale-as-hedge-fund-scoops-up-1b/",
-            "https://blockchain.news/flashnews/abraxas-capital-accumulates-1-04b-bitcoin"
+            "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+            "https://bykaranteli.com/etf/btc",
+            "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
           ]
         },
         {
-          "title": "CFTC Lets BTC, Ether, Stablecoins Count Toward Reserves",
-          "summary": "CFTC staff issued an advisory allowing bitcoin, ether and payment stablecoins to count toward the twelve-month operating-cost financial resources that derivatives exchanges and clearinghouses must hold, subject to haircuts of at least twenty percent for BTC and ETH and two percent for stablecoins. Crypto still cannot meet the separate liquidity requirement. This is staff guidance only, not a Commission rule. It gives regulated crypto venues more balance-sheet flexibility and is a constructive regulatory signal.",
-          "sentiment": "Bullish",
-          "impact": "Positive clarity that eases capital burdens for crypto derivatives firms",
+          "title": "Record 11.6 million BTC now underwater after $55k low",
+          "summary": "Bitcoin's weekend drop to about fifty-five thousand dollars pushed a record eleven point six million BTC into unrealized loss, according to Glassnode, while supply in profit fell to eight point five million BTC below the FTX-collapse low. Mid-sized entities holding one hundred to ten thousand BTC kept accumulating even as smaller holders sold. Traders should note this as classic washed-out conditions that have marked bottoms before, though price still needs to hold support for confirmation.",
+          "sentiment": "Neutral",
+          "impact": "Capitulation signal that could support a base if support holds",
           "sources": [
-            "https://www.reuters.com/legal/government/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-2026-11-24/",
-            "https://cryptobriefing.com/cftc-advisory-crypto-financial-resource-requirements/",
-            "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves"
+            "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+            "https://cryptonews.net/news/bitcoin/33801290/"
           ]
         },
         {
-          "title": "Strategy Buys 457 BTC, Lifts Preferred Buyback Cap to $4B",
-          "summary": "Michael Saylor’s Strategy added four hundred fifty-seven bitcoin for twenty-nine point six million dollars last week at an average near sixty-four thousand nine hundred, bringing holdings to eight hundred fifty-one thousand three hundred five BTC. The firm spent far more, two hundred twelve million, buying back its STRC preferred stock and raised that repurchase authorization to four billion dollars while moving one billion from its USD reserve into flexible cash. Accumulation continues but has slowed versus preferred buybacks. It remains a steady institutional bid even as the stock and bitcoin have been under pressure.",
+          "title": "Strategy buys another 457 BTC, holdings hit 851k",
+          "summary": "Strategy acquired four hundred fifty-seven bitcoin for about twenty-nine point six million dollars last week at an average near sixty-four thousand nine hundred dollars, lifting total holdings to eight hundred fifty-one thousand three hundred five BTC. The firm spent far more on preferred stock buybacks and raised that program by a billion dollars while still adding to its stack. This keeps the largest corporate holder buying the dip even as its paper losses grow, signaling long-term conviction amid the selloff.",
           "sentiment": "Bullish",
-          "impact": "Steady treasury demand that cushions downside but size is modest vs ETF flows",
+          "impact": "Modest positive demand signal from largest corporate buyer",
           "sources": [
-            "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+            "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
             "https://bitcoinmagazine.com/news/strategy-mstr-adds-457-bitcoin",
             "https://bitcointreasuries.net/news/strategy-adds-457-bitcoin-boosts-buyback-program-to-dollar4-billion"
           ]
         },
         {
-          "title": "Grayscale Calls Bitcoin Oversold; AI Risks Cloud Near Term",
-          "summary": "Grayscale research said bitcoin’s drop to about fifty-five thousand extended the current bear market to at least four hundred eleven days, the longest in its comparison, yet the fifty-six percent drawdown from the October twenty twenty-five peak is the shallowest. The firm sees major cryptos as oversold after heavy ETP outflows, stablecoin redemptions and put demand, with solid blockchain fundamentals offering a longer-term entry. Near-term prices, however, hinge more on AI-related volatility than on-chain metrics. This frames the washout as potentially constructive while warning that tech headlines still dominate.",
+          "title": "DOJ moves to forfeit $1.1B from North Korea Binance hack",
+          "summary": "The U.S. Justice Department filed a civil forfeiture action seeking more than one point one billion dollars in frozen USDC stolen in the late-October Binance hack attributed to North Korean actors. Authorities say they have already helped freeze, seize or return over two point nine billion of the more than six billion taken, though billions remain unaccounted for and some funds continue moving. This underscores ongoing recovery efforts and exchange security risks that can affect market confidence and stablecoin flows.",
           "sentiment": "Neutral",
-          "impact": "Supports longer-term accumulation view but leaves near-term direction unresolved",
+          "impact": "Supports industry integrity but limited immediate price catalyst",
           "sources": [
-            "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
-            "https://www.bitcoininsider.org/article/grayscale-says-bitcoin-majors-oversold-411-day-bear-market-longest-ai-risks-pandl"
+            "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+            "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving"
+          ]
+        },
+        {
+          "title": "CFTC lets BTC and ETH count toward exchange reserves",
+          "summary": "CFTC staff advised that bitcoin, ether and payment stablecoins can count toward the twelve-month operating-cost reserves required of regulated derivatives exchanges, swap venues and clearinghouses, subject to haircuts of at least twenty percent for BTC and ETH. Crypto still cannot meet the separate cash or highly liquid securities liquidity minimum. This is a clarity win that lowers a barrier for crypto-friendly venues and signals more mainstream acceptance of major tokens in U.S. derivatives markets.",
+          "sentiment": "Bullish",
+          "impact": "Positive regulatory signal easing costs for crypto derivatives platforms",
+          "sources": [
+            "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+            "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+            "https://www.reuters.com/legal/government/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-2026-11-24/"
           ]
         }
       ]
@@ -85,69 +84,69 @@
       "name": "Macro / Economic",
       "items": [
         {
-          "title": "Fed's Williams: Still Work to Do on High Inflation",
-          "summary": "New York Fed President John Williams said Monday that inflation remains too high at around three and a half percent and the central bank still has work to do to bring it back to the two percent target on a sustained basis. He pointed to resilient growth, a stable labor market, and the need for actions over time, with markets fully pricing a quarter-point hike at the December meeting. Crypto traders should care because this locks in higher-for-longer rates expectations right before key PCE data, keeping pressure on risk assets.",
+          "title": "Fed's Williams: Inflation Too High, More Hikes Needed",
+          "summary": "New York Fed President John Williams said Monday that inflation remains too high at around three and a half percent on the PCE measure and the Fed still has work to do to get it sustainably back to two percent. He stressed the economy is strong and resilient with solid growth and a stable labor market, but policy must tighten over time based on data ahead of the December FOMC. Markets now price a near-certain twenty-five basis point hike next month from the three point seven five to four percent range. Crypto traders should care because this locks in higher-for-longer rates and a firmer dollar, which historically pressures risk assets including Bitcoin.",
           "sentiment": "Bearish",
-          "impact": "Supports higher rates, stronger dollar, and tighter financial conditions weighing on Bitcoin",
+          "impact": "Reinforces December hike bets and tighter financial conditions",
           "sources": [
             "https://www.reuters.com/business/fed-has-work-do-lower-inflation-williams-says-2026-11-23/",
-            "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-            "https://tellerwindow.newyorkfed.org/2026/11/23/key-takeaways-from-president-williamss-speech-on-the-economic-outlook-and-monetary-policy-28/"
+            "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html",
+            "https://www.newyorkfed.org/newsevents/speeches/2026/wil261123"
           ]
         },
         {
-          "title": "US Flash PMIs Cool but Still Signal Solid Growth",
-          "summary": "S and P Global flash PMIs for November showed the composite easing to fifty four point six, services dropping to fifty four point seven below forecasts, and manufacturing holding at fifty four point five. Growth slowed due to high prices and capacity constraints but remains expansionary and still points to about three percent annualized fourth-quarter GDP. Traders watch this as an early read on demand strength heading into PCE and the Fed decision, with hiring still solid.",
+          "title": "US Flash PMI Cools to 54.6 but Still Signals Solid Growth",
+          "summary": "S and P Global flash composite PMI fell to a four-month low of fifty-four point six in November from fifty-five point nine, with services at fifty-four point seven missing forecasts and manufacturing at fifty-four point five. Growth cooled due to capacity constraints, high prices damping orders, and some rate effects, yet hiring stayed strong and the survey still points to about three percent annualized fourth-quarter GDP. Price pressures eased a bit but remain elevated well above the Fed target. Traders watch this as confirmation of resilient but slowing expansion that keeps the Fed hawkish while not crashing demand.",
           "sentiment": "Neutral",
-          "impact": "Cooling momentum but resilient activity leaves December hike odds intact",
+          "impact": "Supports soft-landing narrative without derailing hike path",
           "sources": [
-            "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/",
             "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/11/us-flash-pmi-indicates-still-elevated-but-cooling-business-activity-growth-and-price-pressures",
-            "https://pro.thestreet.com/market-commentary/flash-pmi-slips-to-a-4-month-low-signals-3-gdp-growth"
+            "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/",
+            "https://www.cmegroup.com/education/events/econoday/671313"
           ]
         },
         {
-          "title": "Dollar Hits Near 19-Month Highs on Hike Bets",
-          "summary": "The US dollar index climbed to around one hundred four point three, its strongest levels in about nineteen months, lifted by firming December rate-hike expectations and recovering risk appetite after the Nvidia-led rebound. Ten-year yields hovered near four point nine two to four point nine five percent while the two-year rose on policy bets. A strong dollar typically pressures crypto and commodities, so this remains a key headwind for Bitcoin traders.",
+          "title": "Dollar Near Multi-Month Highs, Yields Steady Near 4.9%",
+          "summary": "The DXY dollar index hovered near one hundred four point two to one hundred four point five after touching recent highs on Monday, easing only slightly Tuesday as tech rebounded but Fed hike bets stayed firm. The ten-year Treasury yield traded around four point nine percent, down a basis point or so after Williams, with the two-year near four point six six percent. Strong AI-related demand and inflation concerns keep the greenback bid and borrowing costs elevated. For crypto this means continued headwinds from a strong dollar and higher real rates that raise the opportunity cost of holding non-yielding assets.",
           "sentiment": "Bearish",
-          "impact": "Stronger DXY and rate differentials squeeze risk assets including crypto",
+          "impact": "Stronger USD and sticky yields pressure risk assets",
           "sources": [
-            "https://www.barchart.com/story/news/8966972/dollar-gains-as-stocks-recover-and-t-note-yields-rise",
-            "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-23",
-            "https://portfolio-terminal.com/markets/us-dollar-index"
+            "https://www.fxstreet.com/news/united-states-dollar-index-softens-below-10450-renewed-ai-euphoria-underpins-fed-hike-bets-202611240415",
+            "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html",
+            "https://www.barrons.com/livecoverage/stock-market-news-today-112426/card/dollar-eases-as-stock-futures-point-to-tech-pullback-cWReqk8xQ79q6vgfT5fF"
           ]
         },
         {
-          "title": "Markets Brace for Core PCE and GDP Wednesday",
-          "summary": "The key inflation gauge Core PCE for October and the second estimate of third-quarter GDP both drop Wednesday at eight thirty Eastern, alongside personal income, durable goods, and jobless claims. Consensus looks for Core PCE around zero point three percent month-over-month and GDP holding near three point four percent. This is the last major data before the December FOMC and will heavily influence whether hike odds stay near one hundred percent or ease.",
+          "title": "Markets Brace for Wednesday Core PCE and GDP Data",
+          "summary": "All eyes turn to Wednesday's release of October core PCE, the Fed's preferred inflation gauge, expected around zero point three percent month-over-month and three point two percent year-over-year, alongside the second estimate of third-quarter GDP near three point four percent. Personal income, spending, durable goods and jobless claims also drop at the same time, plus the Beige Book later. A hot print would cement further tightening into December and beyond, while a cool one could ease some pressure. Crypto traders need this because it is the last major inflation checkpoint before the blackout and FOMC, likely driving big volatility in rates, dollar and Bitcoin.",
           "sentiment": "Neutral",
-          "impact": "High-stakes catalyst that could lock in or soften December rate-hike pricing",
+          "impact": "Key catalyst that will set December policy expectations",
           "sources": [
-            "https://helious.io/calendar",
+            "https://fedratecalc.com/us-economic-calendar/",
+            "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html",
+            "https://helious.io/calendar"
+          ]
+        },
+        {
+          "title": "Chicago Fed Activity Index Slips Below Trend to -0.06",
+          "summary": "The Chicago Fed National Activity Index dropped to minus zero point zero six in October from a revised plus zero point zero five, signaling growth slightly below its long-run trend. Production indicators drove the weakness while employment and sales orders offered some offset; the three-month average also turned mildly negative. This aligns with the softer PMI tone without pointing to recession. It matters for traders as another data point showing the economy is decelerating just enough to keep the Fed data-dependent but not doveish ahead of PCE.",
+          "sentiment": "Neutral",
+          "impact": "Mild cooling signal that does not change hike odds",
+          "sources": [
+            "https://fred.stlouisfed.org/series/CFNAI",
+            "https://seekingalpha.com/news/4675536-chicago-fed-national-activity-index-dips-in-october-reversing-septembers-increase",
+            "https://tradingeconomics.com/united-states/chicago-fed-national-activity-index/news/603589"
+          ]
+        },
+        {
+          "title": "Today's Data: Consumer Confidence, Case-Shiller, IP Revision",
+          "summary": "Tuesday's calendar features Conference Board Consumer Confidence for November expected near ninety-two point one to ninety-two point five after October's ninety-one point seven, plus S and P Case-Shiller home prices for September forecast around two point seven percent year-over-year, FHFA house prices, Richmond Fed manufacturing, and the Fed's annual industrial production and capacity utilization revision. These medium-impact releases fill the gap before Wednesday's heavy PCE-GDP day and can nudge yields or the dollar if they surprise. Crypto desks watch for any consumer or housing softness that might temper Fed hawkishness or confirm resilience that supports higher rates.",
+          "sentiment": "Neutral",
+          "impact": "Secondary data that can fine-tune pre-PCE positioning",
+          "sources": [
             "https://biolyst.org/economic-calendar/",
-            "https://www.cmelitegroup.com/knowledge-hub/economic-calendar-this-week/"
-          ]
-        },
-        {
-          "title": "Consumer Confidence and Industrial Data Due Today",
-          "summary": "Tuesday's calendar features Conference Board Consumer Confidence for November expected near ninety two from ninety one point seven, plus Case-Shiller home prices and Industrial Production with the annual revision. These give fresh reads on household sentiment and factory activity just ahead of the bigger PCE release. Soft or strong prints can nudge yields and the dollar intraday, affecting crypto volatility into the holiday-shortened week.",
-          "sentiment": "Neutral",
-          "impact": "Secondary data that may fine-tune rate expectations before PCE",
-          "sources": [
             "https://us.econoday.com/byevent?fid=681825&year=2026&lid=0",
-            "https://www.thetrading.tools/economic-calendar",
-            "https://macrobullseye.com/calendar/2026/11/"
-          ]
-        },
-        {
-          "title": "Treasury Yields Steady as Hike Odds Firm Near 96-100%",
-          "summary": "The ten-year yield closed near four point nine two to four point nine five percent while shorter yields rose with markets pricing a near-certain twenty-five basis point December hike and elevated odds of further tightening. Williams' remarks and the stock rebound reduced safe-haven buying. Higher real yields and a firm dollar remain a structural drag on Bitcoin until inflation data clearly cools.",
-          "sentiment": "Bearish",
-          "impact": "Elevated yields reinforce higher-for-longer regime pressuring risk assets",
-          "sources": [
-            "https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y",
-            "https://countryeconomy.com/bonds/usa",
-            "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-23"
+            "https://www.federalreserve.gov/releases/G17/20261117/default.htm"
           ]
         }
       ]
@@ -156,69 +155,68 @@
       "name": "Geopolitics / Major News",
       "items": [
         {
-          "title": "Ukraine sinks Russian warship in Libya with sea drones",
-          "summary": "President Zelenskyy confirmed Ukraine used seven naval drones to sink Russia's relatively new corvette Merkury at Benghazi port and hit a cargo ship allegedly carrying weapons. This is a major expansion of the war far beyond the Black Sea into the Mediterranean. Traders should watch for Russian retaliation threats and higher shipping insurance costs that could spill into broader risk sentiment.",
+          "title": "Germany warns Russia may launch nuclear satellite soon",
+          "summary": "German intelligence and NATO allies assess that Russia could put a nuclear-armed satellite called Sputnik-S into orbit within 60 days, possibly as early as December. A detonation would risk frying large numbers of satellites including Starlink and create long-lasting radiation belts. Traders should care because this is a genuine black-swan escalation that threatens the space infrastructure modern markets and military ops rely on.",
           "sentiment": "Bearish",
-          "impact": "Raises escalation risk and war-risk premiums on risk assets",
+          "impact": "elevates global risk premium and satellite-dependent systems fear",
           "sources": [
-            "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+            "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+            "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489",
+            "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/"
+          ]
+        },
+        {
+          "title": "Ukraine sinks Russian corvette in Libya with sea drones",
+          "summary": "President Zelenskyy confirmed Ukrainian naval drones launched from a mothership sank the Russian corvette Merkury at Benghazi port and hit a weapons cargo ship. The strike extends the war deep into the Mediterranean and Africa, far from the front lines. This shows Kyiv’s long-range reach and risks drawing more players into the conflict, keeping geopolitical uncertainty high for risk assets.",
+          "sentiment": "Bearish",
+          "impact": "widens war geography and raises escalation uncertainty",
+          "sources": [
             "https://www.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl",
-            "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+            "https://newsukraine.rbc.ua/news/zelenskyy-confirms-ukrainian-strike-sank-1795420688.html",
+            "https://www.middleeasteye.net/news/ukraine-claims-russian-warship-sunk-drone-attack-libyan-naval-base"
           ]
         },
         {
-          "title": "Iran vows all means to break US naval blockade",
-          "summary": "Iran's foreign ministry said it will use every tool available to confront the US naval blockade of its ports, calling it military aggression and citing self-defense rights. Reports suggest tankers may attempt to challenge the blockade while Hormuz traffic remains disrupted and uncertain. This keeps oil markets jumpy and elevates the chance of a sharp energy shock that hits risk assets.",
-          "sentiment": "Bearish",
-          "impact": "Heightens oil volatility and geopolitical risk premium",
-          "sources": [
-            "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
-            "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/",
-            "https://www.thehindu.com/news/international/will-use-all-available-means-to-counter-us-blockade-iran/article71735993.ece"
-          ]
-        },
-        {
-          "title": "COP31 climate summit collapses with no fossil fuel deal",
-          "summary": "The longest UN climate talks on record in Turkey ended without a main political agreement after the EU, UK and others rejected a text that omitted any mention of fossil fuels. Deep splits over energy security amid ongoing wars and high prices killed consensus. For markets this reinforces that oil and gas will stay central longer, supporting energy prices but offering little new policy clarity.",
+          "title": "Iran claims mines hit three US-escorted tankers in Hormuz",
+          "summary": "Iran’s Revolutionary Guards say three oil tankers struck naval mines and caught fire in the Strait of Hormuz despite US air escort, while Washington adds more sanctions on Iranian shadow banking. Oil still fell to three-month lows on rising supply and mediation talks involving Qatar and US officials. Energy shocks and blockade risks remain the key swing factor for inflation and risk appetite.",
           "sentiment": "Neutral",
-          "impact": "Supports longer-term fossil fuel demand narrative",
+          "impact": "oil volatility and Hormuz risk premium unresolved",
           "sources": [
-            "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-            "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-            "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure"
+            "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+            "https://www.reuters.com/business/energy/oil-holds-near-three-month-low-rising-supply-offsets-hormuz-threat-2026-11-24/",
+            "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
           ]
         },
         {
-          "title": "EU unveils 22nd Russia sanctions package on banks and fleet",
-          "summary": "European Commission President von der Leyen proposed a new sanctions round targeting around 60 more Russian banks for SWIFT removal, crypto platforms, over 70 shadow fleet vessels, refinery repair bans, ex-soldiers' visas and Russian athletes. It aims to further squeeze Moscow's war financing. This adds incremental pressure on Russia but is unlikely to shift the battlefield overnight.",
+          "title": "EU unveils 22nd Russia sanctions package hitting banks",
+          "summary": "The European Commission proposed cutting about 60 more Russian banks from SWIFT, cracking down on crypto and payment networks used for evasion, expanding energy repair bans, listing more shadow fleet tankers, and restricting Russian athletes and ex-soldiers. It still needs full member-state approval. Extra pressure on Russian finance and crypto routes matters for capital flows and any remaining sanctions-evasion activity.",
           "sentiment": "Neutral",
-          "impact": "Mild additional pressure on Russian economy and energy flows",
+          "impact": "tightens Russian funding and crypto evasion channels",
           "sources": [
-            "https://www.politico.eu/article/eu-to-target-russian-ex-soldiers-banks-and-sports-in-new-sanctions-push/",
-            "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
-            "https://euneighbourseast.eu/news/latest-news/ursula-von-der-leyen-presents-22nd-package-of-eu-sanctions-against-russia/"
+            "https://www.intellinews.com/eu-proposes-22nd-russia-sanctions-package-cutting-60-banks-off-swift-and-barring-ex-soldiers-487925/",
+            "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_26_2563/STATEMENT_26_2563_EN.pdf",
+            "https://www.eurointegration.com.ua/eng/news/2026/11/23/7250623/"
           ]
         },
         {
-          "title": "Libya reopens key oil pipeline, easing supply fears",
-          "summary": "Libya's National Oil Corporation said the pipeline from the giant Sharara field reopened after a brief closure by an armed group that had threatened about 350,000 barrels per day of output. Brent briefly dipped below 90 dollars on the news amid other supply signals. Extra Libyan barrels provide a near-term cushion against Middle East disruptions and support risk appetite if oil cools further.",
-          "sentiment": "Bullish",
-          "impact": "Temporary oil price relief that can lift risk assets",
-          "sources": [
-            "https://www.bloomberg.com/news/articles/2026-11-23/libya-oil-output-pipeline-shutdown-biggest-sharara-field-opec",
-            "https://www.hydrocarbonprocessing.com/news/2026/11/libyas-sharara-oil-pipeline-reopens-after-closure-threatened-350-000-bpd-of-output/",
-            "https://www.investify.pk/news/100000162478/oil-falls-on-increased-middle-east-flows-libyan-pipeline-restart"
-          ]
-        },
-        {
-          "title": "China threatens countermeasures over US telecom ban",
-          "summary": "China's commerce ministry firmly opposed the FCC vote barring major Chinese telecom firms from direct access to US phone numbers and warned of necessary countermeasures. The move continues tech decoupling and follows earlier lab-testing restrictions. Fresh US-China friction risks weighing on global growth expectations and tech-related risk assets if retaliation expands.",
+          "title": "Pentagon delays Patriot interceptors for Ukraine",
+          "summary": "US Defense Secretary Pete Hegseth has still not signed off on roughly 60 Patriot interceptors already paid for by allies, including some from European stocks. Ukraine faces continued Russian ballistic missile pressure with thin air-defense stocks. Delayed Western hardware raises the odds of more infrastructure damage and a longer, messier war that keeps risk assets on edge.",
           "sentiment": "Bearish",
-          "impact": "Adds to US-China tech and trade uncertainty",
+          "impact": "weakens Ukraine defenses and prolongs conflict risk",
           "sources": [
-            "https://www.reuters.com/world/china-opposes-us-fcc-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-22/",
-            "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-slams-us-ban-on-its-telecoms-access-to-american-phone-numbers",
-            "https://www.reuters.com/world/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers-2026-11-19/"
+            "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33",
+            "https://www.kyivpost.com/post/91035"
+          ]
+        },
+        {
+          "title": "South Korea air-raid alert after Russian jets approach",
+          "summary": "Several Russian military aircraft entered South Korea’s air defense zone and came close to Ulleung Island airspace, triggering a brief civilian shelter alert and fighter scrambles. No territorial breach occurred but Seoul protested diplomatically. It fits a pattern of Russian probing of NATO and partner airspace that keeps alliance tensions elevated.",
+          "sentiment": "Neutral",
+          "impact": "heightens Asia-Pacific military friction watch",
+          "sources": [
+            "https://en.yna.co.kr/view/AEN20261124002254315",
+            "https://apnews.com/article/south-north-korea-tensions-airspace-ulleung-island-a0347d1dda863d8189bbdf21c320ee3b",
+            "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
           ]
         }
       ]
